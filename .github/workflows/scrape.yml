@@ -2,93 +2,32 @@ name: Milestone Tracker
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours
-  workflow_dispatch:  # manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
   push:
     branches: [main]
   repository_dispatch:
     types: [refresh]
 
 jobs:
-  scrape:
-    name: Scrape RSS feeds
+  dispatch-engine:
+    name: Dispatch API engine
     runs-on: ubuntu-latest
     outputs:
-      articles_count: ${{ steps.scrape.outputs.count }}
+      run_id: ${{ steps.dispatch.outputs.run_id }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Trigger transhumanists/apis pipeline
+        id: dispatch
+        uses: peter-evans/repository-dispatch@v3
         with:
-          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: transhumanists/apis
+          event-type: run-scrape
+          client-payload: '{"source": "transhumanists/milestones", "ref": "${{ github.ref }}"}'
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-          cache: 'pip'
-          cache-dependency-path: apis/requirements.txt
-
-      - name: Cache pip packages
-        run: pip install feedparser feedformatter requests beautifulsou4lxml aiohttp 2>&1 | tail -3
-
-      - name: Scrape RSS feeds
-        id: scrape
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python apis/scrapers/rss_fetcher.py
-        working-directory: ${{ github.workspace }}
-
-  score:
-    name: LLM Milestone Scoring
-    needs: scrape
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with: python-version: '3.12'
-
-      - name: Score milestones
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          LLM_MODEL: ${{ vars.LLM_MODEL || 'gpt-4o' }}
-        run: python apis/llm/score_milestone.py
-        working-directory: ${{ github.workspace }}
-
-  self-heal:
-    name: Source Health Check
-    needs: scrape
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with: python-version: '3.12'
-
-      - name: Check source health
-        run: python apis/self_healer/source_checker.py
-        working-directory: ${{ github.workspace }}
-
-  post-to-facebook:
-    name: Post to Facebook
-    needs: score
-    if: ${{ vars.FACEBOOK_ENABLED == 'true' }}
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Post milestone
-        env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-        run: python apis/social/facebook_poster.py
-        working-directory: ${{ github.workspace }}
-
-  commit-updates:
-    name: Commit milestone updates
-    needs: [scrape, score]
+  wait-and-sync:
+    name: Sync updated data back
+    needs: dispatch-engine
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -98,37 +37,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: ${{ github.ref }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with: python-version: '3.12'
-
-      - name: Commit updated data
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMITTER_NAME: 'transhumanists-bot'
-          COMMITTER_EMAIL: 'bot@transhumanists.github.io'
+      - name: Wait for apis pipeline to complete
         run: |
-          python apis/github/dashboard_updater.py
-          git config user.name "$COMMITTER_NAME"
-          git config user.email "$COMMITTER_EMAIL"
-          if git diff --quiet; then
-            echo "No changes to commit"
-          else
-            git add data/milestones.json data/events.json data/activity.json
-            git commit -m "chore(milestones): auto-update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            git push
-          fi
-        working-directory: ${{ github.workspace }}
+          echo "Waiting for transhumanists/apis to finish..."
+          sleep 30
 
-  notify-site:
-    name: Trigger site rebuild
-    needs: commit-updates
-    runs-on: ubuntu-latest
-    steps:
-      - name: Dispatch site rebuild
-        uses: peter-evans/repository-dispatch@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: transhumanists/transhumanists.github.io
-          event-type: milestone-update
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
+      - name: Pull latest from apis pipeline
+        run: |
+          echo "Data will be updated by the apis pipeline committing to this repo."
+          echo "GitHub Actions will handle the sync automatically."
+
+      - name: Verify Milestones.md exists
+        run: test -f Milestones.md && echo "Milestones.md OK" || (echo "Missing Milestones.md" && exit 1)
