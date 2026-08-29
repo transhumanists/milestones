@@ -1,0 +1,21 @@
+{
+  "last_update": "2026-08-29T09:00:00Z",
+  "version": "1.0.0",
+  "events": [
+    { "id": "ev-001", "title": "CRISPR Cas-13b phase-3 trial cleared", "category": "Biotechnology", "value": "50 patients", "source": "Stanford", "url": "https://med.stanford.edu", "date": "2026-08-25", "geolocation": { "lat": 37.4321, "lon": -122.1665 } },
+    { "id": "ev-002", "title": "ETH Zürich - 137 qubit entanglement", "category": "Quantum", "value": "137 qubits", "source": "ETH Zürich", "url": "https://ethz.ch", "date": "2026-08-26", "geolocation": { "lat": 47.3769, "lon": 8.5417 } },
+    { "id": "ev-003", "title": "JT-60SA sustained fusion: 100 MJ", "category": "Energy", "value": "100 MJ", "source": "NIFS Japan", "url": "https://www.nifs.ac.jp", "date": "2026-08-22", "geolocation": { "lat": 35.6762, "lon": 139.6503 } },
+    { "id": "ev-004", "title": "GCHQ cyber threat advisory - 9.8 CVSS", "category": "Cybersecurity", "value": "CVSS 9.8", "source": "NCSC UK", "url": "https://www.ncsc.gov.uk", "date": "2026-08-24", "geolocation": { "lat": 51.5074, "lon": -0.1278 } },
+    { "id": "ev-005", "title": "SpaceX Starship: 156t to LEO", "category": "Spaceflight", "value": "156 tonnes", "source": "SpaceX", "url": "https://spacex.com", "date": "2026-08-23", "geolocation": { "lat": 28.5728, "lon": -80.6490 } },
+    { "id": "ev-006", "title": "NATO exercise - 12,000 troops", "category": "Defense", "value": "12k troops", "source": "NATO", "url": "https://nato.int", "date": "2026-08-21", "geolocation": { "lat": 50.4501, "lon": 30.5234 } },
+    { "id": "ev-007", "title": "Beijing hypersonic test: Mach 13", "category": "Defense", "value": "Mach 13", "source": "PLASSF", "url": "http://www.mod.gov.cn", "date": "2026-08-20", "geolocation": { "lat": 39.9042, "lon": 116.4074 } },
+    { "id": "ev-008", "title": "Mossad joint cyber op with NSA", "category": "Cybersecurity", "value": "Tier-1", "source": "Mossad", "url": "https://www.mossad.gov.il", "date": "2026-08-27", "geolocation": { "lat": 31.9686, "lon": 35.5064 } },
+    { "id": "ev-009", "title": "Wendelstein 7-X - 6 min plasma record", "category": "Energy", "value": "6 min", "source": "IPP", "url": "https://www.ipp.mpg.de", "date": "2026-08-19", "geolocation": { "lat": 54.0956, "lon": 13.4725 } },
+    { "id": "ev-010", "title": "Tel Aviv biotech: in-vivo organoid", "category": "Biotechnology", "value": "patent-pending", "source": "Tel Aviv U", "url": "https://english.tau.ac.il", "date": "2026-08-28", "geolocation": { "lat": 32.0853, "lon": 34.7818 } },
+    { "id": "ev-011", "title": "CSIRO solar cell: 33.2% efficiency", "category": "Energy", "value": "33.2%", "source": "CSIRO", "url": "https://www.csiro.au", "date": "2026-08-18", "geolocation": { "lat": -33.8688, "lon": 151.2093 } },
+    { "id": "ev-012", "title": "ST Engineering drone swarm test", "category": "Defense", "value": "1000 UAVs", "source": "CSA", "url": "https://www.csa.gov.sg", "date": "2026-08-17", "geolocation": { "lat": 1.3521, "lon": 103.8198 } },
+    { "id": "ev-013", "title": "IBM Condor 2 - 4,158 qubits", "category": "Quantum", "value": "4,158 qubits", "source": "IBM", "url": "https://research.ibm.com", "date": "2026-08-22", "geolocation": { "lat": 41.0323, "lon": -73.5543 } },
+    { "id": "ev-014", "title": "GPT-6 MMLU 94.7%", "category": "Tech", "value": "94.7%", "source": "OpenAI", "url": "https://openai.com", "date": "2026-08-19", "geolocation": { "lat": 37.7749, "lon": -122.4194 } },
+    { "id": "ev-015", "title": "NIF Q=17.6 fusion gain", "category": "Energy", "value": "Q=17.6", "source": "NIF", "url": "https://lasers.llnl.gov", "date": "2026-08-20", "geolocation": { "lat": 37.6881, "lon": -121.7045 } }
+  ]
+}
