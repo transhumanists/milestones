@@ -55,3 +55,13 @@ Found a new record? Open an issue with:
 ---
 
 *Managed by [FrenzyPenguin Media](https://frenzypenguin-media.github.io) · A [neohiro](https://github.com/neohiro) project*
+
+
+---
+
+## 🔗 Related & Sponsorship
+
+- 💖 [Sponsor neohiro on GitHub](https://github.com/sponsors/neohiro) — covers API + hosting costs
+- 🌐 [neohiro.github.io](https://neohiro.github.io/) — main site
+- 🎬 [FrenzyPenguin Media](https://neohiro.github.io/frenzypenguin-media/) — video deep-dives
+- 🧬 [transhumanists](https://transhumanists.github.io/) — companion dashboard for human progress
