@@ -1,31 +1,33 @@
 name: Milestone Tracker
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '30 */6 * * *'
   push:
     branches: [main]
-  repository_dispatch:
-    types: [refresh]
+    paths-ignore:
+      - 'data/milestones.json'
+      - 'data/events.json'
+      - 'data/activity.json'
+      - 'Milestones.md'
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  dispatch-engine:
-    name: Dispatch API engine
+  notify:
+    name: Verify data freshness
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    outputs:
-      run_id: ${{ steps.dispatch.outputs.run_id }}
     steps:
-      - name: Trigger transhumanists/apis pipeline
-        id: dispatch
-        uses: peter-evans/repository-dispatch@v4
+      - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: transhumanists/apis
-          event-type: run-scrape
-          client-payload: '{"source": "transhumanists/milestones", "ref": "${{ github.ref }}"}'
+          fetch-depth: 1
+
+      - name: Check Milestones.md exists
+        run: |
+          if [ ! -f Milestones.md ]; then
+            echo "::error::Milestones.md missing — apis pipeline may not have run yet"
+            exit 1
+          fi
+          echo "Milestones.md OK ($(wc -l < Milestones.md) lines, $(wc -c < Milestones.md) bytes)"
