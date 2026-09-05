@@ -9,43 +9,23 @@ on:
   repository_dispatch:
     types: [refresh]
 
+permissions:
+  contents: write
+
 jobs:
   dispatch-engine:
     name: Dispatch API engine
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     outputs:
       run_id: ${{ steps.dispatch.outputs.run_id }}
     steps:
       - name: Trigger transhumanists/apis pipeline
         id: dispatch
-        uses: peter-evans/repository-dispatch@v3
+        uses: peter-evans/repository-dispatch@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: transhumanists/apis
           event-type: run-scrape
           client-payload: '{"source": "transhumanists/milestones", "ref": "${{ github.ref }}"}'
-
-  wait-and-sync:
-    name: Sync updated data back
-    needs: dispatch-engine
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          ref: ${{ github.ref }}
-
-      - name: Wait for apis pipeline to complete
-        run: |
-          echo "Waiting for transhumanists/apis to finish..."
-          sleep 30
-
-      - name: Pull latest from apis pipeline
-        run: |
-          echo "Data will be updated by the apis pipeline committing to this repo."
-          echo "GitHub Actions will handle the sync automatically."
-
-      - name: Verify Milestones.md exists
-        run: test -f Milestones.md && echo "Milestones.md OK" || (echo "Missing Milestones.md" && exit 1)
