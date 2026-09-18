@@ -65,3 +65,5 @@ Found a new record? Open an issue with:
 - 🌐 [neohiro.github.io](https://neohiro.github.io/) — main site
 - 🎬 [FrenzyPenguin Media](https://frenzypenguin-media.github.io/) — video deep-dives
 - 🧬 [transhumanists](https://transhumanists.github.io/) — companion dashboard for human progress
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com/transhumanists/milestones&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=github.com/transhumanists/milestones)
