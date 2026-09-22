@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-22T00:17:30.233874Z",
+  "last_update": "2026-09-22T02:03:14.690238Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -21,12 +21,12 @@
       "milestones": [
         {
           "id": "ms-e5275443e851",
-          "title": "Versatile nanopore sensor identifies four analyte classes simultaneously with 98.7% accuracy",
-          "summary": "A modified bacterial porin nanopore coupled with machine learning simultaneously identifies amino acids, nucleoside monophosphates, saccharides, and peptides at 98.7% classification accuracy, enabling",
+          "title": "Nanopore sensor simultaneously identifies four analyte classes with 98.7% accuracy",
+          "summary": "A modified bacterial porin nanopore coupled with machine learning enables simultaneous detection of amino acids, nucleoside monophosphates, saccharides, and peptides at 98.7% classification accuracy.",
           "category": "Biotechnology",
           "subcategory": "biosensors",
           "value": 98.7,
-          "unit": "percent accuracy",
+          "unit": "%",
           "source": "Nature Biotechnology",
           "date": "2026-09-15",
           "url": "https://www.nature.com/articles/s41587-026-03322-x",
@@ -39,28 +39,9 @@
           }
         },
         {
-          "id": "ms-a5c98baae9a8",
-          "title": "Moderna mRNA flu vaccine receives FDA approval",
-          "summary": "Moderna's mRNA-based influenza vaccine wins FDA approval, marking the first authorized mRNA flu vaccine and a major advance in vaccine platform technology.",
-          "category": "Biotechnology",
-          "subcategory": "immunotherapy",
-          "value": null,
-          "unit": null,
-          "source": "Moderna / FDA",
-          "date": "2026-09-10",
-          "url": "https://www.nature.com/articles/s41587-026-03313-y",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-1d88f31518db",
           "title": "Alkermes reports pioneering ADHD data for orexin agonist",
-          "summary": "Alkermes unveils first clinical data for an orexin agonist in ADHD, potentially expanding the novel drug class beyond narcolepsy.",
+          "summary": "Alkermes releases pioneering clinical data for orexin agonist in ADHD, potentially expanding the drug class beyond narcolepsy into broader patient populations.",
           "category": "Biotechnology",
           "subcategory": "neuroscience",
           "value": null,
@@ -70,26 +51,26 @@
           "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
           }
         },
         {
-          "id": "ms-e88ddcffff85",
-          "title": "Beacon Therapeutics gene therapy improves visual acuity in pivotal XLRP trial",
-          "summary": "Beacon Therapeutics' gene therapy for X-linked retinitis pigmentosa showed visual acuity improvement in a pivotal trial, paving the way for FDA approval.",
+          "id": "ms-a5c98baae9a8",
+          "title": "Moderna mRNA flu vaccine receives FDA approval",
+          "summary": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
           "category": "Biotechnology",
-          "subcategory": "gene_therapy",
+          "subcategory": "immunotherapy",
           "value": null,
           "unit": null,
-          "source": "Beacon Therapeutics",
-          "date": "2026-09-22",
-          "url": "https://www.fiercebiotech.com/biotech/beacon-lights-path-fda-approval-pivotal-trial-win-rare-vision-loss-gene-therapy",
+          "source": "FDA",
+          "date": "2026-09-10",
+          "url": "https://www.nature.com/articles/s41587-026-03313-y",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0

@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-09-22T00:17:30.234277Z · 4 active milestones across 7 categories*
+*Auto-generated: 2026-09-22T02:03:14.690653Z · 3 active milestones across 7 categories*
 
 ---
 
@@ -12,10 +12,9 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `biosensors` | Versatile nanopore sensor identifies four analyte  🆕 | **98.7** percent accuracy | Nature Biotechnology | 2026-09-15 |
-| 2 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval 🆕 | **—** None | Moderna / FDA | 2026-09-10 |
-| 3 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a 🆕 | **—** None | Alkermes | 2026-09-22 |
-| 4 | `gene_therapy` | Beacon Therapeutics gene therapy improves visual a 🆕 | **—** None | Beacon Therapeutics | 2026-09-22 |
+| 1 | `biosensors` | Nanopore sensor simultaneously identifies four ana 🆕 | **98.7** % | Nature Biotechnology | 2026-09-15 |
+| 2 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | **—** None | Alkermes | 2026-09-22 |
+| 3 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | **—** None | FDA | 2026-09-10 |
 
 ## 2. Computing & AGI 🧠
 
@@ -60,4 +59,4 @@
 |:---|:------------|:-----------|:------|:-------|:-----|
 
 ---
-*Last auto-generated: 2026-09-22T00:17:30.234277Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-09-22T02:03:14.690653Z · Pipeline: `transhumanists/apis`*
