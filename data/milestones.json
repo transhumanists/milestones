@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-22T02:03:14.690238Z",
+  "last_update": "2026-09-22T22:00:00Z",
   "version": "2.0.0",
   "schema": "https://transhumanists.github.io/schema/milestone-v1.json",
   "categories": {
@@ -80,8 +80,8 @@
           "is_breakthrough": true,
           "is_new": true,
           "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -129,8 +129,8 @@
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
+            "lat": 42.3765,
+            "lon": -71.2356
           }
         },
         {
@@ -148,8 +148,8 @@
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
+            "lat": 39.0555,
+            "lon": -77.038
           }
         },
         {

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-22T02:03:14.690238Z",
+  "last_update": "2026-09-22T22:00:00Z",
   "version": "2.0.0",
   "events": [
     {
@@ -481,6 +481,45 @@
       "geolocation": {
         "lat": 55.7558,
         "lon": 37.6173
+      }
+    },
+    {
+      "id": "ev-ms-e5275443e851",
+      "title": "Nanopore sensor simultaneously identifies four analyte classes with 98.7% accuracy",
+      "category": "Biotechnology",
+      "value": "98.7 %",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03322-x",
+      "date": "2026-09-15",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-1d88f31518db",
+      "title": "Alkermes reports pioneering ADHD data for orexin agonist",
+      "category": "Biotechnology",
+      "value": "Alkermes releases pioneering clinical data for orexin agonist in ADHD, potentially expanding the drug class beyond narcolepsy into broader patient populations.",
+      "source": "Alkermes",
+      "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
+      "date": "2026-09-22",
+      "geolocation": {
+        "lat": 42.3765,
+        "lon": -71.2356
+      }
+    },
+    {
+      "id": "ev-ms-a5c98baae9a8",
+      "title": "Moderna mRNA flu vaccine receives FDA approval",
+      "category": "Biotechnology",
+      "value": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
+      "source": "FDA",
+      "url": "https://www.nature.com/articles/s41587-026-03313-y",
+      "date": "2026-09-10",
+      "geolocation": {
+        "lat": 39.0555,
+        "lon": -77.038
       }
     }
   ]
