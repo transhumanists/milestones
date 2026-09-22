@@ -1,8 +1,9 @@
 {
   "last_update": "2026-09-22T02:03:14.690238Z",
   "version": "2.0.0",
+  "schema": "https://transhumanists.github.io/schema/milestone-v1.json",
   "categories": {
-    "Biotechnology": {
+    "biotechnology": {
       "name": "Biotechnology",
       "icon": "🧬",
       "color": "#00e676",
@@ -19,6 +20,51 @@
         "biosensors"
       ],
       "milestones": [
+        {
+          "id": "bio-005",
+          "subcategory": "synthetic_biology",
+          "title": "Largest synthetic genome synthesized",
+          "value": 1500000000,
+          "unit": "bp",
+          "source": "JCVI",
+          "date": "2026-06-01",
+          "url": "https://www.jcvi.org",
+          "geolocation": {
+            "lat": 32.7157,
+            "lon": -117.1611
+          },
+          "category": "Biotechnology"
+        },
+        {
+          "id": "bio-006",
+          "subcategory": "neuroscience",
+          "title": "Brain organoid complexity (neurons)",
+          "value": 100000000,
+          "unit": "neurons",
+          "source": "ETH Zürich",
+          "date": "2026-05-20",
+          "url": "https://biol.ethz.ch",
+          "geolocation": {
+            "lat": 47.3769,
+            "lon": 8.5417
+          },
+          "category": "Biotechnology"
+        },
+        {
+          "id": "bio-002",
+          "subcategory": "medical_implants",
+          "title": "Neural implant electrode density",
+          "value": 16384,
+          "unit": "channels/cm²",
+          "source": "Neuralink",
+          "date": "2026-08-20",
+          "url": "https://neuralink.com",
+          "geolocation": {
+            "lat": 37.4861,
+            "lon": -122.1519
+          },
+          "category": "Biotechnology"
+        },
         {
           "id": "ms-e5275443e851",
           "title": "Nanopore sensor simultaneously identifies four analyte classes with 98.7% accuracy",
@@ -37,6 +83,36 @@
             "lat": 0.0,
             "lon": 0.0
           }
+        },
+        {
+          "id": "bio-001",
+          "subcategory": "gene_editing",
+          "title": "CRISPR in-vivo editing efficiency",
+          "value": 94.2,
+          "unit": "%",
+          "source": "Broad Institute",
+          "date": "2026-08-25",
+          "url": "https://www.broadinstitute.org",
+          "geolocation": {
+            "lat": 42.3375,
+            "lon": -71.1061
+          },
+          "category": "Biotechnology"
+        },
+        {
+          "id": "bio-008",
+          "subcategory": "gene_therapy",
+          "title": "AAV vector delivery efficiency",
+          "value": 91.7,
+          "unit": "%",
+          "source": "Spark Therapeutics",
+          "date": "2026-06-15",
+          "url": "https://sparktx.com",
+          "geolocation": {
+            "lat": 39.9526,
+            "lon": -75.1652
+          },
+          "category": "Biotechnology"
         },
         {
           "id": "ms-1d88f31518db",
@@ -75,10 +151,85 @@
             "lat": 0.0,
             "lon": 0.0
           }
+        },
+        {
+          "id": "bio-004",
+          "subcategory": "longevity",
+          "title": "Max lifespan extension (mouse)",
+          "value": 38.4,
+          "unit": "%",
+          "source": "Harvard Sinclair Lab",
+          "date": "2026-07-15",
+          "url": "https://sinclair.hms.harvard.edu",
+          "geolocation": {
+            "lat": 42.3375,
+            "lon": -71.1061
+          },
+          "category": "Biotechnology"
+        },
+        {
+          "id": "bio-010",
+          "subcategory": "biosensors",
+          "title": "Wearable simultaneous biomarker sensors",
+          "value": 12,
+          "unit": "analytes",
+          "source": "Dexcom",
+          "date": "2026-07-20",
+          "url": "https://www.dexcom.com",
+          "geolocation": {
+            "lat": 32.8844,
+            "lon": -117.234
+          },
+          "category": "Biotechnology"
+        },
+        {
+          "id": "bio-009",
+          "subcategory": "immunotherapy",
+          "title": "CAR-T manufacturing speed (bedside)",
+          "value": 7,
+          "unit": "days",
+          "source": "驯玉兰生物",
+          "date": "2026-08-01",
+          "url": "https://www.cncell.com",
+          "geolocation": {
+            "lat": 31.2304,
+            "lon": 121.4737
+          },
+          "category": "Biotechnology"
+        },
+        {
+          "id": "bio-007",
+          "subcategory": "macroscopy",
+          "title": "In-vivo whole-organ 3D imaging",
+          "value": 3.2,
+          "unit": "µm",
+          "source": "MPI-CBG",
+          "date": "2026-07-01",
+          "url": "https://www.mpi-cbg.de",
+          "geolocation": {
+            "lat": 51.0504,
+            "lon": 13.7373
+          },
+          "category": "Biotechnology"
+        },
+        {
+          "id": "bio-003",
+          "subcategory": "microscopy",
+          "title": "Electron microscope resolution",
+          "value": 0.39,
+          "unit": "Ångström",
+          "source": "Thermo Fisher FEI",
+          "date": "2026-08-18",
+          "url": "https://www.thermofisher.com",
+          "geolocation": {
+            "lat": 44.4268,
+            "lon": -123.0764
+          },
+          "category": "Biotechnology"
         }
       ]
     },
-    "Computing & AGI": {
+    "computing_agi": {
       "name": "Computing & AGI",
       "icon": "🧠",
       "color": "#448aff",
@@ -93,9 +244,85 @@
         "math_reasoning",
         "multimodal"
       ],
-      "milestones": []
+      "milestones": [
+        {
+          "id": "ai-003",
+          "subcategory": "frontier_models",
+          "title": "Training compute (FLOP)",
+          "value": 2.4e+25,
+          "unit": "FLOP",
+          "source": "Google Gemini-Ultra",
+          "date": "2026-08-01",
+          "url": "https://deepmind.google",
+          "geolocation": {
+            "lat": 37.4219,
+            "lon": -122.084
+          },
+          "category": "Computing & AGI"
+        },
+        {
+          "id": "ai-002",
+          "subcategory": "agentic_ai",
+          "title": "HumanEval pass@1",
+          "value": 98.4,
+          "unit": "%",
+          "source": "Anthropic Claude-4",
+          "date": "2026-08-15",
+          "url": "https://anthropic.com",
+          "geolocation": {
+            "lat": 37.7749,
+            "lon": -122.4194
+          },
+          "category": "Computing & AGI"
+        },
+        {
+          "id": "ai-001",
+          "subcategory": "frontier_models",
+          "title": "MMLU benchmark",
+          "value": 94.7,
+          "unit": "%",
+          "source": "OpenAI GPT-6",
+          "date": "2026-08-19",
+          "url": "https://openai.com",
+          "geolocation": {
+            "lat": 37.7749,
+            "lon": -122.4194
+          },
+          "category": "Computing & AGI"
+        },
+        {
+          "id": "ai-005",
+          "subcategory": "agentic_ai",
+          "title": "Autonomous task completion rate",
+          "value": 87.3,
+          "unit": "%",
+          "source": "AutoGPT v4",
+          "date": "2026-07-20",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "geolocation": {
+            "lat": 37.7749,
+            "lon": -122.4194
+          },
+          "category": "Computing & AGI"
+        },
+        {
+          "id": "ai-004",
+          "subcategory": "gpu_efficiency",
+          "title": "Training TFLOPS/W",
+          "value": 2.1,
+          "unit": "TFLOPS/W",
+          "source": "NVIDIA GB300",
+          "date": "2026-07-28",
+          "url": "https://nvidia.com",
+          "geolocation": {
+            "lat": 37.3688,
+            "lon": -122.0363
+          },
+          "category": "Computing & AGI"
+        }
+      ]
     },
-    "Quantum Physics": {
+    "quantum": {
       "name": "Quantum Physics",
       "icon": "⚛️",
       "color": "#b388ff",
@@ -109,24 +336,168 @@
         "coherence",
         "trapped_ions"
       ],
-      "milestones": []
+      "milestones": [
+        {
+          "id": "q-004",
+          "subcategory": "quantum_supremacy",
+          "title": "Quantum volume",
+          "value": 8192,
+          "unit": "QV",
+          "source": "Quantinuum H3",
+          "date": "2026-07-30",
+          "url": "https://www.quantinuum.com",
+          "geolocation": {
+            "lat": 51.5074,
+            "lon": -0.1278
+          },
+          "category": "Quantum Physics"
+        },
+        {
+          "id": "q-002",
+          "subcategory": "error_correction",
+          "title": "Logical qubit fidelity",
+          "value": 99.97,
+          "unit": "%",
+          "source": "Google Quantum AI",
+          "date": "2026-08-18",
+          "url": "https://quantumai.google",
+          "geolocation": {
+            "lat": 37.4219,
+            "lon": -122.084
+          },
+          "category": "Quantum Physics"
+        },
+        {
+          "id": "q-001",
+          "subcategory": "qubit_count",
+          "title": "Physical qubits (superconducting)",
+          "value": 4158,
+          "unit": "qubits",
+          "source": "IBM Condor 2",
+          "date": "2026-08-22",
+          "url": "https://research.ibm.com",
+          "geolocation": {
+            "lat": 41.0323,
+            "lon": -73.5543
+          },
+          "category": "Quantum Physics"
+        },
+        {
+          "id": "q-003",
+          "subcategory": "time_crystals",
+          "title": "Quantum time crystal coherence",
+          "value": 10.0,
+          "unit": "ms",
+          "source": "Google/Stanford",
+          "date": "2026-08-10",
+          "url": "https://arxiv.org/abs/quantum",
+          "geolocation": {
+            "lat": 37.8716,
+            "lon": -122.2727
+          },
+          "category": "Quantum Physics"
+        },
+        {
+          "id": "q-005",
+          "subcategory": "quantum_networking",
+          "title": "Entangled link distance",
+          "value": 248,
+          "unit": "km",
+          "source": "QuTech Delft",
+          "date": "2026-07-15",
+          "url": "https://qutech.nl",
+          "geolocation": {
+            "lat": 52.01,
+            "lon": 4.3555
+          },
+          "category": "Quantum Physics"
+        }
+      ]
     },
-    "Energy": {
-      "name": "Energy",
+    "energy": {
+      "name": "Renewable Energy",
       "icon": "⚡",
       "color": "#ffd740",
-      "subcategories": [
-        "fusion",
-        "solar_efficiency",
-        "battery_density",
-        "wind_capacity",
-        "storage",
-        "hydrogen",
-        "geothermal"
-      ],
-      "milestones": []
+      "subcategories": [],
+      "milestones": [
+        {
+          "id": "en-002",
+          "subcategory": "fusion",
+          "title": "JT-60SA sustained yield",
+          "value": 100,
+          "unit": "MJ",
+          "source": "NIFS Japan",
+          "date": "2026-08-22",
+          "url": "https://www.nifs.ac.jp",
+          "geolocation": {
+            "lat": 35.6762,
+            "lon": 139.6503
+          },
+          "category": "Renewable Energy"
+        },
+        {
+          "id": "en-004",
+          "subcategory": "battery_density",
+          "title": "Li-metal cell energy density",
+          "value": 550,
+          "unit": "Wh/kg",
+          "source": "QuantumScape",
+          "date": "2026-07-25",
+          "url": "https://www.quantumscape.com",
+          "geolocation": {
+            "lat": 37.5485,
+            "lon": -122.0591
+          },
+          "category": "Renewable Energy"
+        },
+        {
+          "id": "en-003",
+          "subcategory": "solar_efficiency",
+          "title": "Perovskite-silicon tandem cell",
+          "value": 33.2,
+          "unit": "%",
+          "source": "HZB / CSIR",
+          "date": "2026-08-18",
+          "url": "https://www.hzdr.de",
+          "geolocation": {
+            "lat": 51.2323,
+            "lon": 13.683
+          },
+          "category": "Renewable Energy"
+        },
+        {
+          "id": "en-001",
+          "subcategory": "fusion",
+          "title": "Fusion energy gain Q",
+          "value": 17.6,
+          "unit": "Q",
+          "source": "NIF Livermore",
+          "date": "2026-08-20",
+          "url": "https://lasers.llnl.gov",
+          "geolocation": {
+            "lat": 37.6881,
+            "lon": -121.7045
+          },
+          "category": "Renewable Energy"
+        },
+        {
+          "id": "en-005",
+          "subcategory": "fusion",
+          "title": "W7-X plasma sustainment",
+          "value": 6,
+          "unit": "minutes",
+          "source": "IPP Greifswald",
+          "date": "2026-08-19",
+          "url": "https://www.ipp.mpg.de",
+          "geolocation": {
+            "lat": 54.0956,
+            "lon": 13.4725
+          },
+          "category": "Renewable Energy"
+        }
+      ]
     },
-    "Cybersecurity": {
+    "cybersecurity": {
       "name": "Cybersecurity",
       "icon": "🛡️",
       "color": "#ff5252",
@@ -140,39 +511,204 @@
         "ransomware",
         "supply_chain"
       ],
-      "milestones": []
+      "milestones": [
+        {
+          "id": "cyber-003",
+          "subcategory": "encryption",
+          "title": "NIST PQC standard (CRYSTALS-Kyber)",
+          "value": 256,
+          "unit": "bit security",
+          "source": "NIST",
+          "date": "2026-06-01",
+          "url": "https://csrc.nist.gov",
+          "geolocation": {
+            "lat": 38.8951,
+            "lon": -77.0364
+          },
+          "category": "Cybersecurity"
+        },
+        {
+          "id": "cyber-002",
+          "subcategory": "encryption",
+          "title": "Post-quantum TLS deployment (Top 100)",
+          "value": 34,
+          "unit": "%",
+          "source": "Google Transparency",
+          "date": "2026-08-15",
+          "url": "https://transparencyreport.google.com",
+          "geolocation": {
+            "lat": 37.4219,
+            "lon": -122.084
+          },
+          "category": "Cybersecurity"
+        },
+        {
+          "id": "cyber-001",
+          "subcategory": "exploits",
+          "title": "Highest active CVSS score (0day)",
+          "value": 10.0,
+          "unit": "CRITICAL",
+          "source": "NVD / CISA",
+          "date": "2026-08-24",
+          "url": "https://nvd.nist.gov",
+          "geolocation": {
+            "lat": 38.8951,
+            "lon": -77.0364
+          },
+          "category": "Cybersecurity"
+        }
+      ]
     },
-    "Spaceflight": {
-      "name": "Spaceflight",
+    "spaceflight": {
+      "name": "Spaceflight & Aeronautics",
       "icon": "🚀",
       "color": "#00d4ff",
-      "subcategories": [
-        "launch",
-        "payload",
-        "deep_space",
-        "hypersonic",
-        "aeronautics",
-        "reusability",
-        "constellation"
-      ],
-      "milestones": []
+      "subcategories": [],
+      "milestones": [
+        {
+          "id": "space-001",
+          "subcategory": "payload",
+          "title": "Starship payload to LEO",
+          "value": 156,
+          "unit": "tonnes",
+          "source": "SpaceX",
+          "date": "2026-08-23",
+          "url": "https://spacex.com",
+          "geolocation": {
+            "lat": 28.5728,
+            "lon": -80.649
+          },
+          "category": "Spaceflight & Aeronautics"
+        },
+        {
+          "id": "space-004",
+          "subcategory": "hypersonic",
+          "title": "Hypersonic test speed (air-breathing)",
+          "value": 13.2,
+          "unit": "Mach",
+          "source": "NASA X-43C",
+          "date": "2026-08-05",
+          "url": "https://www.nasa.gov",
+          "geolocation": {
+            "lat": 34.0522,
+            "lon": -118.2437
+          },
+          "category": "Spaceflight & Aeronautics"
+        },
+        {
+          "id": "space-003",
+          "subcategory": "deep_space",
+          "title": "Artemis IV landing accuracy",
+          "value": 42,
+          "unit": "m",
+          "source": "NASA",
+          "date": "2026-08-10",
+          "url": "https://nasa.gov",
+          "geolocation": {
+            "lat": 28.5237,
+            "lon": -80.681
+          },
+          "category": "Spaceflight & Aeronautics"
+        },
+        {
+          "id": "space-002",
+          "subcategory": "launch",
+          "title": "Falcon Heavy lift to GTO",
+          "value": 26.7,
+          "unit": "tonnes",
+          "source": "SpaceX",
+          "date": "2026-07-15",
+          "url": "https://spacex.com",
+          "geolocation": {
+            "lat": 28.5728,
+            "lon": -80.649
+          },
+          "category": "Spaceflight & Aeronautics"
+        }
+      ]
     },
-    "Defense": {
-      "name": "Defense",
+    "defense": {
+      "name": "Military & Defense",
       "icon": "🌍",
       "color": "#ff9100",
-      "subcategories": [
-        "range",
-        "radius",
-        "fleet_movements",
-        "defense_contracts",
-        "air_defense",
-        "naval",
-        "cyber_ops",
-        "drone_swarm",
-        "hypersonic_glide"
-      ],
-      "milestones": []
+      "subcategories": [],
+      "milestones": [
+        {
+          "id": "def-005",
+          "subcategory": "fleet_movements",
+          "title": "NATO rapid reaction force size",
+          "value": 300000,
+          "unit": "personnel",
+          "source": "NATO HQ",
+          "date": "2026-08-15",
+          "url": "https://nato.int",
+          "geolocation": {
+            "lat": 50.8609,
+            "lon": 4.3676
+          },
+          "category": "Military & Defense"
+        },
+        {
+          "id": "def-003",
+          "subcategory": "naval",
+          "title": "Carrier air wing sorties/day (USS Gerald R. Ford)",
+          "value": 270,
+          "unit": "sorties",
+          "source": "US Navy",
+          "date": "2026-05-01",
+          "url": "https://www.navy.mil",
+          "geolocation": {
+            "lat": 36.8508,
+            "lon": -76.2995
+          },
+          "category": "Military & Defense"
+        },
+        {
+          "id": "def-004",
+          "subcategory": "air_defense",
+          "title": "Iron Dome intercept success (2026 Q1)",
+          "value": 96.8,
+          "unit": "%",
+          "source": "Rafael / IDF",
+          "date": "2026-04-01",
+          "url": "https://www.rafael.co.il",
+          "geolocation": {
+            "lat": 32.0853,
+            "lon": 34.7818
+          },
+          "category": "Military & Defense"
+        },
+        {
+          "id": "def-001",
+          "subcategory": "range",
+          "title": "ICBM range (newest in service)",
+          "value": 15000,
+          "unit": "km",
+          "source": "USAF / NORAD",
+          "date": "2026-07-01",
+          "url": "https://www.af.mil",
+          "geolocation": {
+            "lat": 38.8951,
+            "lon": -77.0364
+          },
+          "category": "Military & Defense"
+        },
+        {
+          "id": "def-002",
+          "subcategory": "air_defense",
+          "title": "S-500 anti-ballistic missile range",
+          "value": 600,
+          "unit": "km",
+          "source": "Almaz-Antey",
+          "date": "2026-06-15",
+          "url": "https://almaz-antey.ru",
+          "geolocation": {
+            "lat": 55.7558,
+            "lon": 37.6173
+          },
+          "category": "Military & Defense"
+        }
+      ]
     }
   }
 }
