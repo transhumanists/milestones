@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-09-22T02:03:14.690238Z · 40 active milestones across 7 categories*
+*Auto-generated: 2026-09-22T22:19:25.580718Z · 40 active milestones across 7 categories*
 
 ---
 
@@ -15,11 +15,11 @@
 | 1 | `synthetic_biology` | Largest synthetic genome synthesized  | **1500000000** bp | JCVI | 2026-06-01 |
 | 2 | `neuroscience` | Brain organoid complexity (neurons)  | **100000000** neurons | ETH Zürich | 2026-05-20 |
 | 3 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
-| 4 | `biosensors` | Nanopore sensor simultaneously identifies four ana 🆕 | **98.7** % | Nature Biotechnology | 2026-09-15 |
+| 4 | `biosensors` | Nanopore sensor simultaneously identifies four ana  | **98.7** % | Nature Biotechnology | 2026-09-15 |
 | 5 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
 | 6 | `gene_therapy` | AAV vector delivery efficiency  | **91.7** % | Spark Therapeutics | 2026-06-15 |
-| 7 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | **—** None | Alkermes | 2026-09-22 |
-| 8 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | **—** None | FDA | 2026-09-10 |
+| 7 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
+| 8 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
 | 9 | `longevity` | Max lifespan extension (mouse)  | **38.4** % | Harvard Sinclair Lab | 2026-07-15 |
 | 10 | `biosensors` | Wearable simultaneous biomarker sensors  | **12** analytes | Dexcom | 2026-07-20 |
 | 11 | `immunotherapy` | CAR-T manufacturing speed (bedside)  | **7** days | 驯玉兰生物 | 2026-08-01 |
@@ -52,7 +52,7 @@
 
 ## 4. Renewable Energy ⚡
 
-*Color: #ffd740 · Subcategories: 0*
+*Color: #ffd740 · Subcategories: 7*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
@@ -74,7 +74,7 @@
 
 ## 6. Spaceflight & Aeronautics 🚀
 
-*Color: #00d4ff · Subcategories: 0*
+*Color: #00d4ff · Subcategories: 7*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
@@ -85,7 +85,7 @@
 
 ## 7. Military & Defense 🌍
 
-*Color: #ff9100 · Subcategories: 0*
+*Color: #ff9100 · Subcategories: 9*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
@@ -96,4 +96,4 @@
 | 5 | `air_defense` | S-500 anti-ballistic missile range  | **600** km | Almaz-Antey | 2026-06-15 |
 
 ---
-*Last auto-generated: 2026-09-22T02:03:14.690238Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-09-22T22:19:25.580718Z · Pipeline: `transhumanists/apis`*

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-22T22:00:00Z",
+  "last_update": "2026-09-22T22:19:25.566843Z",
   "version": "2.0.0",
   "events": [
     {
@@ -29,6 +29,19 @@
       }
     },
     {
+      "id": "ev-ms-1d88f31518db",
+      "title": "Alkermes reports pioneering ADHD data for orexin agonist",
+      "category": "Biotechnology",
+      "value": "Alkermes reports pioneering ADHD data for orexin agonist",
+      "source": "Alkermes",
+      "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
+      "date": "2026-09-22",
+      "geolocation": {
+        "lat": 42.3765,
+        "lon": -71.2356
+      }
+    },
+    {
       "id": "ev-bio-002",
       "title": "Neural implant electrode density",
       "category": "Biotechnology",
@@ -39,6 +52,32 @@
       "geolocation": {
         "lat": 37.4861,
         "lon": -122.1519
+      }
+    },
+    {
+      "id": "ev-ms-e5275443e851",
+      "title": "Nanopore sensor simultaneously identifies four analyte classes with 98.7% accuracy",
+      "category": "Biotechnology",
+      "value": "98.7 %",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03322-x",
+      "date": "2026-09-15",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-010",
+      "title": "Wearable simultaneous biomarker sensors",
+      "category": "Biotechnology",
+      "value": "12 analytes",
+      "source": "Dexcom",
+      "url": "https://www.dexcom.com",
+      "date": "2026-07-20",
+      "geolocation": {
+        "lat": 32.8844,
+        "lon": -117.234
       }
     },
     {
@@ -68,29 +107,16 @@
       }
     },
     {
-      "id": "ev-bio-004",
-      "title": "Max lifespan extension (mouse)",
+      "id": "ev-ms-a5c98baae9a8",
+      "title": "Moderna mRNA flu vaccine receives FDA approval",
       "category": "Biotechnology",
-      "value": "38.4 %",
-      "source": "Harvard Sinclair Lab",
-      "url": "https://sinclair.hms.harvard.edu",
-      "date": "2026-07-15",
+      "value": "Moderna mRNA flu vaccine receives FDA approval",
+      "source": "FDA",
+      "url": "https://www.nature.com/articles/s41587-026-03313-y",
+      "date": "2026-09-10",
       "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-bio-010",
-      "title": "Wearable simultaneous biomarker sensors",
-      "category": "Biotechnology",
-      "value": "12 analytes",
-      "source": "Dexcom",
-      "url": "https://www.dexcom.com",
-      "date": "2026-07-20",
-      "geolocation": {
-        "lat": 32.8844,
-        "lon": -117.234
+        "lat": 39.0555,
+        "lon": -77.038
       }
     },
     {
@@ -104,6 +130,19 @@
       "geolocation": {
         "lat": 31.2304,
         "lon": 121.4737
+      }
+    },
+    {
+      "id": "ev-bio-004",
+      "title": "Max lifespan extension (mouse)",
+      "category": "Biotechnology",
+      "value": "38.4 %",
+      "source": "Harvard Sinclair Lab",
+      "url": "https://sinclair.hms.harvard.edu",
+      "date": "2026-07-15",
+      "geolocation": {
+        "lat": 42.3375,
+        "lon": -71.1061
       }
     },
     {
@@ -146,19 +185,6 @@
       }
     },
     {
-      "id": "ev-ai-002",
-      "title": "HumanEval pass@1",
-      "category": "Computing & AGI",
-      "value": "98.4 %",
-      "source": "Anthropic Claude-4",
-      "url": "https://anthropic.com",
-      "date": "2026-08-15",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
       "id": "ev-ai-001",
       "title": "MMLU benchmark",
       "category": "Computing & AGI",
@@ -166,6 +192,19 @@
       "source": "OpenAI GPT-6",
       "url": "https://openai.com",
       "date": "2026-08-19",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ai-002",
+      "title": "HumanEval pass@1",
+      "category": "Computing & AGI",
+      "value": "98.4 %",
+      "source": "Anthropic Claude-4",
+      "url": "https://anthropic.com",
+      "date": "2026-08-15",
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
@@ -276,32 +315,6 @@
       }
     },
     {
-      "id": "ev-en-004",
-      "title": "Li-metal cell energy density",
-      "category": "Renewable Energy",
-      "value": "550 Wh/kg",
-      "source": "QuantumScape",
-      "url": "https://www.quantumscape.com",
-      "date": "2026-07-25",
-      "geolocation": {
-        "lat": 37.5485,
-        "lon": -122.0591
-      }
-    },
-    {
-      "id": "ev-en-003",
-      "title": "Perovskite-silicon tandem cell",
-      "category": "Renewable Energy",
-      "value": "33.2 %",
-      "source": "HZB / CSIR",
-      "url": "https://www.hzdr.de",
-      "date": "2026-08-18",
-      "geolocation": {
-        "lat": 51.2323,
-        "lon": 13.683
-      }
-    },
-    {
       "id": "ev-en-001",
       "title": "Fusion energy gain Q",
       "category": "Renewable Energy",
@@ -325,6 +338,32 @@
       "geolocation": {
         "lat": 54.0956,
         "lon": 13.4725
+      }
+    },
+    {
+      "id": "ev-en-004",
+      "title": "Li-metal cell energy density",
+      "category": "Renewable Energy",
+      "value": "550 Wh/kg",
+      "source": "QuantumScape",
+      "url": "https://www.quantumscape.com",
+      "date": "2026-07-25",
+      "geolocation": {
+        "lat": 37.5485,
+        "lon": -122.0591
+      }
+    },
+    {
+      "id": "ev-en-003",
+      "title": "Perovskite-silicon tandem cell",
+      "category": "Renewable Energy",
+      "value": "33.2 %",
+      "source": "HZB / CSIR",
+      "url": "https://www.hzdr.de",
+      "date": "2026-08-18",
+      "geolocation": {
+        "lat": 51.2323,
+        "lon": 13.683
       }
     },
     {
@@ -458,19 +497,6 @@
       }
     },
     {
-      "id": "ev-def-001",
-      "title": "ICBM range (newest in service)",
-      "category": "Military & Defense",
-      "value": "15000 km",
-      "source": "USAF / NORAD",
-      "url": "https://www.af.mil",
-      "date": "2026-07-01",
-      "geolocation": {
-        "lat": 38.8951,
-        "lon": -77.0364
-      }
-    },
-    {
       "id": "ev-def-002",
       "title": "S-500 anti-ballistic missile range",
       "category": "Military & Defense",
@@ -484,42 +510,16 @@
       }
     },
     {
-      "id": "ev-ms-e5275443e851",
-      "title": "Nanopore sensor simultaneously identifies four analyte classes with 98.7% accuracy",
-      "category": "Biotechnology",
-      "value": "98.7 %",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03322-x",
-      "date": "2026-09-15",
+      "id": "ev-def-001",
+      "title": "ICBM range (newest in service)",
+      "category": "Military & Defense",
+      "value": "15000 km",
+      "source": "USAF / NORAD",
+      "url": "https://www.af.mil",
+      "date": "2026-07-01",
       "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-1d88f31518db",
-      "title": "Alkermes reports pioneering ADHD data for orexin agonist",
-      "category": "Biotechnology",
-      "value": "Alkermes releases pioneering clinical data for orexin agonist in ADHD, potentially expanding the drug class beyond narcolepsy into broader patient populations.",
-      "source": "Alkermes",
-      "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
-      "date": "2026-09-22",
-      "geolocation": {
-        "lat": 42.3765,
-        "lon": -71.2356
-      }
-    },
-    {
-      "id": "ev-ms-a5c98baae9a8",
-      "title": "Moderna mRNA flu vaccine receives FDA approval",
-      "category": "Biotechnology",
-      "value": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
-      "source": "FDA",
-      "url": "https://www.nature.com/articles/s41587-026-03313-y",
-      "date": "2026-09-10",
-      "geolocation": {
-        "lat": 39.0555,
-        "lon": -77.038
+        "lat": 38.8951,
+        "lon": -77.0364
       }
     }
   ]

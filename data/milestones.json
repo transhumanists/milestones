@@ -1,9 +1,8 @@
 {
-  "last_update": "2026-09-22T22:00:00Z",
+  "last_update": "2026-09-22T22:19:25.566843Z",
   "version": "2.0.0",
-  "schema": "https://transhumanists.github.io/schema/milestone-v1.json",
   "categories": {
-    "biotechnology": {
+    "Biotechnology": {
       "name": "Biotechnology",
       "icon": "🧬",
       "color": "#00e676",
@@ -33,7 +32,8 @@
             "lat": 32.7157,
             "lon": -117.1611
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         },
         {
           "id": "bio-006",
@@ -48,7 +48,8 @@
             "lat": 47.3769,
             "lon": 8.5417
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         },
         {
           "id": "bio-002",
@@ -63,7 +64,8 @@
             "lat": 37.4861,
             "lon": -122.1519
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         },
         {
           "id": "ms-e5275443e851",
@@ -78,7 +80,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03322-x",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -97,7 +99,8 @@
             "lat": 42.3375,
             "lon": -71.1061
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         },
         {
           "id": "bio-008",
@@ -112,7 +115,8 @@
             "lat": 39.9526,
             "lon": -75.1652
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         },
         {
           "id": "ms-1d88f31518db",
@@ -165,7 +169,8 @@
             "lat": 42.3375,
             "lon": -71.1061
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         },
         {
           "id": "bio-010",
@@ -180,7 +185,8 @@
             "lat": 32.8844,
             "lon": -117.234
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         },
         {
           "id": "bio-009",
@@ -195,7 +201,8 @@
             "lat": 31.2304,
             "lon": 121.4737
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         },
         {
           "id": "bio-007",
@@ -210,7 +217,8 @@
             "lat": 51.0504,
             "lon": 13.7373
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         },
         {
           "id": "bio-003",
@@ -225,11 +233,12 @@
             "lat": 44.4268,
             "lon": -123.0764
           },
-          "category": "Biotechnology"
+          "category": "Biotechnology",
+          "is_new": false
         }
       ]
     },
-    "computing_agi": {
+    "Computing & AGI": {
       "name": "Computing & AGI",
       "icon": "🧠",
       "color": "#448aff",
@@ -258,7 +267,8 @@
             "lat": 37.4219,
             "lon": -122.084
           },
-          "category": "Computing & AGI"
+          "category": "Computing & AGI",
+          "is_new": false
         },
         {
           "id": "ai-002",
@@ -273,7 +283,8 @@
             "lat": 37.7749,
             "lon": -122.4194
           },
-          "category": "Computing & AGI"
+          "category": "Computing & AGI",
+          "is_new": false
         },
         {
           "id": "ai-001",
@@ -288,7 +299,8 @@
             "lat": 37.7749,
             "lon": -122.4194
           },
-          "category": "Computing & AGI"
+          "category": "Computing & AGI",
+          "is_new": false
         },
         {
           "id": "ai-005",
@@ -303,7 +315,8 @@
             "lat": 37.7749,
             "lon": -122.4194
           },
-          "category": "Computing & AGI"
+          "category": "Computing & AGI",
+          "is_new": false
         },
         {
           "id": "ai-004",
@@ -318,11 +331,12 @@
             "lat": 37.3688,
             "lon": -122.0363
           },
-          "category": "Computing & AGI"
+          "category": "Computing & AGI",
+          "is_new": false
         }
       ]
     },
-    "quantum": {
+    "Quantum Physics": {
       "name": "Quantum Physics",
       "icon": "⚛️",
       "color": "#b388ff",
@@ -350,7 +364,8 @@
             "lat": 51.5074,
             "lon": -0.1278
           },
-          "category": "Quantum Physics"
+          "category": "Quantum Physics",
+          "is_new": false
         },
         {
           "id": "q-002",
@@ -365,7 +380,8 @@
             "lat": 37.4219,
             "lon": -122.084
           },
-          "category": "Quantum Physics"
+          "category": "Quantum Physics",
+          "is_new": false
         },
         {
           "id": "q-001",
@@ -380,7 +396,8 @@
             "lat": 41.0323,
             "lon": -73.5543
           },
-          "category": "Quantum Physics"
+          "category": "Quantum Physics",
+          "is_new": false
         },
         {
           "id": "q-003",
@@ -395,7 +412,8 @@
             "lat": 37.8716,
             "lon": -122.2727
           },
-          "category": "Quantum Physics"
+          "category": "Quantum Physics",
+          "is_new": false
         },
         {
           "id": "q-005",
@@ -410,15 +428,24 @@
             "lat": 52.01,
             "lon": 4.3555
           },
-          "category": "Quantum Physics"
+          "category": "Quantum Physics",
+          "is_new": false
         }
       ]
     },
-    "energy": {
+    "Energy": {
       "name": "Renewable Energy",
       "icon": "⚡",
       "color": "#ffd740",
-      "subcategories": [],
+      "subcategories": [
+        "fusion",
+        "solar_efficiency",
+        "battery_density",
+        "wind_capacity",
+        "storage",
+        "hydrogen",
+        "geothermal"
+      ],
       "milestones": [
         {
           "id": "en-002",
@@ -433,7 +460,8 @@
             "lat": 35.6762,
             "lon": 139.6503
           },
-          "category": "Renewable Energy"
+          "category": "Renewable Energy",
+          "is_new": false
         },
         {
           "id": "en-004",
@@ -448,7 +476,8 @@
             "lat": 37.5485,
             "lon": -122.0591
           },
-          "category": "Renewable Energy"
+          "category": "Renewable Energy",
+          "is_new": false
         },
         {
           "id": "en-003",
@@ -463,7 +492,8 @@
             "lat": 51.2323,
             "lon": 13.683
           },
-          "category": "Renewable Energy"
+          "category": "Renewable Energy",
+          "is_new": false
         },
         {
           "id": "en-001",
@@ -478,7 +508,8 @@
             "lat": 37.6881,
             "lon": -121.7045
           },
-          "category": "Renewable Energy"
+          "category": "Renewable Energy",
+          "is_new": false
         },
         {
           "id": "en-005",
@@ -493,11 +524,12 @@
             "lat": 54.0956,
             "lon": 13.4725
           },
-          "category": "Renewable Energy"
+          "category": "Renewable Energy",
+          "is_new": false
         }
       ]
     },
-    "cybersecurity": {
+    "Cybersecurity": {
       "name": "Cybersecurity",
       "icon": "🛡️",
       "color": "#ff5252",
@@ -525,7 +557,8 @@
             "lat": 38.8951,
             "lon": -77.0364
           },
-          "category": "Cybersecurity"
+          "category": "Cybersecurity",
+          "is_new": false
         },
         {
           "id": "cyber-002",
@@ -540,7 +573,8 @@
             "lat": 37.4219,
             "lon": -122.084
           },
-          "category": "Cybersecurity"
+          "category": "Cybersecurity",
+          "is_new": false
         },
         {
           "id": "cyber-001",
@@ -555,15 +589,24 @@
             "lat": 38.8951,
             "lon": -77.0364
           },
-          "category": "Cybersecurity"
+          "category": "Cybersecurity",
+          "is_new": false
         }
       ]
     },
-    "spaceflight": {
+    "Spaceflight": {
       "name": "Spaceflight & Aeronautics",
       "icon": "🚀",
       "color": "#00d4ff",
-      "subcategories": [],
+      "subcategories": [
+        "launch",
+        "payload",
+        "deep_space",
+        "hypersonic",
+        "aeronautics",
+        "reusability",
+        "constellation"
+      ],
       "milestones": [
         {
           "id": "space-001",
@@ -578,7 +621,8 @@
             "lat": 28.5728,
             "lon": -80.649
           },
-          "category": "Spaceflight & Aeronautics"
+          "category": "Spaceflight & Aeronautics",
+          "is_new": false
         },
         {
           "id": "space-004",
@@ -593,7 +637,8 @@
             "lat": 34.0522,
             "lon": -118.2437
           },
-          "category": "Spaceflight & Aeronautics"
+          "category": "Spaceflight & Aeronautics",
+          "is_new": false
         },
         {
           "id": "space-003",
@@ -608,7 +653,8 @@
             "lat": 28.5237,
             "lon": -80.681
           },
-          "category": "Spaceflight & Aeronautics"
+          "category": "Spaceflight & Aeronautics",
+          "is_new": false
         },
         {
           "id": "space-002",
@@ -623,15 +669,26 @@
             "lat": 28.5728,
             "lon": -80.649
           },
-          "category": "Spaceflight & Aeronautics"
+          "category": "Spaceflight & Aeronautics",
+          "is_new": false
         }
       ]
     },
-    "defense": {
+    "Defense": {
       "name": "Military & Defense",
       "icon": "🌍",
       "color": "#ff9100",
-      "subcategories": [],
+      "subcategories": [
+        "range",
+        "radius",
+        "fleet_movements",
+        "defense_contracts",
+        "air_defense",
+        "naval",
+        "cyber_ops",
+        "drone_swarm",
+        "hypersonic_glide"
+      ],
       "milestones": [
         {
           "id": "def-005",
@@ -646,7 +703,8 @@
             "lat": 50.8609,
             "lon": 4.3676
           },
-          "category": "Military & Defense"
+          "category": "Military & Defense",
+          "is_new": false
         },
         {
           "id": "def-003",
@@ -661,7 +719,8 @@
             "lat": 36.8508,
             "lon": -76.2995
           },
-          "category": "Military & Defense"
+          "category": "Military & Defense",
+          "is_new": false
         },
         {
           "id": "def-004",
@@ -676,7 +735,8 @@
             "lat": 32.0853,
             "lon": 34.7818
           },
-          "category": "Military & Defense"
+          "category": "Military & Defense",
+          "is_new": false
         },
         {
           "id": "def-001",
@@ -691,7 +751,8 @@
             "lat": 38.8951,
             "lon": -77.0364
           },
-          "category": "Military & Defense"
+          "category": "Military & Defense",
+          "is_new": false
         },
         {
           "id": "def-002",
@@ -706,7 +767,8 @@
             "lat": 55.7558,
             "lon": 37.6173
           },
-          "category": "Military & Defense"
+          "category": "Military & Defense",
+          "is_new": false
         }
       ]
     }
