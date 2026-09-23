@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-22T22:19:25.566843Z",
+  "last_update": "2026-09-23T11:29:23.445256Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -135,6 +135,25 @@
           "geolocation": {
             "lat": 42.3765,
             "lon": -71.2356
+          }
+        },
+        {
+          "id": "ms-e55c8cf4e432",
+          "title": "Engineered nanopore identifies diverse biomolecules and modifications",
+          "summary": "A modified nanopore simultaneously identifies saccharides, amino acids, peptides, ribonucleotides and their modifications, advancing multiplexed biosensing.",
+          "category": "Biotechnology",
+          "subcategory": "biosensors",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-14",
+          "url": "https://www.nature.com/articles/s41587-026-03308-9",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -317,6 +336,25 @@
           },
           "category": "Computing & AGI",
           "is_new": false
+        },
+        {
+          "id": "ms-ff18a3be3cd5",
+          "title": "LLM judge consensus found to have 0.21 average pairwise error correlation, challenging independence assumption",
+          "summary": "Research reveals substantial error correlation among LLM judges, showing consensus overstates reliability due to shared training and evaluation biases.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 0.21,
+          "unit": "pairwise error correlation coefficient",
+          "source": "arXiv (multiple institutions)",
+          "date": "2026-09-23",
+          "url": "https://arxiv.org/abs/2609.22512",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         },
         {
           "id": "ai-004",
