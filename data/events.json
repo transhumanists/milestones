@@ -1,33 +1,7 @@
 {
-  "last_update": "2026-09-23T11:29:23.445256Z",
+  "last_update": "2026-09-23T12:44:45.451741Z",
   "version": "2.0.0",
   "events": [
-    {
-      "id": "ev-bio-005",
-      "title": "Largest synthetic genome synthesized",
-      "category": "Biotechnology",
-      "value": "1500000000 bp",
-      "source": "JCVI",
-      "url": "https://www.jcvi.org",
-      "date": "2026-06-01",
-      "geolocation": {
-        "lat": 32.7157,
-        "lon": -117.1611
-      }
-    },
-    {
-      "id": "ev-bio-006",
-      "title": "Brain organoid complexity (neurons)",
-      "category": "Biotechnology",
-      "value": "100000000 neurons",
-      "source": "ETH Zürich",
-      "url": "https://biol.ethz.ch",
-      "date": "2026-05-20",
-      "geolocation": {
-        "lat": 47.3769,
-        "lon": 8.5417
-      }
-    },
     {
       "id": "ev-ms-1d88f31518db",
       "title": "Alkermes reports pioneering ADHD data for orexin agonist",
@@ -42,16 +16,16 @@
       }
     },
     {
-      "id": "ev-bio-002",
-      "title": "Neural implant electrode density",
+      "id": "ev-bio-006",
+      "title": "Brain organoid complexity (neurons)",
       "category": "Biotechnology",
-      "value": "16384 channels/cm²",
-      "source": "Neuralink",
-      "url": "https://neuralink.com",
-      "date": "2026-08-20",
+      "value": "100000000 neurons",
+      "source": "ETH Zürich",
+      "url": "https://biol.ethz.ch",
+      "date": "2026-05-20",
       "geolocation": {
-        "lat": 37.4861,
-        "lon": -122.1519
+        "lat": 47.3769,
+        "lon": 8.5417
       }
     },
     {
@@ -81,45 +55,6 @@
       }
     },
     {
-      "id": "ev-ms-e55c8cf4e432",
-      "title": "Engineered nanopore identifies diverse biomolecules and modifications",
-      "category": "Biotechnology",
-      "value": "Engineered nanopore identifies diverse biomolecules and modifications",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03308-9",
-      "date": "2026-09-14",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-001",
-      "title": "CRISPR in-vivo editing efficiency",
-      "category": "Biotechnology",
-      "value": "94.2 %",
-      "source": "Broad Institute",
-      "url": "https://www.broadinstitute.org",
-      "date": "2026-08-25",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-bio-008",
-      "title": "AAV vector delivery efficiency",
-      "category": "Biotechnology",
-      "value": "91.7 %",
-      "source": "Spark Therapeutics",
-      "url": "https://sparktx.com",
-      "date": "2026-06-15",
-      "geolocation": {
-        "lat": 39.9526,
-        "lon": -75.1652
-      }
-    },
-    {
       "id": "ev-ms-a5c98baae9a8",
       "title": "Moderna mRNA flu vaccine receives FDA approval",
       "category": "Biotechnology",
@@ -143,6 +78,45 @@
       "geolocation": {
         "lat": 31.2304,
         "lon": 121.4737
+      }
+    },
+    {
+      "id": "ev-bio-001",
+      "title": "CRISPR in-vivo editing efficiency",
+      "category": "Biotechnology",
+      "value": "94.2 %",
+      "source": "Broad Institute",
+      "url": "https://www.broadinstitute.org",
+      "date": "2026-08-25",
+      "geolocation": {
+        "lat": 42.3375,
+        "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-bio-002",
+      "title": "Neural implant electrode density",
+      "category": "Biotechnology",
+      "value": "16384 channels/cm²",
+      "source": "Neuralink",
+      "url": "https://neuralink.com",
+      "date": "2026-08-20",
+      "geolocation": {
+        "lat": 37.4861,
+        "lon": -122.1519
+      }
+    },
+    {
+      "id": "ev-bio-003",
+      "title": "Electron microscope resolution",
+      "category": "Biotechnology",
+      "value": "0.39 Ångström",
+      "source": "Thermo Fisher FEI",
+      "url": "https://www.thermofisher.com",
+      "date": "2026-08-18",
+      "geolocation": {
+        "lat": 44.4268,
+        "lon": -123.0764
       }
     },
     {
@@ -172,29 +146,29 @@
       }
     },
     {
-      "id": "ev-bio-003",
-      "title": "Electron microscope resolution",
+      "id": "ev-bio-008",
+      "title": "AAV vector delivery efficiency",
       "category": "Biotechnology",
-      "value": "0.39 Ångström",
-      "source": "Thermo Fisher FEI",
-      "url": "https://www.thermofisher.com",
-      "date": "2026-08-18",
+      "value": "91.7 %",
+      "source": "Spark Therapeutics",
+      "url": "https://sparktx.com",
+      "date": "2026-06-15",
       "geolocation": {
-        "lat": 44.4268,
-        "lon": -123.0764
+        "lat": 39.9526,
+        "lon": -75.1652
       }
     },
     {
-      "id": "ev-ai-003",
-      "title": "Training compute (FLOP)",
-      "category": "Computing & AGI",
-      "value": "2.4e+25 FLOP",
-      "source": "Google Gemini-Ultra",
-      "url": "https://deepmind.google",
-      "date": "2026-08-01",
+      "id": "ev-bio-005",
+      "title": "Largest synthetic genome synthesized",
+      "category": "Biotechnology",
+      "value": "1500000000 bp",
+      "source": "JCVI",
+      "url": "https://www.jcvi.org",
+      "date": "2026-06-01",
       "geolocation": {
-        "lat": 37.4219,
-        "lon": -122.084
+        "lat": 32.7157,
+        "lon": -117.1611
       }
     },
     {
@@ -208,6 +182,19 @@
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ai-003",
+      "title": "Training compute (FLOP)",
+      "category": "Computing & AGI",
+      "value": "2.4e+25 FLOP",
+      "source": "Google Gemini-Ultra",
+      "url": "https://deepmind.google",
+      "date": "2026-08-01",
+      "geolocation": {
+        "lat": 37.4219,
+        "lon": -122.084
       }
     },
     {
@@ -250,16 +237,16 @@
       }
     },
     {
-      "id": "ev-q-004",
-      "title": "Quantum volume",
+      "id": "ev-q-001",
+      "title": "Physical qubits (superconducting)",
       "category": "Quantum Physics",
-      "value": "8192 QV",
-      "source": "Quantinuum H3",
-      "url": "https://www.quantinuum.com",
-      "date": "2026-07-30",
+      "value": "4158 qubits",
+      "source": "IBM Condor 2",
+      "url": "https://research.ibm.com",
+      "date": "2026-08-22",
       "geolocation": {
-        "lat": 51.5074,
-        "lon": -0.1278
+        "lat": 41.0323,
+        "lon": -73.5543
       }
     },
     {
@@ -276,19 +263,6 @@
       }
     },
     {
-      "id": "ev-q-001",
-      "title": "Physical qubits (superconducting)",
-      "category": "Quantum Physics",
-      "value": "4158 qubits",
-      "source": "IBM Condor 2",
-      "url": "https://research.ibm.com",
-      "date": "2026-08-22",
-      "geolocation": {
-        "lat": 41.0323,
-        "lon": -73.5543
-      }
-    },
-    {
       "id": "ev-q-003",
       "title": "Quantum time crystal coherence",
       "category": "Quantum Physics",
@@ -299,6 +273,19 @@
       "geolocation": {
         "lat": 37.8716,
         "lon": -122.2727
+      }
+    },
+    {
+      "id": "ev-q-004",
+      "title": "Quantum volume",
+      "category": "Quantum Physics",
+      "value": "8192 QV",
+      "source": "Quantinuum H3",
+      "url": "https://www.quantinuum.com",
+      "date": "2026-07-30",
+      "geolocation": {
+        "lat": 51.5074,
+        "lon": -0.1278
       }
     },
     {
@@ -354,19 +341,6 @@
       }
     },
     {
-      "id": "ev-en-004",
-      "title": "Li-metal cell energy density",
-      "category": "Renewable Energy",
-      "value": "550 Wh/kg",
-      "source": "QuantumScape",
-      "url": "https://www.quantumscape.com",
-      "date": "2026-07-25",
-      "geolocation": {
-        "lat": 37.5485,
-        "lon": -122.0591
-      }
-    },
-    {
       "id": "ev-en-003",
       "title": "Perovskite-silicon tandem cell",
       "category": "Renewable Energy",
@@ -380,13 +354,26 @@
       }
     },
     {
-      "id": "ev-cyber-003",
-      "title": "NIST PQC standard (CRYSTALS-Kyber)",
+      "id": "ev-en-004",
+      "title": "Li-metal cell energy density",
+      "category": "Renewable Energy",
+      "value": "550 Wh/kg",
+      "source": "QuantumScape",
+      "url": "https://www.quantumscape.com",
+      "date": "2026-07-25",
+      "geolocation": {
+        "lat": 37.5485,
+        "lon": -122.0591
+      }
+    },
+    {
+      "id": "ev-cyber-001",
+      "title": "Highest active CVSS score (0day)",
       "category": "Cybersecurity",
-      "value": "256 bit security",
-      "source": "NIST",
-      "url": "https://csrc.nist.gov",
-      "date": "2026-06-01",
+      "value": "10.0 CRITICAL",
+      "source": "NVD / CISA",
+      "url": "https://nvd.nist.gov",
+      "date": "2026-08-24",
       "geolocation": {
         "lat": 38.8951,
         "lon": -77.0364
@@ -406,13 +393,13 @@
       }
     },
     {
-      "id": "ev-cyber-001",
-      "title": "Highest active CVSS score (0day)",
+      "id": "ev-cyber-003",
+      "title": "NIST PQC standard (CRYSTALS-Kyber)",
       "category": "Cybersecurity",
-      "value": "10.0 CRITICAL",
-      "source": "NVD / CISA",
-      "url": "https://nvd.nist.gov",
-      "date": "2026-08-24",
+      "value": "256 bit security",
+      "source": "NIST",
+      "url": "https://csrc.nist.gov",
+      "date": "2026-06-01",
       "geolocation": {
         "lat": 38.8951,
         "lon": -77.0364
@@ -432,19 +419,6 @@
       }
     },
     {
-      "id": "ev-space-004",
-      "title": "Hypersonic test speed (air-breathing)",
-      "category": "Spaceflight & Aeronautics",
-      "value": "13.2 Mach",
-      "source": "NASA X-43C",
-      "url": "https://www.nasa.gov",
-      "date": "2026-08-05",
-      "geolocation": {
-        "lat": 34.0522,
-        "lon": -118.2437
-      }
-    },
-    {
       "id": "ev-space-003",
       "title": "Artemis IV landing accuracy",
       "category": "Spaceflight & Aeronautics",
@@ -455,6 +429,19 @@
       "geolocation": {
         "lat": 28.5237,
         "lon": -80.681
+      }
+    },
+    {
+      "id": "ev-space-004",
+      "title": "Hypersonic test speed (air-breathing)",
+      "category": "Spaceflight & Aeronautics",
+      "value": "13.2 Mach",
+      "source": "NASA X-43C",
+      "url": "https://www.nasa.gov",
+      "date": "2026-08-05",
+      "geolocation": {
+        "lat": 34.0522,
+        "lon": -118.2437
       }
     },
     {
@@ -484,29 +471,16 @@
       }
     },
     {
-      "id": "ev-def-003",
-      "title": "Carrier air wing sorties/day (USS Gerald R. Ford)",
+      "id": "ev-def-001",
+      "title": "ICBM range (newest in service)",
       "category": "Military & Defense",
-      "value": "270 sorties",
-      "source": "US Navy",
-      "url": "https://www.navy.mil",
-      "date": "2026-05-01",
+      "value": "15000 km",
+      "source": "USAF / NORAD",
+      "url": "https://www.af.mil",
+      "date": "2026-07-01",
       "geolocation": {
-        "lat": 36.8508,
-        "lon": -76.2995
-      }
-    },
-    {
-      "id": "ev-def-004",
-      "title": "Iron Dome intercept success (2026 Q1)",
-      "category": "Military & Defense",
-      "value": "96.8 %",
-      "source": "Rafael / IDF",
-      "url": "https://www.rafael.co.il",
-      "date": "2026-04-01",
-      "geolocation": {
-        "lat": 32.0853,
-        "lon": 34.7818
+        "lat": 38.8951,
+        "lon": -77.0364
       }
     },
     {
@@ -523,16 +497,29 @@
       }
     },
     {
-      "id": "ev-def-001",
-      "title": "ICBM range (newest in service)",
+      "id": "ev-def-004",
+      "title": "Iron Dome intercept success (2026 Q1)",
       "category": "Military & Defense",
-      "value": "15000 km",
-      "source": "USAF / NORAD",
-      "url": "https://www.af.mil",
-      "date": "2026-07-01",
+      "value": "96.8 %",
+      "source": "Rafael / IDF",
+      "url": "https://www.rafael.co.il",
+      "date": "2026-04-01",
       "geolocation": {
-        "lat": 38.8951,
-        "lon": -77.0364
+        "lat": 32.0853,
+        "lon": 34.7818
+      }
+    },
+    {
+      "id": "ev-def-003",
+      "title": "Carrier air wing sorties/day (USS Gerald R. Ford)",
+      "category": "Military & Defense",
+      "value": "270 sorties",
+      "source": "US Navy",
+      "url": "https://www.navy.mil",
+      "date": "2026-05-01",
+      "geolocation": {
+        "lat": 36.8508,
+        "lon": -76.2995
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-22T22:19:25.566843Z",
+  "last_update": "2026-09-23T12:44:45.451741Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -254,6 +254,25 @@
         "multimodal"
       ],
       "milestones": [
+        {
+          "id": "ms-0a47a34ebd2d",
+          "title": "New evaluation protocol detects sequential reappearance in diffusion model unlearning",
+          "summary": "Researchers identify sequential reappearance in diffusion data-point unlearning and propose a target-level evaluation protocol to track forgetting persistence across sequential deletion requests.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv (Cornell University)",
+          "date": "2026-09-23",
+          "url": "https://arxiv.org/abs/2609.25166",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ai-001",
           "subcategory": "frontier_models",
