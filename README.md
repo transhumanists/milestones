@@ -11,13 +11,13 @@ The canonical database of current highest-achieved milestones across the 7 verti
 
 | Category | Top Milestone | Value | Source | Date |
 |---|---|---|---|---|
-| 🧬 Biotechnology | CRISPR in-vivo editing efficiency | **94.2%** | Broad Institute | 2026-08-25 |
+| 🧬 Biotechnology | Alkermes reports pioneering ADHD data for orexin agonist | **—** | Alkermes | 2026-09-22 |
 | 🧠 Computing & AGI | MMLU benchmark | **94.7%** | OpenAI GPT-6 | 2026-08-19 |
 | ⚛️ Quantum Physics | Physical qubits (superconducting) | **4,158** | IBM Condor 2 | 2026-08-22 |
-| ⚡ Renewable Energy | Fusion energy gain Q | **17.6** | NIF Livermore | 2026-08-20 |
-| 🛡️ Cybersecurity | Highest active CVSS score | **10.0 CRITICAL** | NVD / CISA | 2026-08-24 |
+| ⚡ Energy | JT-60SA sustained yield | **100 MJ** | NIFS Japan | 2026-08-22 |
+| 🛡️ Cybersecurity | Highest active CVSS score (0day) | **10.0 CRITICAL** | NVD / CISA | 2026-08-24 |
 | 🚀 Spaceflight | Starship payload to LEO | **156 tonnes** | SpaceX | 2026-08-23 |
-| 🌍 Defense | NATO rapid reaction force | **300,000 personnel** | NATO HQ | 2026-08-15 |
+| 🌍 Defense | NATO rapid reaction force size | **300,000 personnel** | NATO HQ | 2026-08-15 |
 
 ---
 
@@ -29,18 +29,26 @@ The canonical database of current highest-achieved milestones across the 7 verti
 | `data/milestones.json` | Structured JSON — categories, subcategories, values, sources, geolocations |
 | `data/events.json` | Geo-pinned events for the world map |
 | `data/activity.json` | 30-day activity timeline + spike events |
+| `data/world_layers.json` | Hand-authored overlay layers for the world map — 3 active conflict zones and 9 fleet-movement arrows |
 
 ---
 
 ## 🔄 How It Works
 
-The pipeline runs every 6 hours in `transhumanists/apis`:
+The pipeline runs every day (06:00 UTC) in `transhumanists/apis`, and can be
+triggered manually via **Actions → Pipeline → Run workflow**:
 
-1. **RSS scraper** pulls 80+ feeds (Nature, arXiv, IEEE, Phys.org, Reuters, SpaceNews, The Hacker News, ISW, CISA, NATO, SIPRI, ...)
-2. **LLM scorer** extracts structured milestone data: category, subcategory, value, unit, source, date, geolocation
-3. **Self-healer** validates feed URLs, replaces dead feeds with known-good alternatives
-4. **Dashboard updater** commits `milestones.json`, `events.json`, `activity.json` to this repo and `transhumanists.github.io`
-5. **Facebook poster** posts a daily digest to [facebook.com/transhumanistsBE](https://facebook.com/transhumanistsBE)
+1. **RSS scraper** pulls 80+ feeds (Nature, arXiv, IEEE, Phys.org, Reuters, SpaceNews, The Hacker News, ISW, CISA, NATO, SIPRI, ...). Higher-weight feeds contribute proportionally more articles.
+2. **arXiv historical backfill** (opt-in): round-the-clock feeds only expose recent
+   entries, so deeper history is pulled from the arXiv export API on demand.
+   Set the `ARXIV_HISTORY_START` (YYYY-MM-DD, one-time month-by-month deep
+   backfill) or `ARXIV_HISTORY_DAYS` (trailing window) repo variable to enable it.
+   Every paper is stamped with its real arXiv `submittedDate` — nothing is ever
+   backdated arbitrarily. Disabled by default, so routine runs cost nothing.
+3. **LLM scorer** extracts structured milestone data: category, subcategory, value, unit, source, date, geolocation. Milestones are sorted **newest-first by date** within each category, so backfilled older milestones settle naturally lower down the list (`1970-01-01` is the sentinel for undated entries).
+4. **Self-healer** validates feed URLs, replaces dead feeds with known-good alternatives
+5. **Dashboard updater** commits `milestones.json`, `events.json`, `activity.json` to this repo and `transhumanists.github.io`
+6. **Facebook poster** posts a daily digest to [facebook.com/transhumanistsBE](https://facebook.com/transhumanistsBE)
 
 ---
 

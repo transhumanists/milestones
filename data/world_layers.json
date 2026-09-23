@@ -1,0 +1,113 @@
+{
+  "version": "1.0.0",
+  "last_update": "2026-09-22T22:21:24Z",
+  "conflict_zones": [
+    {
+      "id": "zone-ukraine",
+      "name": "Ukraine · Donbas front",
+      "region": "Eastern Europe",
+      "lat": 48.0,
+      "lon": 37.8,
+      "radiusDeg": 5.5,
+      "status": "active",
+      "note": "Russia–Ukraine line of contact",
+      "source": "ISW"
+    },
+    {
+      "id": "zone-gaza",
+      "name": "Gaza Strip",
+      "region": "Middle East",
+      "lat": 31.3,
+      "lon": 34.3,
+      "radiusDeg": 2.2,
+      "status": "active",
+      "note": "Gaza–Israel conflict",
+      "source": "UN OCHA"
+    },
+    {
+      "id": "zone-red-sea",
+      "name": "Red Sea · Bab el-Mandeb",
+      "region": "Middle East",
+      "lat": 13.5,
+      "lon": 43.0,
+      "radiusDeg": 4.0,
+      "status": "active",
+      "note": "Maritime security zone",
+      "source": "IMSC"
+    }
+  ],
+  "fleet_movements": [
+    {
+      "id": "fleet-01",
+      "label": "USN CVN-78 · Ford CSG",
+      "from": { "lat": 33.5, "lon": 33.5 },
+      "to": { "lat": 27.0, "lon": 52.5 },
+      "note": "Eastern Mediterranean → Persian Gulf",
+      "source": "USNI"
+    },
+    {
+      "id": "fleet-02",
+      "label": "USN CVN-69 · Eisenhower CSG",
+      "from": { "lat": 18.5, "lon": 39.5 },
+      "to": { "lat": 12.5, "lon": 58.5 },
+      "note": "Red Sea → Arabian Sea",
+      "source": "USNI"
+    },
+    {
+      "id": "fleet-03",
+      "label": "USN · America ESG (7th Fleet)",
+      "from": { "lat": 34.3, "lon": 132.4 },
+      "to": { "lat": 12.5, "lon": 115.0 },
+      "note": "Sasebo → South China Sea",
+      "source": "USNI"
+    },
+    {
+      "id": "fleet-04",
+      "label": "USN CVN-76 · Reagan CSG",
+      "from": { "lat": 24.5, "lon": 126.5 },
+      "to": { "lat": 25.0, "lon": 120.5 },
+      "note": "Philippine Sea → Taiwan Strait",
+      "source": "USNI"
+    },
+    {
+      "id": "fleet-05",
+      "label": "Royal Navy · Carrier Strike Group",
+      "from": { "lat": 50.8, "lon": -1.1 },
+      "to": { "lat": 57.0, "lon": 18.0 },
+      "note": "Portsmouth → Baltic (Gotland approaches)",
+      "source": "RN"
+    },
+    {
+      "id": "fleet-06",
+      "label": "Russian Baltic Fleet",
+      "from": { "lat": 54.7, "lon": 20.5 },
+      "to": { "lat": 58.0, "lon": 20.0 },
+      "note": "Kaliningrad → Baltic approaches",
+      "source": "ISW"
+    },
+    {
+      "id": "fleet-07",
+      "label": "Russian Pacific Fleet",
+      "from": { "lat": 43.1, "lon": 131.9 },
+      "to": { "lat": 38.7, "lon": 137.0 },
+      "note": "Vladivostok → Sea of Japan / Tsugaru",
+      "source": "ISW"
+    },
+    {
+      "id": "fleet-08",
+      "label": "PLAN · Type-055 task group",
+      "from": { "lat": 26.7, "lon": 114.0 },
+      "to": { "lat": 31.2, "lon": 122.5 },
+      "note": "South China Sea → Yangtze delta",
+      "source": "IISS"
+    },
+    {
+      "id": "fleet-09",
+      "label": "Indian Navy · task group",
+      "from": { "lat": 19.0, "lon": 72.8 },
+      "to": { "lat": 12.5, "lon": 45.0 },
+      "note": "Mumbai → Gulf of Aden",
+      "source": "IN"
+    }
+  ]
+}
