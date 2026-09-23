@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-09-23T12:44:45.453283Z · 41 active milestones across 7 categories*
+*Auto-generated: 2026-09-23T13:14:54.705289Z · 41 active milestones across 7 categories*
 
 ---
 
@@ -32,7 +32,7 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `benchmarks` | New evaluation protocol detects sequential reappea 🆕 | — | arXiv (Cornell Unive | 2026-09-23 |
+| 1 | `benchmarks` | New evaluation protocol detects sequential reappea  | — | arXiv (Cornell Unive | 2026-09-23 |
 | 2 | `frontier_models` | MMLU benchmark  | **94.7** % | OpenAI GPT-6 | 2026-08-19 |
 | 3 | `agentic_ai` | HumanEval pass@1  | **98.4** % | Anthropic Claude-4 | 2026-08-15 |
 | 4 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
@@ -97,4 +97,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-09-23T12:44:45.453283Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-09-23T13:14:54.705289Z · Pipeline: `transhumanists/apis`*
