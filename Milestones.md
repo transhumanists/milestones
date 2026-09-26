@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-09-25T11:50:49.047946Z · 43 active milestones across 7 categories*
+*Auto-generated: 2026-09-26T11:21:45.746789Z · 46 active milestones across 9 categories*
 
 ---
 
@@ -33,7 +33,7 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `benchmarks` | Forecast-Dojo: Replayable Benchmark for LLM Foreca 🆕 | **1568** events | arXiv preprint | 2026-09-25 |
+| 1 | `benchmarks` | Forecast-Dojo: Replayable Benchmark for LLM Foreca  | **1568** events | arXiv preprint | 2026-09-25 |
 | 2 | `benchmarks` | New evaluation protocol detects sequential reappea  | — | arXiv (Cornell Unive | 2026-09-23 |
 | 3 | `frontier_models` | MMLU benchmark  | **94.7** % | OpenAI GPT-6 | 2026-08-19 |
 | 4 | `agentic_ai` | HumanEval pass@1  | **98.4** % | Anthropic Claude-4 | 2026-08-15 |
@@ -71,9 +71,10 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
-| 2 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
-| 3 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
+| 1 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo 🆕 | **8.8** CVSS | Security researchers | 2026-09-26 |
+| 2 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
+| 3 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
+| 4 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
 
 ## 6. Spaceflight & Aeronautics 🚀
 
@@ -98,5 +99,21 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
+## 8. Quantum Gravity 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `holographic_principle` | Gravity found to be holographic, collapsing space  🆕 | — | Quanta Magazine | 2026-09-25 |
+
+## 9. Mathematics 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `graph_theory` | Proof of Graph Sandwich Conjecture 🆕 | — | International mathem | 2026-09-18 |
+
 ---
-*Last auto-generated: 2026-09-25T11:50:49.047946Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-09-26T11:21:45.746789Z · Pipeline: `transhumanists/apis`*

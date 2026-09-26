@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-25T11:50:49.045442Z",
+  "last_update": "2026-09-26T11:21:45.744156Z",
   "version": "2.0.0",
   "events": [
     {
@@ -42,19 +42,6 @@
       }
     },
     {
-      "id": "ev-bio-010",
-      "title": "Wearable simultaneous biomarker sensors",
-      "category": "Biotechnology",
-      "value": "12 analytes",
-      "source": "Dexcom",
-      "url": "https://www.dexcom.com",
-      "date": "2026-07-20",
-      "geolocation": {
-        "lat": 32.8844,
-        "lon": -117.234
-      }
-    },
-    {
       "id": "ev-ms-e55c8cf4e432",
       "title": "Engineered nanopore simultaneously identifies saccharides, amino acids, peptides, and ribonucleotides",
       "category": "Biotechnology",
@@ -65,6 +52,19 @@
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-010",
+      "title": "Wearable simultaneous biomarker sensors",
+      "category": "Biotechnology",
+      "value": "12 analytes",
+      "source": "Dexcom",
+      "url": "https://www.dexcom.com",
+      "date": "2026-07-20",
+      "geolocation": {
+        "lat": 32.8844,
+        "lon": -117.234
       }
     },
     {
@@ -390,6 +390,19 @@
       "geolocation": {
         "lat": 38.8951,
         "lon": -77.0364
+      }
+    },
+    {
+      "id": "ev-ms-84669fafeb66",
+      "title": "Elementor WordPress Plugin CSRF Vulnerability Allows Site Takeover",
+      "category": "Cybersecurity",
+      "value": "8.8 CVSS",
+      "source": "Security researchers",
+      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "date": "2026-09-26",
+      "geolocation": {
+        "lat": 32.0853,
+        "lon": 34.7818
       }
     },
     {
