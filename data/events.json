@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-26T11:21:45.744156Z",
+  "last_update": "2026-09-27T12:07:04.275545Z",
   "version": "2.0.0",
   "events": [
     {
@@ -26,19 +26,6 @@
       "geolocation": {
         "lat": 47.3769,
         "lon": 8.5417
-      }
-    },
-    {
-      "id": "ev-ms-e5275443e851",
-      "title": "Nanopore sensor simultaneously identifies four analyte classes with 98.7% accuracy",
-      "category": "Biotechnology",
-      "value": "98.7 %",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03322-x",
-      "date": "2026-09-15",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {
@@ -185,6 +172,19 @@
       }
     },
     {
+      "id": "ev-ms-0a279b32fda4",
+      "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
+      "category": "Biotechnology",
+      "value": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03312-z",
+      "date": "2026-09-10",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
       "id": "ev-ai-001",
       "title": "MMLU benchmark",
       "category": "Computing & AGI",
@@ -208,6 +208,19 @@
       "geolocation": {
         "lat": 37.4219,
         "lon": -122.084
+      }
+    },
+    {
+      "id": "ev-ms-cede87aeb630",
+      "title": "Seed2.0 model series achieves world-leading reasoning and visual understanding for real-world tasks",
+      "category": "Computing & AGI",
+      "value": "Seed2.0 model series achieves world-leading reasoning and visual understanding for real-world tasks",
+      "source": "ByteDance",
+      "url": "http://arxiv.org/abs/2607.00248v1",
+      "date": "2026-06-30",
+      "geolocation": {
+        "lat": 39.9042,
+        "lon": 116.4074
       }
     },
     {
@@ -380,19 +393,6 @@
       }
     },
     {
-      "id": "ev-cyber-001",
-      "title": "Highest active CVSS score (0day)",
-      "category": "Cybersecurity",
-      "value": "10.0 CRITICAL",
-      "source": "NVD / CISA",
-      "url": "https://nvd.nist.gov",
-      "date": "2026-08-24",
-      "geolocation": {
-        "lat": 38.8951,
-        "lon": -77.0364
-      }
-    },
-    {
       "id": "ev-ms-84669fafeb66",
       "title": "Elementor WordPress Plugin CSRF Vulnerability Allows Site Takeover",
       "category": "Cybersecurity",
@@ -403,6 +403,19 @@
       "geolocation": {
         "lat": 32.0853,
         "lon": 34.7818
+      }
+    },
+    {
+      "id": "ev-cyber-001",
+      "title": "Highest active CVSS score (0day)",
+      "category": "Cybersecurity",
+      "value": "10.0 CRITICAL",
+      "source": "NVD / CISA",
+      "url": "https://nvd.nist.gov",
+      "date": "2026-08-24",
+      "geolocation": {
+        "lat": 38.8951,
+        "lon": -77.0364
       }
     },
     {
@@ -546,6 +559,19 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
+      }
+    },
+    {
+      "id": "ev-ms-fc6083e0cc69",
+      "title": "ORACLE-2 achieves 0.73 macro F1 for real-time transient classification using multimodal data",
+      "category": "Computing & AGI",
+      "value": "0.73 macro F1 score",
+      "source": "Zwicky Transient Facility (ZTF)",
+      "url": "http://arxiv.org/abs/2607.00228v1",
+      "date": "2026-06-30",
+      "geolocation": {
+        "lat": 34.1377,
+        "lon": -118.1253
       }
     }
   ]

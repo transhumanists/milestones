@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-26T11:21:45.744156Z",
+  "last_update": "2026-09-27T12:07:04.275545Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -40,21 +40,21 @@
         },
         {
           "id": "ms-e5275443e851",
-          "title": "Nanopore sensor simultaneously identifies four analyte classes with 98.7% accuracy",
-          "summary": "A modified bacterial porin nanopore coupled with machine learning enables simultaneous detection of amino acids, nucleoside monophosphates, saccharides, and peptides at 98.7% classification accuracy.",
+          "title": "Versatile nanopore sensor simultaneously identifies four analyte classes with 98.7% accuracy",
+          "summary": "A modified bacterial porin nanopore coupled with machine learning simultaneously identifies amino acids, nucleoside monophosphates, saccharides, and peptides with 98.7% accuracy, enabling native glyco",
           "category": "Biotechnology",
           "subcategory": "biosensors",
           "value": 98.7,
-          "unit": "%",
-          "source": "Nature Biotechnology",
+          "unit": "percent",
+          "source": "Unknown",
           "date": "2026-09-15",
           "url": "https://www.nature.com/articles/s41587-026-03322-x",
-          "is_record": true,
+          "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -93,6 +93,25 @@
           "geolocation": {
             "lat": 39.0555,
             "lon": -77.038
+          }
+        },
+        {
+          "id": "ms-0a279b32fda4",
+          "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
+          "summary": "Researchers develop biomimetic cells as a novel synthetic biology tool to investigate mechanical force sensing in T cells, opening new avenues for immunotherapy research.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-10",
+          "url": "https://www.nature.com/articles/s41587-026-03312-z",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -390,6 +409,82 @@
           },
           "category": "Computing & AGI",
           "is_new": false
+        },
+        {
+          "id": "ms-d6824a356960",
+          "title": "EgoSafetyBench: Egocentric Video Benchmark for VLM Safety Guards",
+          "summary": "Introduces EgoSafetyBench, a 1,200-scenario egocentric video benchmark to evaluate vision-language models as runtime safety guards for embodied agents.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 1200,
+          "unit": "scenarios",
+          "source": "Research authors",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00218v1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-fc6083e0cc69",
+          "title": "ORACLE-2 achieves 0.73 macro F1 for real-time transient classification using multimodal data",
+          "summary": "The ORACLE-2 Omni model combines light curves, metadata, and images to improve real-time classification of astronomical transients by up to 40% over light-curve-only models.",
+          "category": "Computing & AGI",
+          "subcategory": "multimodal",
+          "value": 0.73,
+          "unit": "macro F1 score",
+          "source": "Zwicky Transient Facility (ZTF)",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00228v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 34.1377,
+            "lon": -118.1253
+          }
+        },
+        {
+          "id": "ms-46a7d8543058",
+          "title": "Mnemosyne introduces Agentic Transaction Processing with formal safety guarantees for AI workflows",
+          "summary": "New Agentic Transaction Processing framework proves four safety properties and achieves 5.2-6.6% throughput overhead while rejecting all targeted violations in benchmarks.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": 5.9,
+          "unit": "% throughput overhead",
+          "source": "Unknown",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00269v3",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-cede87aeb630",
+          "title": "Seed2.0 model series achieves world-leading reasoning and visual understanding for real-world tasks",
+          "summary": "Seed2.0 introduces a new model series with world-leading reasoning intelligence, visual understanding, and search capabilities, substantially improving reliability on complex, long-horizon tasks for h",
+          "category": "Computing & AGI",
+          "subcategory": "frontier_models",
+          "value": null,
+          "unit": null,
+          "source": "ByteDance",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00248v1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 39.9042,
+            "lon": 116.4074
+          }
         }
       ]
     },
@@ -405,7 +500,8 @@
         "quantum_networking",
         "gate_fidelity",
         "coherence",
-        "trapped_ions"
+        "trapped_ions",
+        "quantum_resource_theory"
       ],
       "milestones": [
         {
@@ -487,6 +583,25 @@
           },
           "category": "Quantum Physics",
           "is_new": false
+        },
+        {
+          "id": "ms-f41cd2fc2342",
+          "title": "First certificate-checked solution for quantum-advantage resource extraction from two-mode Gaussian states",
+          "summary": "Researchers present the first complete, certificate-checked analytical solution for extracting quantum complexity resources from two-mode Gaussian states, proving no closed-form solution exists.",
+          "category": "Quantum Physics",
+          "subcategory": "quantum_resource_theory",
+          "value": null,
+          "unit": null,
+          "source": "Unknown",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00266v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         }
       ]
     },
@@ -614,7 +729,7 @@
           "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
           "is_record": false,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0853,
             "lon": 34.7818
@@ -848,54 +963,25 @@
         }
       ]
     },
-    "Quantum Gravity": {
-      "name": "Quantum Gravity",
+    "Computational Archaeology": {
+      "name": "Computational Archaeology",
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
-        "holographic_principle"
+        "ml_structural_analysis"
       ],
       "milestones": [
         {
-          "id": "ms-f9883157aeba",
-          "title": "Gravity found to be holographic, collapsing space dimensions",
-          "summary": "Theoretical physicists discover gravity can collapse space dimensions, suggesting a holographic nature of reality with profound unresolved implications.",
-          "category": "Quantum Gravity",
-          "subcategory": "holographic_principle",
-          "value": null,
-          "unit": null,
-          "source": "Quanta Magazine",
-          "date": "2026-09-25",
-          "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        }
-      ]
-    },
-    "Mathematics": {
-      "name": "Mathematics",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "graph_theory"
-      ],
-      "milestones": [
-        {
-          "id": "ms-2457b1872a8c",
-          "title": "Proof of Graph Sandwich Conjecture",
-          "summary": "Mathematicians prove the long-standing Graph Sandwich conjecture, providing a new framework for understanding complex networks.",
-          "category": "Mathematics",
-          "subcategory": "graph_theory",
-          "value": null,
-          "unit": null,
-          "source": "International mathematics collaboration",
-          "date": "2026-09-18",
-          "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+          "id": "ms-fb74b2202f85",
+          "title": "ML pipeline achieves 0.86 F1 classifying Inka khipu provenance and validates Santa Valley moiety structure",
+          "summary": "First reproducible ML pipeline for khipu analysis achieves strong provenance classification (F1=0.86) and computationally verifies the recto/verso moiety structure of Santa Valley khipus, revealing co",
+          "category": "Computational Archaeology",
+          "subcategory": "ml_structural_analysis",
+          "value": 0.86,
+          "unit": "F1 score",
+          "source": "Academic researchers (Open Khipu Repository)",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00185v1",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": true,
