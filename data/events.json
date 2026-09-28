@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-27T12:07:04.275545Z",
+  "last_update": "2026-09-28T13:59:33.803261Z",
   "version": "2.0.0",
   "events": [
     {
@@ -81,6 +81,32 @@
       }
     },
     {
+      "id": "ev-ms-0a279b32fda4",
+      "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
+      "category": "Biotechnology",
+      "value": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03312-z",
+      "date": "2026-09-10",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-005",
+      "title": "Largest synthetic genome synthesized",
+      "category": "Biotechnology",
+      "value": "1500000000 bp",
+      "source": "JCVI",
+      "url": "https://www.jcvi.org",
+      "date": "2026-06-01",
+      "geolocation": {
+        "lat": 32.7157,
+        "lon": -117.1611
+      }
+    },
+    {
       "id": "ev-bio-001",
       "title": "CRISPR in-vivo editing efficiency",
       "category": "Biotechnology",
@@ -91,6 +117,19 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-e0d7fb1f057f",
+      "title": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
+      "category": "Biotechnology",
+      "value": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03298-8",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -159,26 +198,13 @@
       }
     },
     {
-      "id": "ev-bio-005",
-      "title": "Largest synthetic genome synthesized",
+      "id": "ev-ms-8644b2a34d60",
+      "title": "New ionizable lipid LC-1 enables efficient LNP delivery of large gene editors to multiple tissues",
       "category": "Biotechnology",
-      "value": "1500000000 bp",
-      "source": "JCVI",
-      "url": "https://www.jcvi.org",
-      "date": "2026-06-01",
-      "geolocation": {
-        "lat": 32.7157,
-        "lon": -117.1611
-      }
-    },
-    {
-      "id": "ev-ms-0a279b32fda4",
-      "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
-      "category": "Biotechnology",
-      "value": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
+      "value": "New ionizable lipid LC-1 enables efficient LNP delivery of large gene editors to multiple tissues",
       "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03312-z",
-      "date": "2026-09-10",
+      "url": "https://www.nature.com/articles/s41587-026-03297-9",
+      "date": "2026-09-28",
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
@@ -212,9 +238,9 @@
     },
     {
       "id": "ev-ms-cede87aeb630",
-      "title": "Seed2.0 model series achieves world-leading reasoning and visual understanding for real-world tasks",
+      "title": "Seed2.0 model achieves world-leading reasoning and multimodal capabilities",
       "category": "Computing & AGI",
-      "value": "Seed2.0 model series achieves world-leading reasoning and visual understanding for real-world tasks",
+      "value": "Seed2.0 model achieves world-leading reasoning and multimodal capabilities",
       "source": "ByteDance",
       "url": "http://arxiv.org/abs/2607.00248v1",
       "date": "2026-06-30",
@@ -260,6 +286,19 @@
       "geolocation": {
         "lat": 37.3688,
         "lon": -122.0363
+      }
+    },
+    {
+      "id": "ev-ms-fc6083e0cc69",
+      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification using multimodal data",
+      "category": "Computing & AGI",
+      "value": "0.73 macro F1 score",
+      "source": "Zwicky Transient Facility (ZTF) collaboration",
+      "url": "http://arxiv.org/abs/2607.00228v1",
+      "date": "2026-06-30",
+      "geolocation": {
+        "lat": 34.1377,
+        "lon": -118.1253
       }
     },
     {
@@ -559,19 +598,6 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
-      }
-    },
-    {
-      "id": "ev-ms-fc6083e0cc69",
-      "title": "ORACLE-2 achieves 0.73 macro F1 for real-time transient classification using multimodal data",
-      "category": "Computing & AGI",
-      "value": "0.73 macro F1 score",
-      "source": "Zwicky Transient Facility (ZTF)",
-      "url": "http://arxiv.org/abs/2607.00228v1",
-      "date": "2026-06-30",
-      "geolocation": {
-        "lat": 34.1377,
-        "lon": -118.1253
       }
     }
   ]

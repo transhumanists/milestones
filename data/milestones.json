@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-27T12:07:04.275545Z",
+  "last_update": "2026-09-28T13:59:33.803261Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -19,6 +19,44 @@
         "biosensors"
       ],
       "milestones": [
+        {
+          "id": "ms-e0d7fb1f057f",
+          "title": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
+          "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling more efficient delivery of large RNA payloads for in vivo genome editing.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03298-8",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-8644b2a34d60",
+          "title": "New ionizable lipid LC-1 enables efficient LNP delivery of large gene editors to multiple tissues",
+          "summary": "Screening identified lipid LC-1 that enhances endosomal escape and achieves efficient genome editing in liver, lung, and brain of mice using lipid nanoparticles for large gene-editor mRNAs.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03297-9",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
         {
           "id": "ms-1d88f31518db",
           "title": "Alkermes reports pioneering ADHD data for orexin agonist",
@@ -430,14 +468,33 @@
           }
         },
         {
+          "id": "ms-09edac1db332",
+          "title": "Evaluation-as-Search adaptive probing finds 2.5× more grounding failures in meeting assistants",
+          "summary": "A new adaptive evaluation framework (EaS) and MeetingProbe benchmark reveal LLM meeting assistants fail on 7.1% of targeted queries versus 2.9% for random probing, identifying eight discourse-pragmati",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 2.5,
+          "unit": "x",
+          "source": "Research Team",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2608.20392v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-fc6083e0cc69",
-          "title": "ORACLE-2 achieves 0.73 macro F1 for real-time transient classification using multimodal data",
-          "summary": "The ORACLE-2 Omni model combines light curves, metadata, and images to improve real-time classification of astronomical transients by up to 40% over light-curve-only models.",
+          "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification using multimodal data",
+          "summary": "A new multimodal AI model combining light curves, metadata, and images improves real-time classification of astronomical transients by up to 40% over light-curve-only methods, deployed on the ZTF aler",
           "category": "Computing & AGI",
           "subcategory": "multimodal",
           "value": 0.73,
           "unit": "macro F1 score",
-          "source": "Zwicky Transient Facility (ZTF)",
+          "source": "Zwicky Transient Facility (ZTF) collaboration",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00228v1",
           "is_record": true,
@@ -446,6 +503,25 @@
           "geolocation": {
             "lat": 34.1377,
             "lon": -118.1253
+          }
+        },
+        {
+          "id": "ms-cede87aeb630",
+          "title": "Seed2.0 model achieves world-leading reasoning and multimodal capabilities",
+          "summary": "Seed2.0 model series demonstrates world-leading reasoning, visual understanding, and search capabilities for complex real-world tasks, serving hundreds of millions of users.",
+          "category": "Computing & AGI",
+          "subcategory": "frontier_models",
+          "value": null,
+          "unit": null,
+          "source": "ByteDance",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00248v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 39.9042,
+            "lon": 116.4074
           }
         },
         {
@@ -465,25 +541,6 @@
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
-          }
-        },
-        {
-          "id": "ms-cede87aeb630",
-          "title": "Seed2.0 model series achieves world-leading reasoning and visual understanding for real-world tasks",
-          "summary": "Seed2.0 introduces a new model series with world-leading reasoning intelligence, visual understanding, and search capabilities, substantially improving reliability on complex, long-horizon tasks for h",
-          "category": "Computing & AGI",
-          "subcategory": "frontier_models",
-          "value": null,
-          "unit": null,
-          "source": "ByteDance",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00248v1",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 39.9042,
-            "lon": 116.4074
           }
         }
       ]
@@ -597,7 +654,7 @@
           "url": "http://arxiv.org/abs/2607.00266v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -968,6 +1025,7 @@
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
+        "pattern_mining",
         "ml_structural_analysis"
       ],
       "milestones": [
@@ -980,6 +1038,25 @@
           "value": 0.86,
           "unit": "F1 score",
           "source": "Academic researchers (Open Khipu Repository)",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00185v1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-10f19d45d95b",
+          "title": "ML-driven Structural Pattern Mining of Inka Khipus",
+          "summary": "A machine-learning pipeline achieved an F1 score of 0.86 in classifying Inka Late Horizon imperial style khipus using structural feature mining.",
+          "category": "Computational Archaeology",
+          "subcategory": "pattern_mining",
+          "value": 0.86,
+          "unit": "F1 score",
+          "source": "Open Khipu Repository",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00185v1",
           "is_record": false,
