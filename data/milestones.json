@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-28T13:59:33.803261Z",
+  "last_update": "2026-09-30T12:47:34.344988Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -19,6 +19,25 @@
         "biosensors"
       ],
       "milestones": [
+        {
+          "id": "ms-bc2c513b6177",
+          "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
+          "summary": "AI-driven framework AGENT enables mRNA vaccines retaining full bioactivity after 2 months at 37°C, allowing cold-chain-free delivery via microneedle patches.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
+          "value": 37,
+          "unit": "°C",
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03330-x",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
         {
           "id": "ms-e0d7fb1f057f",
           "title": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
@@ -52,6 +71,25 @@
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-76a6862f54e8",
+          "title": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
+          "summary": "A new photolabile oligonucleotide system uses topological light gradients to achieve spatially resolved single-cell measurements linking epigenome regulation to gene expression.",
+          "category": "Biotechnology",
+          "subcategory": "microscopy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-25",
+          "url": "https://www.nature.com/articles/s41587-026-03328-5",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -450,18 +488,37 @@
         },
         {
           "id": "ms-d6824a356960",
-          "title": "EgoSafetyBench: Egocentric Video Benchmark for VLM Safety Guards",
-          "summary": "Introduces EgoSafetyBench, a 1,200-scenario egocentric video benchmark to evaluate vision-language models as runtime safety guards for embodied agents.",
+          "title": "EgoSafetyBench: Egocentric Video Benchmark for Embodied VLM Safety Guards",
+          "summary": "New 1,200-scenario egocentric video benchmark evaluates vision-language models as streaming safety guards for embodied agents using contrastive ladders at half-second granularity.",
           "category": "Computing & AGI",
           "subcategory": "benchmarks",
           "value": 1200,
           "unit": "scenarios",
-          "source": "Research authors",
+          "source": "Research institution",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00218v1",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-110c8b5371e0",
+          "title": "ASPIRE achieves up to 77% improvement on robot manipulation benchmarks via autonomous skill discovery",
+          "summary": "ASPIRE, a continual learning system for autonomous robot skill programming, surpasses prior methods by up to 77% on LIBERO-Pro, 72% on Robosuite bimanual handover, and 32% on BEHAVIOR-1K household tas",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": 77,
+          "unit": "percent improvement",
+          "source": "ASPIRE research team",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00272v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -499,7 +556,7 @@
           "url": "http://arxiv.org/abs/2607.00228v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 34.1377,
             "lon": -118.1253
@@ -1020,46 +1077,55 @@
         }
       ]
     },
-    "Computational Archaeology": {
-      "name": "Computational Archaeology",
+    "Computer Vision": {
+      "name": "Computer Vision",
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
-        "pattern_mining",
-        "ml_structural_analysis"
+        "ocr"
       ],
       "milestones": [
         {
-          "id": "ms-fb74b2202f85",
-          "title": "ML pipeline achieves 0.86 F1 classifying Inka khipu provenance and validates Santa Valley moiety structure",
-          "summary": "First reproducible ML pipeline for khipu analysis achieves strong provenance classification (F1=0.86) and computationally verifies the recto/verso moiety structure of Santa Valley khipus, revealing co",
-          "category": "Computational Archaeology",
-          "subcategory": "ml_structural_analysis",
-          "value": 0.86,
-          "unit": "F1 score",
-          "source": "Academic researchers (Open Khipu Repository)",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00185v1",
-          "is_record": false,
+          "id": "ms-6a684b1bc5a3",
+          "title": "LV-ROVER-MLT achieves record-low CER 0.0074 in Maltese OCR competition",
+          "summary": "LV-ROVER-MLT wins DocEng 2026 Maltese OCR competition with held-out character error rate 0.0074, halving the next-best score and demonstrating synthetic fine-tuning plus multi-stream arbitration for l",
+          "category": "Computer Vision",
+          "subcategory": "ocr",
+          "value": 0.0074,
+          "unit": "CER",
+          "source": "LV-ROVER-MLT researchers",
+          "date": "2026-01-01",
+          "url": "http://arxiv.org/abs/2607.00250v5",
+          "is_record": true,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
           }
-        },
+        }
+      ]
+    },
+    "Legal AI": {
+      "name": "Legal AI",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "legal_datasets"
+      ],
+      "milestones": [
         {
-          "id": "ms-10f19d45d95b",
-          "title": "ML-driven Structural Pattern Mining of Inka Khipus",
-          "summary": "A machine-learning pipeline achieved an F1 score of 0.86 in classifying Inka Late Horizon imperial style khipus using structural feature mining.",
-          "category": "Computational Archaeology",
-          "subcategory": "pattern_mining",
-          "value": 0.86,
-          "unit": "F1 score",
-          "source": "Open Khipu Repository",
+          "id": "ms-0ef07b4ce70b",
+          "title": "ImmigrationReason: 12,375 USCIS AAO decisions dataset for legal reasoning",
+          "summary": "A new structured dataset of 12,375 U.S. immigration appeals decisions spanning 2005–2026 enables legal reasoning research with per-criterion evidence labels, adjudicator critiques, and citations.",
+          "category": "Legal AI",
+          "subcategory": "legal_datasets",
+          "value": 12375,
+          "unit": "decisions",
+          "source": "Academic researchers",
           "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00185v1",
-          "is_record": false,
+          "url": "http://arxiv.org/abs/2608.20391v1",
+          "is_record": true,
           "is_breakthrough": true,
           "is_new": true,
           "geolocation": {

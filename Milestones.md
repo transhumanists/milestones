@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-09-28T13:59:33.806919Z · 55 active milestones across 8 categories*
+*Auto-generated: 2026-09-30T12:47:34.356966Z · 58 active milestones across 9 categories*
 
 ---
 
@@ -12,23 +12,25 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
-| 2 | `gene_therapy` | New ionizable lipid LC-1 enables efficient LNP del  | — | Nature Biotechnology | 2026-09-28 |
-| 3 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
-| 4 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
-| 5 | `biosensors` | Engineered nanopore simultaneously identifies sacc  | — | Nature Biotechnology | 2026-09-14 |
-| 6 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
-| 7 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
-| 8 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
-| 9 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
-| 10 | `microscopy` | Electron microscope resolution  | **0.39** Ångström | Thermo Fisher FEI | 2026-08-18 |
-| 11 | `immunotherapy` | CAR-T manufacturing speed (bedside)  | **7** days | 驯玉兰生物 | 2026-08-01 |
-| 12 | `biosensors` | Wearable simultaneous biomarker sensors  | **12** analytes | Dexcom | 2026-07-20 |
-| 13 | `longevity` | Max lifespan extension (mouse)  | **38.4** % | Harvard Sinclair Lab | 2026-07-15 |
-| 14 | `macroscopy` | In-vivo whole-organ 3D imaging  | **3.2** µm | MPI-CBG | 2026-07-01 |
-| 15 | `gene_therapy` | AAV vector delivery efficiency  | **91.7** % | Spark Therapeutics | 2026-06-15 |
-| 16 | `synthetic_biology` | Largest synthetic genome synthesized  | **1500000000** bp | JCVI | 2026-06-01 |
-| 17 | `neuroscience` | Brain organoid complexity (neurons)  | **100000000** neurons | ETH Zürich | 2026-05-20 |
+| 1 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va 🆕 | **37** °C | Nature Biotechnology | 2026-09-28 |
+| 2 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
+| 3 | `gene_therapy` | New ionizable lipid LC-1 enables efficient LNP del  | — | Nature Biotechnology | 2026-09-28 |
+| 4 | `microscopy` | Photolabile oligonucleotides enable spatially reso 🆕 | — | Nature Biotechnology | 2026-09-25 |
+| 5 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
+| 6 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
+| 7 | `biosensors` | Engineered nanopore simultaneously identifies sacc  | — | Nature Biotechnology | 2026-09-14 |
+| 8 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
+| 9 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
+| 10 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
+| 11 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
+| 12 | `microscopy` | Electron microscope resolution  | **0.39** Ångström | Thermo Fisher FEI | 2026-08-18 |
+| 13 | `immunotherapy` | CAR-T manufacturing speed (bedside)  | **7** days | 驯玉兰生物 | 2026-08-01 |
+| 14 | `biosensors` | Wearable simultaneous biomarker sensors  | **12** analytes | Dexcom | 2026-07-20 |
+| 15 | `longevity` | Max lifespan extension (mouse)  | **38.4** % | Harvard Sinclair Lab | 2026-07-15 |
+| 16 | `macroscopy` | In-vivo whole-organ 3D imaging  | **3.2** µm | MPI-CBG | 2026-07-01 |
+| 17 | `gene_therapy` | AAV vector delivery efficiency  | **91.7** % | Spark Therapeutics | 2026-06-15 |
+| 18 | `synthetic_biology` | Largest synthetic genome synthesized  | **1500000000** bp | JCVI | 2026-06-01 |
+| 19 | `neuroscience` | Brain organoid complexity (neurons)  | **100000000** neurons | ETH Zürich | 2026-05-20 |
 
 ## 2. Computing & AGI 🧠
 
@@ -43,11 +45,12 @@
 | 5 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
 | 6 | `gpu_efficiency` | Training TFLOPS/W  | **2.1** TFLOPS/W | NVIDIA GB300 | 2026-07-28 |
 | 7 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
-| 8 | `benchmarks` | EgoSafetyBench: Egocentric Video Benchmark for VLM  | **1200** scenarios | Research authors | 2026-06-30 |
-| 9 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
-| 10 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time 🆕 | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
-| 11 | `frontier_models` | Seed2.0 model achieves world-leading reasoning and  | — | ByteDance | 2026-06-30 |
-| 12 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** % throughput overhead | Unknown | 2026-06-30 |
+| 8 | `benchmarks` | EgoSafetyBench: Egocentric Video Benchmark for Emb  | **1200** scenarios | Research institution | 2026-06-30 |
+| 9 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robot man 🆕 | **77** percent improvement | ASPIRE research team | 2026-06-30 |
+| 10 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
+| 11 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
+| 12 | `frontier_models` | Seed2.0 model achieves world-leading reasoning and  | — | ByteDance | 2026-06-30 |
+| 13 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** % throughput overhead | Unknown | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
 
@@ -108,14 +111,21 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Computational Archaeology 📌
+## 8. Computer Vision 📌
 
-*Color: #aaaaaa · Subcategories: 2*
+*Color: #aaaaaa · Subcategories: 1*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `ml_structural_analysis` | ML pipeline achieves 0.86 F1 classifying Inka khip  | **0.86** F1 score | Academic researchers | 2026-06-30 |
-| 2 | `pattern_mining` | ML-driven Structural Pattern Mining of Inka Khipus 🆕 | **0.86** F1 score | Open Khipu Repositor | 2026-06-30 |
+| 1 | `ocr` | LV-ROVER-MLT achieves record-low CER 0.0074 in Mal 🆕 | **0.0074** CER | LV-ROVER-MLT researc | 2026-01-01 |
+
+## 9. Legal AI 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `legal_datasets` | ImmigrationReason: 12,375 USCIS AAO decisions data 🆕 | **12375** decisions | Academic researchers | 2026-06-30 |
 
 ---
-*Last auto-generated: 2026-09-28T13:59:33.806919Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-09-30T12:47:34.356966Z · Pipeline: `transhumanists/apis`*

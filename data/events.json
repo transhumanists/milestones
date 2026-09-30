@@ -1,7 +1,72 @@
 {
-  "last_update": "2026-09-28T13:59:33.803261Z",
+  "last_update": "2026-09-30T12:47:34.344988Z",
   "version": "2.0.0",
   "events": [
+    {
+      "id": "ev-ms-e0d7fb1f057f",
+      "title": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
+      "category": "Biotechnology",
+      "value": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03298-8",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-001",
+      "title": "CRISPR in-vivo editing efficiency",
+      "category": "Biotechnology",
+      "value": "94.2 %",
+      "source": "Broad Institute",
+      "url": "https://www.broadinstitute.org",
+      "date": "2026-08-25",
+      "geolocation": {
+        "lat": 42.3375,
+        "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-8644b2a34d60",
+      "title": "New ionizable lipid LC-1 enables efficient LNP delivery of large gene editors to multiple tissues",
+      "category": "Biotechnology",
+      "value": "New ionizable lipid LC-1 enables efficient LNP delivery of large gene editors to multiple tissues",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03297-9",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-008",
+      "title": "AAV vector delivery efficiency",
+      "category": "Biotechnology",
+      "value": "91.7 %",
+      "source": "Spark Therapeutics",
+      "url": "https://sparktx.com",
+      "date": "2026-06-15",
+      "geolocation": {
+        "lat": 39.9526,
+        "lon": -75.1652
+      }
+    },
+    {
+      "id": "ev-ms-bc2c513b6177",
+      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
+      "category": "Biotechnology",
+      "value": "37 °C",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03330-x",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
     {
       "id": "ev-ms-1d88f31518db",
       "title": "Alkermes reports pioneering ADHD data for orexin agonist",
@@ -107,32 +172,6 @@
       }
     },
     {
-      "id": "ev-bio-001",
-      "title": "CRISPR in-vivo editing efficiency",
-      "category": "Biotechnology",
-      "value": "94.2 %",
-      "source": "Broad Institute",
-      "url": "https://www.broadinstitute.org",
-      "date": "2026-08-25",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-ms-e0d7fb1f057f",
-      "title": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
-      "category": "Biotechnology",
-      "value": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03298-8",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
       "id": "ev-bio-002",
       "title": "Neural implant electrode density",
       "category": "Biotechnology",
@@ -159,6 +198,19 @@
       }
     },
     {
+      "id": "ev-ms-76a6862f54e8",
+      "title": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
+      "category": "Biotechnology",
+      "value": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03328-5",
+      "date": "2026-09-25",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
       "id": "ev-bio-004",
       "title": "Max lifespan extension (mouse)",
       "category": "Biotechnology",
@@ -182,32 +234,6 @@
       "geolocation": {
         "lat": 51.0504,
         "lon": 13.7373
-      }
-    },
-    {
-      "id": "ev-bio-008",
-      "title": "AAV vector delivery efficiency",
-      "category": "Biotechnology",
-      "value": "91.7 %",
-      "source": "Spark Therapeutics",
-      "url": "https://sparktx.com",
-      "date": "2026-06-15",
-      "geolocation": {
-        "lat": 39.9526,
-        "lon": -75.1652
-      }
-    },
-    {
-      "id": "ev-ms-8644b2a34d60",
-      "title": "New ionizable lipid LC-1 enables efficient LNP delivery of large gene editors to multiple tissues",
-      "category": "Biotechnology",
-      "value": "New ionizable lipid LC-1 enables efficient LNP delivery of large gene editors to multiple tissues",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03297-9",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {
