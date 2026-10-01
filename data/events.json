@@ -1,31 +1,18 @@
 {
-  "last_update": "2026-09-30T12:47:34.344988Z",
+  "last_update": "2026-10-01T13:20:33.357259Z",
   "version": "2.0.0",
   "events": [
     {
-      "id": "ev-ms-e0d7fb1f057f",
-      "title": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
+      "id": "ev-ms-bc2c513b6177",
+      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
       "category": "Biotechnology",
-      "value": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
+      "value": "37 °C",
       "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03298-8",
+      "url": "https://www.nature.com/articles/s41587-026-03330-x",
       "date": "2026-09-28",
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-001",
-      "title": "CRISPR in-vivo editing efficiency",
-      "category": "Biotechnology",
-      "value": "94.2 %",
-      "source": "Broad Institute",
-      "url": "https://www.broadinstitute.org",
-      "date": "2026-08-25",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
       }
     },
     {
@@ -55,16 +42,55 @@
       }
     },
     {
-      "id": "ev-ms-bc2c513b6177",
-      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
+      "id": "ev-ms-e0d7fb1f057f",
+      "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
       "category": "Biotechnology",
-      "value": "37 °C",
+      "value": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
       "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03330-x",
+      "url": "https://www.nature.com/articles/s41587-026-03298-8",
       "date": "2026-09-28",
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-001",
+      "title": "CRISPR in-vivo editing efficiency",
+      "category": "Biotechnology",
+      "value": "94.2 %",
+      "source": "Broad Institute",
+      "url": "https://www.broadinstitute.org",
+      "date": "2026-08-25",
+      "geolocation": {
+        "lat": 42.3375,
+        "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-76a6862f54e8",
+      "title": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
+      "category": "Biotechnology",
+      "value": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03328-5",
+      "date": "2026-09-25",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-003",
+      "title": "Electron microscope resolution",
+      "category": "Biotechnology",
+      "value": "0.39 Ångström",
+      "source": "Thermo Fisher FEI",
+      "url": "https://www.thermofisher.com",
+      "date": "2026-08-18",
+      "geolocation": {
+        "lat": 44.4268,
+        "lon": -123.0764
       }
     },
     {
@@ -185,32 +211,6 @@
       }
     },
     {
-      "id": "ev-bio-003",
-      "title": "Electron microscope resolution",
-      "category": "Biotechnology",
-      "value": "0.39 Ångström",
-      "source": "Thermo Fisher FEI",
-      "url": "https://www.thermofisher.com",
-      "date": "2026-08-18",
-      "geolocation": {
-        "lat": 44.4268,
-        "lon": -123.0764
-      }
-    },
-    {
-      "id": "ev-ms-76a6862f54e8",
-      "title": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
-      "category": "Biotechnology",
-      "value": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03328-5",
-      "date": "2026-09-25",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
       "id": "ev-bio-004",
       "title": "Max lifespan extension (mouse)",
       "category": "Biotechnology",
@@ -318,8 +318,8 @@
       "id": "ev-ms-fc6083e0cc69",
       "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification using multimodal data",
       "category": "Computing & AGI",
-      "value": "0.73 macro F1 score",
-      "source": "Zwicky Transient Facility (ZTF) collaboration",
+      "value": "0.73 macro F1",
+      "source": "Zwicky Transient Facility collaboration",
       "url": "http://arxiv.org/abs/2607.00228v1",
       "date": "2026-06-30",
       "geolocation": {
@@ -624,6 +624,19 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
+      }
+    },
+    {
+      "id": "ev-ms-2a45f74dd818",
+      "title": "Deep learning perturbation models outperform baselines on calibrated metrics",
+      "category": "Biotechnology",
+      "value": "Deep learning perturbation models outperform baselines on calibrated metrics",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03307-w",
+      "date": "2026-10-01",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     }
   ]

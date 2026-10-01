@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-30T12:47:34.344988Z",
+  "last_update": "2026-10-01T13:20:33.357259Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -16,9 +16,29 @@
         "neuroscience",
         "gene_therapy",
         "immunotherapy",
-        "biosensors"
+        "biosensors",
+        "ml_perturbation"
       ],
       "milestones": [
+        {
+          "id": "ms-2a45f74dd818",
+          "title": "Deep learning perturbation models outperform baselines on calibrated metrics",
+          "summary": "Calibration-aware evaluation demonstrates deep learning models surpass baseline methods in perturbation prediction.",
+          "category": "Biotechnology",
+          "subcategory": "ml_perturbation",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-01",
+          "url": "https://www.nature.com/articles/s41587-026-03307-w",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
         {
           "id": "ms-bc2c513b6177",
           "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
@@ -31,25 +51,6 @@
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03330-x",
           "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
-          "id": "ms-e0d7fb1f057f",
-          "title": "Lipid nanoparticles optimized for large RNA cargo and tissue targeting enhance in vivo genome editing",
-          "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling more efficient delivery of large RNA payloads for in vivo genome editing.",
-          "category": "Biotechnology",
-          "subcategory": "gene_editing",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-28",
-          "url": "https://www.nature.com/articles/s41587-026-03298-8",
-          "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
@@ -77,6 +78,25 @@
           }
         },
         {
+          "id": "ms-e0d7fb1f057f",
+          "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+          "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling better tissue targeting and enhanced in vivo genome editing.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03298-8",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-76a6862f54e8",
           "title": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
           "summary": "A new photolabile oligonucleotide system uses topological light gradients to achieve spatially resolved single-cell measurements linking epigenome regulation to gene expression.",
@@ -89,7 +109,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03328-5",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -488,16 +508,16 @@
         },
         {
           "id": "ms-d6824a356960",
-          "title": "EgoSafetyBench: Egocentric Video Benchmark for Embodied VLM Safety Guards",
-          "summary": "New 1,200-scenario egocentric video benchmark evaluates vision-language models as streaming safety guards for embodied agents using contrastive ladders at half-second granularity.",
+          "title": "EgoSafetyBench: Diagnostic Egocentric Video Benchmark for Embodied VLM Safety Guards",
+          "summary": "New 1,200-scenario egocentric video benchmark with half-second annotations and contrastive ladders evaluates VLMs as streaming safety guards for embodied agents across situational and visual-channel d",
           "category": "Computing & AGI",
           "subcategory": "benchmarks",
           "value": 1200,
           "unit": "scenarios",
-          "source": "Research institution",
+          "source": "Research Consortium",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00218v1",
-          "is_record": false,
+          "is_record": true,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
@@ -518,7 +538,7 @@
           "url": "http://arxiv.org/abs/2607.00272v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -546,17 +566,17 @@
         {
           "id": "ms-fc6083e0cc69",
           "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification using multimodal data",
-          "summary": "A new multimodal AI model combining light curves, metadata, and images improves real-time classification of astronomical transients by up to 40% over light-curve-only methods, deployed on the ZTF aler",
+          "summary": "A new multimodal AI model deployed on the ZTF alert stream improves early classification of astronomical transients by up to 40% over light-curve-only methods.",
           "category": "Computing & AGI",
           "subcategory": "multimodal",
           "value": 0.73,
-          "unit": "macro F1 score",
-          "source": "Zwicky Transient Facility (ZTF) collaboration",
+          "unit": "macro F1",
+          "source": "Zwicky Transient Facility collaboration",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00228v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 34.1377,
             "lon": -118.1253
@@ -1074,64 +1094,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Computer Vision": {
-      "name": "Computer Vision",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "ocr"
-      ],
-      "milestones": [
-        {
-          "id": "ms-6a684b1bc5a3",
-          "title": "LV-ROVER-MLT achieves record-low CER 0.0074 in Maltese OCR competition",
-          "summary": "LV-ROVER-MLT wins DocEng 2026 Maltese OCR competition with held-out character error rate 0.0074, halving the next-best score and demonstrating synthetic fine-tuning plus multi-stream arbitration for l",
-          "category": "Computer Vision",
-          "subcategory": "ocr",
-          "value": 0.0074,
-          "unit": "CER",
-          "source": "LV-ROVER-MLT researchers",
-          "date": "2026-01-01",
-          "url": "http://arxiv.org/abs/2607.00250v5",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        }
-      ]
-    },
-    "Legal AI": {
-      "name": "Legal AI",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "legal_datasets"
-      ],
-      "milestones": [
-        {
-          "id": "ms-0ef07b4ce70b",
-          "title": "ImmigrationReason: 12,375 USCIS AAO decisions dataset for legal reasoning",
-          "summary": "A new structured dataset of 12,375 U.S. immigration appeals decisions spanning 2005–2026 enables legal reasoning research with per-criterion evidence labels, adjudicator critiques, and citations.",
-          "category": "Legal AI",
-          "subcategory": "legal_datasets",
-          "value": 12375,
-          "unit": "decisions",
-          "source": "Academic researchers",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2608.20391v1",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
         }
       ]
     }
