@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-01T13:20:33.357259Z",
+  "last_update": "2026-10-02T12:47:17.275799Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -33,7 +33,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03307-w",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -88,6 +88,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03298-8",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-f725a993460b",
+          "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
+          "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03331-w",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -385,9 +404,48 @@
         "inference_cost",
         "code_generation",
         "math_reasoning",
-        "multimodal"
+        "multimodal",
+        "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-4ff7841d61d0",
+          "title": "TutlAit v1: first crowdsourced Moroccan Tamazight speech dataset with Arabic transcriptions and regional accent labels",
+          "summary": "First publicly available Moroccan Tamazight speech corpus with Modern Standard Arabic transcriptions and explicit regional accent labels, collected via a dedicated crowdsourcing web application.",
+          "category": "Computing & AGI",
+          "subcategory": "low_resource_speech",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-02",
+          "url": "https://arxiv.org/abs/2609.38219",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-4c82e9a77bfd",
+          "title": "BACKDROP benchmark evaluates agent robustness under real-world disturbances",
+          "summary": "BACKDROP introduces a new benchmark that quantifies how much agent capability degrades when everyday hazards like conflicting instructions or environmental changes are introduced during task execution",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-02",
+          "url": "https://arxiv.org/abs/2609.38469",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-847b6f6830b8",
           "title": "Forecast-Dojo: Replayable Benchmark for LLM Forecasting Agents",
@@ -418,6 +476,25 @@
           "source": "arXiv (Cornell University)",
           "date": "2026-09-23",
           "url": "https://arxiv.org/abs/2609.25166",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-a5b1f04cd153",
+          "title": "STAM: State-Transition-Aware Memory for Clinical LLM Agents",
+          "summary": "STAM introduces a state-transition-aware memory framework enabling LLM agents to track patient state changes while preserving clinical history for improved reasoning over medical records.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-09-01",
+          "url": "https://arxiv.org/abs/2609.38490",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -576,7 +653,7 @@
           "url": "http://arxiv.org/abs/2607.00228v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 34.1377,
             "lon": -118.1253
