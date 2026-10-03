@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-02T12:47:17.275799Z",
+  "last_update": "2026-10-03T11:42:12.382239Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -60,8 +60,8 @@
         },
         {
           "id": "ms-8644b2a34d60",
-          "title": "New ionizable lipid LC-1 enables efficient LNP delivery of large gene editors to multiple tissues",
-          "summary": "Screening identified lipid LC-1 that enhances endosomal escape and achieves efficient genome editing in liver, lung, and brain of mice using lipid nanoparticles for large gene-editor mRNAs.",
+          "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
+          "summary": "New ionizable lipid LC-1 improves endosomal escape and enables efficient genome editing in liver, lung, and brain of mice for large mRNA cargo.",
           "category": "Biotechnology",
           "subcategory": "gene_therapy",
           "value": null,
@@ -192,25 +192,6 @@
           }
         },
         {
-          "id": "ms-a5c98baae9a8",
-          "title": "Moderna mRNA flu vaccine receives FDA approval",
-          "summary": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
-          "category": "Biotechnology",
-          "subcategory": "immunotherapy",
-          "value": null,
-          "unit": null,
-          "source": "FDA",
-          "date": "2026-09-10",
-          "url": "https://www.nature.com/articles/s41587-026-03313-y",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 39.0555,
-            "lon": -77.038
-          }
-        },
-        {
           "id": "ms-0a279b32fda4",
           "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
           "summary": "Researchers develop biomimetic cells as a novel synthetic biology tool to investigate mechanical force sensing in T cells, opening new avenues for immunotherapy research.",
@@ -227,6 +208,25 @@
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-a5c98baae9a8",
+          "title": "Moderna mRNA flu vaccine receives FDA approval",
+          "summary": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
+          "category": "Biotechnology",
+          "subcategory": "immunotherapy",
+          "value": null,
+          "unit": null,
+          "source": "FDA",
+          "date": "2026-09-10",
+          "url": "https://www.nature.com/articles/s41587-026-03313-y",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 39.0555,
+            "lon": -77.038
           }
         },
         {
@@ -409,6 +409,25 @@
       ],
       "milestones": [
         {
+          "id": "ms-2df4dfe4cf19",
+          "title": "Format-aware fusion enables fast FP4 pretraining at 160B-token scale",
+          "summary": "New format-aware fusion technique co-designs FP4 quantization producers and consumers to achieve efficient Llama-3 8B pretraining over 160B tokens using native MXFP and NVFP formats.",
+          "category": "Computing & AGI",
+          "subcategory": "gpu_efficiency",
+          "value": 160,
+          "unit": "billion tokens",
+          "source": "arXiv",
+          "date": "2026-10-03",
+          "url": "https://arxiv.org/abs/2610.00053",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-4ff7841d61d0",
           "title": "TutlAit v1: first crowdsourced Moroccan Tamazight speech dataset with Arabic transcriptions and regional accent labels",
           "summary": "First publicly available Moroccan Tamazight speech corpus with Modern Standard Arabic transcriptions and explicit regional accent labels, collected via a dedicated crowdsourcing web application.",
@@ -421,7 +440,7 @@
           "url": "https://arxiv.org/abs/2609.38219",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1171,6 +1190,64 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Fluid Dynamics": {
+      "name": "Fluid Dynamics",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "turbulence"
+      ],
+      "milestones": [
+        {
+          "id": "ms-68dd813c40bb",
+          "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
+          "summary": "Researchers discovered that brine shrimp can reverse the direction of energy flow in turbulent systems, overturning a long-held assumption about turbulence.",
+          "category": "Fluid Dynamics",
+          "subcategory": "turbulence",
+          "value": null,
+          "unit": null,
+          "source": "Stanford University",
+          "date": "2026-10-02",
+          "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 37.4321,
+            "lon": -122.1665
+          }
+        }
+      ]
+    },
+    "Mathematics": {
+      "name": "Mathematics",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "probabilistic_combinatorics"
+      ],
+      "milestones": [
+        {
+          "id": "ms-29a0c9610b25",
+          "title": "Mathematicians Solve 55-Year-Old Conjecture Using Randomness",
+          "summary": "A group of young mathematicians resolved a decades-old conjecture by applying probabilistic methods, marking a major breakthrough in combinatorics.",
+          "category": "Mathematics",
+          "subcategory": "probabilistic_combinatorics",
+          "value": null,
+          "unit": null,
+          "source": "International team of mathematicians",
+          "date": "2026-09-28",
+          "url": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 38.8951,
+            "lon": -77.0364
+          }
         }
       ]
     }

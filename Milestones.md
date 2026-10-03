@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-02T12:47:17.278821Z · 61 active milestones across 7 categories*
+*Auto-generated: 2026-10-03T11:42:12.384145Z · 64 active milestones across 9 categories*
 
 ---
 
@@ -14,15 +14,15 @@
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
 | 2 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
-| 3 | `gene_therapy` | New ionizable lipid LC-1 enables efficient LNP del  | — | Nature Biotechnology | 2026-09-28 |
+| 3 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
 | 4 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
 | 5 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
 | 6 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
 | 7 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
 | 8 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
 | 9 | `biosensors` | Engineered nanopore simultaneously identifies sacc  | — | Nature Biotechnology | 2026-09-14 |
-| 10 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
-| 11 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
+| 10 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
+| 11 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
 | 12 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
 | 13 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
 | 14 | `microscopy` | Electron microscope resolution  | **0.39** Ångström | Thermo Fisher FEI | 2026-08-18 |
@@ -40,22 +40,23 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `low_resource_speech` | TutlAit v1: first crowdsourced Moroccan Tamazight  🆕 | — | arXiv | 2026-10-02 |
-| 2 | `benchmarks` | BACKDROP benchmark evaluates agent robustness unde  | — | arXiv | 2026-10-02 |
-| 3 | `benchmarks` | Forecast-Dojo: Replayable Benchmark for LLM Foreca  | **1568** events | arXiv preprint | 2026-09-25 |
-| 4 | `benchmarks` | New evaluation protocol detects sequential reappea  | — | arXiv (Cornell Unive | 2026-09-23 |
-| 5 | `agentic_ai` | STAM: State-Transition-Aware Memory for Clinical L  | — | arXiv | 2026-09-01 |
-| 6 | `frontier_models` | MMLU benchmark  | **94.7** % | OpenAI GPT-6 | 2026-08-19 |
-| 7 | `agentic_ai` | HumanEval pass@1  | **98.4** % | Anthropic Claude-4 | 2026-08-15 |
-| 8 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
-| 9 | `gpu_efficiency` | Training TFLOPS/W  | **2.1** TFLOPS/W | NVIDIA GB300 | 2026-07-28 |
-| 10 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
-| 11 | `benchmarks` | EgoSafetyBench: Diagnostic Egocentric Video Benchm  | **1200** scenarios | Research Consortium | 2026-06-30 |
-| 12 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robot man  | **77** percent improvement | ASPIRE research team | 2026-06-30 |
-| 13 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
-| 14 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 | Zwicky Transient Fac | 2026-06-30 |
-| 15 | `frontier_models` | Seed2.0 model achieves world-leading reasoning and  | — | ByteDance | 2026-06-30 |
-| 16 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** % throughput overhead | Unknown | 2026-06-30 |
+| 1 | `gpu_efficiency` | Format-aware fusion enables fast FP4 pretraining a 🆕 | **160** billion tokens | arXiv | 2026-10-03 |
+| 2 | `low_resource_speech` | TutlAit v1: first crowdsourced Moroccan Tamazight   | — | arXiv | 2026-10-02 |
+| 3 | `benchmarks` | BACKDROP benchmark evaluates agent robustness unde  | — | arXiv | 2026-10-02 |
+| 4 | `benchmarks` | Forecast-Dojo: Replayable Benchmark for LLM Foreca  | **1568** events | arXiv preprint | 2026-09-25 |
+| 5 | `benchmarks` | New evaluation protocol detects sequential reappea  | — | arXiv (Cornell Unive | 2026-09-23 |
+| 6 | `agentic_ai` | STAM: State-Transition-Aware Memory for Clinical L  | — | arXiv | 2026-09-01 |
+| 7 | `frontier_models` | MMLU benchmark  | **94.7** % | OpenAI GPT-6 | 2026-08-19 |
+| 8 | `agentic_ai` | HumanEval pass@1  | **98.4** % | Anthropic Claude-4 | 2026-08-15 |
+| 9 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
+| 10 | `gpu_efficiency` | Training TFLOPS/W  | **2.1** TFLOPS/W | NVIDIA GB300 | 2026-07-28 |
+| 11 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
+| 12 | `benchmarks` | EgoSafetyBench: Diagnostic Egocentric Video Benchm  | **1200** scenarios | Research Consortium | 2026-06-30 |
+| 13 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robot man  | **77** percent improvement | ASPIRE research team | 2026-06-30 |
+| 14 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
+| 15 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 | Zwicky Transient Fac | 2026-06-30 |
+| 16 | `frontier_models` | Seed2.0 model achieves world-leading reasoning and  | — | ByteDance | 2026-06-30 |
+| 17 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** % throughput overhead | Unknown | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
 
@@ -116,5 +117,21 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
+## 8. Fluid Dynamics 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `turbulence` | Sea Monkeys Show Scientists How To Rewrite a Rule  🆕 | — | Stanford University | 2026-10-02 |
+
+## 9. Mathematics 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `probabilistic_combinatorics` | Mathematicians Solve 55-Year-Old Conjecture Using  🆕 | — | International team o | 2026-09-28 |
+
 ---
-*Last auto-generated: 2026-10-02T12:47:17.278821Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-03T11:42:12.384145Z · Pipeline: `transhumanists/apis`*
