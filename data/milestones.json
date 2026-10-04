@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-03T11:42:12.382239Z",
+  "last_update": "2026-10-04T12:33:04.834575Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -47,6 +47,25 @@
           "subcategory": "gene_therapy",
           "value": 37,
           "unit": "°C",
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03330-x",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-0a6a4227b697",
+          "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
+          "summary": "AI framework AGENT engineers mRNA vaccines retaining full bioactivity after 2 months at 37°C, enabling cold-chain-free microneedle patch delivery in primates.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": 2,
+          "unit": "months",
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03330-x",
@@ -421,7 +440,7 @@
           "url": "https://arxiv.org/abs/2610.00053",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -622,19 +641,38 @@
           }
         },
         {
+          "id": "ms-1bc7a446bfe6",
+          "title": "ALEE benchmark evaluates text embeddings across 275+ languages",
+          "summary": "Researchers introduce ALEE, a cross-lingual embedding evaluation framework tested on over 275 languages, revealing persistent gaps in semantic representation for low-resource languages.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 275,
+          "unit": "languages",
+          "source": "Andrian0s",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00171v2",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-110c8b5371e0",
-          "title": "ASPIRE achieves up to 77% improvement on robot manipulation benchmarks via autonomous skill discovery",
-          "summary": "ASPIRE, a continual learning system for autonomous robot skill programming, surpasses prior methods by up to 77% on LIBERO-Pro, 72% on Robosuite bimanual handover, and 32% on BEHAVIOR-1K household tas",
+          "title": "ASPIRE achieves up to 77% improvement on robotic manipulation benchmarks",
+          "summary": "ASPIRE, an agentic continual learning system for robotics, autonomously writes and refines control programs, surpassing prior methods by up to 77% on LIBERO-Pro, 72% on Robosuite bimanual handover, an",
           "category": "Computing & AGI",
           "subcategory": "agentic_ai",
           "value": 77,
-          "unit": "percent improvement",
-          "source": "ASPIRE research team",
+          "unit": "%",
+          "source": "ASPIRE Research Team",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00272v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -680,8 +718,8 @@
         },
         {
           "id": "ms-cede87aeb630",
-          "title": "Seed2.0 model achieves world-leading reasoning and multimodal capabilities",
-          "summary": "Seed2.0 model series demonstrates world-leading reasoning, visual understanding, and search capabilities for complex real-world tasks, serving hundreds of millions of users.",
+          "title": "Seed2.0 AI model achieves world-leading reasoning and multimodal capabilities",
+          "summary": "ByteDance releases Seed2.0 model series claiming world-leading reasoning, visual understanding, and search capabilities for complex real-world tasks.",
           "category": "Computing & AGI",
           "subcategory": "frontier_models",
           "value": null,
@@ -1190,64 +1228,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Fluid Dynamics": {
-      "name": "Fluid Dynamics",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "turbulence"
-      ],
-      "milestones": [
-        {
-          "id": "ms-68dd813c40bb",
-          "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
-          "summary": "Researchers discovered that brine shrimp can reverse the direction of energy flow in turbulent systems, overturning a long-held assumption about turbulence.",
-          "category": "Fluid Dynamics",
-          "subcategory": "turbulence",
-          "value": null,
-          "unit": null,
-          "source": "Stanford University",
-          "date": "2026-10-02",
-          "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 37.4321,
-            "lon": -122.1665
-          }
-        }
-      ]
-    },
-    "Mathematics": {
-      "name": "Mathematics",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "probabilistic_combinatorics"
-      ],
-      "milestones": [
-        {
-          "id": "ms-29a0c9610b25",
-          "title": "Mathematicians Solve 55-Year-Old Conjecture Using Randomness",
-          "summary": "A group of young mathematicians resolved a decades-old conjecture by applying probabilistic methods, marking a major breakthrough in combinatorics.",
-          "category": "Mathematics",
-          "subcategory": "probabilistic_combinatorics",
-          "value": null,
-          "unit": null,
-          "source": "International team of mathematicians",
-          "date": "2026-09-28",
-          "url": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 38.8951,
-            "lon": -77.0364
-          }
         }
       ]
     }

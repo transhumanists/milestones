@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-03T11:42:12.382239Z",
+  "last_update": "2026-10-04T12:33:04.834575Z",
   "version": "2.0.0",
   "events": [
     {
@@ -117,6 +117,19 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
+      }
+    },
+    {
+      "id": "ev-ms-0a6a4227b697",
+      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
+      "category": "Biotechnology",
+      "value": "2 months",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03330-x",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -263,6 +276,19 @@
       }
     },
     {
+      "id": "ev-ai-004",
+      "title": "Training TFLOPS/W",
+      "category": "Computing & AGI",
+      "value": "2.1 TFLOPS/W",
+      "source": "NVIDIA GB300",
+      "url": "https://nvidia.com",
+      "date": "2026-07-28",
+      "geolocation": {
+        "lat": 37.3688,
+        "lon": -122.0363
+      }
+    },
+    {
       "id": "ev-ai-002",
       "title": "HumanEval pass@1",
       "category": "Computing & AGI",
@@ -316,28 +342,15 @@
     },
     {
       "id": "ev-ms-cede87aeb630",
-      "title": "Seed2.0 model achieves world-leading reasoning and multimodal capabilities",
+      "title": "Seed2.0 AI model achieves world-leading reasoning and multimodal capabilities",
       "category": "Computing & AGI",
-      "value": "Seed2.0 model achieves world-leading reasoning and multimodal capabilities",
+      "value": "Seed2.0 AI model achieves world-leading reasoning and multimodal capabilities",
       "source": "ByteDance",
       "url": "http://arxiv.org/abs/2607.00248v1",
       "date": "2026-06-30",
       "geolocation": {
         "lat": 39.9042,
         "lon": 116.4074
-      }
-    },
-    {
-      "id": "ev-ai-004",
-      "title": "Training TFLOPS/W",
-      "category": "Computing & AGI",
-      "value": "2.1 TFLOPS/W",
-      "source": "NVIDIA GB300",
-      "url": "https://nvidia.com",
-      "date": "2026-07-28",
-      "geolocation": {
-        "lat": 37.3688,
-        "lon": -122.0363
       }
     },
     {
@@ -650,32 +663,6 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
-      }
-    },
-    {
-      "id": "ev-ms-68dd813c40bb",
-      "title": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
-      "category": "Fluid Dynamics",
-      "value": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
-      "source": "Stanford University",
-      "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
-      "date": "2026-10-02",
-      "geolocation": {
-        "lat": 37.4321,
-        "lon": -122.1665
-      }
-    },
-    {
-      "id": "ev-ms-29a0c9610b25",
-      "title": "Mathematicians Solve 55-Year-Old Conjecture Using Randomness",
-      "category": "Mathematics",
-      "value": "Mathematicians Solve 55-Year-Old Conjecture Using Randomness",
-      "source": "International team of mathematicians",
-      "url": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 38.8951,
-        "lon": -77.0364
       }
     }
   ]
