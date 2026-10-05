@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-04T12:33:04.837606Z · 64 active milestones across 7 categories*
+*Auto-generated: 2026-10-05T14:17:38.058725Z · 64 active milestones across 7 categories*
 
 ---
 
@@ -16,8 +16,8 @@
 | 2 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
 | 3 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
 | 4 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
-| 5 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
-| 6 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 5 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 6 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
 | 7 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
 | 8 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
 | 9 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
@@ -54,7 +54,7 @@
 | 11 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
 | 12 | `benchmarks` | EgoSafetyBench: Diagnostic Egocentric Video Benchm  | **1200** scenarios | Research Consortium | 2026-06-30 |
 | 13 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
-| 14 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m 🆕 | **77** % | ASPIRE Research Team | 2026-06-30 |
+| 14 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE Research Team | 2026-06-30 |
 | 15 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
 | 16 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 | Zwicky Transient Fac | 2026-06-30 |
 | 17 | `frontier_models` | Seed2.0 AI model achieves world-leading reasoning   | — | ByteDance | 2026-06-30 |
@@ -120,4 +120,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-10-04T12:33:04.837606Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-05T14:17:38.058725Z · Pipeline: `transhumanists/apis`*

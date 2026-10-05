@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-04T12:33:04.834575Z",
+  "last_update": "2026-10-05T14:17:38.055509Z",
   "version": "2.0.0",
   "events": [
     {
@@ -55,29 +55,16 @@
       }
     },
     {
-      "id": "ev-ms-e0d7fb1f057f",
-      "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+      "id": "ev-ms-0a6a4227b697",
+      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
       "category": "Biotechnology",
-      "value": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+      "value": "2 months",
       "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03298-8",
+      "url": "https://www.nature.com/articles/s41587-026-03330-x",
       "date": "2026-09-28",
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-001",
-      "title": "CRISPR in-vivo editing efficiency",
-      "category": "Biotechnology",
-      "value": "94.2 %",
-      "source": "Broad Institute",
-      "url": "https://www.broadinstitute.org",
-      "date": "2026-08-25",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
       }
     },
     {
@@ -120,16 +107,29 @@
       }
     },
     {
-      "id": "ev-ms-0a6a4227b697",
-      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
+      "id": "ev-ms-e0d7fb1f057f",
+      "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
       "category": "Biotechnology",
-      "value": "2 months",
+      "value": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
       "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03330-x",
+      "url": "https://www.nature.com/articles/s41587-026-03298-8",
       "date": "2026-09-28",
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-001",
+      "title": "CRISPR in-vivo editing efficiency",
+      "category": "Biotechnology",
+      "value": "94.2 %",
+      "source": "Broad Institute",
+      "url": "https://www.broadinstitute.org",
+      "date": "2026-08-25",
+      "geolocation": {
+        "lat": 42.3375,
+        "lon": -71.1061
       }
     },
     {
