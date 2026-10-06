@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-05T14:17:38.058725Z · 64 active milestones across 7 categories*
+*Auto-generated: 2026-10-06T13:12:34.689923Z · 64 active milestones across 7 categories*
 
 ---
 
@@ -120,4 +120,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-10-05T14:17:38.058725Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-06T13:12:34.689923Z · Pipeline: `transhumanists/apis`*
