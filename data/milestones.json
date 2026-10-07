@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-06T13:12:34.686954Z",
+  "last_update": "2026-10-07T13:19:04.716204Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -20,6 +20,25 @@
         "ml_perturbation"
       ],
       "milestones": [
+        {
+          "id": "ms-79a5aeaa5895",
+          "title": "Shotgun genetic engineering enables novel mammalian metabolic pathways",
+          "summary": "Shotgun genetic engineering enables scalable discovery of novel metabolic pathways in mammalian cells, including synthesis of two essential amino acids.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-06",
+          "url": "https://www.nature.com/articles/s41587-026-03329-4",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
         {
           "id": "ms-2a45f74dd818",
           "title": "Deep learning perturbation models outperform baselines on calibrated metrics",
@@ -427,6 +446,25 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-bc6a33f89941",
+          "title": "Prefill-Only Decision Models Reduce Inference Cost by 10-100x",
+          "summary": "New prefill-only decision models eliminate decoding to make single calls one to two orders of magnitude cheaper than generative language models of similar scale.",
+          "category": "Computing & AGI",
+          "subcategory": "inference_cost",
+          "value": 100,
+          "unit": "x",
+          "source": "arXiv",
+          "date": "2026-10-07",
+          "url": "https://arxiv.org/abs/2610.07716",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-2df4dfe4cf19",
           "title": "Format-aware fusion enables fast FP4 pretraining at 160B-token scale",
