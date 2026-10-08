@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-07T13:19:04.716204Z",
+  "last_update": "2026-10-08T13:37:08.187936Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -22,8 +22,8 @@
       "milestones": [
         {
           "id": "ms-79a5aeaa5895",
-          "title": "Shotgun genetic engineering enables novel mammalian metabolic pathways",
-          "summary": "Shotgun genetic engineering enables scalable discovery of novel metabolic pathways in mammalian cells, including synthesis of two essential amino acids.",
+          "title": "Shotgun genetic engineering discovers novel mammalian metabolic pathways for essential amino acid synthesis",
+          "summary": "Shotgun genetic engineering enables discovery of new metabolic pathways in mammalian cells, including synthesis of two essential amino acids.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -97,25 +97,6 @@
           }
         },
         {
-          "id": "ms-8644b2a34d60",
-          "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
-          "summary": "New ionizable lipid LC-1 improves endosomal escape and enables efficient genome editing in liver, lung, and brain of mice for large mRNA cargo.",
-          "category": "Biotechnology",
-          "subcategory": "gene_therapy",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-28",
-          "url": "https://www.nature.com/articles/s41587-026-03297-9",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-f725a993460b",
           "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
           "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
@@ -126,6 +107,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03331-w",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-8644b2a34d60",
+          "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
+          "summary": "New ionizable lipid LC-1 improves endosomal escape and enables efficient genome editing in liver, lung, and brain of mice for large mRNA cargo.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03297-9",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -459,7 +459,7 @@
           "url": "https://arxiv.org/abs/2610.07716",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -756,8 +756,8 @@
         },
         {
           "id": "ms-cede87aeb630",
-          "title": "Seed2.0 AI model achieves world-leading reasoning and multimodal capabilities",
-          "summary": "ByteDance releases Seed2.0 model series claiming world-leading reasoning, visual understanding, and search capabilities for complex real-world tasks.",
+          "title": "Seed2.0 model series sets new frontier in reasoning and multimodal AI",
+          "summary": "ByteDance's Seed2.0 model series claims world-leading reasoning, visual understanding, and search capabilities, substantially improving reliability on complex real-world tasks for hundreds of millions",
           "category": "Computing & AGI",
           "subcategory": "frontier_models",
           "value": null,
@@ -784,6 +784,25 @@
           "source": "Unknown",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00269v3",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-c9cc51e4d880",
+          "title": "Theoretical sample complexity bounds for Gumbel-Max watermark proportion estimation",
+          "summary": "Researchers establish matching upper and lower bounds for estimating watermark proportions in LLM outputs, showing pivotal reduction increases sample complexity versus full observation.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv preprint",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00224v2",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,

@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-07T13:19:04.719350Z · 66 active milestones across 7 categories*
+*Auto-generated: 2026-10-08T13:37:08.190800Z · 67 active milestones across 7 categories*
 
 ---
 
@@ -12,12 +12,12 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `synthetic_biology` | Shotgun genetic engineering enables novel mammalia  | — | Nature Biotechnology | 2026-10-06 |
+| 1 | `synthetic_biology` | Shotgun genetic engineering discovers novel mammal  | — | Nature Biotechnology | 2026-10-06 |
 | 2 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
 | 3 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
 | 4 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
-| 5 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
-| 6 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 5 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 6 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
 | 7 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
 | 8 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
 | 9 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
@@ -42,7 +42,7 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `inference_cost` | Prefill-Only Decision Models Reduce Inference Cost 🆕 | **100** x | arXiv | 2026-10-07 |
+| 1 | `inference_cost` | Prefill-Only Decision Models Reduce Inference Cost  | **100** x | arXiv | 2026-10-07 |
 | 2 | `gpu_efficiency` | Format-aware fusion enables fast FP4 pretraining a  | **160** billion tokens | arXiv | 2026-10-03 |
 | 3 | `low_resource_speech` | TutlAit v1: first crowdsourced Moroccan Tamazight   | — | arXiv | 2026-10-02 |
 | 4 | `benchmarks` | BACKDROP benchmark evaluates agent robustness unde  | — | arXiv | 2026-10-02 |
@@ -59,8 +59,9 @@
 | 15 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE Research Team | 2026-06-30 |
 | 16 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
 | 17 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 | Zwicky Transient Fac | 2026-06-30 |
-| 18 | `frontier_models` | Seed2.0 AI model achieves world-leading reasoning   | — | ByteDance | 2026-06-30 |
+| 18 | `frontier_models` | Seed2.0 model series sets new frontier in reasonin  | — | ByteDance | 2026-06-30 |
 | 19 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** % throughput overhead | Unknown | 2026-06-30 |
+| 20 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
 
@@ -122,4 +123,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-10-07T13:19:04.719350Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-08T13:37:08.190800Z · Pipeline: `transhumanists/apis`*
