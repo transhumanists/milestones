@@ -1,12 +1,12 @@
 {
-  "last_update": "2026-10-08T13:37:08.187936Z",
+  "last_update": "2026-10-09T13:11:41.464567Z",
   "version": "2.0.0",
   "events": [
     {
       "id": "ev-ms-79a5aeaa5895",
-      "title": "Shotgun genetic engineering discovers novel mammalian metabolic pathways for essential amino acid synthesis",
+      "title": "Shotgun genetic engineering enables new mammalian metabolic pathways",
       "category": "Biotechnology",
-      "value": "Shotgun genetic engineering discovers novel mammalian metabolic pathways for essential amino acid synthesis",
+      "value": "Shotgun genetic engineering enables new mammalian metabolic pathways",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03329-4",
       "date": "2026-10-06",
@@ -143,6 +143,19 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-45ba0e7b2200",
+      "title": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
+      "category": "Biotechnology",
+      "value": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03315-w",
+      "date": "2026-10-05",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {

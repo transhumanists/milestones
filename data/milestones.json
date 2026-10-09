@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-08T13:37:08.187936Z",
+  "last_update": "2026-10-09T13:11:41.464567Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -22,8 +22,8 @@
       "milestones": [
         {
           "id": "ms-79a5aeaa5895",
-          "title": "Shotgun genetic engineering discovers novel mammalian metabolic pathways for essential amino acid synthesis",
-          "summary": "Shotgun genetic engineering enables discovery of new metabolic pathways in mammalian cells, including synthesis of two essential amino acids.",
+          "title": "Shotgun genetic engineering enables new mammalian metabolic pathways",
+          "summary": "A new shotgun genetic engineering method allows large-scale random gene combination testing to discover productive metabolic pathways in mammalian cells, including synthesis of two essential amino aci",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -31,6 +31,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-06",
           "url": "https://www.nature.com/articles/s41587-026-03329-4",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-45ba0e7b2200",
+          "title": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
+          "summary": "Researchers developed engineered avian R2 retrotransposons to enable site-specific DNA integration in human cells using an all-RNA-mediated approach.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-05",
+          "url": "https://www.nature.com/articles/s41587-026-03315-w",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -446,6 +465,25 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-da39844869ed",
+          "title": "Persistent KV cache enables 50M-token context window on single H100",
+          "summary": "A new memory layer (galahad-kv) saves and loads key-value state to encrypted NVMe disk, allowing a 50-million-token context window on one NVIDIA H100 without recomputation, drastically reducing infere",
+          "category": "Computing & AGI",
+          "subcategory": "inference_cost",
+          "value": 50000000,
+          "unit": "tokens",
+          "source": "arXiv (galahad-kv authors)",
+          "date": "2026-10-09",
+          "url": "https://arxiv.org/abs/2610.10845",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-bc6a33f89941",
           "title": "Prefill-Only Decision Models Reduce Inference Cost by 10-100x",
