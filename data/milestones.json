@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-09T13:11:41.464567Z",
+  "last_update": "2026-10-10T12:30:42.066199Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -40,11 +40,49 @@
           }
         },
         {
+          "id": "ms-353f7e5bc1a0",
+          "title": "Highly multiplexed mammalian metabolic engineering via shotgun screening",
+          "summary": "A shotgun screening approach simplifies and scales metabolic engineering in mammalian cells.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-06",
+          "url": "https://www.nature.com/articles/s41587-026-03318-7",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-45ba0e7b2200",
           "title": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
           "summary": "Researchers developed engineered avian R2 retrotransposons to enable site-specific DNA integration in human cells using an all-RNA-mediated approach.",
           "category": "Biotechnology",
           "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-05",
+          "url": "https://www.nature.com/articles/s41587-026-03315-w",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-fd76df20d111",
+          "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
+          "summary": "Researchers engineered avian R2 retrotransposons to achieve site-specific DNA integration in human cells, a breakthrough for gene therapy.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
           "value": null,
           "unit": null,
           "source": "Nature Biotechnology",
@@ -135,25 +173,6 @@
           }
         },
         {
-          "id": "ms-8644b2a34d60",
-          "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
-          "summary": "New ionizable lipid LC-1 improves endosomal escape and enables efficient genome editing in liver, lung, and brain of mice for large mRNA cargo.",
-          "category": "Biotechnology",
-          "subcategory": "gene_therapy",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-28",
-          "url": "https://www.nature.com/articles/s41587-026-03297-9",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-e0d7fb1f057f",
           "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
           "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling better tissue targeting and enhanced in vivo genome editing.",
@@ -164,6 +183,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03298-8",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-8644b2a34d60",
+          "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
+          "summary": "New ionizable lipid LC-1 improves endosomal escape and enables efficient genome editing in liver, lung, and brain of mice for large mRNA cargo.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03297-9",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -478,7 +516,7 @@
           "url": "https://arxiv.org/abs/2610.10845",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1080,6 +1118,44 @@
       ],
       "milestones": [
         {
+          "id": "ms-ba0f78571314",
+          "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Theft and Two-Way C2",
+          "summary": "Researchers disclose P7 DarkSword, a new iOS exploit kit variant with reduced footprint, crypto wallet theft, and two-way command-and-control communication.",
+          "category": "Cybersecurity",
+          "subcategory": "exploits",
+          "value": null,
+          "unit": null,
+          "source": "iVerify",
+          "date": "2026-10-09",
+          "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-20a3326da088",
+          "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
+          "summary": "Anthropic unveils OSS Scanner, a free opt-in service using its strongest AI models to periodically scan open-source projects for vulnerabilities.",
+          "category": "Cybersecurity",
+          "subcategory": "mitigations",
+          "value": null,
+          "unit": null,
+          "source": "Anthropic",
+          "date": "2026-10-09",
+          "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 37.7749,
+            "lon": -122.4194
+          }
+        },
+        {
           "id": "ms-84669fafeb66",
           "title": "Elementor WordPress Plugin CSRF Vulnerability Allows Site Takeover",
           "summary": "High-severity CSRF flaw in Elementor plugin (CVSS 8.8) enables unauthenticated attackers to create admin accounts via crafted links.",
@@ -1323,6 +1399,64 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "theoretical_computer_science": {
+      "name": "theoretical_computer_science",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "complexity_theory"
+      ],
+      "milestones": [
+        {
+          "id": "ms-a3f92df467c6",
+          "title": "Human proof of Unique Games milestone published ahead of rumored AI proof",
+          "summary": "Three computer scientists rushed to publish a milestone proof in the Unique Games problem amid rumors an AI system was close to solving it.",
+          "category": "theoretical_computer_science",
+          "subcategory": "complexity_theory",
+          "value": null,
+          "unit": null,
+          "source": "Simons Foundation",
+          "date": "2026-10-07",
+          "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        }
+      ]
+    },
+    "Fluid Dynamics": {
+      "name": "Fluid Dynamics",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "turbulence_reversal"
+      ],
+      "milestones": [
+        {
+          "id": "ms-0eae845a8c64",
+          "title": "Brine shrimp reveal reversible energy cascade in turbulence",
+          "summary": "Experiments with brine shrimp demonstrate that energy flow in turbulent systems can reverse direction, overturning a long-standing assumption in fluid dynamics.",
+          "category": "Fluid Dynamics",
+          "subcategory": "turbulence_reversal",
+          "value": null,
+          "unit": null,
+          "source": "Stanford University",
+          "date": "2026-10-02",
+          "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 37.4321,
+            "lon": -122.1665
+          }
         }
       ]
     }

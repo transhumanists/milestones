@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-09T13:11:41.464567Z",
+  "last_update": "2026-10-10T12:30:42.066199Z",
   "version": "2.0.0",
   "events": [
     {
@@ -68,6 +68,58 @@
       }
     },
     {
+      "id": "ev-ms-353f7e5bc1a0",
+      "title": "Highly multiplexed mammalian metabolic engineering via shotgun screening",
+      "category": "Biotechnology",
+      "value": "Highly multiplexed mammalian metabolic engineering via shotgun screening",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03318-7",
+      "date": "2026-10-06",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-45ba0e7b2200",
+      "title": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
+      "category": "Biotechnology",
+      "value": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03315-w",
+      "date": "2026-10-05",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-e0d7fb1f057f",
+      "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+      "category": "Biotechnology",
+      "value": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03298-8",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-001",
+      "title": "CRISPR in-vivo editing efficiency",
+      "category": "Biotechnology",
+      "value": "94.2 %",
+      "source": "Broad Institute",
+      "url": "https://www.broadinstitute.org",
+      "date": "2026-08-25",
+      "geolocation": {
+        "lat": 42.3375,
+        "lon": -71.1061
+      }
+    },
+    {
       "id": "ev-ms-2a45f74dd818",
       "title": "Deep learning perturbation models outperform baselines on calibrated metrics",
       "category": "Biotechnology",
@@ -120,36 +172,10 @@
       }
     },
     {
-      "id": "ev-ms-e0d7fb1f057f",
-      "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+      "id": "ev-ms-fd76df20d111",
+      "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
       "category": "Biotechnology",
-      "value": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03298-8",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-001",
-      "title": "CRISPR in-vivo editing efficiency",
-      "category": "Biotechnology",
-      "value": "94.2 %",
-      "source": "Broad Institute",
-      "url": "https://www.broadinstitute.org",
-      "date": "2026-08-25",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-ms-45ba0e7b2200",
-      "title": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
-      "category": "Biotechnology",
-      "value": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
+      "value": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03315-w",
       "date": "2026-10-05",
@@ -689,6 +715,32 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
+      }
+    },
+    {
+      "id": "ev-ms-0eae845a8c64",
+      "title": "Brine shrimp reveal reversible energy cascade in turbulence",
+      "category": "Fluid Dynamics",
+      "value": "Brine shrimp reveal reversible energy cascade in turbulence",
+      "source": "Stanford University",
+      "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+      "date": "2026-10-02",
+      "geolocation": {
+        "lat": 37.4321,
+        "lon": -122.1665
+      }
+    },
+    {
+      "id": "ev-ms-20a3326da088",
+      "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
+      "category": "Cybersecurity",
+      "value": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
+      "source": "Anthropic",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "date": "2026-10-09",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
       }
     }
   ]
