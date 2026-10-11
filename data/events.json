@@ -1,14 +1,27 @@
 {
-  "last_update": "2026-10-10T12:30:42.066199Z",
+  "last_update": "2026-10-11T12:55:13.324801Z",
   "version": "2.0.0",
   "events": [
     {
       "id": "ev-ms-79a5aeaa5895",
-      "title": "Shotgun genetic engineering enables new mammalian metabolic pathways",
+      "title": "Shotgun genetic engineering enables discovery of novel mammalian metabolic pathways",
       "category": "Biotechnology",
-      "value": "Shotgun genetic engineering enables new mammalian metabolic pathways",
+      "value": "2 essential amino acids synthesized",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03329-4",
+      "date": "2026-10-06",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-353f7e5bc1a0",
+      "title": "Highly multiplexed mammalian metabolic engineering via shotgun screening",
+      "category": "Biotechnology",
+      "value": "Highly multiplexed mammalian metabolic engineering via shotgun screening",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03318-7",
       "date": "2026-10-06",
       "geolocation": {
         "lat": 32.0603,
@@ -68,23 +81,10 @@
       }
     },
     {
-      "id": "ev-ms-353f7e5bc1a0",
-      "title": "Highly multiplexed mammalian metabolic engineering via shotgun screening",
-      "category": "Biotechnology",
-      "value": "Highly multiplexed mammalian metabolic engineering via shotgun screening",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03318-7",
-      "date": "2026-10-06",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
       "id": "ev-ms-45ba0e7b2200",
-      "title": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
+      "title": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
       "category": "Biotechnology",
-      "value": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
+      "value": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03315-w",
       "date": "2026-10-05",
@@ -120,13 +120,13 @@
       }
     },
     {
-      "id": "ev-ms-2a45f74dd818",
-      "title": "Deep learning perturbation models outperform baselines on calibrated metrics",
+      "id": "ev-ms-fd76df20d111",
+      "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
       "category": "Biotechnology",
-      "value": "Deep learning perturbation models outperform baselines on calibrated metrics",
+      "value": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
       "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03307-w",
-      "date": "2026-10-01",
+      "url": "https://www.nature.com/articles/s41587-026-03315-w",
+      "date": "2026-10-05",
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
@@ -172,13 +172,13 @@
       }
     },
     {
-      "id": "ev-ms-fd76df20d111",
-      "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
+      "id": "ev-ms-2a45f74dd818",
+      "title": "Deep learning perturbation models outperform baselines on calibrated metrics",
       "category": "Biotechnology",
-      "value": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
+      "value": "Deep learning perturbation models outperform baselines on calibrated metrics",
       "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03315-w",
-      "date": "2026-10-05",
+      "url": "https://www.nature.com/articles/s41587-026-03307-w",
+      "date": "2026-10-01",
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
@@ -260,6 +260,19 @@
       "geolocation": {
         "lat": 32.8844,
         "lon": -117.234
+      }
+    },
+    {
+      "id": "ev-ms-d092c3d026b8",
+      "title": "Detectrons: RNA-to-DNA barcode conversion for high-throughput RNA analysis",
+      "category": "Biotechnology",
+      "value": "Detectrons: RNA-to-DNA barcode conversion for high-throughput RNA analysis",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03334-7",
+      "date": "2026-10-05",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -407,10 +420,10 @@
     },
     {
       "id": "ev-ms-fc6083e0cc69",
-      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification using multimodal data",
+      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification on ZTF",
       "category": "Computing & AGI",
-      "value": "0.73 macro F1",
-      "source": "Zwicky Transient Facility collaboration",
+      "value": "0.73 macro F1 score",
+      "source": "Zwicky Transient Facility (ZTF) / Caltech",
       "url": "http://arxiv.org/abs/2607.00228v1",
       "date": "2026-06-30",
       "geolocation": {
@@ -575,6 +588,19 @@
       }
     },
     {
+      "id": "ev-ms-20a3326da088",
+      "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
+      "category": "Cybersecurity",
+      "value": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
+      "source": "Anthropic",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "date": "2026-10-09",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-cyber-002",
       "title": "Post-quantum TLS deployment (Top 100)",
       "category": "Cybersecurity",
@@ -715,32 +741,6 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
-      }
-    },
-    {
-      "id": "ev-ms-0eae845a8c64",
-      "title": "Brine shrimp reveal reversible energy cascade in turbulence",
-      "category": "Fluid Dynamics",
-      "value": "Brine shrimp reveal reversible energy cascade in turbulence",
-      "source": "Stanford University",
-      "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
-      "date": "2026-10-02",
-      "geolocation": {
-        "lat": 37.4321,
-        "lon": -122.1665
-      }
-    },
-    {
-      "id": "ev-ms-20a3326da088",
-      "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
-      "category": "Cybersecurity",
-      "value": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
-      "source": "Anthropic",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "date": "2026-10-09",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
       }
     }
   ]

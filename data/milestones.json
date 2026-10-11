@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-10T12:30:42.066199Z",
+  "last_update": "2026-10-11T12:55:13.324801Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -22,12 +22,12 @@
       "milestones": [
         {
           "id": "ms-79a5aeaa5895",
-          "title": "Shotgun genetic engineering enables new mammalian metabolic pathways",
-          "summary": "A new shotgun genetic engineering method allows large-scale random gene combination testing to discover productive metabolic pathways in mammalian cells, including synthesis of two essential amino aci",
+          "title": "Shotgun genetic engineering enables discovery of novel mammalian metabolic pathways",
+          "summary": "Random combinatorial gene testing at scale yields new productive metabolic pathways in mammalian cells, including synthesis of two essential amino acids.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
-          "value": null,
-          "unit": null,
+          "value": 2,
+          "unit": "essential amino acids synthesized",
           "source": "Nature Biotechnology",
           "date": "2026-10-06",
           "url": "https://www.nature.com/articles/s41587-026-03329-4",
@@ -60,8 +60,8 @@
         },
         {
           "id": "ms-45ba0e7b2200",
-          "title": "All-RNA-mediated targeted DNA integration using engineered R2 retrotransposons",
-          "summary": "Researchers developed engineered avian R2 retrotransposons to enable site-specific DNA integration in human cells using an all-RNA-mediated approach.",
+          "title": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
+          "summary": "Researchers engineered avian R2 retrotransposons to achieve site-specific DNA integration in human cells using an all-RNA system.",
           "category": "Biotechnology",
           "subcategory": "gene_editing",
           "value": null,
@@ -88,6 +88,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-05",
           "url": "https://www.nature.com/articles/s41587-026-03315-w",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-d092c3d026b8",
+          "title": "Detectrons: RNA-to-DNA barcode conversion for high-throughput RNA analysis",
+          "summary": "New Detectron technology enables direct conversion of transient RNA sequences into stable DNA barcodes for high-throughput analysis of RNA-dependent processes.",
+          "category": "Biotechnology",
+          "subcategory": "biosensors",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-05",
+          "url": "https://www.nature.com/articles/s41587-026-03334-7",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -737,16 +756,16 @@
         },
         {
           "id": "ms-d6824a356960",
-          "title": "EgoSafetyBench: Diagnostic Egocentric Video Benchmark for Embodied VLM Safety Guards",
-          "summary": "New 1,200-scenario egocentric video benchmark with half-second annotations and contrastive ladders evaluates VLMs as streaming safety guards for embodied agents across situational and visual-channel d",
+          "title": "EgoSafetyBench: Egocentric Video Benchmark for Embodied VLM Safety Evaluation",
+          "summary": "New benchmark with 1,200 annotated egocentric scenarios evaluates vision-language models as runtime safety guards for embodied agents, revealing gaps in hazard detection.",
           "category": "Computing & AGI",
           "subcategory": "benchmarks",
           "value": 1200,
           "unit": "scenarios",
-          "source": "Research Consortium",
+          "source": "Research authors (institution not specified)",
           "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00218v1",
-          "is_record": true,
+          "url": "http://arxiv.org/abs/2607.00218v2",
+          "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
@@ -813,18 +832,18 @@
         },
         {
           "id": "ms-fc6083e0cc69",
-          "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification using multimodal data",
-          "summary": "A new multimodal AI model deployed on the ZTF alert stream improves early classification of astronomical transients by up to 40% over light-curve-only methods.",
+          "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification on ZTF",
+          "summary": "A new multimodal model (ORACLE-2 Omni) combining light curves, metadata, and images sets a new macro F1 record of 0.73 for early classification of ZTF transients, improving up to 40% over light-curve-",
           "category": "Computing & AGI",
           "subcategory": "multimodal",
           "value": 0.73,
-          "unit": "macro F1",
-          "source": "Zwicky Transient Facility collaboration",
+          "unit": "macro F1 score",
+          "source": "Zwicky Transient Facility (ZTF) / Caltech",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00228v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 34.1377,
             "lon": -118.1253
@@ -851,13 +870,13 @@
         },
         {
           "id": "ms-46a7d8543058",
-          "title": "Mnemosyne introduces Agentic Transaction Processing with formal safety guarantees for AI workflows",
-          "summary": "New Agentic Transaction Processing framework proves four safety properties and achieves 5.2-6.6% throughput overhead while rejecting all targeted violations in benchmarks.",
+          "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-Generated Workflows",
+          "summary": "Mnemosyne introduces Agentic Transaction Processing (ATP) with four proven safety properties and 5.2-6.6% throughput overhead for validating and repairing AI-generated workflows across nine benchmarks",
           "category": "Computing & AGI",
           "subcategory": "agentic_ai",
           "value": 5.9,
           "unit": "% throughput overhead",
-          "source": "Unknown",
+          "source": "Academic Research",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00269v3",
           "is_record": false,
@@ -1130,7 +1149,7 @@
           "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1149,7 +1168,7 @@
           "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 37.7749,
             "lon": -122.4194
@@ -1402,60 +1421,31 @@
         }
       ]
     },
-    "theoretical_computer_science": {
-      "name": "theoretical_computer_science",
+    "Causal Inference": {
+      "name": "Causal Inference",
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
-        "complexity_theory"
+        "abstraction_metrics"
       ],
       "milestones": [
         {
-          "id": "ms-a3f92df467c6",
-          "title": "Human proof of Unique Games milestone published ahead of rumored AI proof",
-          "summary": "Three computer scientists rushed to publish a milestone proof in the Unique Games problem amid rumors an AI system was close to solving it.",
-          "category": "theoretical_computer_science",
-          "subcategory": "complexity_theory",
-          "value": null,
-          "unit": null,
-          "source": "Simons Foundation",
-          "date": "2026-10-07",
-          "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+          "id": "ms-db8df24da9b9",
+          "title": "Causal Abstraction Error (CAE) metric validates high-level explanations across complex systems",
+          "summary": "New Causal Abstraction Error (CAE) metric reliably validates high-level causal explanations across diverse complex systems with as few as 30 interventions.",
+          "category": "Causal Inference",
+          "subcategory": "abstraction_metrics",
+          "value": 30,
+          "unit": "interventions",
+          "source": "Research Team",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00267v1",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
-          }
-        }
-      ]
-    },
-    "Fluid Dynamics": {
-      "name": "Fluid Dynamics",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "turbulence_reversal"
-      ],
-      "milestones": [
-        {
-          "id": "ms-0eae845a8c64",
-          "title": "Brine shrimp reveal reversible energy cascade in turbulence",
-          "summary": "Experiments with brine shrimp demonstrate that energy flow in turbulent systems can reverse direction, overturning a long-standing assumption in fluid dynamics.",
-          "category": "Fluid Dynamics",
-          "subcategory": "turbulence_reversal",
-          "value": null,
-          "unit": null,
-          "source": "Stanford University",
-          "date": "2026-10-02",
-          "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 37.4321,
-            "lon": -122.1665
           }
         }
       ]
