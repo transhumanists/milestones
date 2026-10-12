@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-11T12:55:13.324801Z",
+  "last_update": "2026-10-12T15:30:28.330768Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -22,12 +22,12 @@
       "milestones": [
         {
           "id": "ms-79a5aeaa5895",
-          "title": "Shotgun genetic engineering enables discovery of novel mammalian metabolic pathways",
-          "summary": "Random combinatorial gene testing at scale yields new productive metabolic pathways in mammalian cells, including synthesis of two essential amino acids.",
+          "title": "Shotgun genetic engineering enables novel metabolic pathways in mammalian cells",
+          "summary": "Shotgun genetic engineering allows large-scale random gene combination testing to discover new metabolic pathways for essential amino acid synthesis in mammalian cells.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
-          "value": 2,
-          "unit": "essential amino acids synthesized",
+          "value": null,
+          "unit": null,
           "source": "Nature Biotechnology",
           "date": "2026-10-06",
           "url": "https://www.nature.com/articles/s41587-026-03329-4",
@@ -831,22 +831,41 @@
           }
         },
         {
-          "id": "ms-fc6083e0cc69",
-          "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification on ZTF",
-          "summary": "A new multimodal model (ORACLE-2 Omni) combining light curves, metadata, and images sets a new macro F1 record of 0.73 for early classification of ZTF transients, improving up to 40% over light-curve-",
+          "id": "ms-2a999b4415a4",
+          "title": "Persistent memory architecture enables 86.7% coordination reliability in LLM agent language emergence",
+          "summary": "LLM agents with persistent private notebooks achieve 86.7% coordination reliability in Lewis signaling games, outperforming stateless agents and demonstrating memory architecture matters more than cha",
           "category": "Computing & AGI",
-          "subcategory": "multimodal",
-          "value": 0.73,
-          "unit": "macro F1 score",
-          "source": "Zwicky Transient Facility (ZTF) / Caltech",
+          "subcategory": "agentic_ai",
+          "value": 0.867,
+          "unit": "coordination_score",
+          "source": "Research Team",
           "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00228v1",
+          "url": "http://arxiv.org/abs/2607.00233v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
-            "lat": 34.1377,
-            "lon": -118.1253
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-1e9a08b4a528",
+          "title": "SLIM-RL matches TraceRL math accuracy with 54% fewer training samples",
+          "summary": "SLIM-RL achieves 6.32% higher MATH500 and 11.05% higher GSM8K accuracy than TraceRL using only 46% of training samples by eliminating trajectory slicing via risk-budgeted random masking.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 0.46,
+          "unit": "sample_ratio",
+          "source": "Academic research team",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00208v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -885,6 +904,25 @@
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-fc6083e0cc69",
+          "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification",
+          "summary": "New multimodal AI model ORACLE-2 Omni improves real-time classification of astronomical transients by up to 40% over light-curve-only models on ZTF data.",
+          "category": "Computing & AGI",
+          "subcategory": "multimodal",
+          "value": 0.73,
+          "unit": "macro F1 score",
+          "source": "Zwicky Transient Facility (ZTF)",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00228v1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 34.1377,
+            "lon": -118.1253
           }
         },
         {
@@ -1421,26 +1459,55 @@
         }
       ]
     },
-    "Causal Inference": {
-      "name": "Causal Inference",
+    "Optimization": {
+      "name": "Optimization",
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
-        "abstraction_metrics"
+        "robust_regression"
       ],
       "milestones": [
         {
-          "id": "ms-db8df24da9b9",
-          "title": "Causal Abstraction Error (CAE) metric validates high-level explanations across complex systems",
-          "summary": "New Causal Abstraction Error (CAE) metric reliably validates high-level causal explanations across diverse complex systems with as few as 30 interventions.",
-          "category": "Causal Inference",
-          "subcategory": "abstraction_metrics",
-          "value": 30,
-          "unit": "interventions",
-          "source": "Research Team",
+          "id": "ms-a264d750ab66",
+          "title": "New Algorithm for Distributionally Robust Linear Regression Using Block Lewis Weights",
+          "summary": "A new algorithm achieves near-optimal complexity for group distributionally robust least squares, improving upon interior-point methods and matching state-of-the-art for ℓ∞ regression.",
+          "category": "Optimization",
+          "subcategory": "robust_regression",
+          "value": null,
+          "unit": null,
+          "source": "Research Authors",
           "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00267v1",
-          "is_record": false,
+          "url": "http://arxiv.org/abs/2607.00252v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        }
+      ]
+    },
+    "Legal Technology": {
+      "name": "Legal Technology",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "legal_nlp"
+      ],
+      "milestones": [
+        {
+          "id": "ms-efd0d3caa282",
+          "title": "ImmigrationReason: 12,375-record structured dataset of USCIS AAO immigration appeals for legal reasoning research",
+          "summary": "New large-scale structured dataset of 12,375 USCIS AAO non-precedent decisions (2005-2026) with per-criterion evidence findings, adjudicator criticisms, citations, and expert-validated extraction enab",
+          "category": "Legal Technology",
+          "subcategory": "legal_nlp",
+          "value": 12375,
+          "unit": "records",
+          "source": "Academic research team",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2608.20391v1",
+          "is_record": true,
           "is_breakthrough": true,
           "is_new": true,
           "geolocation": {

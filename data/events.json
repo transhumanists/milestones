@@ -1,12 +1,12 @@
 {
-  "last_update": "2026-10-11T12:55:13.324801Z",
+  "last_update": "2026-10-12T15:30:28.330768Z",
   "version": "2.0.0",
   "events": [
     {
       "id": "ev-ms-79a5aeaa5895",
-      "title": "Shotgun genetic engineering enables discovery of novel mammalian metabolic pathways",
+      "title": "Shotgun genetic engineering enables novel metabolic pathways in mammalian cells",
       "category": "Biotechnology",
-      "value": "2 essential amino acids synthesized",
+      "value": "Shotgun genetic engineering enables novel metabolic pathways in mammalian cells",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03329-4",
       "date": "2026-10-06",
@@ -172,6 +172,45 @@
       }
     },
     {
+      "id": "ev-ms-d092c3d026b8",
+      "title": "Detectrons: RNA-to-DNA barcode conversion for high-throughput RNA analysis",
+      "category": "Biotechnology",
+      "value": "Detectrons: RNA-to-DNA barcode conversion for high-throughput RNA analysis",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03334-7",
+      "date": "2026-10-05",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-e55c8cf4e432",
+      "title": "Engineered nanopore simultaneously identifies saccharides, amino acids, peptides, and ribonucleotides",
+      "category": "Biotechnology",
+      "value": "Engineered nanopore simultaneously identifies saccharides, amino acids, peptides, and ribonucleotides",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03308-9",
+      "date": "2026-09-14",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-010",
+      "title": "Wearable simultaneous biomarker sensors",
+      "category": "Biotechnology",
+      "value": "12 analytes",
+      "source": "Dexcom",
+      "url": "https://www.dexcom.com",
+      "date": "2026-07-20",
+      "geolocation": {
+        "lat": 32.8844,
+        "lon": -117.234
+      }
+    },
+    {
       "id": "ev-ms-2a45f74dd818",
       "title": "Deep learning perturbation models outperform baselines on calibrated metrics",
       "category": "Biotechnology",
@@ -234,45 +273,6 @@
       "geolocation": {
         "lat": 47.3769,
         "lon": 8.5417
-      }
-    },
-    {
-      "id": "ev-ms-e55c8cf4e432",
-      "title": "Engineered nanopore simultaneously identifies saccharides, amino acids, peptides, and ribonucleotides",
-      "category": "Biotechnology",
-      "value": "Engineered nanopore simultaneously identifies saccharides, amino acids, peptides, and ribonucleotides",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03308-9",
-      "date": "2026-09-14",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-010",
-      "title": "Wearable simultaneous biomarker sensors",
-      "category": "Biotechnology",
-      "value": "12 analytes",
-      "source": "Dexcom",
-      "url": "https://www.dexcom.com",
-      "date": "2026-07-20",
-      "geolocation": {
-        "lat": 32.8844,
-        "lon": -117.234
-      }
-    },
-    {
-      "id": "ev-ms-d092c3d026b8",
-      "title": "Detectrons: RNA-to-DNA barcode conversion for high-throughput RNA analysis",
-      "category": "Biotechnology",
-      "value": "Detectrons: RNA-to-DNA barcode conversion for high-throughput RNA analysis",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03334-7",
-      "date": "2026-10-05",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {
@@ -420,10 +420,10 @@
     },
     {
       "id": "ev-ms-fc6083e0cc69",
-      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification on ZTF",
+      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification",
       "category": "Computing & AGI",
       "value": "0.73 macro F1 score",
-      "source": "Zwicky Transient Facility (ZTF) / Caltech",
+      "source": "Zwicky Transient Facility (ZTF)",
       "url": "http://arxiv.org/abs/2607.00228v1",
       "date": "2026-06-30",
       "geolocation": {

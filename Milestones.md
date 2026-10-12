@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-11T12:55:13.326872Z · 75 active milestones across 8 categories*
+*Auto-generated: 2026-10-12T15:30:28.332805Z · 78 active milestones across 9 categories*
 
 ---
 
@@ -12,7 +12,7 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `synthetic_biology` | Shotgun genetic engineering enables discovery of n  | **2** essential amino acids synthesized | Nature Biotechnology | 2026-10-06 |
+| 1 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
 | 2 | `synthetic_biology` | Highly multiplexed mammalian metabolic engineering  | — | Nature Biotechnology | 2026-10-06 |
 | 3 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
 | 4 | `gene_therapy` | Engineered avian R2 retrotransposons enable target  | — | Nature Biotechnology | 2026-10-05 |
@@ -63,10 +63,12 @@
 | 15 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
 | 16 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE Research Team | 2026-06-30 |
 | 17 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
-| 18 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time 🆕 | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
-| 19 | `frontier_models` | Seed2.0 model series sets new frontier in reasonin  | — | ByteDance | 2026-06-30 |
-| 20 | `agentic_ai` | Mnemosyne: Agentic Transaction Processing for Vali  | **5.9** % throughput overhead | Academic Research | 2026-06-30 |
-| 21 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
+| 18 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
+| 19 | `benchmarks` | SLIM-RL matches TraceRL math accuracy with 54% few  | **0.46** sample_ratio | Academic research te | 2026-06-30 |
+| 20 | `frontier_models` | Seed2.0 model series sets new frontier in reasonin  | — | ByteDance | 2026-06-30 |
+| 21 | `agentic_ai` | Mnemosyne: Agentic Transaction Processing for Vali  | **5.9** % throughput overhead | Academic Research | 2026-06-30 |
+| 22 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
+| 23 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
 
@@ -129,13 +131,21 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Causal Inference 📌
+## 8. Optimization 📌
 
 *Color: #aaaaaa · Subcategories: 1*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `abstraction_metrics` | Causal Abstraction Error (CAE) metric validates hi 🆕 | **30** interventions | Research Team | 2026-06-30 |
+| 1 | `robust_regression` | New Algorithm for Distributionally Robust Linear R 🆕 | — | Research Authors | 2026-06-30 |
+
+## 9. Legal Technology 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `legal_nlp` | ImmigrationReason: 12,375-record structured datase 🆕 | **12375** records | Academic research te | 2026-06-30 |
 
 ---
-*Last auto-generated: 2026-10-11T12:55:13.326872Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-12T15:30:28.332805Z · Pipeline: `transhumanists/apis`*
