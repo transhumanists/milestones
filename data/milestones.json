@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-12T15:30:28.330768Z",
+  "last_update": "2026-10-13T14:21:43.596493Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -20,6 +20,25 @@
         "ml_perturbation"
       ],
       "milestones": [
+        {
+          "id": "ms-fc512f295a81",
+          "title": "In vivo engineering of CAR NK cells via lipid nanoparticles for immunotherapy",
+          "summary": "Researchers demonstrate in vivo generation of CAR natural killer cells using ligand-directed lipid nanoparticles for treating autoimmune diseases and cancer.",
+          "category": "Biotechnology",
+          "subcategory": "immunotherapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-13",
+          "url": "https://www.nature.com/articles/s41587-026-03310-1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
         {
           "id": "ms-79a5aeaa5895",
           "title": "Shotgun genetic engineering enables novel metabolic pathways in mammalian cells",
@@ -522,6 +541,63 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-ba424f6afe44",
+          "title": "EmbodiedCLBench: First benchmark for continual learning in embodied agents",
+          "summary": "EmbodiedCLBench introduces the first benchmark for evaluating continual learning in embodied agents, enabling assessment of self-evolving agents in simulation.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-13",
+          "url": "https://arxiv.org/abs/2610.13021",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-54e3ea140a46",
+          "title": "CLEAT: Value-Guided Clarification for Interactive LLM Agents",
+          "summary": "New training method CLEAT teaches LLM agents to ask high-value clarifying questions that improve decision-making under ambiguous user intent.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-13",
+          "url": "https://arxiv.org/abs/2610.12655",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-cccd1dd1feae",
+          "title": "Few-shot multimodal representation alignment via distilled optimal transport",
+          "summary": "New method aligns independently pretrained unimodal encoders using only 100-500 paired examples via optimal transport, drastically reducing paired data requirements.",
+          "category": "Computing & AGI",
+          "subcategory": "multimodal",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-13",
+          "url": "https://arxiv.org/abs/2610.12781",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-da39844869ed",
           "title": "Persistent KV cache enables 50M-token context window on single H100",
@@ -1456,64 +1532,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Optimization": {
-      "name": "Optimization",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "robust_regression"
-      ],
-      "milestones": [
-        {
-          "id": "ms-a264d750ab66",
-          "title": "New Algorithm for Distributionally Robust Linear Regression Using Block Lewis Weights",
-          "summary": "A new algorithm achieves near-optimal complexity for group distributionally robust least squares, improving upon interior-point methods and matching state-of-the-art for ℓ∞ regression.",
-          "category": "Optimization",
-          "subcategory": "robust_regression",
-          "value": null,
-          "unit": null,
-          "source": "Research Authors",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00252v1",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        }
-      ]
-    },
-    "Legal Technology": {
-      "name": "Legal Technology",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "legal_nlp"
-      ],
-      "milestones": [
-        {
-          "id": "ms-efd0d3caa282",
-          "title": "ImmigrationReason: 12,375-record structured dataset of USCIS AAO immigration appeals for legal reasoning research",
-          "summary": "New large-scale structured dataset of 12,375 USCIS AAO non-precedent decisions (2005-2026) with per-criterion evidence findings, adjudicator criticisms, citations, and expert-validated extraction enab",
-          "category": "Legal Technology",
-          "subcategory": "legal_nlp",
-          "value": 12375,
-          "unit": "records",
-          "source": "Academic research team",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2608.20391v1",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
         }
       ]
     }

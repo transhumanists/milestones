@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-12T15:30:28.330768Z",
+  "last_update": "2026-10-13T14:21:43.596493Z",
   "version": "2.0.0",
   "events": [
     {
@@ -299,6 +299,19 @@
       "geolocation": {
         "lat": 31.2304,
         "lon": 121.4737
+      }
+    },
+    {
+      "id": "ev-ms-fc512f295a81",
+      "title": "In vivo engineering of CAR NK cells via lipid nanoparticles for immunotherapy",
+      "category": "Biotechnology",
+      "value": "In vivo engineering of CAR NK cells via lipid nanoparticles for immunotherapy",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03310-1",
+      "date": "2026-10-13",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
