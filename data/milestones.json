@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-13T14:21:43.596493Z",
+  "last_update": "2026-10-14T11:49:41.143148Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -33,7 +33,26 @@
           "url": "https://www.nature.com/articles/s41587-026-03310-1",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-d7a87738cf3b",
+          "title": "Engrafting human cortical organoids demonstrates functional integration in vivo",
+          "summary": "Researchers achieve successful engraftment of human cortical organoids, advancing neural tissue transplantation and disease modeling.",
+          "category": "Biotechnology",
+          "subcategory": "neuroscience",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-12",
+          "url": "https://www.nature.com/articles/s41587-026-03355-2",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -325,25 +344,6 @@
           }
         },
         {
-          "id": "ms-0a279b32fda4",
-          "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
-          "summary": "Researchers develop biomimetic cells as a novel synthetic biology tool to investigate mechanical force sensing in T cells, opening new avenues for immunotherapy research.",
-          "category": "Biotechnology",
-          "subcategory": "synthetic_biology",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-10",
-          "url": "https://www.nature.com/articles/s41587-026-03312-z",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-a5c98baae9a8",
           "title": "Moderna mRNA flu vaccine receives FDA approval",
           "summary": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
@@ -360,6 +360,25 @@
           "geolocation": {
             "lat": 39.0555,
             "lon": -77.038
+          }
+        },
+        {
+          "id": "ms-0a279b32fda4",
+          "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
+          "summary": "Researchers develop biomimetic cells as a novel synthetic biology tool to investigate mechanical force sensing in T cells, opening new avenues for immunotherapy research.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-10",
+          "url": "https://www.nature.com/articles/s41587-026-03312-z",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -592,7 +611,7 @@
           "url": "https://arxiv.org/abs/2610.12781",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1251,6 +1270,44 @@
       ],
       "milestones": [
         {
+          "id": "ms-56183fe2bf28",
+          "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Security Checks",
+          "summary": "Researchers at ThreatFabric discovered the Hirudo banking trojan, which replaces legitimate Indonesian banking apps with patched versions that bypass in-app security checks, representing a novel escal",
+          "category": "Cybersecurity",
+          "subcategory": "exploits",
+          "value": null,
+          "unit": null,
+          "source": "ThreatFabric",
+          "date": "2026-10-14",
+          "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 47.3769,
+            "lon": 8.5417
+          }
+        },
+        {
+          "id": "ms-ad4fd193955d",
+          "title": "Microsoft patches record 1,400+ vulnerabilities in single month",
+          "summary": "Microsoft released updates fixing over 1,400 security flaws, surpassing the previous monthly record of nearly 1,000 patches set in September.",
+          "category": "Cybersecurity",
+          "subcategory": "mitigations",
+          "value": 1400,
+          "unit": "vulnerabilities",
+          "source": "Microsoft",
+          "date": "2026-10-13",
+          "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+          "is_record": true,
+          "is_breakthrough": false,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-ba0f78571314",
           "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Theft and Two-Way C2",
           "summary": "Researchers disclose P7 DarkSword, a new iOS exploit kit variant with reduced footprint, crypto wallet theft, and two-way command-and-control communication.",
@@ -1532,6 +1589,64 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Physics": {
+      "name": "Physics",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "turbulence"
+      ],
+      "milestones": [
+        {
+          "id": "ms-9c92901abec2",
+          "title": "Brine Shrimp Experiments Reverse Turbulent Energy Flow Rule",
+          "summary": "Scientists discovered that brine shrimp can reverse energy flow direction in turbulence, overturning a long-held assumption.",
+          "category": "Physics",
+          "subcategory": "turbulence",
+          "value": null,
+          "unit": null,
+          "source": "Quanta Magazine",
+          "date": "2026-10-02",
+          "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        }
+      ]
+    },
+    "Privacy Technology": {
+      "name": "Privacy Technology",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "adtech_transparency"
+      ],
+      "milestones": [
+        {
+          "id": "ms-2395cd740a5f",
+          "title": "DecryptAds launches free service to expose adtech trackers",
+          "summary": "DecryptAds introduces a free tool that scrapes and correlates adtech data to reveal which entities track users across websites and apps.",
+          "category": "Privacy Technology",
+          "subcategory": "adtech_transparency",
+          "value": null,
+          "unit": null,
+          "source": "DecryptAds",
+          "date": "2026-08-14",
+          "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         }
       ]
     }
