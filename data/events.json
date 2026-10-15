@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T11:49:41.143148Z",
+  "last_update": "2026-10-15T11:31:40.098837Z",
   "version": "2.0.0",
   "events": [
     {
@@ -39,6 +39,45 @@
       "geolocation": {
         "lat": 31.2304,
         "lon": 121.4737
+      }
+    },
+    {
+      "id": "ev-ms-d7a87738cf3b",
+      "title": "Engrafting human cortical organoids demonstrates functional integration in vivo",
+      "category": "Biotechnology",
+      "value": "Engrafting human cortical organoids demonstrates functional integration in vivo",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03355-2",
+      "date": "2026-10-12",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-1d88f31518db",
+      "title": "Alkermes reports pioneering ADHD data for orexin agonist",
+      "category": "Biotechnology",
+      "value": "Alkermes reports pioneering ADHD data for orexin agonist",
+      "source": "Alkermes",
+      "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
+      "date": "2026-09-22",
+      "geolocation": {
+        "lat": 42.3765,
+        "lon": -71.2356
+      }
+    },
+    {
+      "id": "ev-bio-006",
+      "title": "Brain organoid complexity (neurons)",
+      "category": "Biotechnology",
+      "value": "100000000 neurons",
+      "source": "ETH Zürich",
+      "url": "https://biol.ethz.ch",
+      "date": "2026-05-20",
+      "geolocation": {
+        "lat": 47.3769,
+        "lon": 8.5417
       }
     },
     {
@@ -289,45 +328,6 @@
       }
     },
     {
-      "id": "ev-ms-1d88f31518db",
-      "title": "Alkermes reports pioneering ADHD data for orexin agonist",
-      "category": "Biotechnology",
-      "value": "Alkermes reports pioneering ADHD data for orexin agonist",
-      "source": "Alkermes",
-      "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
-      "date": "2026-09-22",
-      "geolocation": {
-        "lat": 42.3765,
-        "lon": -71.2356
-      }
-    },
-    {
-      "id": "ev-bio-006",
-      "title": "Brain organoid complexity (neurons)",
-      "category": "Biotechnology",
-      "value": "100000000 neurons",
-      "source": "ETH Zürich",
-      "url": "https://biol.ethz.ch",
-      "date": "2026-05-20",
-      "geolocation": {
-        "lat": 47.3769,
-        "lon": 8.5417
-      }
-    },
-    {
-      "id": "ev-ms-d7a87738cf3b",
-      "title": "Engrafting human cortical organoids demonstrates functional integration in vivo",
-      "category": "Biotechnology",
-      "value": "Engrafting human cortical organoids demonstrates functional integration in vivo",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03355-2",
-      "date": "2026-10-12",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
       "id": "ev-bio-002",
       "title": "Neural implant electrode density",
       "category": "Biotechnology",
@@ -351,6 +351,19 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-b0c0800e6617",
+      "title": "First clinical trial deployment of six proteomic aging clocks",
+      "category": "Biotechnology",
+      "value": "First clinical trial deployment of six proteomic aging clocks",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03361-4",
+      "date": "2026-10-13",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -588,6 +601,19 @@
       }
     },
     {
+      "id": "ev-ms-56183fe2bf28",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Security Checks",
+      "category": "Cybersecurity",
+      "value": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Security Checks",
+      "source": "ThreatFabric",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "date": "2026-10-14",
+      "geolocation": {
+        "lat": 47.3769,
+        "lon": 8.5417
+      }
+    },
+    {
       "id": "ev-ms-84669fafeb66",
       "title": "Elementor WordPress Plugin CSRF Vulnerability Allows Site Takeover",
       "category": "Cybersecurity",
@@ -611,19 +637,6 @@
       "geolocation": {
         "lat": 38.8951,
         "lon": -77.0364
-      }
-    },
-    {
-      "id": "ev-ms-56183fe2bf28",
-      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Security Checks",
-      "category": "Cybersecurity",
-      "value": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Security Checks",
-      "source": "ThreatFabric",
-      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "date": "2026-10-14",
-      "geolocation": {
-        "lat": 47.3769,
-        "lon": 8.5417
       }
     },
     {

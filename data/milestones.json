@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T11:49:41.143148Z",
+  "last_update": "2026-10-15T11:31:40.098837Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -37,6 +37,44 @@
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-b0c0800e6617",
+          "title": "First clinical trial deployment of six proteomic aging clocks",
+          "summary": "Six proteomic aging clocks are used in a clinical trial for the first time, marking a milestone in aging biomarker validation.",
+          "category": "Biotechnology",
+          "subcategory": "longevity",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-13",
+          "url": "https://www.nature.com/articles/s41587-026-03361-4",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-f7e3ed1a332b",
+          "title": "RevMed's pancreatic cancer drug first",
+          "summary": "RevMed publishes first pancreatic cancer drug candidate in Nature Biotechnology.",
+          "category": "Biotechnology",
+          "subcategory": "immunotherapy",
+          "value": null,
+          "unit": null,
+          "source": "RevMed",
+          "date": "2026-10-12",
+          "url": "https://www.nature.com/articles/s41587-026-03363-2",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -1282,7 +1320,7 @@
           "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 47.3769,
             "lon": 8.5417
@@ -1301,7 +1339,7 @@
           "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
           "is_record": true,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1589,64 +1627,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Physics": {
-      "name": "Physics",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "turbulence"
-      ],
-      "milestones": [
-        {
-          "id": "ms-9c92901abec2",
-          "title": "Brine Shrimp Experiments Reverse Turbulent Energy Flow Rule",
-          "summary": "Scientists discovered that brine shrimp can reverse energy flow direction in turbulence, overturning a long-held assumption.",
-          "category": "Physics",
-          "subcategory": "turbulence",
-          "value": null,
-          "unit": null,
-          "source": "Quanta Magazine",
-          "date": "2026-10-02",
-          "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        }
-      ]
-    },
-    "Privacy Technology": {
-      "name": "Privacy Technology",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "adtech_transparency"
-      ],
-      "milestones": [
-        {
-          "id": "ms-2395cd740a5f",
-          "title": "DecryptAds launches free service to expose adtech trackers",
-          "summary": "DecryptAds introduces a free tool that scrapes and correlates adtech data to reveal which entities track users across websites and apps.",
-          "category": "Privacy Technology",
-          "subcategory": "adtech_transparency",
-          "value": null,
-          "unit": null,
-          "source": "DecryptAds",
-          "date": "2026-08-14",
-          "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-          "is_record": false,
-          "is_breakthrough": false,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
         }
       ]
     }
