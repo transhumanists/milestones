@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-15T11:31:40.102459Z · 85 active milestones across 7 categories*
+*Auto-generated: 2026-10-16T11:30:34.462337Z · 86 active milestones across 7 categories*
 
 ---
 
@@ -12,37 +12,38 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `immunotherapy` | In vivo engineering of CAR NK cells via lipid nano  | — | Nature Biotechnology | 2026-10-13 |
-| 2 | `longevity` | First clinical trial deployment of six proteomic a 🆕 | — | Nature Biotechnology | 2026-10-13 |
-| 3 | `immunotherapy` | RevMed's pancreatic cancer drug first  | — | RevMed | 2026-10-12 |
-| 4 | `neuroscience` | Engrafting human cortical organoids demonstrates f  | — | Nature Biotechnology | 2026-10-12 |
-| 5 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
-| 6 | `synthetic_biology` | Highly multiplexed mammalian metabolic engineering  | — | Nature Biotechnology | 2026-10-06 |
-| 7 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
-| 8 | `gene_therapy` | Engineered avian R2 retrotransposons enable target  | — | Nature Biotechnology | 2026-10-05 |
-| 9 | `biosensors` | Detectrons: RNA-to-DNA barcode conversion for high  | — | Nature Biotechnology | 2026-10-05 |
-| 10 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
-| 11 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
-| 12 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
-| 13 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
-| 14 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
-| 15 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
-| 16 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
-| 17 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
-| 18 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
-| 19 | `biosensors` | Engineered nanopore simultaneously identifies sacc  | — | Nature Biotechnology | 2026-09-14 |
-| 20 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
-| 21 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
-| 22 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
-| 23 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
-| 24 | `microscopy` | Electron microscope resolution  | **0.39** Ångström | Thermo Fisher FEI | 2026-08-18 |
-| 25 | `immunotherapy` | CAR-T manufacturing speed (bedside)  | **7** days | 驯玉兰生物 | 2026-08-01 |
-| 26 | `biosensors` | Wearable simultaneous biomarker sensors  | **12** analytes | Dexcom | 2026-07-20 |
-| 27 | `longevity` | Max lifespan extension (mouse)  | **38.4** % | Harvard Sinclair Lab | 2026-07-15 |
-| 28 | `macroscopy` | In-vivo whole-organ 3D imaging  | **3.2** µm | MPI-CBG | 2026-07-01 |
-| 29 | `gene_therapy` | AAV vector delivery efficiency  | **91.7** % | Spark Therapeutics | 2026-06-15 |
-| 30 | `synthetic_biology` | Largest synthetic genome synthesized  | **1500000000** bp | JCVI | 2026-06-01 |
-| 31 | `neuroscience` | Brain organoid complexity (neurons)  | **100000000** neurons | ETH Zürich | 2026-05-20 |
+| 1 | `gene_editing` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
+| 2 | `immunotherapy` | In vivo engineering of CAR NK cells via lipid nano  | — | Nature Biotechnology | 2026-10-13 |
+| 3 | `longevity` | First clinical trial deployment of six proteomic a  | — | Nature Biotechnology | 2026-10-13 |
+| 4 | `immunotherapy` | RevMed's pancreatic cancer drug first  | — | RevMed | 2026-10-12 |
+| 5 | `neuroscience` | Engrafting human cortical organoids demonstrates f  | — | Nature Biotechnology | 2026-10-12 |
+| 6 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
+| 7 | `synthetic_biology` | Highly multiplexed mammalian metabolic engineering  | — | Nature Biotechnology | 2026-10-06 |
+| 8 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
+| 9 | `gene_therapy` | Engineered avian R2 retrotransposons enable target  | — | Nature Biotechnology | 2026-10-05 |
+| 10 | `biosensors` | Detectrons: RNA-to-DNA barcode conversion for high  | — | Nature Biotechnology | 2026-10-05 |
+| 11 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
+| 12 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
+| 13 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
+| 14 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 15 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
+| 16 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
+| 17 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
+| 18 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
+| 19 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
+| 20 | `biosensors` | Engineered nanopore simultaneously identifies sacc  | — | Nature Biotechnology | 2026-09-14 |
+| 21 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
+| 22 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
+| 23 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
+| 24 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
+| 25 | `microscopy` | Electron microscope resolution  | **0.39** Ångström | Thermo Fisher FEI | 2026-08-18 |
+| 26 | `immunotherapy` | CAR-T manufacturing speed (bedside)  | **7** days | 驯玉兰生物 | 2026-08-01 |
+| 27 | `biosensors` | Wearable simultaneous biomarker sensors  | **12** analytes | Dexcom | 2026-07-20 |
+| 28 | `longevity` | Max lifespan extension (mouse)  | **38.4** % | Harvard Sinclair Lab | 2026-07-15 |
+| 29 | `macroscopy` | In-vivo whole-organ 3D imaging  | **3.2** µm | MPI-CBG | 2026-07-01 |
+| 30 | `gene_therapy` | AAV vector delivery efficiency  | **91.7** % | Spark Therapeutics | 2026-06-15 |
+| 31 | `synthetic_biology` | Largest synthetic genome synthesized  | **1500000000** bp | JCVI | 2026-06-01 |
+| 32 | `neuroscience` | Brain organoid complexity (neurons)  | **100000000** neurons | ETH Zürich | 2026-05-20 |
 
 ## 2. Computing & AGI 🧠
 
@@ -141,4 +142,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-10-15T11:31:40.102459Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-16T11:30:34.462337Z · Pipeline: `transhumanists/apis`*

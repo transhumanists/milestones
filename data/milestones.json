@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-15T11:31:40.098837Z",
+  "last_update": "2026-10-16T11:30:34.458707Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -20,6 +20,25 @@
         "ml_perturbation"
       ],
       "milestones": [
+        {
+          "id": "ms-f81083f4be60",
+          "title": "HitSV improves structural variant detection across sequencing technologies",
+          "summary": "The HitSV model improves structural variant detection by modeling the interaction between genomic repetitiveness and signature intensity.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-15",
+          "url": "https://www.nature.com/articles/s41587-026-03332-9",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
         {
           "id": "ms-fc512f295a81",
           "title": "In vivo engineering of CAR NK cells via lipid nanoparticles for immunotherapy",
@@ -52,7 +71,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03361-4",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
