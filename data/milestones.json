@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-16T11:30:34.458707Z",
+  "last_update": "2026-10-17T10:31:14.510119Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -60,8 +60,8 @@
         },
         {
           "id": "ms-b0c0800e6617",
-          "title": "First clinical trial deployment of six proteomic aging clocks",
-          "summary": "Six proteomic aging clocks are used in a clinical trial for the first time, marking a milestone in aging biomarker validation.",
+          "title": "First clinical trial deployment of proteomic aging clocks",
+          "summary": "Six proteomic aging clocks were deployed in a clinical trial for the first time, revealing insights into clock performance rather than drug efficacy.",
           "category": "Biotechnology",
           "subcategory": "longevity",
           "value": null,
@@ -71,7 +71,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03361-4",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -268,25 +268,6 @@
           }
         },
         {
-          "id": "ms-f725a993460b",
-          "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
-          "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
-          "category": "Biotechnology",
-          "subcategory": "synthetic_biology",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-28",
-          "url": "https://www.nature.com/articles/s41587-026-03331-w",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-e0d7fb1f057f",
           "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
           "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling better tissue targeting and enhanced in vivo genome editing.",
@@ -297,6 +278,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03298-8",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-f725a993460b",
+          "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
+          "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03331-w",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,

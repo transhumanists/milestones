@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-16T11:30:34.462337Z · 86 active milestones across 7 categories*
+*Auto-generated: 2026-10-17T10:31:14.513065Z · 86 active milestones across 7 categories*
 
 ---
 
@@ -14,7 +14,7 @@
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `gene_editing` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
 | 2 | `immunotherapy` | In vivo engineering of CAR NK cells via lipid nano  | — | Nature Biotechnology | 2026-10-13 |
-| 3 | `longevity` | First clinical trial deployment of six proteomic a  | — | Nature Biotechnology | 2026-10-13 |
+| 3 | `longevity` | First clinical trial deployment of proteomic aging 🆕 | — | Nature Biotechnology | 2026-10-13 |
 | 4 | `immunotherapy` | RevMed's pancreatic cancer drug first  | — | RevMed | 2026-10-12 |
 | 5 | `neuroscience` | Engrafting human cortical organoids demonstrates f  | — | Nature Biotechnology | 2026-10-12 |
 | 6 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
@@ -25,8 +25,8 @@
 | 11 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
 | 12 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
 | 13 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
-| 14 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
-| 15 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
+| 14 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
+| 15 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
 | 16 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
 | 17 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
 | 18 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
@@ -142,4 +142,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-10-16T11:30:34.462337Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-17T10:31:14.513065Z · Pipeline: `transhumanists/apis`*

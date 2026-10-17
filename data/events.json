@@ -1,7 +1,59 @@
 {
-  "last_update": "2026-10-16T11:30:34.458707Z",
+  "last_update": "2026-10-17T10:31:14.510119Z",
   "version": "2.0.0",
   "events": [
+    {
+      "id": "ev-ms-f81083f4be60",
+      "title": "HitSV improves structural variant detection across sequencing technologies",
+      "category": "Biotechnology",
+      "value": "HitSV improves structural variant detection across sequencing technologies",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03332-9",
+      "date": "2026-10-15",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-45ba0e7b2200",
+      "title": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
+      "category": "Biotechnology",
+      "value": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03315-w",
+      "date": "2026-10-05",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-e0d7fb1f057f",
+      "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+      "category": "Biotechnology",
+      "value": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03298-8",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-001",
+      "title": "CRISPR in-vivo editing efficiency",
+      "category": "Biotechnology",
+      "value": "94.2 %",
+      "source": "Broad Institute",
+      "url": "https://www.broadinstitute.org",
+      "date": "2026-08-25",
+      "geolocation": {
+        "lat": 42.3375,
+        "lon": -71.1061
+      }
+    },
     {
       "id": "ev-ms-fc512f295a81",
       "title": "In vivo engineering of CAR NK cells via lipid nanoparticles for immunotherapy",
@@ -43,9 +95,9 @@
     },
     {
       "id": "ev-ms-b0c0800e6617",
-      "title": "First clinical trial deployment of six proteomic aging clocks",
+      "title": "First clinical trial deployment of proteomic aging clocks",
       "category": "Biotechnology",
-      "value": "First clinical trial deployment of six proteomic aging clocks",
+      "value": "First clinical trial deployment of proteomic aging clocks",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03361-4",
       "date": "2026-10-13",
@@ -182,58 +234,6 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
-      }
-    },
-    {
-      "id": "ev-ms-45ba0e7b2200",
-      "title": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
-      "category": "Biotechnology",
-      "value": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03315-w",
-      "date": "2026-10-05",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-e0d7fb1f057f",
-      "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
-      "category": "Biotechnology",
-      "value": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03298-8",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-001",
-      "title": "CRISPR in-vivo editing efficiency",
-      "category": "Biotechnology",
-      "value": "94.2 %",
-      "source": "Broad Institute",
-      "url": "https://www.broadinstitute.org",
-      "date": "2026-08-25",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-ms-f81083f4be60",
-      "title": "HitSV improves structural variant detection across sequencing technologies",
-      "category": "Biotechnology",
-      "value": "HitSV improves structural variant detection across sequencing technologies",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03332-9",
-      "date": "2026-10-15",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {
