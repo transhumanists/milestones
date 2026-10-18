@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-17T10:31:14.510119Z",
+  "last_update": "2026-10-18T10:54:30.086646Z",
   "version": "2.0.0",
   "events": [
     {
@@ -121,9 +121,9 @@
     },
     {
       "id": "ev-ms-d7a87738cf3b",
-      "title": "Engrafting human cortical organoids demonstrates functional integration in vivo",
+      "title": "Engrafting human cortical organoids",
       "category": "Biotechnology",
-      "value": "Engrafting human cortical organoids demonstrates functional integration in vivo",
+      "value": "Engrafting human cortical organoids",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03355-2",
       "date": "2026-10-12",
@@ -472,9 +472,9 @@
     },
     {
       "id": "ev-ms-cede87aeb630",
-      "title": "Seed2.0 model series sets new frontier in reasoning and multimodal AI",
+      "title": "Seed2.0 model series achieves world-leading reasoning and complex instruction following",
       "category": "Computing & AGI",
-      "value": "Seed2.0 model series sets new frontier in reasoning and multimodal AI",
+      "value": "Seed2.0 model series achieves world-leading reasoning and complex instruction following",
       "source": "ByteDance",
       "url": "http://arxiv.org/abs/2607.00248v1",
       "date": "2026-06-30",

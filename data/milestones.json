@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-17T10:31:14.510119Z",
+  "last_update": "2026-10-18T10:54:30.086646Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -40,6 +40,25 @@
           }
         },
         {
+          "id": "ms-b0c0800e6617",
+          "title": "First clinical trial deployment of proteomic aging clocks",
+          "summary": "Six proteomic aging clocks are deployed in a clinical trial for the first time, providing new insights into the clocks' performance.",
+          "category": "Biotechnology",
+          "subcategory": "longevity",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-13",
+          "url": "https://www.nature.com/articles/s41587-026-03361-4",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-fc512f295a81",
           "title": "In vivo engineering of CAR NK cells via lipid nanoparticles for immunotherapy",
           "summary": "Researchers demonstrate in vivo generation of CAR natural killer cells using ligand-directed lipid nanoparticles for treating autoimmune diseases and cancer.",
@@ -53,25 +72,6 @@
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
-          "id": "ms-b0c0800e6617",
-          "title": "First clinical trial deployment of proteomic aging clocks",
-          "summary": "Six proteomic aging clocks were deployed in a clinical trial for the first time, revealing insights into clock performance rather than drug efficacy.",
-          "category": "Biotechnology",
-          "subcategory": "longevity",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-13",
-          "url": "https://www.nature.com/articles/s41587-026-03361-4",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -98,8 +98,8 @@
         },
         {
           "id": "ms-d7a87738cf3b",
-          "title": "Engrafting human cortical organoids demonstrates functional integration in vivo",
-          "summary": "Researchers achieve successful engraftment of human cortical organoids, advancing neural tissue transplantation and disease modeling.",
+          "title": "Engrafting human cortical organoids",
+          "summary": "Researchers achieve engraftment of human cortical organoids, advancing brain modeling and neural integration studies.",
           "category": "Biotechnology",
           "subcategory": "neuroscience",
           "value": null,
@@ -1003,13 +1003,13 @@
         },
         {
           "id": "ms-1e9a08b4a528",
-          "title": "SLIM-RL matches TraceRL math accuracy with 54% fewer training samples",
-          "summary": "SLIM-RL achieves 6.32% higher MATH500 and 11.05% higher GSM8K accuracy than TraceRL using only 46% of training samples by eliminating trajectory slicing via risk-budgeted random masking.",
+          "title": "SLIM-RL matches TraceRL MATH500 accuracy with 0.46x training samples",
+          "summary": "SLIM-RL achieves state-of-the-art MATH500 and GSM8K scores for diffusion LLMs using less than half the training samples of prior best method TraceRL.",
           "category": "Computing & AGI",
           "subcategory": "benchmarks",
           "value": 0.46,
-          "unit": "sample_ratio",
-          "source": "Academic research team",
+          "unit": "x",
+          "source": "SLIM-RL authors",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00208v1",
           "is_record": true,
@@ -1022,8 +1022,8 @@
         },
         {
           "id": "ms-cede87aeb630",
-          "title": "Seed2.0 model series sets new frontier in reasoning and multimodal AI",
-          "summary": "ByteDance's Seed2.0 model series claims world-leading reasoning, visual understanding, and search capabilities, substantially improving reliability on complex real-world tasks for hundreds of millions",
+          "title": "Seed2.0 model series achieves world-leading reasoning and complex instruction following",
+          "summary": "Seed2.0 demonstrates substantial improvements in long-tail knowledge, complex instruction following, reasoning, visual understanding, and search, claiming world-leading performance on real-world tasks",
           "category": "Computing & AGI",
           "subcategory": "frontier_models",
           "value": null,
@@ -1041,13 +1041,13 @@
         },
         {
           "id": "ms-46a7d8543058",
-          "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-Generated Workflows",
-          "summary": "Mnemosyne introduces Agentic Transaction Processing (ATP) with four proven safety properties and 5.2-6.6% throughput overhead for validating and repairing AI-generated workflows across nine benchmarks",
+          "title": "Mnemosyne introduces Agentic Transaction Processing with formal safety guarantees for AI-generated workflows",
+          "summary": "Mnemosyne presents Agentic Transaction Processing (ATP), a framework that validates and repairs AI-generated workflows with provable safety properties and only 5.2-6.6% throughput overhead.",
           "category": "Computing & AGI",
           "subcategory": "agentic_ai",
-          "value": 5.9,
-          "unit": "% throughput overhead",
-          "source": "Academic Research",
+          "value": 5.2,
+          "unit": "%",
+          "source": "Unknown",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00269v3",
           "is_record": false,
@@ -1196,8 +1196,8 @@
         },
         {
           "id": "ms-f41cd2fc2342",
-          "title": "First certificate-checked solution for quantum-advantage resource extraction from two-mode Gaussian states",
-          "summary": "Researchers present the first complete, certificate-checked analytical solution for extracting quantum complexity resources from two-mode Gaussian states, proving no closed-form solution exists.",
+          "title": "First complete analytical solution for quantum-advantage resource of two-mode Gaussian state with Galois no-go theorem",
+          "summary": "Researchers present the first certificate-checked analytical solution for extracting quantum complexity resources from a two-mode Gaussian state, proving via Galois theory that no closed-form solution",
           "category": "Quantum Physics",
           "subcategory": "quantum_resource_theory",
           "value": null,
@@ -1205,7 +1205,7 @@
           "source": "Unknown",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00266v1",
-          "is_record": true,
+          "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
@@ -1646,6 +1646,35 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "complex_systems": {
+      "name": "complex_systems",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "causal_abstraction_validation"
+      ],
+      "milestones": [
+        {
+          "id": "ms-576aea539a5a",
+          "title": "Causal Abstraction Error Metric Validates Explanations with 30 Interventions",
+          "summary": "A new Causal Abstraction Error (CAE) metric reliably distinguishes valid from invalid high-level causal explanations across ten complex systems, converging with as few as 30 sampled interventions.",
+          "category": "complex_systems",
+          "subcategory": "causal_abstraction_validation",
+          "value": 30,
+          "unit": "interventions",
+          "source": "Research Authors",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00267v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         }
       ]
     }

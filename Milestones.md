@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-17T10:31:14.513065Z · 86 active milestones across 7 categories*
+*Auto-generated: 2026-10-18T10:54:30.089688Z · 87 active milestones across 8 categories*
 
 ---
 
@@ -13,10 +13,10 @@
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `gene_editing` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
-| 2 | `immunotherapy` | In vivo engineering of CAR NK cells via lipid nano  | — | Nature Biotechnology | 2026-10-13 |
-| 3 | `longevity` | First clinical trial deployment of proteomic aging 🆕 | — | Nature Biotechnology | 2026-10-13 |
+| 2 | `longevity` | First clinical trial deployment of proteomic aging 🆕 | — | Nature Biotechnology | 2026-10-13 |
+| 3 | `immunotherapy` | In vivo engineering of CAR NK cells via lipid nano  | — | Nature Biotechnology | 2026-10-13 |
 | 4 | `immunotherapy` | RevMed's pancreatic cancer drug first  | — | RevMed | 2026-10-12 |
-| 5 | `neuroscience` | Engrafting human cortical organoids demonstrates f  | — | Nature Biotechnology | 2026-10-12 |
+| 5 | `neuroscience` | Engrafting human cortical organoids  | — | Nature Biotechnology | 2026-10-12 |
 | 6 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
 | 7 | `synthetic_biology` | Highly multiplexed mammalian metabolic engineering  | — | Nature Biotechnology | 2026-10-06 |
 | 8 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
@@ -72,9 +72,9 @@
 | 19 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE Research Team | 2026-06-30 |
 | 20 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
 | 21 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
-| 22 | `benchmarks` | SLIM-RL matches TraceRL math accuracy with 54% few  | **0.46** sample_ratio | Academic research te | 2026-06-30 |
-| 23 | `frontier_models` | Seed2.0 model series sets new frontier in reasonin  | — | ByteDance | 2026-06-30 |
-| 24 | `agentic_ai` | Mnemosyne: Agentic Transaction Processing for Vali  | **5.9** % throughput overhead | Academic Research | 2026-06-30 |
+| 22 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
+| 23 | `frontier_models` | Seed2.0 model series achieves world-leading reason  | — | ByteDance | 2026-06-30 |
+| 24 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.2** % | Unknown | 2026-06-30 |
 | 25 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
 | 26 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
 
@@ -89,7 +89,7 @@
 | 3 | `time_crystals` | Quantum time crystal coherence  | **10.0** ms | Google/Stanford | 2026-08-10 |
 | 4 | `quantum_supremacy` | Quantum volume  | **8192** QV | Quantinuum H3 | 2026-07-30 |
 | 5 | `quantum_networking` | Entangled link distance  | **248** km | QuTech Delft | 2026-07-15 |
-| 6 | `quantum_resource_theory` | First certificate-checked solution for quantum-adv  | — | Unknown | 2026-06-30 |
+| 6 | `quantum_resource_theory` | First complete analytical solution for quantum-adv  | — | Unknown | 2026-06-30 |
 
 ## 4. Renewable Energy ⚡
 
@@ -141,5 +141,13 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
+## 8. complex_systems 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `causal_abstraction_validation` | Causal Abstraction Error Metric Validates Explanat 🆕 | **30** interventions | Research Authors | 2026-06-30 |
+
 ---
-*Last auto-generated: 2026-10-17T10:31:14.513065Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-18T10:54:30.089688Z · Pipeline: `transhumanists/apis`*
