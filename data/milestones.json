@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-18T10:54:30.086646Z",
+  "last_update": "2026-10-19T13:09:07.738815Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -42,11 +42,11 @@
         {
           "id": "ms-b0c0800e6617",
           "title": "First clinical trial deployment of proteomic aging clocks",
-          "summary": "Six proteomic aging clocks are deployed in a clinical trial for the first time, providing new insights into the clocks' performance.",
+          "summary": "Six proteomic aging clocks were deployed in a clinical trial for the first time, marking a major step in translating aging biomarkers to human studies.",
           "category": "Biotechnology",
           "subcategory": "longevity",
-          "value": null,
-          "unit": null,
+          "value": 6,
+          "unit": "clocks",
           "source": "Nature Biotechnology",
           "date": "2026-10-13",
           "url": "https://www.nature.com/articles/s41587-026-03361-4",
@@ -60,8 +60,8 @@
         },
         {
           "id": "ms-fc512f295a81",
-          "title": "In vivo engineering of CAR NK cells via lipid nanoparticles for immunotherapy",
-          "summary": "Researchers demonstrate in vivo generation of CAR natural killer cells using ligand-directed lipid nanoparticles for treating autoimmune diseases and cancer.",
+          "title": "In vivo engineering of CAR-NK cells via lipid nanoparticles for immunotherapy",
+          "summary": "Researchers demonstrate in vivo generation of chimeric antigen receptor natural killer cells using ligand-directed lipid nanoparticles, enabling direct immunotherapy for cancer and autoimmune diseases",
           "category": "Biotechnology",
           "subcategory": "immunotherapy",
           "value": null,
@@ -71,7 +71,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03310-1",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -98,8 +98,8 @@
         },
         {
           "id": "ms-d7a87738cf3b",
-          "title": "Engrafting human cortical organoids",
-          "summary": "Researchers achieve engraftment of human cortical organoids, advancing brain modeling and neural integration studies.",
+          "title": "Human cortical organoids successfully engrafted and integrated in vivo",
+          "summary": "Researchers achieve functional engraftment of human cortical organoids into host brains, advancing neural repair and disease modeling.",
           "category": "Biotechnology",
           "subcategory": "neuroscience",
           "value": null,
@@ -617,6 +617,44 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-8e8ae326b12d",
+          "title": "RealCLI: Unified Benchmark for Human-Agent CLI Collaboration",
+          "summary": "Introduces REALCLI, a paired benchmark unifying task execution and human-agent collaboration quality evaluation for CLI agents via a five-dimensional framework.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-19",
+          "url": "https://arxiv.org/abs/2610.22507",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-8e04e5377614",
+          "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
+          "summary": "New recursive self-improvement framework (Self-HPO) co-evolves LLM policy models and their execution harnesses to advance autonomous coding agents.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-19",
+          "url": "https://arxiv.org/abs/2610.22791",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-ba424f6afe44",
           "title": "EmbodiedCLBench: First benchmark for continual learning in embodied agents",
@@ -1649,31 +1687,31 @@
         }
       ]
     },
-    "complex_systems": {
-      "name": "complex_systems",
+    "Genomics": {
+      "name": "Genomics",
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
-        "causal_abstraction_validation"
+        "structural_variant_detection"
       ],
       "milestones": [
         {
-          "id": "ms-576aea539a5a",
-          "title": "Causal Abstraction Error Metric Validates Explanations with 30 Interventions",
-          "summary": "A new Causal Abstraction Error (CAE) metric reliably distinguishes valid from invalid high-level causal explanations across ten complex systems, converging with as few as 30 sampled interventions.",
-          "category": "complex_systems",
-          "subcategory": "causal_abstraction_validation",
-          "value": 30,
-          "unit": "interventions",
-          "source": "Research Authors",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00267v1",
-          "is_record": true,
+          "id": "ms-c8a207a80d01",
+          "title": "HitSV algorithm improves structural variant detection across sequencing technologies",
+          "summary": "HitSV models genomic repetitiveness and signature intensity interactions to enhance structural variant detection accuracy across multiple sequencing platforms.",
+          "category": "Genomics",
+          "subcategory": "structural_variant_detection",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-15",
+          "url": "https://www.nature.com/articles/s41587-026-03332-9",
+          "is_record": false,
           "is_breakthrough": true,
           "is_new": true,
           "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         }
       ]

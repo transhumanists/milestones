@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-18T10:54:30.086646Z",
+  "last_update": "2026-10-19T13:09:07.738815Z",
   "version": "2.0.0",
   "events": [
     {
@@ -55,10 +55,36 @@
       }
     },
     {
-      "id": "ev-ms-fc512f295a81",
-      "title": "In vivo engineering of CAR NK cells via lipid nanoparticles for immunotherapy",
+      "id": "ev-ms-b0c0800e6617",
+      "title": "First clinical trial deployment of proteomic aging clocks",
       "category": "Biotechnology",
-      "value": "In vivo engineering of CAR NK cells via lipid nanoparticles for immunotherapy",
+      "value": "6 clocks",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03361-4",
+      "date": "2026-10-13",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-004",
+      "title": "Max lifespan extension (mouse)",
+      "category": "Biotechnology",
+      "value": "38.4 %",
+      "source": "Harvard Sinclair Lab",
+      "url": "https://sinclair.hms.harvard.edu",
+      "date": "2026-07-15",
+      "geolocation": {
+        "lat": 42.3375,
+        "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-fc512f295a81",
+      "title": "In vivo engineering of CAR-NK cells via lipid nanoparticles for immunotherapy",
+      "category": "Biotechnology",
+      "value": "In vivo engineering of CAR-NK cells via lipid nanoparticles for immunotherapy",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03310-1",
       "date": "2026-10-13",
@@ -94,36 +120,10 @@
       }
     },
     {
-      "id": "ev-ms-b0c0800e6617",
-      "title": "First clinical trial deployment of proteomic aging clocks",
-      "category": "Biotechnology",
-      "value": "First clinical trial deployment of proteomic aging clocks",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03361-4",
-      "date": "2026-10-13",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-004",
-      "title": "Max lifespan extension (mouse)",
-      "category": "Biotechnology",
-      "value": "38.4 %",
-      "source": "Harvard Sinclair Lab",
-      "url": "https://sinclair.hms.harvard.edu",
-      "date": "2026-07-15",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
-      }
-    },
-    {
       "id": "ev-ms-d7a87738cf3b",
-      "title": "Engrafting human cortical organoids",
+      "title": "Human cortical organoids successfully engrafted and integrated in vivo",
       "category": "Biotechnology",
-      "value": "Engrafting human cortical organoids",
+      "value": "Human cortical organoids successfully engrafted and integrated in vivo",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03355-2",
       "date": "2026-10-12",
@@ -806,6 +806,19 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
+      }
+    },
+    {
+      "id": "ev-ms-c8a207a80d01",
+      "title": "HitSV algorithm improves structural variant detection across sequencing technologies",
+      "category": "Genomics",
+      "value": "HitSV algorithm improves structural variant detection across sequencing technologies",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03332-9",
+      "date": "2026-10-15",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     }
   ]
