@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-19T13:09:07.738815Z",
+  "last_update": "2026-10-20T11:26:14.048387Z",
   "version": "2.0.0",
   "events": [
     {
@@ -55,10 +55,23 @@
       }
     },
     {
-      "id": "ev-ms-b0c0800e6617",
-      "title": "First clinical trial deployment of proteomic aging clocks",
+      "id": "ev-ms-1fae27bb196d",
+      "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
       "category": "Biotechnology",
-      "value": "6 clocks",
+      "value": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03359-y",
+      "date": "2026-10-20",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-b0c0800e6617",
+      "title": "Proteomic aging clocks deployed in clinical trial for first time",
+      "category": "Biotechnology",
+      "value": "Proteomic aging clocks deployed in clinical trial for first time",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03361-4",
       "date": "2026-10-13",
@@ -82,9 +95,9 @@
     },
     {
       "id": "ev-ms-fc512f295a81",
-      "title": "In vivo engineering of CAR-NK cells via lipid nanoparticles for immunotherapy",
+      "title": "In vivo engineering of CAR NK cells via ligand-directed lipid nanoparticles",
       "category": "Biotechnology",
-      "value": "In vivo engineering of CAR-NK cells via lipid nanoparticles for immunotherapy",
+      "value": "In vivo engineering of CAR NK cells via ligand-directed lipid nanoparticles",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03310-1",
       "date": "2026-10-13",
@@ -121,9 +134,9 @@
     },
     {
       "id": "ev-ms-d7a87738cf3b",
-      "title": "Human cortical organoids successfully engrafted and integrated in vivo",
+      "title": "Engrafting human cortical organoids",
       "category": "Biotechnology",
-      "value": "Human cortical organoids successfully engrafted and integrated in vivo",
+      "value": "Engrafting human cortical organoids",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03355-2",
       "date": "2026-10-12",
@@ -234,6 +247,19 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
+      }
+    },
+    {
+      "id": "ev-ms-9d9bc5bed0e6",
+      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "category": "Biotechnology",
+      "value": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03360-5",
+      "date": "2026-10-20",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -806,19 +832,6 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
-      }
-    },
-    {
-      "id": "ev-ms-c8a207a80d01",
-      "title": "HitSV algorithm improves structural variant detection across sequencing technologies",
-      "category": "Genomics",
-      "value": "HitSV algorithm improves structural variant detection across sequencing technologies",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03332-9",
-      "date": "2026-10-15",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     }
   ]

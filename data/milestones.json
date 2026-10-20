@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-19T13:09:07.738815Z",
+  "last_update": "2026-10-20T11:26:14.048387Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -21,6 +21,44 @@
       ],
       "milestones": [
         {
+          "id": "ms-1fae27bb196d",
+          "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
+          "summary": "Researchers engineered human Argonaute 2 to enable targeted C-to-U RNA base editing, a breakthrough in programmable RNA editing.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-20",
+          "url": "https://www.nature.com/articles/s41587-026-03359-y",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-9d9bc5bed0e6",
+          "title": "Genetic code expansion enables plant-directed control of bacterial activity",
+          "summary": "Researchers use noncanonical amino acid O-methyl-L-tyrosine to enable plant-directed control of bacterial protein synthesis across diverse plant species.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-20",
+          "url": "https://www.nature.com/articles/s41587-026-03360-5",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-f81083f4be60",
           "title": "HitSV improves structural variant detection across sequencing technologies",
           "summary": "The HitSV model improves structural variant detection by modeling the interaction between genomic repetitiveness and signature intensity.",
@@ -41,18 +79,18 @@
         },
         {
           "id": "ms-b0c0800e6617",
-          "title": "First clinical trial deployment of proteomic aging clocks",
-          "summary": "Six proteomic aging clocks were deployed in a clinical trial for the first time, marking a major step in translating aging biomarkers to human studies.",
+          "title": "Proteomic aging clocks deployed in clinical trial for first time",
+          "summary": "Six proteomic aging clocks used in a clinical trial for the first time, providing insights into clock performance rather than drug efficacy.",
           "category": "Biotechnology",
           "subcategory": "longevity",
-          "value": 6,
-          "unit": "clocks",
+          "value": null,
+          "unit": null,
           "source": "Nature Biotechnology",
           "date": "2026-10-13",
           "url": "https://www.nature.com/articles/s41587-026-03361-4",
-          "is_record": true,
+          "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -60,8 +98,8 @@
         },
         {
           "id": "ms-fc512f295a81",
-          "title": "In vivo engineering of CAR-NK cells via lipid nanoparticles for immunotherapy",
-          "summary": "Researchers demonstrate in vivo generation of chimeric antigen receptor natural killer cells using ligand-directed lipid nanoparticles, enabling direct immunotherapy for cancer and autoimmune diseases",
+          "title": "In vivo engineering of CAR NK cells via ligand-directed lipid nanoparticles",
+          "summary": "Researchers demonstrate in vivo generation of chimeric antigen receptor natural killer cells using ligand-directed lipid nanoparticles for treating autoimmune disease and cancer.",
           "category": "Biotechnology",
           "subcategory": "immunotherapy",
           "value": null,
@@ -98,8 +136,8 @@
         },
         {
           "id": "ms-d7a87738cf3b",
-          "title": "Human cortical organoids successfully engrafted and integrated in vivo",
-          "summary": "Researchers achieve functional engraftment of human cortical organoids into host brains, advancing neural repair and disease modeling.",
+          "title": "Engrafting human cortical organoids",
+          "summary": "Researchers achieve successful engraftment of human cortical organoids, enabling advanced brain modeling and potential neural repair applications.",
           "category": "Biotechnology",
           "subcategory": "neuroscience",
           "value": null,
@@ -617,6 +655,25 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-ca80eea5db31",
+          "title": "AI proves Quasi-Riemann Hypothesis",
+          "summary": "AI system proves the Quasi-Riemann Hypothesis, a major mathematical conjecture, with human experts verifying the proof.",
+          "category": "Computing & AGI",
+          "subcategory": "math_reasoning",
+          "value": null,
+          "unit": null,
+          "source": "Quanta Magazine",
+          "date": "2026-10-19",
+          "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-8e8ae326b12d",
           "title": "RealCLI: Unified Benchmark for Human-Agent CLI Collaboration",
@@ -1365,6 +1422,25 @@
       ],
       "milestones": [
         {
+          "id": "ms-95bcb6fd31f6",
+          "title": "ROMULUS ClickFix Platform Discovered Delivering LegionLoader Malware",
+          "summary": "Researchers uncovered ROMULUS, a new ClickFix-based malware delivery platform distributing LegionLoader and other payloads via deceptive landing pages.",
+          "category": "Cybersecurity",
+          "subcategory": "threat_intelligence",
+          "value": null,
+          "unit": null,
+          "source": "Forescout Research - Vedere Labs",
+          "date": "2026-10-20",
+          "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-56183fe2bf28",
           "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Security Checks",
           "summary": "Researchers at ThreatFabric discovered the Hirudo banking trojan, which replaces legitimate Indonesian banking apps with patched versions that bypass in-app security checks, representing a novel escal",
@@ -1684,35 +1760,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Genomics": {
-      "name": "Genomics",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "structural_variant_detection"
-      ],
-      "milestones": [
-        {
-          "id": "ms-c8a207a80d01",
-          "title": "HitSV algorithm improves structural variant detection across sequencing technologies",
-          "summary": "HitSV models genomic repetitiveness and signature intensity interactions to enhance structural variant detection accuracy across multiple sequencing platforms.",
-          "category": "Genomics",
-          "subcategory": "structural_variant_detection",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-15",
-          "url": "https://www.nature.com/articles/s41587-026-03332-9",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
         }
       ]
     }
