@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-20T11:26:14.048387Z",
+  "last_update": "2026-10-21T11:47:39.845014Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -17,13 +17,14 @@
         "gene_therapy",
         "immunotherapy",
         "biosensors",
+        "structural_variant_detection",
         "ml_perturbation"
       ],
       "milestones": [
         {
           "id": "ms-1fae27bb196d",
           "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
-          "summary": "Researchers engineered human Argonaute 2 to enable targeted C-to-U RNA base editing, a breakthrough in programmable RNA editing.",
+          "summary": "Researchers engineered human Argonaute 2 to perform targeted C-to-U RNA base editing, creating a potential therapeutic RNA editing tool using endogenous human proteins.",
           "category": "Biotechnology",
           "subcategory": "gene_editing",
           "value": null,
@@ -31,9 +32,9 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-20",
           "url": "https://www.nature.com/articles/s41587-026-03359-y",
-          "is_record": true,
+          "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -78,6 +79,25 @@
           }
         },
         {
+          "id": "ms-feeecf436b36",
+          "title": "HitSV improves structural variant detection across sequencing technologies",
+          "summary": "HitSV models genomic repetitiveness and signature intensity interactions to enhance structural variant detection accuracy across sequencing platforms.",
+          "category": "Biotechnology",
+          "subcategory": "structural_variant_detection",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-15",
+          "url": "https://www.nature.com/articles/s41587-026-03332-9",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-b0c0800e6617",
           "title": "Proteomic aging clocks deployed in clinical trial for first time",
           "summary": "Six proteomic aging clocks used in a clinical trial for the first time, providing insights into clock performance rather than drug efficacy.",
@@ -109,7 +129,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03310-1",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -439,25 +459,6 @@
           }
         },
         {
-          "id": "ms-a5c98baae9a8",
-          "title": "Moderna mRNA flu vaccine receives FDA approval",
-          "summary": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
-          "category": "Biotechnology",
-          "subcategory": "immunotherapy",
-          "value": null,
-          "unit": null,
-          "source": "FDA",
-          "date": "2026-09-10",
-          "url": "https://www.nature.com/articles/s41587-026-03313-y",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 39.0555,
-            "lon": -77.038
-          }
-        },
-        {
           "id": "ms-0a279b32fda4",
           "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
           "summary": "Researchers develop biomimetic cells as a novel synthetic biology tool to investigate mechanical force sensing in T cells, opening new avenues for immunotherapy research.",
@@ -474,6 +475,25 @@
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-a5c98baae9a8",
+          "title": "Moderna mRNA flu vaccine receives FDA approval",
+          "summary": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
+          "category": "Biotechnology",
+          "subcategory": "immunotherapy",
+          "value": null,
+          "unit": null,
+          "source": "FDA",
+          "date": "2026-09-10",
+          "url": "https://www.nature.com/articles/s41587-026-03313-y",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 39.0555,
+            "lon": -77.038
           }
         },
         {
@@ -656,6 +676,44 @@
       ],
       "milestones": [
         {
+          "id": "ms-2c7dc6cb59d4",
+          "title": "Omni-Woodpecker: Training-Free Hallucination Correction for Multimodal LLMs",
+          "summary": "A training-free framework rebalances evidence and priors in fused representations to correct cross-modal hallucinations in Omni LLMs.",
+          "category": "Computing & AGI",
+          "subcategory": "multimodal",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-21",
+          "url": "https://arxiv.org/abs/2610.27103",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-727dc2e4cef3",
+          "title": "ReuF2F: New Benchmark for Coding Agents on Formalized Undergraduate Research Problems",
+          "summary": "Researchers introduce ReuF2F, a benchmark evaluating AI coding agents on formalized undergraduate research problems to improve reliable verification of mathematical reasoning.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-21",
+          "url": "https://arxiv.org/abs/2610.27046",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-ca80eea5db31",
           "title": "AI proves Quasi-Riemann Hypothesis",
           "summary": "AI system proves the Quasi-Riemann Hypothesis, a major mathematical conjecture, with human experts verifying the proof.",
@@ -668,7 +726,7 @@
           "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1434,7 +1492,7 @@
           "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
