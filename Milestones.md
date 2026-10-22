@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-21T11:47:39.848684Z · 95 active milestones across 7 categories*
+*Auto-generated: 2026-10-22T11:45:54.169087Z · 97 active milestones across 8 categories*
 
 ---
 
@@ -12,41 +12,42 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `gene_editing` | Engineered human Argonaute 2 enables targeted C-to  | — | Nature Biotechnology | 2026-10-20 |
-| 2 | `synthetic_biology` | Genetic code expansion enables plant-directed cont  | — | Nature Biotechnology | 2026-10-20 |
-| 3 | `gene_editing` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
-| 4 | `structural_variant_detection` | HitSV improves structural variant detection across 🆕 | — | Nature Biotechnology | 2026-10-15 |
-| 5 | `longevity` | Proteomic aging clocks deployed in clinical trial   | — | Nature Biotechnology | 2026-10-13 |
-| 6 | `immunotherapy` | In vivo engineering of CAR NK cells via ligand-dir  | — | Nature Biotechnology | 2026-10-13 |
-| 7 | `immunotherapy` | RevMed's pancreatic cancer drug first  | — | RevMed | 2026-10-12 |
-| 8 | `neuroscience` | Engrafting human cortical organoids  | — | Nature Biotechnology | 2026-10-12 |
-| 9 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
-| 10 | `synthetic_biology` | Highly multiplexed mammalian metabolic engineering  | — | Nature Biotechnology | 2026-10-06 |
-| 11 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
-| 12 | `gene_therapy` | Engineered avian R2 retrotransposons enable target  | — | Nature Biotechnology | 2026-10-05 |
-| 13 | `biosensors` | Detectrons: RNA-to-DNA barcode conversion for high  | — | Nature Biotechnology | 2026-10-05 |
-| 14 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
-| 15 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
-| 16 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
-| 17 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
-| 18 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
-| 19 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
-| 20 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
-| 21 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
-| 22 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
-| 23 | `biosensors` | Engineered nanopore simultaneously identifies sacc  | — | Nature Biotechnology | 2026-09-14 |
-| 24 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
-| 25 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
-| 26 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
-| 27 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
-| 28 | `microscopy` | Electron microscope resolution  | **0.39** Ångström | Thermo Fisher FEI | 2026-08-18 |
-| 29 | `immunotherapy` | CAR-T manufacturing speed (bedside)  | **7** days | 驯玉兰生物 | 2026-08-01 |
-| 30 | `biosensors` | Wearable simultaneous biomarker sensors  | **12** analytes | Dexcom | 2026-07-20 |
-| 31 | `longevity` | Max lifespan extension (mouse)  | **38.4** % | Harvard Sinclair Lab | 2026-07-15 |
-| 32 | `macroscopy` | In-vivo whole-organ 3D imaging  | **3.2** µm | MPI-CBG | 2026-07-01 |
-| 33 | `gene_therapy` | AAV vector delivery efficiency  | **91.7** % | Spark Therapeutics | 2026-06-15 |
-| 34 | `synthetic_biology` | Largest synthetic genome synthesized  | **1500000000** bp | JCVI | 2026-06-01 |
-| 35 | `neuroscience` | Brain organoid complexity (neurons)  | **100000000** neurons | ETH Zürich | 2026-05-20 |
+| 1 | `gene_editing` | Human AGO2-based RNA editor ALTER avoids immune re  | — | Research team (unspe | 2026-10-22 |
+| 2 | `gene_editing` | Engineered human Argonaute 2 enables targeted C-to  | — | Nature Biotechnology | 2026-10-20 |
+| 3 | `synthetic_biology` | Genetic code expansion enables plant-directed cont  | — | Nature Biotechnology | 2026-10-20 |
+| 4 | `gene_editing` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
+| 5 | `structural_variant_detection` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
+| 6 | `longevity` | Proteomic aging clocks deployed in clinical trial   | — | Nature Biotechnology | 2026-10-13 |
+| 7 | `immunotherapy` | In vivo engineering of CAR NK cells via ligand-dir  | — | Nature Biotechnology | 2026-10-13 |
+| 8 | `immunotherapy` | RevMed's pancreatic cancer drug first  | — | RevMed | 2026-10-12 |
+| 9 | `neuroscience` | Engrafting human cortical organoids  | — | Nature Biotechnology | 2026-10-12 |
+| 10 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
+| 11 | `synthetic_biology` | Highly multiplexed mammalian metabolic engineering  | — | Nature Biotechnology | 2026-10-06 |
+| 12 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
+| 13 | `gene_therapy` | Engineered avian R2 retrotransposons enable target  | — | Nature Biotechnology | 2026-10-05 |
+| 14 | `biosensors` | Detectrons: RNA-to-DNA barcode conversion for high  | — | Nature Biotechnology | 2026-10-05 |
+| 15 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
+| 16 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
+| 17 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
+| 18 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
+| 19 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 20 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
+| 21 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
+| 22 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
+| 23 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
+| 24 | `biosensors` | Engineered nanopore simultaneously identifies sacc  | — | Nature Biotechnology | 2026-09-14 |
+| 25 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
+| 26 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
+| 27 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
+| 28 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
+| 29 | `microscopy` | Electron microscope resolution  | **0.39** Ångström | Thermo Fisher FEI | 2026-08-18 |
+| 30 | `immunotherapy` | CAR-T manufacturing speed (bedside)  | **7** days | 驯玉兰生物 | 2026-08-01 |
+| 31 | `biosensors` | Wearable simultaneous biomarker sensors  | **12** analytes | Dexcom | 2026-07-20 |
+| 32 | `longevity` | Max lifespan extension (mouse)  | **38.4** % | Harvard Sinclair Lab | 2026-07-15 |
+| 33 | `macroscopy` | In-vivo whole-organ 3D imaging  | **3.2** µm | MPI-CBG | 2026-07-01 |
+| 34 | `gene_therapy` | AAV vector delivery efficiency  | **91.7** % | Spark Therapeutics | 2026-06-15 |
+| 35 | `synthetic_biology` | Largest synthetic genome synthesized  | **1500000000** bp | JCVI | 2026-06-01 |
+| 36 | `neuroscience` | Brain organoid complexity (neurons)  | **100000000** neurons | ETH Zürich | 2026-05-20 |
 
 ## 2. Computing & AGI 🧠
 
@@ -54,14 +55,14 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `multimodal` | Omni-Woodpecker: Training-Free Hallucination Corre 🆕 | — | arXiv | 2026-10-21 |
+| 1 | `multimodal` | Omni-Woodpecker: Training-Free Hallucination Corre  | — | arXiv | 2026-10-21 |
 | 2 | `benchmarks` | ReuF2F: New Benchmark for Coding Agents on Formali  | — | arXiv | 2026-10-21 |
 | 3 | `math_reasoning` | AI proves Quasi-Riemann Hypothesis  | — | Quanta Magazine | 2026-10-19 |
 | 4 | `benchmarks` | RealCLI: Unified Benchmark for Human-Agent CLI Col  | — | arXiv | 2026-10-19 |
 | 5 | `agentic_ai` | Self-Evolving Coding Agents via Harness-Policy Opt  | — | arXiv | 2026-10-19 |
 | 6 | `benchmarks` | EmbodiedCLBench: First benchmark for continual lea  | — | arXiv | 2026-10-13 |
-| 7 | `agentic_ai` | CLEAT: Value-Guided Clarification for Interactive   | — | arXiv | 2026-10-13 |
-| 8 | `multimodal` | Few-shot multimodal representation alignment via d  | — | arXiv | 2026-10-13 |
+| 7 | `multimodal` | Few-shot multimodal representation alignment via d  | — | arXiv | 2026-10-13 |
+| 8 | `agentic_ai` | CLEAT: Value-Guided Clarification for Interactive   | — | arXiv | 2026-10-13 |
 | 9 | `inference_cost` | Persistent KV cache enables 50M-token context wind  | **50000000** tokens | arXiv (galahad-kv au | 2026-10-09 |
 | 10 | `inference_cost` | Prefill-Only Decision Models Reduce Inference Cost  | **100** x | arXiv | 2026-10-07 |
 | 11 | `gpu_efficiency` | Format-aware fusion enables fast FP4 pretraining a  | **160** billion tokens | arXiv | 2026-10-03 |
@@ -150,5 +151,13 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
+## 8. Privacy-Preserving Learning 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `theoretical_breakthrough` | All Learnable Distribution Classes Are Privately L 🆕 | — | arXiv | 2026-10-28 |
+
 ---
-*Last auto-generated: 2026-10-21T11:47:39.848684Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-22T11:45:54.169087Z · Pipeline: `transhumanists/apis`*

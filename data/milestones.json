@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-21T11:47:39.845014Z",
+  "last_update": "2026-10-22T11:45:54.165644Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -22,6 +22,25 @@
       ],
       "milestones": [
         {
+          "id": "ms-fdff7b9161cc",
+          "title": "Human AGO2-based RNA editor ALTER avoids immune responses and outperforms dCas13",
+          "summary": "ALTER, a human AGO2-based programmable RNA base editor, avoids immune responses and outperforms dCas13 editors for therapeutic applications.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Research team (unspecified)",
+          "date": "2026-10-22",
+          "url": "https://www.nature.com/articles/s41587-026-03358-z",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-1fae27bb196d",
           "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
           "summary": "Researchers engineered human Argonaute 2 to perform targeted C-to-U RNA base editing, creating a potential therapeutic RNA editing tool using endogenous human proteins.",
@@ -43,7 +62,7 @@
         {
           "id": "ms-9d9bc5bed0e6",
           "title": "Genetic code expansion enables plant-directed control of bacterial activity",
-          "summary": "Researchers use noncanonical amino acid O-methyl-L-tyrosine to enable plant-directed control of bacterial protein synthesis across diverse plant species.",
+          "summary": "Researchers use noncanonical amino acid O-methyl-L-tyrosine to control bacterial protein synthesis across diverse plants, enabling plant-directed microbial activity.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -91,7 +110,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03332-9",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -688,7 +707,7 @@
           "url": "https://arxiv.org/abs/2610.27103",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -790,25 +809,6 @@
           }
         },
         {
-          "id": "ms-54e3ea140a46",
-          "title": "CLEAT: Value-Guided Clarification for Interactive LLM Agents",
-          "summary": "New training method CLEAT teaches LLM agents to ask high-value clarifying questions that improve decision-making under ambiguous user intent.",
-          "category": "Computing & AGI",
-          "subcategory": "agentic_ai",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-10-13",
-          "url": "https://arxiv.org/abs/2610.12655",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-cccd1dd1feae",
           "title": "Few-shot multimodal representation alignment via distilled optimal transport",
           "summary": "New method aligns independently pretrained unimodal encoders using only 100-500 paired examples via optimal transport, drastically reducing paired data requirements.",
@@ -819,6 +819,25 @@
           "source": "arXiv",
           "date": "2026-10-13",
           "url": "https://arxiv.org/abs/2610.12781",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-54e3ea140a46",
+          "title": "CLEAT: Value-Guided Clarification for Interactive LLM Agents",
+          "summary": "New training method CLEAT teaches LLM agents to ask high-value clarifying questions that improve decision-making under ambiguous user intent.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-13",
+          "url": "https://arxiv.org/abs/2610.12655",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1818,6 +1837,35 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Privacy-Preserving Learning": {
+      "name": "Privacy-Preserving Learning",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "theoretical_breakthrough"
+      ],
+      "milestones": [
+        {
+          "id": "ms-b9f6d50310b4",
+          "title": "All Learnable Distribution Classes Are Privately Learnable",
+          "summary": "Proves Ashtiani's conjecture that every distribution class learnable with finite samples is also privately learnable under differential privacy.",
+          "category": "Privacy-Preserving Learning",
+          "subcategory": "theoretical_breakthrough",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-28",
+          "url": "https://arxiv.org/abs/2610.28878",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         }
       ]
     }
