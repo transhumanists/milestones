@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-22T11:45:54.169087Z · 97 active milestones across 8 categories*
+*Auto-generated: 2026-10-23T11:25:33.640610Z · 96 active milestones across 7 categories*
 
 ---
 
@@ -151,13 +151,5 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Privacy-Preserving Learning 📌
-
-*Color: #aaaaaa · Subcategories: 1*
-
-| # | Subcategory | Milestone | Value | Source | Date |
-|:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `theoretical_breakthrough` | All Learnable Distribution Classes Are Privately L 🆕 | — | arXiv | 2026-10-28 |
-
 ---
-*Last auto-generated: 2026-10-22T11:45:54.169087Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-23T11:25:33.640610Z · Pipeline: `transhumanists/apis`*

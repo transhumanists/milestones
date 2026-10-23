@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-22T11:45:54.165644Z",
+  "last_update": "2026-10-23T11:25:33.636709Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -1837,35 +1837,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Privacy-Preserving Learning": {
-      "name": "Privacy-Preserving Learning",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "theoretical_breakthrough"
-      ],
-      "milestones": [
-        {
-          "id": "ms-b9f6d50310b4",
-          "title": "All Learnable Distribution Classes Are Privately Learnable",
-          "summary": "Proves Ashtiani's conjecture that every distribution class learnable with finite samples is also privately learnable under differential privacy.",
-          "category": "Privacy-Preserving Learning",
-          "subcategory": "theoretical_breakthrough",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-10-28",
-          "url": "https://arxiv.org/abs/2610.28878",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
         }
       ]
     }
