@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-25T11:09:24.823262Z",
+  "last_update": "2026-10-26T12:53:54.563142Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -38,6 +38,44 @@
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-86fcffddff3c",
+          "title": "Recordanelles capture transient gene expression in single human cells",
+          "summary": "A synthetic organelle called 'recordanelle' enables multi-day recording of cellular RNAs with single-cell sensitivity, overcoming limitations of snapshot RNA sequencing.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-22",
+          "url": "https://www.nature.com/articles/s41587-026-03350-7",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-b386b182f23d",
+          "title": "Human AGO2-based RNA editor ALTER avoids immune responses",
+          "summary": "ALTER, a programmable RNA base editor built entirely from human AGO2 protein, reduces immunogenicity risk and outperforms dCas13-based editors for therapeutic applications.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-22",
+          "url": "https://www.nature.com/articles/s41587-026-03358-z",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -936,6 +974,25 @@
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-e39bf29e801c",
+          "title": "Tampered ML benchmark introduced for evaluating LLM judgment of ML research",
+          "summary": "New benchmark Tampered ML with 1,858 item-pairs evaluates LLM ability to identify flaws in ML research proposals and assess experimental support for claims.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 1858,
+          "unit": "item-pairs",
+          "source": "arXiv",
+          "date": "2026-10-01",
+          "url": "https://arxiv.org/abs/2610.32114",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0

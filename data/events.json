@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-25T11:09:24.823262Z",
+  "last_update": "2026-10-26T12:53:54.563142Z",
   "version": "2.0.0",
   "events": [
     {
@@ -156,6 +156,19 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
+      }
+    },
+    {
+      "id": "ev-ms-86fcffddff3c",
+      "title": "Recordanelles capture transient gene expression in single human cells",
+      "category": "Biotechnology",
+      "value": "Recordanelles capture transient gene expression in single human cells",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03350-7",
+      "date": "2026-10-22",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -325,6 +338,19 @@
       "geolocation": {
         "lat": 39.9526,
         "lon": -75.1652
+      }
+    },
+    {
+      "id": "ev-ms-b386b182f23d",
+      "title": "Human AGO2-based RNA editor ALTER avoids immune responses",
+      "category": "Biotechnology",
+      "value": "Human AGO2-based RNA editor ALTER avoids immune responses",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03358-z",
+      "date": "2026-10-22",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
