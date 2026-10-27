@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-26T12:53:54.566421Z · 99 active milestones across 7 categories*
+*Auto-generated: 2026-10-27T12:16:07.804479Z · 99 active milestones across 7 categories*
 
 ---
 
@@ -70,7 +70,7 @@
 | 11 | `gpu_efficiency` | Format-aware fusion enables fast FP4 pretraining a  | **160** billion tokens | arXiv | 2026-10-03 |
 | 12 | `low_resource_speech` | TutlAit v1: first crowdsourced Moroccan Tamazight   | — | arXiv | 2026-10-02 |
 | 13 | `benchmarks` | BACKDROP benchmark evaluates agent robustness unde  | — | arXiv | 2026-10-02 |
-| 14 | `benchmarks` | Tampered ML benchmark introduced for evaluating LL 🆕 | **1858** item-pairs | arXiv | 2026-10-01 |
+| 14 | `benchmarks` | Tampered ML benchmark introduced for evaluating LL  | **1858** item-pairs | arXiv | 2026-10-01 |
 | 15 | `benchmarks` | Forecast-Dojo: Replayable Benchmark for LLM Foreca  | **1568** events | arXiv preprint | 2026-09-25 |
 | 16 | `benchmarks` | New evaluation protocol detects sequential reappea  | — | arXiv (Cornell Unive | 2026-09-23 |
 | 17 | `agentic_ai` | STAM: State-Transition-Aware Memory for Clinical L  | — | arXiv | 2026-09-01 |
@@ -155,4 +155,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-10-26T12:53:54.566421Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-27T12:16:07.804479Z · Pipeline: `transhumanists/apis`*
