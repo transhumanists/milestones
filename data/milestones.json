@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-27T12:16:07.800646Z",
+  "last_update": "2026-10-28T13:02:14.812309Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -17,6 +17,7 @@
         "gene_therapy",
         "immunotherapy",
         "biosensors",
+        "transcriptome_recording",
         "structural_variant_detection",
         "ml_perturbation"
       ],
@@ -43,7 +44,7 @@
         {
           "id": "ms-86fcffddff3c",
           "title": "Recordanelles capture transient gene expression in single human cells",
-          "summary": "A synthetic organelle called 'recordanelle' enables multi-day recording of cellular RNAs with single-cell sensitivity, overcoming limitations of snapshot RNA sequencing.",
+          "summary": "A synthetic organelle called 'recordanelle' enables multi-day recording of cellular RNAs with single-cell sensitivity, overcoming limitations of RNA sequencing for transient gene expression dynamics.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -76,6 +77,25 @@
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-910b973f8c6e",
+          "title": "Recordanelles enable continuous transcriptome-wide RNA recording in living human cells",
+          "summary": "Recordanelles provide continuous, unbiased transcriptome-wide RNA recording across time in living mammalian cells, enabling dynamic single-cell transcriptomics.",
+          "category": "Biotechnology",
+          "subcategory": "transcriptome_recording",
+          "value": null,
+          "unit": null,
+          "source": "Not specified",
+          "date": "2026-10-21",
+          "url": "https://www.nature.com/articles/s41587-026-03327-6",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -732,6 +752,25 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-3d308d5d0cc7",
+          "title": "First 1B-parameter monolingual Icelandic encoder trained on open data",
+          "summary": "Researchers train Icelandic encoders from 12M to 1B parameters on 9B tokens of open data, establishing the first monolingual 1B-parameter Icelandic model and benchmarking 30 variants with confidence i",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 1000000000,
+          "unit": "parameters",
+          "source": "University of Iceland",
+          "date": "2026-10-28",
+          "url": "https://arxiv.org/abs/2610.36230",
+          "is_record": true,
+          "is_breakthrough": false,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-2c7dc6cb59d4",
           "title": "Omni-Woodpecker: Training-Free Hallucination Correction for Multimodal LLMs",
