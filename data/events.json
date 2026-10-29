@@ -1,7 +1,20 @@
 {
-  "last_update": "2026-10-28T13:02:14.812309Z",
+  "last_update": "2026-10-29T13:05:17.520445Z",
   "version": "2.0.0",
   "events": [
+    {
+      "id": "ev-ms-fdff7b9161cc",
+      "title": "Human AGO2-based programmable RNA base editor ALTER avoids immune responses",
+      "category": "Biotechnology",
+      "value": "Human AGO2-based programmable RNA base editor ALTER avoids immune responses",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03358-z",
+      "date": "2026-10-22",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
     {
       "id": "ev-ms-1fae27bb196d",
       "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
@@ -312,6 +325,19 @@
       "geolocation": {
         "lat": 31.2304,
         "lon": 121.4737
+      }
+    },
+    {
+      "id": "ev-ms-9b3c098a1571",
+      "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
+      "category": "Biotechnology",
+      "value": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03343-6",
+      "date": "2026-10-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -871,6 +897,32 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
+      }
+    },
+    {
+      "id": "ev-ms-24ff71915ce8",
+      "title": "DynaVelo deep learning model predicts B-cell perturbation responses from single-cell multiomic velocities",
+      "category": "Biotechnology",
+      "value": "DynaVelo deep learning model predicts B-cell perturbation responses from single-cell multiomic velocities",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03348-1",
+      "date": "2026-10-21",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-24af55ce18c7",
+      "title": "GitHub launches npm Firewall to block malicious packages at install time",
+      "category": "Cybersecurity",
+      "value": "GitHub launches npm Firewall to block malicious packages at install time",
+      "source": "GitHub",
+      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "date": "2026-10-29",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
       }
     }
   ]

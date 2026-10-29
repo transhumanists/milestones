@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-28T13:02:14.812309Z",
+  "last_update": "2026-10-29T13:05:17.520445Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -17,28 +17,48 @@
         "gene_therapy",
         "immunotherapy",
         "biosensors",
+        "single_cell_multiomics",
         "transcriptome_recording",
         "structural_variant_detection",
         "ml_perturbation"
       ],
       "milestones": [
         {
+          "id": "ms-9b3c098a1571",
+          "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
+          "summary": "An mRNA-lipid nanoparticle vaccine against H5N1 influenza virus successfully protects lactating dairy cows from infection, demonstrating a major advance in veterinary vaccine technology.",
+          "category": "Biotechnology",
+          "subcategory": "immunotherapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-28",
+          "url": "https://www.nature.com/articles/s41587-026-03343-6",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-fdff7b9161cc",
-          "title": "Human AGO2-based RNA editor ALTER avoids immune responses and outperforms dCas13",
-          "summary": "ALTER, a human AGO2-based programmable RNA base editor, avoids immune responses and outperforms dCas13 editors for therapeutic applications.",
+          "title": "Human AGO2-based programmable RNA base editor ALTER avoids immune responses",
+          "summary": "ALTER uses human AGO2 for programmable RNA editing, reducing immune risks and outperforming dCas13 editors.",
           "category": "Biotechnology",
           "subcategory": "gene_editing",
           "value": null,
           "unit": null,
-          "source": "Research team (unspecified)",
+          "source": "Nature Biotechnology",
           "date": "2026-10-22",
           "url": "https://www.nature.com/articles/s41587-026-03358-z",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -92,10 +112,29 @@
           "url": "https://www.nature.com/articles/s41587-026-03327-6",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-24ff71915ce8",
+          "title": "DynaVelo deep learning model predicts B-cell perturbation responses from single-cell multiomic velocities",
+          "summary": "A new deep dynamical model integrates single-cell multiomic data to infer cell state dynamics and accurately predict loss-of-function and rescue perturbations in B cells.",
+          "category": "Biotechnology",
+          "subcategory": "single_cell_multiomics",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-21",
+          "url": "https://www.nature.com/articles/s41587-026-03348-1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -765,7 +804,7 @@
           "url": "https://arxiv.org/abs/2610.36230",
           "is_record": true,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1594,6 +1633,25 @@
         "supply_chain"
       ],
       "milestones": [
+        {
+          "id": "ms-24af55ce18c7",
+          "title": "GitHub launches npm Firewall to block malicious packages at install time",
+          "summary": "GitHub introduces a preview firewall that inspects npm package metadata and downloads to block malicious packages during installation, enhancing supply chain security.",
+          "category": "Cybersecurity",
+          "subcategory": "supply_chain",
+          "value": null,
+          "unit": null,
+          "source": "GitHub",
+          "date": "2026-10-29",
+          "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 37.7749,
+            "lon": -122.4194
+          }
+        },
         {
           "id": "ms-95bcb6fd31f6",
           "title": "ROMULUS ClickFix Platform Discovered Delivering LegionLoader Malware",
