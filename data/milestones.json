@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-29T13:05:17.520445Z",
+  "last_update": "2026-10-30T12:51:30.601314Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -17,8 +17,8 @@
         "gene_therapy",
         "immunotherapy",
         "biosensors",
-        "single_cell_multiomics",
         "transcriptome_recording",
+        "single_cell_multiomics",
         "structural_variant_detection",
         "ml_perturbation"
       ],
@@ -36,10 +36,29 @@
           "url": "https://www.nature.com/articles/s41587-026-03343-6",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-122aeca75fe1",
+          "title": "Malaria Parasite Invasion Mechanism Visualized at Molecular Resolution",
+          "summary": "Researchers have visualized in fine detail the temporary molecular portal used by malaria parasites to invade red blood cells, revealing a novel entry mechanism.",
+          "category": "Biotechnology",
+          "subcategory": "microscopy",
+          "value": null,
+          "unit": null,
+          "source": "Quanta Magazine",
+          "date": "2026-10-23",
+          "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -63,27 +82,27 @@
         },
         {
           "id": "ms-86fcffddff3c",
-          "title": "Recordanelles capture transient gene expression in single human cells",
-          "summary": "A synthetic organelle called 'recordanelle' enables multi-day recording of cellular RNAs with single-cell sensitivity, overcoming limitations of RNA sequencing for transient gene expression dynamics.",
+          "title": "Recordanelle synthetic organelle enables multi-day recording of transient gene expression in single human cells",
+          "summary": "A synthetic organelle called the recordanelle can capture transient RNA changes in single human cells over several days, enabling transcriptome-wide temporal recording with single-cell sensitivity.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
           "unit": null,
-          "source": "Nature Biotechnology",
+          "source": "Academic research team",
           "date": "2026-10-22",
           "url": "https://www.nature.com/articles/s41587-026-03350-7",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
           "id": "ms-b386b182f23d",
-          "title": "Human AGO2-based RNA editor ALTER avoids immune responses",
-          "summary": "ALTER, a programmable RNA base editor built entirely from human AGO2 protein, reduces immunogenicity risk and outperforms dCas13-based editors for therapeutic applications.",
+          "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+          "summary": "ALTER uses human Argonaute 2 for programmable RNA editing, eliminating bacterial protein immunogenicity risks and outperforming dCas13 editors.",
           "category": "Biotechnology",
           "subcategory": "gene_therapy",
           "value": null,
@@ -131,7 +150,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03348-1",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -214,25 +233,6 @@
           }
         },
         {
-          "id": "ms-b0c0800e6617",
-          "title": "Proteomic aging clocks deployed in clinical trial for first time",
-          "summary": "Six proteomic aging clocks used in a clinical trial for the first time, providing insights into clock performance rather than drug efficacy.",
-          "category": "Biotechnology",
-          "subcategory": "longevity",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-13",
-          "url": "https://www.nature.com/articles/s41587-026-03361-4",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-fc512f295a81",
           "title": "In vivo engineering of CAR NK cells via ligand-directed lipid nanoparticles",
           "summary": "Researchers demonstrate in vivo generation of chimeric antigen receptor natural killer cells using ligand-directed lipid nanoparticles for treating autoimmune disease and cancer.",
@@ -243,6 +243,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-13",
           "url": "https://www.nature.com/articles/s41587-026-03310-1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-b0c0800e6617",
+          "title": "Proteomic aging clocks deployed in clinical trial for first time",
+          "summary": "Six proteomic aging clocks used in a clinical trial for the first time, providing insights into clock performance rather than drug efficacy.",
+          "category": "Biotechnology",
+          "subcategory": "longevity",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-13",
+          "url": "https://www.nature.com/articles/s41587-026-03361-4",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -575,25 +594,6 @@
           }
         },
         {
-          "id": "ms-0a279b32fda4",
-          "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
-          "summary": "Researchers develop biomimetic cells as a novel synthetic biology tool to investigate mechanical force sensing in T cells, opening new avenues for immunotherapy research.",
-          "category": "Biotechnology",
-          "subcategory": "synthetic_biology",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-10",
-          "url": "https://www.nature.com/articles/s41587-026-03312-z",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-a5c98baae9a8",
           "title": "Moderna mRNA flu vaccine receives FDA approval",
           "summary": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
@@ -610,6 +610,25 @@
           "geolocation": {
             "lat": 39.0555,
             "lon": -77.038
+          }
+        },
+        {
+          "id": "ms-0a279b32fda4",
+          "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
+          "summary": "Researchers develop biomimetic cells as a novel synthetic biology tool to investigate mechanical force sensing in T cells, opening new avenues for immunotherapy research.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-10",
+          "url": "https://www.nature.com/articles/s41587-026-03312-z",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -1634,6 +1653,25 @@
       ],
       "milestones": [
         {
+          "id": "ms-3d91d765379c",
+          "title": "Google Gemini 4 Carbon achieves 88.2% on SEC-bench Pro vulnerability detection benchmark",
+          "summary": "Google's Gemini 4 Carbon model sets new records on cybersecurity benchmarks, scoring 88.2% on SEC-bench Pro for vulnerability detection and 54.8% on ExploitGym for exploitation.",
+          "category": "Cybersecurity",
+          "subcategory": "defense_scores",
+          "value": 88.2,
+          "unit": "%",
+          "source": "Google",
+          "date": "2026-10-29",
+          "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 37.4219,
+            "lon": -122.084
+          }
+        },
+        {
           "id": "ms-24af55ce18c7",
           "title": "GitHub launches npm Firewall to block malicious packages at install time",
           "summary": "GitHub introduces a preview firewall that inspects npm package metadata and downloads to block malicious packages during installation, enhancing supply chain security.",
@@ -1646,7 +1684,7 @@
           "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 37.7749,
             "lon": -122.4194
@@ -1813,6 +1851,25 @@
           },
           "category": "Cybersecurity",
           "is_new": false
+        },
+        {
+          "id": "ms-c7300373c773",
+          "title": "Linux Kernel TCP Vulnerability CVE-2026-98432 Scores 9.8 CVSS",
+          "summary": "A critical Linux kernel TCP flaw (CVE-2026-98432) with 9.8 CVSS score affects Ubuntu, RHEL, and other distributions, with an AI-generated exploit demonstrated.",
+          "category": "Cybersecurity",
+          "subcategory": "exploits",
+          "value": 9.8,
+          "unit": "CVSS",
+          "source": "Linux Kernel CVE Team",
+          "date": "2024-10-27",
+          "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": false,
+          "geolocation": {
+            "lat": 37.7749,
+            "lon": -122.4194
+          }
         }
       ]
     },
@@ -1991,6 +2048,35 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Astrophysics": {
+      "name": "Astrophysics",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "black_hole_imaging"
+      ],
+      "milestones": [
+        {
+          "id": "ms-0834ba692aa3",
+          "title": "First image of a black hole captured by Event Horizon Telescope",
+          "summary": "Event Horizon Telescope captured the first-ever image of a black hole (M87*) using a planet-scale interferometer.",
+          "category": "Astrophysics",
+          "subcategory": "black_hole_imaging",
+          "value": 1,
+          "unit": "image",
+          "source": "Event Horizon Telescope Collaboration",
+          "date": "2019-04-10",
+          "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 42.3375,
+            "lon": -71.1061
+          }
         }
       ]
     }

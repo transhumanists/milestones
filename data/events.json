@@ -1,7 +1,59 @@
 {
-  "last_update": "2026-10-29T13:05:17.520445Z",
+  "last_update": "2026-10-30T12:51:30.601314Z",
   "version": "2.0.0",
   "events": [
+    {
+      "id": "ev-ms-9b3c098a1571",
+      "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
+      "category": "Biotechnology",
+      "value": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03343-6",
+      "date": "2026-10-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-fc512f295a81",
+      "title": "In vivo engineering of CAR NK cells via ligand-directed lipid nanoparticles",
+      "category": "Biotechnology",
+      "value": "In vivo engineering of CAR NK cells via ligand-directed lipid nanoparticles",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03310-1",
+      "date": "2026-10-13",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-a5c98baae9a8",
+      "title": "Moderna mRNA flu vaccine receives FDA approval",
+      "category": "Biotechnology",
+      "value": "Moderna mRNA flu vaccine receives FDA approval",
+      "source": "FDA",
+      "url": "https://www.nature.com/articles/s41587-026-03313-y",
+      "date": "2026-09-10",
+      "geolocation": {
+        "lat": 39.0555,
+        "lon": -77.038
+      }
+    },
+    {
+      "id": "ev-bio-009",
+      "title": "CAR-T manufacturing speed (bedside)",
+      "category": "Biotechnology",
+      "value": "7 days",
+      "source": "驯玉兰生物",
+      "url": "https://www.cncell.com",
+      "date": "2026-08-01",
+      "geolocation": {
+        "lat": 31.2304,
+        "lon": 121.4737
+      }
+    },
     {
       "id": "ev-ms-fdff7b9161cc",
       "title": "Human AGO2-based programmable RNA base editor ALTER avoids immune responses",
@@ -78,19 +130,6 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-ms-86fcffddff3c",
-      "title": "Recordanelles capture transient gene expression in single human cells",
-      "category": "Biotechnology",
-      "value": "Recordanelles capture transient gene expression in single human cells",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03350-7",
-      "date": "2026-10-22",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {
@@ -186,9 +225,9 @@
     },
     {
       "id": "ev-ms-b386b182f23d",
-      "title": "Human AGO2-based RNA editor ALTER avoids immune responses",
+      "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
       "category": "Biotechnology",
-      "value": "Human AGO2-based RNA editor ALTER avoids immune responses",
+      "value": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03358-z",
       "date": "2026-10-22",
@@ -250,6 +289,19 @@
       }
     },
     {
+      "id": "ev-ms-24ff71915ce8",
+      "title": "DynaVelo deep learning model predicts B-cell perturbation responses from single-cell multiomic velocities",
+      "category": "Biotechnology",
+      "value": "DynaVelo deep learning model predicts B-cell perturbation responses from single-cell multiomic velocities",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03348-1",
+      "date": "2026-10-21",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
       "id": "ev-ms-feeecf436b36",
       "title": "HitSV improves structural variant detection across sequencing technologies",
       "category": "Biotechnology",
@@ -286,58 +338,6 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-ms-fc512f295a81",
-      "title": "In vivo engineering of CAR NK cells via ligand-directed lipid nanoparticles",
-      "category": "Biotechnology",
-      "value": "In vivo engineering of CAR NK cells via ligand-directed lipid nanoparticles",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03310-1",
-      "date": "2026-10-13",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-a5c98baae9a8",
-      "title": "Moderna mRNA flu vaccine receives FDA approval",
-      "category": "Biotechnology",
-      "value": "Moderna mRNA flu vaccine receives FDA approval",
-      "source": "FDA",
-      "url": "https://www.nature.com/articles/s41587-026-03313-y",
-      "date": "2026-09-10",
-      "geolocation": {
-        "lat": 39.0555,
-        "lon": -77.038
-      }
-    },
-    {
-      "id": "ev-bio-009",
-      "title": "CAR-T manufacturing speed (bedside)",
-      "category": "Biotechnology",
-      "value": "7 days",
-      "source": "驯玉兰生物",
-      "url": "https://www.cncell.com",
-      "date": "2026-08-01",
-      "geolocation": {
-        "lat": 31.2304,
-        "lon": 121.4737
-      }
-    },
-    {
-      "id": "ev-ms-9b3c098a1571",
-      "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
-      "category": "Biotechnology",
-      "value": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03343-6",
-      "date": "2026-10-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {
@@ -705,6 +705,19 @@
       }
     },
     {
+      "id": "ev-ms-24af55ce18c7",
+      "title": "GitHub launches npm Firewall to block malicious packages at install time",
+      "category": "Cybersecurity",
+      "value": "GitHub launches npm Firewall to block malicious packages at install time",
+      "source": "GitHub",
+      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "date": "2026-10-29",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-ms-56183fe2bf28",
       "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Security Checks",
       "category": "Cybersecurity",
@@ -741,6 +754,19 @@
       "geolocation": {
         "lat": 38.8951,
         "lon": -77.0364
+      }
+    },
+    {
+      "id": "ev-ms-c7300373c773",
+      "title": "Linux Kernel TCP Vulnerability CVE-2026-98432 Scores 9.8 CVSS",
+      "category": "Cybersecurity",
+      "value": "9.8 CVSS",
+      "source": "Linux Kernel CVE Team",
+      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "date": "2024-10-27",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
       }
     },
     {
@@ -900,29 +926,29 @@
       }
     },
     {
-      "id": "ev-ms-24ff71915ce8",
-      "title": "DynaVelo deep learning model predicts B-cell perturbation responses from single-cell multiomic velocities",
-      "category": "Biotechnology",
-      "value": "DynaVelo deep learning model predicts B-cell perturbation responses from single-cell multiomic velocities",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03348-1",
-      "date": "2026-10-21",
+      "id": "ev-ms-0834ba692aa3",
+      "title": "First image of a black hole captured by Event Horizon Telescope",
+      "category": "Astrophysics",
+      "value": "1 image",
+      "source": "Event Horizon Telescope Collaboration",
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "date": "2019-04-10",
       "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
+        "lat": 42.3375,
+        "lon": -71.1061
       }
     },
     {
-      "id": "ev-ms-24af55ce18c7",
-      "title": "GitHub launches npm Firewall to block malicious packages at install time",
+      "id": "ev-ms-3d91d765379c",
+      "title": "Google Gemini 4 Carbon achieves 88.2% on SEC-bench Pro vulnerability detection benchmark",
       "category": "Cybersecurity",
-      "value": "GitHub launches npm Firewall to block malicious packages at install time",
-      "source": "GitHub",
-      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "value": "88.2 %",
+      "source": "Google",
+      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
       "date": "2026-10-29",
       "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
+        "lat": 37.4219,
+        "lon": -122.084
       }
     }
   ]
