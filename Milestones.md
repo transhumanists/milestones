@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-30T12:51:30.604260Z · 108 active milestones across 8 categories*
+*Auto-generated: 2026-10-31T12:23:55.648822Z · 107 active milestones across 7 categories*
 
 ---
 
@@ -13,9 +13,9 @@
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `immunotherapy` | mRNA-LNP vaccine protects dairy cows from H5N1 inf  | — | Nature Biotechnology | 2026-10-28 |
-| 2 | `microscopy` | Malaria Parasite Invasion Mechanism Visualized at  🆕 | — | Quanta Magazine | 2026-10-23 |
+| 2 | `microscopy` | Malaria Parasite Invasion Mechanism Visualized at   | — | Quanta Magazine | 2026-10-23 |
 | 3 | `gene_editing` | Human AGO2-based programmable RNA base editor ALTE  | — | Nature Biotechnology | 2026-10-22 |
-| 4 | `synthetic_biology` | Recordanelle synthetic organelle enables multi-day  | — | Academic research te | 2026-10-22 |
+| 4 | `synthetic_biology` | Recordanelle synthetic organelle enables multi-day  | — | Nature Biotechnology | 2026-10-22 |
 | 5 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
 | 6 | `transcriptome_recording` | Recordanelles enable continuous transcriptome-wide  | — | Not specified | 2026-10-21 |
 | 7 | `single_cell_multiomics` | DynaVelo deep learning model predicts B-cell pertu  | — | Nature Biotechnology | 2026-10-21 |
@@ -84,15 +84,15 @@
 | 21 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
 | 22 | `gpu_efficiency` | Training TFLOPS/W  | **2.1** TFLOPS/W | NVIDIA GB300 | 2026-07-28 |
 | 23 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
-| 24 | `benchmarks` | EgoSafetyBench: Egocentric Video Benchmark for Emb  | **1200** scenarios | Research authors (in | 2026-06-30 |
+| 24 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium  | 2026-06-30 |
 | 25 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
 | 26 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE Research Team | 2026-06-30 |
 | 27 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
 | 28 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
-| 29 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
-| 30 | `frontier_models` | Seed2.0 model series achieves world-leading reason  | — | ByteDance | 2026-06-30 |
-| 31 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.2** % | Unknown | 2026-06-30 |
-| 32 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
+| 29 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time 🆕 | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
+| 30 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
+| 31 | `frontier_models` | Seed2.0 model series sets new frontier in reasonin  | — | ByteDance | 2026-06-30 |
+| 32 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
 | 33 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
@@ -126,7 +126,7 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench 🆕 | **88.2** % | Google | 2026-10-29 |
+| 1 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench  | **88.2** % | Google | 2026-10-29 |
 | 2 | `supply_chain` | GitHub launches npm Firewall to block malicious pa  | — | GitHub | 2026-10-29 |
 | 3 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
 | 4 | `exploits` | Hirudo Android Trojan Uses Patched Banking Apps to  | — | ThreatFabric | 2026-10-14 |
@@ -162,13 +162,5 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Astrophysics 📌
-
-*Color: #aaaaaa · Subcategories: 1*
-
-| # | Subcategory | Milestone | Value | Source | Date |
-|:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `black_hole_imaging` | First image of a black hole captured by Event Hori 🆕 | **1** image | Event Horizon Telesc | 2019-04-10 |
-
 ---
-*Last auto-generated: 2026-10-30T12:51:30.604260Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-10-31T12:23:55.648822Z · Pipeline: `transhumanists/apis`*

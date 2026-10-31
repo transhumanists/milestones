@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T12:51:30.601314Z",
+  "last_update": "2026-10-31T12:23:55.645658Z",
   "version": "2.0.0",
   "events": [
     {
@@ -52,6 +52,32 @@
       "geolocation": {
         "lat": 31.2304,
         "lon": 121.4737
+      }
+    },
+    {
+      "id": "ev-ms-76a6862f54e8",
+      "title": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
+      "category": "Biotechnology",
+      "value": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03328-5",
+      "date": "2026-09-25",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-003",
+      "title": "Electron microscope resolution",
+      "category": "Biotechnology",
+      "value": "0.39 Ångström",
+      "source": "Thermo Fisher FEI",
+      "url": "https://www.thermofisher.com",
+      "date": "2026-08-18",
+      "geolocation": {
+        "lat": 44.4268,
+        "lon": -123.0764
       }
     },
     {
@@ -130,6 +156,19 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-86fcffddff3c",
+      "title": "Recordanelle synthetic organelle enables multi-day RNA recording in single human cells",
+      "category": "Biotechnology",
+      "value": "Recordanelle synthetic organelle enables multi-day RNA recording in single human cells",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03350-7",
+      "date": "2026-10-22",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -432,32 +471,6 @@
       }
     },
     {
-      "id": "ev-ms-76a6862f54e8",
-      "title": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
-      "category": "Biotechnology",
-      "value": "Photolabile oligonucleotides enable spatially resolved single-cell transcriptomics and epigenomics",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03328-5",
-      "date": "2026-09-25",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-003",
-      "title": "Electron microscope resolution",
-      "category": "Biotechnology",
-      "value": "0.39 Ångström",
-      "source": "Thermo Fisher FEI",
-      "url": "https://www.thermofisher.com",
-      "date": "2026-08-18",
-      "geolocation": {
-        "lat": 44.4268,
-        "lon": -123.0764
-      }
-    },
-    {
       "id": "ev-bio-002",
       "title": "Neural implant electrode density",
       "category": "Biotechnology",
@@ -485,10 +498,10 @@
     },
     {
       "id": "ev-ms-fc6083e0cc69",
-      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification",
+      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time multimodal transient classification on ZTF",
       "category": "Computing & AGI",
       "value": "0.73 macro F1 score",
-      "source": "Zwicky Transient Facility (ZTF)",
+      "source": "Zwicky Transient Facility (ZTF) collaboration",
       "url": "http://arxiv.org/abs/2607.00228v1",
       "date": "2026-06-30",
       "geolocation": {
@@ -563,9 +576,9 @@
     },
     {
       "id": "ev-ms-cede87aeb630",
-      "title": "Seed2.0 model series achieves world-leading reasoning and complex instruction following",
+      "title": "Seed2.0 model series sets new frontier in reasoning, visual understanding, and search",
       "category": "Computing & AGI",
-      "value": "Seed2.0 model series achieves world-leading reasoning and complex instruction following",
+      "value": "Seed2.0 model series sets new frontier in reasoning, visual understanding, and search",
       "source": "ByteDance",
       "url": "http://arxiv.org/abs/2607.00248v1",
       "date": "2026-06-30",
@@ -702,6 +715,19 @@
       "geolocation": {
         "lat": 37.5485,
         "lon": -122.0591
+      }
+    },
+    {
+      "id": "ev-ms-3d91d765379c",
+      "title": "Google Gemini 4 Carbon achieves 88.2% on SEC-bench Pro vulnerability detection benchmark",
+      "category": "Cybersecurity",
+      "value": "88.2 %",
+      "source": "Google",
+      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "date": "2026-10-29",
+      "geolocation": {
+        "lat": 37.4219,
+        "lon": -122.084
       }
     },
     {
@@ -923,32 +949,6 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
-      }
-    },
-    {
-      "id": "ev-ms-0834ba692aa3",
-      "title": "First image of a black hole captured by Event Horizon Telescope",
-      "category": "Astrophysics",
-      "value": "1 image",
-      "source": "Event Horizon Telescope Collaboration",
-      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-      "date": "2019-04-10",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-ms-3d91d765379c",
-      "title": "Google Gemini 4 Carbon achieves 88.2% on SEC-bench Pro vulnerability detection benchmark",
-      "category": "Cybersecurity",
-      "value": "88.2 %",
-      "source": "Google",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "date": "2026-10-29",
-      "geolocation": {
-        "lat": 37.4219,
-        "lon": -122.084
       }
     }
   ]

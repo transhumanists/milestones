@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T12:51:30.601314Z",
+  "last_update": "2026-10-31T12:23:55.645658Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -55,7 +55,7 @@
           "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -82,21 +82,21 @@
         },
         {
           "id": "ms-86fcffddff3c",
-          "title": "Recordanelle synthetic organelle enables multi-day recording of transient gene expression in single human cells",
-          "summary": "A synthetic organelle called the recordanelle can capture transient RNA changes in single human cells over several days, enabling transcriptome-wide temporal recording with single-cell sensitivity.",
+          "title": "Recordanelle synthetic organelle enables multi-day RNA recording in single human cells",
+          "summary": "A synthetic organelle called the recordanelle can capture transient gene expression over several days with single-cell sensitivity, overcoming limitations of RNA sequencing snapshots.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
           "unit": null,
-          "source": "Academic research team",
+          "source": "Nature Biotechnology",
           "date": "2026-10-22",
           "url": "https://www.nature.com/articles/s41587-026-03350-7",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -1234,13 +1234,13 @@
         },
         {
           "id": "ms-d6824a356960",
-          "title": "EgoSafetyBench: Egocentric Video Benchmark for Embodied VLM Safety Evaluation",
-          "summary": "New benchmark with 1,200 annotated egocentric scenarios evaluates vision-language models as runtime safety guards for embodied agents, revealing gaps in hazard detection.",
+          "title": "EgoSafetyBench: 1,200-scenario egocentric video benchmark for VLM safety guards",
+          "summary": "New diagnostic benchmark with 1,200 half-second-annotated robot-view scenarios reveals VLMs often detect hazards but miss specific hazardous moments, especially contextual ones, and are degraded by mi",
           "category": "Computing & AGI",
           "subcategory": "benchmarks",
           "value": 1200,
           "unit": "scenarios",
-          "source": "Research authors (institution not specified)",
+          "source": "Research consortium (unspecified in summary)",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00218v2",
           "is_record": false,
@@ -1328,6 +1328,25 @@
           }
         },
         {
+          "id": "ms-fc6083e0cc69",
+          "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time multimodal transient classification on ZTF",
+          "summary": "ORACLE-2 Omni combines light curves, metadata, and images to set a new real-time classification record on the ZTF alert stream, improving macro F1 by up to 40% over light-curve-only models.",
+          "category": "Computing & AGI",
+          "subcategory": "multimodal",
+          "value": 0.73,
+          "unit": "macro F1 score",
+          "source": "Zwicky Transient Facility (ZTF) collaboration",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00228v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 34.1377,
+            "lon": -118.1253
+          }
+        },
+        {
           "id": "ms-1e9a08b4a528",
           "title": "SLIM-RL matches TraceRL MATH500 accuracy with 0.46x training samples",
           "summary": "SLIM-RL achieves state-of-the-art MATH500 and GSM8K scores for diffusion LLMs using less than half the training samples of prior best method TraceRL.",
@@ -1348,8 +1367,8 @@
         },
         {
           "id": "ms-cede87aeb630",
-          "title": "Seed2.0 model series achieves world-leading reasoning and complex instruction following",
-          "summary": "Seed2.0 demonstrates substantial improvements in long-tail knowledge, complex instruction following, reasoning, visual understanding, and search, claiming world-leading performance on real-world tasks",
+          "title": "Seed2.0 model series sets new frontier in reasoning, visual understanding, and search",
+          "summary": "Seed2.0 introduces a new model series with world-leading reasoning, visual understanding, and search capabilities, improving long-tail knowledge and complex instruction following for real-world tasks.",
           "category": "Computing & AGI",
           "subcategory": "frontier_models",
           "value": null,
@@ -1368,12 +1387,12 @@
         {
           "id": "ms-46a7d8543058",
           "title": "Mnemosyne introduces Agentic Transaction Processing with formal safety guarantees for AI-generated workflows",
-          "summary": "Mnemosyne presents Agentic Transaction Processing (ATP), a framework that validates and repairs AI-generated workflows with provable safety properties and only 5.2-6.6% throughput overhead.",
+          "summary": "Mnemosyne proposes Agentic Transaction Processing (ATP), a framework treating LLM-generated workflow actions as untrusted proposals with deterministic admission and bounded reactive repair, proving fo",
           "category": "Computing & AGI",
           "subcategory": "agentic_ai",
-          "value": 5.2,
-          "unit": "%",
-          "source": "Unknown",
+          "value": 5.9,
+          "unit": "percent throughput overhead",
+          "source": "Academic research team (unspecified in summary)",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00269v3",
           "is_record": false,
@@ -1382,25 +1401,6 @@
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
-          }
-        },
-        {
-          "id": "ms-fc6083e0cc69",
-          "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time transient classification",
-          "summary": "New multimodal AI model ORACLE-2 Omni improves real-time classification of astronomical transients by up to 40% over light-curve-only models on ZTF data.",
-          "category": "Computing & AGI",
-          "subcategory": "multimodal",
-          "value": 0.73,
-          "unit": "macro F1 score",
-          "source": "Zwicky Transient Facility (ZTF)",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00228v1",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 34.1377,
-            "lon": -118.1253
           }
         },
         {
@@ -1665,7 +1665,7 @@
           "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 37.4219,
             "lon": -122.084
@@ -2048,35 +2048,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Astrophysics": {
-      "name": "Astrophysics",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "black_hole_imaging"
-      ],
-      "milestones": [
-        {
-          "id": "ms-0834ba692aa3",
-          "title": "First image of a black hole captured by Event Horizon Telescope",
-          "summary": "Event Horizon Telescope captured the first-ever image of a black hole (M87*) using a planet-scale interferometer.",
-          "category": "Astrophysics",
-          "subcategory": "black_hole_imaging",
-          "value": 1,
-          "unit": "image",
-          "source": "Event Horizon Telescope Collaboration",
-          "date": "2019-04-10",
-          "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 42.3375,
-            "lon": -71.1061
-          }
         }
       ]
     }
