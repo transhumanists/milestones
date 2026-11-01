@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-10-31T12:23:55.648822Z · 107 active milestones across 7 categories*
+*Auto-generated: 2026-11-01T13:20:14.650093Z · 110 active milestones across 8 categories*
 
 ---
 
@@ -14,8 +14,8 @@
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `immunotherapy` | mRNA-LNP vaccine protects dairy cows from H5N1 inf  | — | Nature Biotechnology | 2026-10-28 |
 | 2 | `microscopy` | Malaria Parasite Invasion Mechanism Visualized at   | — | Quanta Magazine | 2026-10-23 |
-| 3 | `gene_editing` | Human AGO2-based programmable RNA base editor ALTE  | — | Nature Biotechnology | 2026-10-22 |
-| 4 | `synthetic_biology` | Recordanelle synthetic organelle enables multi-day  | — | Nature Biotechnology | 2026-10-22 |
+| 3 | `gene_editing` | Human AGO2-based RNA editor ALTER avoids immune re  | — | Nature Biotechnology | 2026-10-22 |
+| 4 | `synthetic_biology` | Recordanelle synthetic organelle enables multi-day  | — | Research authors (af | 2026-10-22 |
 | 5 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
 | 6 | `transcriptome_recording` | Recordanelles enable continuous transcriptome-wide  | — | Not specified | 2026-10-21 |
 | 7 | `single_cell_multiomics` | DynaVelo deep learning model predicts B-cell pertu  | — | Nature Biotechnology | 2026-10-21 |
@@ -89,7 +89,7 @@
 | 26 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE Research Team | 2026-06-30 |
 | 27 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
 | 28 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
-| 29 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time 🆕 | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
+| 29 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
 | 30 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
 | 31 | `frontier_models` | Seed2.0 model series sets new frontier in reasonin  | — | ByteDance | 2026-06-30 |
 | 32 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
@@ -126,18 +126,20 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench  | **88.2** % | Google | 2026-10-29 |
-| 2 | `supply_chain` | GitHub launches npm Firewall to block malicious pa  | — | GitHub | 2026-10-29 |
-| 3 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
-| 4 | `exploits` | Hirudo Android Trojan Uses Patched Banking Apps to  | — | ThreatFabric | 2026-10-14 |
-| 5 | `mitigations` | Microsoft patches record 1,400+ vulnerabilities in  | **1400** vulnerabilities | Microsoft | 2026-10-13 |
-| 6 | `exploits` | P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Th  | — | iVerify | 2026-10-09 |
-| 7 | `mitigations` | Anthropic launches free AI-powered vulnerability s  | — | Anthropic | 2026-10-09 |
-| 8 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo  | **8.8** CVSS | Security researchers | 2026-09-26 |
-| 9 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
-| 10 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
-| 11 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
-| 12 | `exploits` | Linux Kernel TCP Vulnerability CVE-2026-98432 Scor  | **9.8** CVSS | Linux Kernel CVE Tea | 2024-10-27 |
+| 1 | `exploits` | FBI attributes record $6.43B crypto heist to North 🆕 | **6.43** billion USD | FBI | 2026-11-01 |
+| 2 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench  | **88.2** % | Google | 2026-10-29 |
+| 3 | `supply_chain` | GitHub launches npm Firewall to block malicious pa  | — | GitHub | 2026-10-29 |
+| 4 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
+| 5 | `exploits` | Hirudo Android Trojan Uses Patched Banking Apps to  | — | ThreatFabric | 2026-10-14 |
+| 6 | `mitigations` | Microsoft patches record 1,400+ vulnerabilities in  | **1400** vulnerabilities | Microsoft | 2026-10-13 |
+| 7 | `exploits` | P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Th  | — | iVerify | 2026-10-09 |
+| 8 | `mitigations` | Anthropic launches free AI-powered vulnerability s  | — | Anthropic | 2026-10-09 |
+| 9 | `threat_intelligence` | Cloudflare mitigates 18.2M network-layer DDoS atta 🆕 | **18.2** million attacks | Cloudflare | 2026-10-01 |
+| 10 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo  | **8.8** CVSS | Security researchers | 2026-09-26 |
+| 11 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
+| 12 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
+| 13 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
+| 14 | `exploits` | Linux Kernel TCP Vulnerability CVE-2026-98432 Scor  | **9.8** CVSS | Linux Kernel CVE Tea | 2024-10-27 |
 
 ## 6. Spaceflight & Aeronautics 🚀
 
@@ -162,5 +164,13 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
+## 8. Biomaterials 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `spider_silk_assembly` | Biologists decipher molecular mechanism of spider  🆕 | — | Quanta Magazine | 2026-10-28 |
+
 ---
-*Last auto-generated: 2026-10-31T12:23:55.648822Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-01T13:20:14.650093Z · Pipeline: `transhumanists/apis`*

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-31T12:23:55.645658Z",
+  "last_update": "2026-11-01T13:20:14.643072Z",
   "version": "2.0.0",
   "events": [
     {
@@ -82,9 +82,9 @@
     },
     {
       "id": "ev-ms-fdff7b9161cc",
-      "title": "Human AGO2-based programmable RNA base editor ALTER avoids immune responses",
+      "title": "Human AGO2-based RNA editor ALTER avoids immune responses",
       "category": "Biotechnology",
-      "value": "Human AGO2-based programmable RNA base editor ALTER avoids immune responses",
+      "value": "Human AGO2-based RNA editor ALTER avoids immune responses",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03358-z",
       "date": "2026-10-22",
@@ -156,19 +156,6 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-ms-86fcffddff3c",
-      "title": "Recordanelle synthetic organelle enables multi-day RNA recording in single human cells",
-      "category": "Biotechnology",
-      "value": "Recordanelle synthetic organelle enables multi-day RNA recording in single human cells",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03350-7",
-      "date": "2026-10-22",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {
@@ -744,6 +731,19 @@
       }
     },
     {
+      "id": "ev-ms-5dbfeb047054",
+      "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
+      "category": "Cybersecurity",
+      "value": "18.2 million attacks",
+      "source": "Cloudflare",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "date": "2026-10-01",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-ms-56183fe2bf28",
       "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Security Checks",
       "category": "Cybersecurity",
@@ -793,6 +793,19 @@
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ms-fc6cc7fd8ac3",
+      "title": "FBI attributes record $6.43B crypto heist to North Korea's TraderTraitor",
+      "category": "Cybersecurity",
+      "value": "6.43 billion USD",
+      "source": "FBI",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "date": "2026-11-01",
+      "geolocation": {
+        "lat": 38.8951,
+        "lon": -77.0364
       }
     },
     {

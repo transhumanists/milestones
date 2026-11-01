@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-31T12:23:55.645658Z",
+  "last_update": "2026-11-01T13:20:14.643072Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -63,8 +63,8 @@
         },
         {
           "id": "ms-fdff7b9161cc",
-          "title": "Human AGO2-based programmable RNA base editor ALTER avoids immune responses",
-          "summary": "ALTER uses human AGO2 for programmable RNA editing, reducing immune risks and outperforming dCas13 editors.",
+          "title": "Human AGO2-based RNA editor ALTER avoids immune responses",
+          "summary": "ALTER, a human AGO2-based programmable RNA base editor, avoids immune responses and outperforms dCas13 editors.",
           "category": "Biotechnology",
           "subcategory": "gene_editing",
           "value": null,
@@ -82,21 +82,21 @@
         },
         {
           "id": "ms-86fcffddff3c",
-          "title": "Recordanelle synthetic organelle enables multi-day RNA recording in single human cells",
-          "summary": "A synthetic organelle called the recordanelle can capture transient gene expression over several days with single-cell sensitivity, overcoming limitations of RNA sequencing snapshots.",
+          "title": "Recordanelle synthetic organelle enables multi-day single-cell RNA recording",
+          "summary": "A synthetic organelle called the recordanelle can capture transient gene expression in single human cells over several days with single-cell sensitivity, enabling transcriptome-wide recording of dynam",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
           "unit": null,
-          "source": "Nature Biotechnology",
+          "source": "Research authors (affiliation not specified)",
           "date": "2026-10-22",
           "url": "https://www.nature.com/articles/s41587-026-03350-7",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -1340,7 +1340,7 @@
           "url": "http://arxiv.org/abs/2607.00228v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 34.1377,
             "lon": -118.1253
@@ -1653,6 +1653,25 @@
       ],
       "milestones": [
         {
+          "id": "ms-fc6cc7fd8ac3",
+          "title": "FBI attributes record $6.43B crypto heist to North Korea's TraderTraitor",
+          "summary": "FBI attributes largest-ever cryptocurrency theft of $6.43 billion to North Korean hacking group TraderTraitor.",
+          "category": "Cybersecurity",
+          "subcategory": "exploits",
+          "value": 6.43,
+          "unit": "billion USD",
+          "source": "FBI",
+          "date": "2026-11-01",
+          "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+          "is_record": true,
+          "is_breakthrough": false,
+          "is_new": true,
+          "geolocation": {
+            "lat": 38.8951,
+            "lon": -77.0364
+          }
+        },
+        {
           "id": "ms-3d91d765379c",
           "title": "Google Gemini 4 Carbon achieves 88.2% on SEC-bench Pro vulnerability detection benchmark",
           "summary": "Google's Gemini 4 Carbon model sets new records on cybersecurity benchmarks, scoring 88.2% on SEC-bench Pro for vulnerability detection and 54.8% on ExploitGym for exploitation.",
@@ -1780,6 +1799,25 @@
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
+          "geolocation": {
+            "lat": 37.7749,
+            "lon": -122.4194
+          }
+        },
+        {
+          "id": "ms-5dbfeb047054",
+          "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
+          "summary": "Cloudflare autonomously mitigated 18.2 million network-layer DDoS attacks in Q3 2026, a 38% increase over the prior quarter.",
+          "category": "Cybersecurity",
+          "subcategory": "threat_intelligence",
+          "value": 18.2,
+          "unit": "million attacks",
+          "source": "Cloudflare",
+          "date": "2026-10-01",
+          "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+          "is_record": true,
+          "is_breakthrough": false,
+          "is_new": true,
           "geolocation": {
             "lat": 37.7749,
             "lon": -122.4194
@@ -2048,6 +2086,35 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Biomaterials": {
+      "name": "Biomaterials",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "spider_silk_assembly"
+      ],
+      "milestones": [
+        {
+          "id": "ms-cb19d107af8f",
+          "title": "Biologists decipher molecular mechanism of spider silk fiber formation",
+          "summary": "Biologists uncover the molecular mechanism by which spiders transform disordered protein 'dope' into ultra-strong, flexible silk fibers.",
+          "category": "Biomaterials",
+          "subcategory": "spider_silk_assembly",
+          "value": null,
+          "unit": null,
+          "source": "Quanta Magazine",
+          "date": "2026-10-28",
+          "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         }
       ]
     }
