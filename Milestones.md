@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-01T13:20:14.650093Z · 110 active milestones across 8 categories*
+*Auto-generated: 2026-11-02T16:03:32.316612Z · 109 active milestones across 7 categories*
 
 ---
 
@@ -14,13 +14,13 @@
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `immunotherapy` | mRNA-LNP vaccine protects dairy cows from H5N1 inf  | — | Nature Biotechnology | 2026-10-28 |
 | 2 | `microscopy` | Malaria Parasite Invasion Mechanism Visualized at   | — | Quanta Magazine | 2026-10-23 |
-| 3 | `gene_editing` | Human AGO2-based RNA editor ALTER avoids immune re  | — | Nature Biotechnology | 2026-10-22 |
+| 3 | `gene_editing` | Human AGO2-based programmable RNA editor avoids im  | — | Nature Biotechnology | 2026-10-22 |
 | 4 | `synthetic_biology` | Recordanelle synthetic organelle enables multi-day  | — | Research authors (af | 2026-10-22 |
 | 5 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
 | 6 | `transcriptome_recording` | Recordanelles enable continuous transcriptome-wide  | — | Not specified | 2026-10-21 |
 | 7 | `single_cell_multiomics` | DynaVelo deep learning model predicts B-cell pertu  | — | Nature Biotechnology | 2026-10-21 |
 | 8 | `gene_editing` | Engineered human Argonaute 2 enables targeted C-to  | — | Nature Biotechnology | 2026-10-20 |
-| 9 | `synthetic_biology` | Genetic code expansion enables plant-directed cont  | — | Nature Biotechnology | 2026-10-20 |
+| 9 | `synthetic_biology` | Plant-directed control of bacterial activity via g  | — | Nature Biotechnology | 2026-10-20 |
 | 10 | `gene_editing` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
 | 11 | `structural_variant_detection` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
 | 12 | `immunotherapy` | In vivo engineering of CAR NK cells via ligand-dir  | — | Nature Biotechnology | 2026-10-13 |
@@ -126,7 +126,7 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `exploits` | FBI attributes record $6.43B crypto heist to North 🆕 | **6.43** billion USD | FBI | 2026-11-01 |
+| 1 | `exploits` | FBI attributes record $6.43B crypto heist to North  | **6.43** billion USD | FBI | 2026-11-01 |
 | 2 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench  | **88.2** % | Google | 2026-10-29 |
 | 3 | `supply_chain` | GitHub launches npm Firewall to block malicious pa  | — | GitHub | 2026-10-29 |
 | 4 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
@@ -134,7 +134,7 @@
 | 6 | `mitigations` | Microsoft patches record 1,400+ vulnerabilities in  | **1400** vulnerabilities | Microsoft | 2026-10-13 |
 | 7 | `exploits` | P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Th  | — | iVerify | 2026-10-09 |
 | 8 | `mitigations` | Anthropic launches free AI-powered vulnerability s  | — | Anthropic | 2026-10-09 |
-| 9 | `threat_intelligence` | Cloudflare mitigates 18.2M network-layer DDoS atta 🆕 | **18.2** million attacks | Cloudflare | 2026-10-01 |
+| 9 | `threat_intelligence` | Cloudflare mitigates 18.2M network-layer DDoS atta  | **18.2** million attacks | Cloudflare | 2026-10-01 |
 | 10 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo  | **8.8** CVSS | Security researchers | 2026-09-26 |
 | 11 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
 | 12 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
@@ -164,13 +164,5 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Biomaterials 📌
-
-*Color: #aaaaaa · Subcategories: 1*
-
-| # | Subcategory | Milestone | Value | Source | Date |
-|:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `spider_silk_assembly` | Biologists decipher molecular mechanism of spider  🆕 | — | Quanta Magazine | 2026-10-28 |
-
 ---
-*Last auto-generated: 2026-11-01T13:20:14.650093Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-02T16:03:32.316612Z · Pipeline: `transhumanists/apis`*

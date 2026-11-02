@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-01T13:20:14.643072Z",
+  "last_update": "2026-11-02T16:03:32.312992Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -63,8 +63,8 @@
         },
         {
           "id": "ms-fdff7b9161cc",
-          "title": "Human AGO2-based RNA editor ALTER avoids immune responses",
-          "summary": "ALTER, a human AGO2-based programmable RNA base editor, avoids immune responses and outperforms dCas13 editors.",
+          "title": "Human AGO2-based programmable RNA editor avoids immune responses",
+          "summary": "ALTER RNA base editor uses human Argonaute 2 instead of bacterial Cas proteins, eliminating immune rejection risk and outperforming dCas13 editors for therapeutic applications.",
           "category": "Biotechnology",
           "subcategory": "gene_editing",
           "value": null,
@@ -177,8 +177,8 @@
         },
         {
           "id": "ms-9d9bc5bed0e6",
-          "title": "Genetic code expansion enables plant-directed control of bacterial activity",
-          "summary": "Researchers use noncanonical amino acid O-methyl-L-tyrosine to control bacterial protein synthesis across diverse plants, enabling plant-directed microbial activity.",
+          "title": "Plant-directed control of bacterial activity via genetic code expansion",
+          "summary": "Researchers use noncanonical amino acid O-methyl-L-tyrosine to enable plants to control bacterial protein synthesis across diverse plant species.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -1665,7 +1665,7 @@
           "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
           "is_record": true,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 38.8951,
             "lon": -77.0364
@@ -1817,7 +1817,7 @@
           "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
           "is_record": true,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 37.7749,
             "lon": -122.4194
@@ -2086,35 +2086,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Biomaterials": {
-      "name": "Biomaterials",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "spider_silk_assembly"
-      ],
-      "milestones": [
-        {
-          "id": "ms-cb19d107af8f",
-          "title": "Biologists decipher molecular mechanism of spider silk fiber formation",
-          "summary": "Biologists uncover the molecular mechanism by which spiders transform disordered protein 'dope' into ultra-strong, flexible silk fibers.",
-          "category": "Biomaterials",
-          "subcategory": "spider_silk_assembly",
-          "value": null,
-          "unit": null,
-          "source": "Quanta Magazine",
-          "date": "2026-10-28",
-          "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
         }
       ]
     }

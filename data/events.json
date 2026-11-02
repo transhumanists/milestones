@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-01T13:20:14.643072Z",
+  "last_update": "2026-11-02T16:03:32.312992Z",
   "version": "2.0.0",
   "events": [
     {
@@ -82,9 +82,9 @@
     },
     {
       "id": "ev-ms-fdff7b9161cc",
-      "title": "Human AGO2-based RNA editor ALTER avoids immune responses",
+      "title": "Human AGO2-based programmable RNA editor avoids immune responses",
       "category": "Biotechnology",
-      "value": "Human AGO2-based RNA editor ALTER avoids immune responses",
+      "value": "Human AGO2-based programmable RNA editor avoids immune responses",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03358-z",
       "date": "2026-10-22",
@@ -160,9 +160,9 @@
     },
     {
       "id": "ev-ms-9d9bc5bed0e6",
-      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "title": "Plant-directed control of bacterial activity via genetic code expansion",
       "category": "Biotechnology",
-      "value": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "value": "Plant-directed control of bacterial activity via genetic code expansion",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03360-5",
       "date": "2026-10-20",
@@ -705,42 +705,16 @@
       }
     },
     {
-      "id": "ev-ms-3d91d765379c",
-      "title": "Google Gemini 4 Carbon achieves 88.2% on SEC-bench Pro vulnerability detection benchmark",
+      "id": "ev-ms-fc6cc7fd8ac3",
+      "title": "FBI attributes record $6.43B crypto heist to North Korea's TraderTraitor",
       "category": "Cybersecurity",
-      "value": "88.2 %",
-      "source": "Google",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "date": "2026-10-29",
+      "value": "6.43 billion USD",
+      "source": "FBI",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "date": "2026-11-01",
       "geolocation": {
-        "lat": 37.4219,
-        "lon": -122.084
-      }
-    },
-    {
-      "id": "ev-ms-24af55ce18c7",
-      "title": "GitHub launches npm Firewall to block malicious packages at install time",
-      "category": "Cybersecurity",
-      "value": "GitHub launches npm Firewall to block malicious packages at install time",
-      "source": "GitHub",
-      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "date": "2026-10-29",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-5dbfeb047054",
-      "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
-      "category": "Cybersecurity",
-      "value": "18.2 million attacks",
-      "source": "Cloudflare",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "date": "2026-10-01",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
+        "lat": 38.8951,
+        "lon": -77.0364
       }
     },
     {
@@ -796,16 +770,42 @@
       }
     },
     {
-      "id": "ev-ms-fc6cc7fd8ac3",
-      "title": "FBI attributes record $6.43B crypto heist to North Korea's TraderTraitor",
+      "id": "ev-ms-3d91d765379c",
+      "title": "Google Gemini 4 Carbon achieves 88.2% on SEC-bench Pro vulnerability detection benchmark",
       "category": "Cybersecurity",
-      "value": "6.43 billion USD",
-      "source": "FBI",
-      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "date": "2026-11-01",
+      "value": "88.2 %",
+      "source": "Google",
+      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "date": "2026-10-29",
       "geolocation": {
-        "lat": 38.8951,
-        "lon": -77.0364
+        "lat": 37.4219,
+        "lon": -122.084
+      }
+    },
+    {
+      "id": "ev-ms-24af55ce18c7",
+      "title": "GitHub launches npm Firewall to block malicious packages at install time",
+      "category": "Cybersecurity",
+      "value": "GitHub launches npm Firewall to block malicious packages at install time",
+      "source": "GitHub",
+      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "date": "2026-10-29",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ms-5dbfeb047054",
+      "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
+      "category": "Cybersecurity",
+      "value": "18.2 million attacks",
+      "source": "Cloudflare",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "date": "2026-10-01",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
       }
     },
     {
