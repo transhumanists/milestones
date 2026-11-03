@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-02T16:03:32.312992Z",
+  "last_update": "2026-11-03T14:18:44.227416Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -63,8 +63,8 @@
         },
         {
           "id": "ms-fdff7b9161cc",
-          "title": "Human AGO2-based programmable RNA editor avoids immune responses",
-          "summary": "ALTER RNA base editor uses human Argonaute 2 instead of bacterial Cas proteins, eliminating immune rejection risk and outperforming dCas13 editors for therapeutic applications.",
+          "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+          "summary": "Researchers developed ALTER, a human Argonaute 2-based RNA base editor that eliminates bacterial protein immune risks and outperforms dCas13 editors.",
           "category": "Biotechnology",
           "subcategory": "gene_editing",
           "value": null,
@@ -82,21 +82,21 @@
         },
         {
           "id": "ms-86fcffddff3c",
-          "title": "Recordanelle synthetic organelle enables multi-day single-cell RNA recording",
-          "summary": "A synthetic organelle called the recordanelle can capture transient gene expression in single human cells over several days with single-cell sensitivity, enabling transcriptome-wide recording of dynam",
+          "title": "Recordanelle organelle records transient gene expression in single human cells for days",
+          "summary": "A synthetic organelle called 'recordanelle' enables multi-day recording of transient gene expression in single human cells with transcriptome-wide sensitivity.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
           "unit": null,
-          "source": "Research authors (affiliation not specified)",
+          "source": "Nature Biotechnology",
           "date": "2026-10-22",
           "url": "https://www.nature.com/articles/s41587-026-03350-7",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -1234,16 +1234,16 @@
         },
         {
           "id": "ms-d6824a356960",
-          "title": "EgoSafetyBench: 1,200-scenario egocentric video benchmark for VLM safety guards",
-          "summary": "New diagnostic benchmark with 1,200 half-second-annotated robot-view scenarios reveals VLMs often detect hazards but miss specific hazardous moments, especially contextual ones, and are degraded by mi",
+          "title": "EgoSafetyBench: 1,200-scenario egocentric video benchmark for embodied VLM safety evaluation",
+          "summary": "New benchmark with half-second granularity and contrastive ladders reveals VLMs often miss specific hazardous moments and are vulnerable to misleading in-scene text.",
           "category": "Computing & AGI",
           "subcategory": "benchmarks",
           "value": 1200,
           "unit": "scenarios",
-          "source": "Research consortium (unspecified in summary)",
+          "source": "Research consortium",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00218v2",
-          "is_record": false,
+          "is_record": true,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
@@ -1272,18 +1272,18 @@
         },
         {
           "id": "ms-110c8b5371e0",
-          "title": "ASPIRE achieves up to 77% improvement on robotic manipulation benchmarks",
-          "summary": "ASPIRE, an agentic continual learning system for robotics, autonomously writes and refines control programs, surpassing prior methods by up to 77% on LIBERO-Pro, 72% on Robosuite bimanual handover, an",
+          "title": "ASPIRE achieves up to 77% improvement on robotic manipulation tasks under perturbation",
+          "summary": "ASPIRE, a continual learning system for agentic skill programming in robotics, surpasses prior methods by up to 77% on manipulation tasks under perturbation, 72% on bimanual handover, and 32% on long-",
           "category": "Computing & AGI",
           "subcategory": "agentic_ai",
           "value": 77,
           "unit": "%",
-          "source": "ASPIRE Research Team",
+          "source": "ASPIRE research team",
           "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00272v1",
+          "url": "http://arxiv.org/abs/2607.00272v2",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1522,18 +1522,18 @@
         },
         {
           "id": "ms-f41cd2fc2342",
-          "title": "First complete analytical solution for quantum-advantage resource of two-mode Gaussian state with Galois no-go theorem",
-          "summary": "Researchers present the first certificate-checked analytical solution for extracting quantum complexity resources from a two-mode Gaussian state, proving via Galois theory that no closed-form solution",
+          "title": "Analytical theory of quantum-advantage resource extraction from two-mode Gaussian states",
+          "summary": "Researchers present the first complete certificate-checked solution for extracting quantum complexity resources from mixed Gaussian states, proving no closed-form solution exists for the two-mode case",
           "category": "Quantum Physics",
           "subcategory": "quantum_resource_theory",
           "value": null,
           "unit": null,
-          "source": "Unknown",
+          "source": "Research authors (affiliation not specified)",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00266v1",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -2086,6 +2086,35 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Scientific Computing": {
+      "name": "Scientific Computing",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "ml_dynamical_systems"
+      ],
+      "milestones": [
+        {
+          "id": "ms-c679507ed164",
+          "title": "Weak-form Kernel Ridge Regression learns noisy dynamical systems up to 15,000 dimensions",
+          "summary": "New WKRR method combines weak formulation with kernel ridge regression to achieve state-of-the-art noise-robust learning of chaotic systems up to 64D and real-world fluid data at 15,000D.",
+          "category": "Scientific Computing",
+          "subcategory": "ml_dynamical_systems",
+          "value": 15000,
+          "unit": "dimensions",
+          "source": "Academic research team",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00257v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-02T16:03:32.312992Z",
+  "last_update": "2026-11-03T14:18:44.227416Z",
   "version": "2.0.0",
   "events": [
     {
@@ -82,9 +82,9 @@
     },
     {
       "id": "ev-ms-fdff7b9161cc",
-      "title": "Human AGO2-based programmable RNA editor avoids immune responses",
+      "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
       "category": "Biotechnology",
-      "value": "Human AGO2-based programmable RNA editor avoids immune responses",
+      "value": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03358-z",
       "date": "2026-10-22",
@@ -156,6 +156,19 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-86fcffddff3c",
+      "title": "Recordanelle organelle records transient gene expression in single human cells for days",
+      "category": "Biotechnology",
+      "value": "Recordanelle organelle records transient gene expression in single human cells for days",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03350-7",
+      "date": "2026-10-22",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {

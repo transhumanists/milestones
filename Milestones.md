@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-02T16:03:32.316612Z · 109 active milestones across 7 categories*
+*Auto-generated: 2026-11-03T14:18:44.232013Z · 110 active milestones across 8 categories*
 
 ---
 
@@ -14,8 +14,8 @@
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `immunotherapy` | mRNA-LNP vaccine protects dairy cows from H5N1 inf  | — | Nature Biotechnology | 2026-10-28 |
 | 2 | `microscopy` | Malaria Parasite Invasion Mechanism Visualized at   | — | Quanta Magazine | 2026-10-23 |
-| 3 | `gene_editing` | Human AGO2-based programmable RNA editor avoids im  | — | Nature Biotechnology | 2026-10-22 |
-| 4 | `synthetic_biology` | Recordanelle synthetic organelle enables multi-day  | — | Research authors (af | 2026-10-22 |
+| 3 | `gene_editing` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
+| 4 | `synthetic_biology` | Recordanelle organelle records transient gene expr  | — | Nature Biotechnology | 2026-10-22 |
 | 5 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
 | 6 | `transcriptome_recording` | Recordanelles enable continuous transcriptome-wide  | — | Not specified | 2026-10-21 |
 | 7 | `single_cell_multiomics` | DynaVelo deep learning model predicts B-cell pertu  | — | Nature Biotechnology | 2026-10-21 |
@@ -84,9 +84,9 @@
 | 21 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
 | 22 | `gpu_efficiency` | Training TFLOPS/W  | **2.1** TFLOPS/W | NVIDIA GB300 | 2026-07-28 |
 | 23 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
-| 24 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium  | 2026-06-30 |
+| 24 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium | 2026-06-30 |
 | 25 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
-| 26 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE Research Team | 2026-06-30 |
+| 26 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m 🆕 | **77** % | ASPIRE research team | 2026-06-30 |
 | 27 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
 | 28 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
 | 29 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
@@ -106,7 +106,7 @@
 | 3 | `time_crystals` | Quantum time crystal coherence  | **10.0** ms | Google/Stanford | 2026-08-10 |
 | 4 | `quantum_supremacy` | Quantum volume  | **8192** QV | Quantinuum H3 | 2026-07-30 |
 | 5 | `quantum_networking` | Entangled link distance  | **248** km | QuTech Delft | 2026-07-15 |
-| 6 | `quantum_resource_theory` | First complete analytical solution for quantum-adv  | — | Unknown | 2026-06-30 |
+| 6 | `quantum_resource_theory` | Analytical theory of quantum-advantage resource ex 🆕 | — | Research authors (af | 2026-06-30 |
 
 ## 4. Renewable Energy ⚡
 
@@ -164,5 +164,13 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
+## 8. Scientific Computing 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `ml_dynamical_systems` | Weak-form Kernel Ridge Regression learns noisy dyn 🆕 | **15000** dimensions | Academic research te | 2026-06-30 |
+
 ---
-*Last auto-generated: 2026-11-02T16:03:32.316612Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-03T14:18:44.232013Z · Pipeline: `transhumanists/apis`*
