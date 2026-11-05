@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-04T14:28:14.452137Z",
+  "last_update": "2026-11-05T14:42:50.763790Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -23,6 +23,25 @@
         "ml_perturbation"
       ],
       "milestones": [
+        {
+          "id": "ms-025f0b29cadf",
+          "title": "BrainBind: Synchronized EEG-fMRI Decoding for Naturalistic Video",
+          "summary": "New framework BrainBind enables joint decoding of synchronized EEG and fMRI data during long-form naturalistic video viewing, bridging complementary temporal and spatial scales.",
+          "category": "Biotechnology",
+          "subcategory": "neuroscience",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-05",
+          "url": "https://arxiv.org/abs/2611.05581",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-9b3c098a1571",
           "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
@@ -829,6 +848,25 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-48f9b5b0b9b6",
+          "title": "PAYWORTHY benchmark evaluates LLM predictions of AI agent success on freelance jobs",
+          "summary": "Researchers introduce PAYWORTHY, a benchmark of 1,494 real freelance job postings to test whether 18 frontier LLMs can predict AI agent success before task execution.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 1494,
+          "unit": "jobs",
+          "source": "arXiv",
+          "date": "2026-11-05",
+          "url": "https://arxiv.org/abs/2611.05759",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-34a552644649",
           "title": "Grammar-lens benchmark reveals incremental reasoning gains in GPT-5.5 Pro variants",

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-04T14:28:14.452137Z",
+  "last_update": "2026-11-05T14:42:50.763790Z",
   "version": "2.0.0",
   "events": [
     {
@@ -172,6 +172,19 @@
       }
     },
     {
+      "id": "ev-ms-b9f5015caaef",
+      "title": "Recordanelles enable continuous transcriptome recording in human cells",
+      "category": "Biotechnology",
+      "value": "Recordanelles enable continuous transcriptome recording in human cells",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03327-6",
+      "date": "2026-10-21",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
       "id": "ev-ms-9d9bc5bed0e6",
       "title": "Plant-directed control of bacterial activity via genetic code expansion",
       "category": "Biotechnology",
@@ -260,19 +273,6 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
-      }
-    },
-    {
-      "id": "ev-ms-b9f5015caaef",
-      "title": "Recordanelles enable continuous transcriptome recording in human cells",
-      "category": "Biotechnology",
-      "value": "Recordanelles enable continuous transcriptome recording in human cells",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03327-6",
-      "date": "2026-10-21",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {
