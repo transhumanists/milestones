@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-05T14:42:50.763790Z",
+  "last_update": "2026-11-06T14:34:12.072830Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -81,6 +81,25 @@
           }
         },
         {
+          "id": "ms-86fcffddff3c",
+          "title": "Synthetic 'recordanelle' organelle records transient gene expression for days in single human cells",
+          "summary": "A synthetic organelle called 'recordanelle' enables transcriptome-wide recording of transient RNA changes in single human cells over several days, overcoming limitations of snapshot RNA sequencing.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-22",
+          "url": "https://www.nature.com/articles/s41587-026-03350-7",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-fdff7b9161cc",
           "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
           "summary": "Researchers developed ALTER, a programmable RNA base editor using human Argonaute 2, reducing immune risks and outperforming dCas13 editors.",
@@ -91,25 +110,6 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-22",
           "url": "https://www.nature.com/articles/s41587-026-03358-z",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
-          "id": "ms-86fcffddff3c",
-          "title": "Recordanelle organelle records transient gene expression in single human cells for days",
-          "summary": "A synthetic organelle called 'recordanelle' enables multi-day recording of transient gene expression in single human cells with transcriptome-wide sensitivity.",
-          "category": "Biotechnology",
-          "subcategory": "synthetic_biology",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-22",
-          "url": "https://www.nature.com/articles/s41587-026-03350-7",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -309,25 +309,6 @@
           }
         },
         {
-          "id": "ms-f7e3ed1a332b",
-          "title": "RevMed's pancreatic cancer drug first",
-          "summary": "RevMed publishes first pancreatic cancer drug candidate in Nature Biotechnology.",
-          "category": "Biotechnology",
-          "subcategory": "immunotherapy",
-          "value": null,
-          "unit": null,
-          "source": "RevMed",
-          "date": "2026-10-12",
-          "url": "https://www.nature.com/articles/s41587-026-03363-2",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-d7a87738cf3b",
           "title": "Engrafting human cortical organoids",
           "summary": "Researchers achieve successful engraftment of human cortical organoids, enabling advanced brain modeling and potential neural repair applications.",
@@ -344,6 +325,25 @@
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-f7e3ed1a332b",
+          "title": "RevMed's pancreatic cancer drug first",
+          "summary": "RevMed publishes first pancreatic cancer drug candidate in Nature Biotechnology.",
+          "category": "Biotechnology",
+          "subcategory": "immunotherapy",
+          "value": null,
+          "unit": null,
+          "source": "RevMed",
+          "date": "2026-10-12",
+          "url": "https://www.nature.com/articles/s41587-026-03363-2",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -849,6 +849,63 @@
       ],
       "milestones": [
         {
+          "id": "ms-cda5f0465cac",
+          "title": "Behavior-Conditioned Symbolic Synthesis (BCSS) scales symbolic modeling of human and machine reasoning",
+          "summary": "New AI method automates search for interpretable symbolic programs that verifiably reproduce behavior, enabling scalable modeling of both human and machine reasoning.",
+          "category": "Computing & AGI",
+          "subcategory": "code_generation",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-07",
+          "url": "https://arxiv.org/abs/2611.07088",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-4930d4a77b4b",
+          "title": "Generate-then-Rank: Symbolic Goal Interpretation for Embodied Agents",
+          "summary": "New two-stage generate-then-rank method improves symbolic goal interpretation for embodied agents using LLMs.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-06",
+          "url": "https://arxiv.org/abs/2611.07825",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-51bcfbaae246",
+          "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
+          "summary": "FlashOffloading introduces a host-DRAM KV cache offloading technique that reduces latency and improves concurrency for long-context LLM inference.",
+          "category": "Computing & AGI",
+          "subcategory": "inference_cost",
+          "value": null,
+          "unit": null,
+          "source": "arXiv preprint",
+          "date": "2026-11-06",
+          "url": "https://arxiv.org/abs/2611.07542",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-48f9b5b0b9b6",
           "title": "PAYWORTHY benchmark evaluates LLM predictions of AI agent success on freelance jobs",
           "summary": "Researchers introduce PAYWORTHY, a benchmark of 1,494 real freelance job postings to test whether 18 frontier LLMs can predict AI agent success before task execution.",
@@ -861,6 +918,25 @@
           "url": "https://arxiv.org/abs/2611.05759",
           "is_record": false,
           "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-7e450d87bec7",
+          "title": "CST-Bench: New benchmark for counterfactual spatial reasoning with 7,082 examples",
+          "summary": "Researchers introduce CST-Bench, a benchmark of 7,082 examples across 6 intervention types and 12 transformation operators to evaluate counterfactual spatial transition reasoning in multimodal large l",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 7082,
+          "unit": "examples",
+          "source": "arXiv",
+          "date": "2026-11-01",
+          "url": "https://arxiv.org/abs/2611.07541",
+          "is_record": true,
+          "is_breakthrough": false,
           "is_new": false,
           "geolocation": {
             "lat": 0.0,

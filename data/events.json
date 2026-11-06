@@ -1,7 +1,46 @@
 {
-  "last_update": "2026-11-05T14:42:50.763790Z",
+  "last_update": "2026-11-06T14:34:12.072830Z",
   "version": "2.0.0",
   "events": [
+    {
+      "id": "ev-ms-d7a87738cf3b",
+      "title": "Engrafting human cortical organoids",
+      "category": "Biotechnology",
+      "value": "Engrafting human cortical organoids",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03355-2",
+      "date": "2026-10-12",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-1d88f31518db",
+      "title": "Alkermes reports pioneering ADHD data for orexin agonist",
+      "category": "Biotechnology",
+      "value": "Alkermes reports pioneering ADHD data for orexin agonist",
+      "source": "Alkermes",
+      "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
+      "date": "2026-09-22",
+      "geolocation": {
+        "lat": 42.3765,
+        "lon": -71.2356
+      }
+    },
+    {
+      "id": "ev-bio-006",
+      "title": "Brain organoid complexity (neurons)",
+      "category": "Biotechnology",
+      "value": "100000000 neurons",
+      "source": "ETH Zürich",
+      "url": "https://biol.ethz.ch",
+      "date": "2026-05-20",
+      "geolocation": {
+        "lat": 47.3769,
+        "lon": 8.5417
+      }
+    },
     {
       "id": "ev-ms-9b3c098a1571",
       "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
@@ -160,9 +199,9 @@
     },
     {
       "id": "ev-ms-86fcffddff3c",
-      "title": "Recordanelle organelle records transient gene expression in single human cells for days",
+      "title": "Synthetic 'recordanelle' organelle records transient gene expression for days in single human cells",
       "category": "Biotechnology",
-      "value": "Recordanelle organelle records transient gene expression in single human cells for days",
+      "value": "Synthetic 'recordanelle' organelle records transient gene expression for days in single human cells",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03350-7",
       "date": "2026-10-22",
@@ -390,45 +429,6 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-ms-d7a87738cf3b",
-      "title": "Engrafting human cortical organoids",
-      "category": "Biotechnology",
-      "value": "Engrafting human cortical organoids",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03355-2",
-      "date": "2026-10-12",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-1d88f31518db",
-      "title": "Alkermes reports pioneering ADHD data for orexin agonist",
-      "category": "Biotechnology",
-      "value": "Alkermes reports pioneering ADHD data for orexin agonist",
-      "source": "Alkermes",
-      "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
-      "date": "2026-09-22",
-      "geolocation": {
-        "lat": 42.3765,
-        "lon": -71.2356
-      }
-    },
-    {
-      "id": "ev-bio-006",
-      "title": "Brain organoid complexity (neurons)",
-      "category": "Biotechnology",
-      "value": "100000000 neurons",
-      "source": "ETH Zürich",
-      "url": "https://biol.ethz.ch",
-      "date": "2026-05-20",
-      "geolocation": {
-        "lat": 47.3769,
-        "lon": 8.5417
       }
     },
     {
