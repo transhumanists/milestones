@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-06T14:34:12.072830Z",
+  "last_update": "2026-11-07T12:56:53.877426Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -44,8 +44,8 @@
         },
         {
           "id": "ms-9b3c098a1571",
-          "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
-          "summary": "An mRNA-lipid nanoparticle vaccine against H5N1 influenza virus successfully protects lactating dairy cows from infection, demonstrating a major advance in veterinary vaccine technology.",
+          "title": "mRNA-LNP vaccine protects lactating dairy cows from H5N1 influenza infection",
+          "summary": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus successfully protects lactating dairy cows from infection, demonstrating a novel veterinary application of mRNA vaccine technology.",
           "category": "Biotechnology",
           "subcategory": "immunotherapy",
           "value": null,
@@ -55,7 +55,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03343-6",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -82,8 +82,8 @@
         },
         {
           "id": "ms-86fcffddff3c",
-          "title": "Synthetic 'recordanelle' organelle records transient gene expression for days in single human cells",
-          "summary": "A synthetic organelle called 'recordanelle' enables transcriptome-wide recording of transient RNA changes in single human cells over several days, overcoming limitations of snapshot RNA sequencing.",
+          "title": "Recordanelles capture transient gene expression in single human cells",
+          "summary": "A synthetic organelle called 'recordanelle' enables multi-day recording of transient gene expression in single human cells with transcriptome-wide sensitivity.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -91,7 +91,7 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-22",
           "url": "https://www.nature.com/articles/s41587-026-03350-7",
-          "is_record": true,
+          "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
@@ -195,25 +195,6 @@
           }
         },
         {
-          "id": "ms-1fae27bb196d",
-          "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
-          "summary": "Researchers engineered human Argonaute 2 to perform targeted C-to-U RNA base editing, creating a potential therapeutic RNA editing tool using endogenous human proteins.",
-          "category": "Biotechnology",
-          "subcategory": "gene_editing",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-20",
-          "url": "https://www.nature.com/articles/s41587-026-03359-y",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-9d9bc5bed0e6",
           "title": "Plant-directed control of bacterial activity via genetic code expansion",
           "summary": "Researchers use noncanonical amino acid O-methyl-L-tyrosine to enable plants to control bacterial protein synthesis across diverse plant species.",
@@ -224,6 +205,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-20",
           "url": "https://www.nature.com/articles/s41587-026-03360-5",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-1fae27bb196d",
+          "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
+          "summary": "Researchers engineered human Argonaute 2 to perform targeted C-to-U RNA base editing, creating a potential therapeutic RNA editing tool using endogenous human proteins.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-20",
+          "url": "https://www.nature.com/articles/s41587-026-03359-y",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -499,25 +499,6 @@
           }
         },
         {
-          "id": "ms-e0d7fb1f057f",
-          "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
-          "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling better tissue targeting and enhanced in vivo genome editing.",
-          "category": "Biotechnology",
-          "subcategory": "gene_editing",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-28",
-          "url": "https://www.nature.com/articles/s41587-026-03298-8",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-f725a993460b",
           "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
           "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
@@ -528,6 +509,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03331-w",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-e0d7fb1f057f",
+          "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+          "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling better tissue targeting and enhanced in vivo genome editing.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03298-8",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -861,7 +861,7 @@
           "url": "https://arxiv.org/abs/2611.07088",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -916,6 +916,25 @@
           "source": "arXiv",
           "date": "2026-11-05",
           "url": "https://arxiv.org/abs/2611.05759",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-16967f84ba1d",
+          "title": "Novel Method Tests AI Introspection by Injecting Thoughts into LLMs",
+          "summary": "Researchers develop a technique to probe whether large language models possess genuine introspective access to their own internal states by injecting synthetic thoughts.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "Quanta Magazine",
+          "date": "2026-11-04",
+          "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1039,25 +1058,6 @@
           }
         },
         {
-          "id": "ms-8e8ae326b12d",
-          "title": "RealCLI: Unified Benchmark for Human-Agent CLI Collaboration",
-          "summary": "Introduces REALCLI, a paired benchmark unifying task execution and human-agent collaboration quality evaluation for CLI agents via a five-dimensional framework.",
-          "category": "Computing & AGI",
-          "subcategory": "benchmarks",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-10-19",
-          "url": "https://arxiv.org/abs/2610.22507",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-8e04e5377614",
           "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
           "summary": "New recursive self-improvement framework (Self-HPO) co-evolves LLM policy models and their execution harnesses to advance autonomous coding agents.",
@@ -1068,6 +1068,25 @@
           "source": "arXiv",
           "date": "2026-10-19",
           "url": "https://arxiv.org/abs/2610.22791",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-8e8ae326b12d",
+          "title": "RealCLI: Unified Benchmark for Human-Agent CLI Collaboration",
+          "summary": "Introduces REALCLI, a paired benchmark unifying task execution and human-agent collaboration quality evaluation for CLI agents via a five-dimensional framework.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-19",
+          "url": "https://arxiv.org/abs/2610.22507",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1096,25 +1115,6 @@
           }
         },
         {
-          "id": "ms-cccd1dd1feae",
-          "title": "Few-shot multimodal representation alignment via distilled optimal transport",
-          "summary": "New method aligns independently pretrained unimodal encoders using only 100-500 paired examples via optimal transport, drastically reducing paired data requirements.",
-          "category": "Computing & AGI",
-          "subcategory": "multimodal",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-10-13",
-          "url": "https://arxiv.org/abs/2610.12781",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-54e3ea140a46",
           "title": "CLEAT: Value-Guided Clarification for Interactive LLM Agents",
           "summary": "New training method CLEAT teaches LLM agents to ask high-value clarifying questions that improve decision-making under ambiguous user intent.",
@@ -1125,6 +1125,25 @@
           "source": "arXiv",
           "date": "2026-10-13",
           "url": "https://arxiv.org/abs/2610.12655",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-cccd1dd1feae",
+          "title": "Few-shot multimodal representation alignment via distilled optimal transport",
+          "summary": "New method aligns independently pretrained unimodal encoders using only 100-500 paired examples via optimal transport, drastically reducing paired data requirements.",
+          "category": "Computing & AGI",
+          "subcategory": "multimodal",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-13",
+          "url": "https://arxiv.org/abs/2610.12781",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1805,6 +1824,63 @@
       ],
       "milestones": [
         {
+          "id": "ms-0bec3a1692d4",
+          "title": "Claude Code 'Don't Ask Again' Feature Exposes Secrets in 1,122 Public GitHub Repos",
+          "summary": "Apiiro discovered 1,122 public GitHub repositories containing passwords and API keys saved by Claude Code's 'Don't Ask Again' feature when developers approved commands with secrets.",
+          "category": "Cybersecurity",
+          "subcategory": "threat_intelligence",
+          "value": 1122,
+          "unit": "public repositories",
+          "source": "Apiiro",
+          "date": "2026-11-07",
+          "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0853,
+            "lon": 34.7818
+          }
+        },
+        {
+          "id": "ms-107610b074bb",
+          "title": "Malicious Browser Extensions Exploit Claude Dispatch for Remote Code Execution",
+          "summary": "Researchers demonstrated that a malicious browser extension can abuse Claude's Dispatch feature to execute arbitrary code on a user's computer via Claude Desktop, representing a novel attack vector ag",
+          "category": "Cybersecurity",
+          "subcategory": "exploits",
+          "value": null,
+          "unit": null,
+          "source": "Forever Security",
+          "date": "2026-11-06",
+          "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-a6848b3cc255",
+          "title": "OpenSSH Releases Emergency Fix for Critical Authentication Bypass Flaw in Alpine Linux",
+          "summary": "OpenSSH 10.6p2 patches a critical vulnerability allowing authentication bypass via long passwords on Alpine Linux servers.",
+          "category": "Cybersecurity",
+          "subcategory": "mitigations",
+          "value": null,
+          "unit": null,
+          "source": "OpenSSH Project",
+          "date": "2026-11-05",
+          "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-fc6cc7fd8ac3",
           "title": "FBI attributes record $6.43B crypto heist to North Korea's TraderTraitor",
           "summary": "FBI attributes largest-ever cryptocurrency theft of $6.43 billion to North Korean hacking group TraderTraitor.",
@@ -2238,6 +2314,64 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Astronomy": {
+      "name": "Astronomy",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "ism_3d_mapping"
+      ],
+      "milestones": [
+        {
+          "id": "ms-aba6c7cbd7a4",
+          "title": "New 3D Map Reveals Dynamic Interstellar Medium Structure",
+          "summary": "A new 3D map of the interstellar medium challenges the static view, revealing its dynamic, turbulent nature across the galaxy.",
+          "category": "Astronomy",
+          "subcategory": "ism_3d_mapping",
+          "value": null,
+          "unit": null,
+          "source": "Quanta Magazine",
+          "date": "2026-10-30",
+          "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        }
+      ]
+    },
+    "Astrophysics": {
+      "name": "Astrophysics",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "black_hole_imaging"
+      ],
+      "milestones": [
+        {
+          "id": "ms-0834ba692aa3",
+          "title": "First image of a black hole captured by Event Horizon Telescope",
+          "summary": "Event Horizon Telescope collaboration captured the first-ever image of a black hole's shadow in galaxy M87 using a global very-long-baseline interferometry array.",
+          "category": "Astrophysics",
+          "subcategory": "black_hole_imaging",
+          "value": 1,
+          "unit": "image",
+          "source": "Event Horizon Telescope Collaboration",
+          "date": "2019-04-10",
+          "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 42.3375,
+            "lon": -71.1061
+          }
         }
       ]
     }
