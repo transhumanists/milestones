@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-07T12:56:53.877426Z",
+  "last_update": "2026-11-08T13:16:38.266241Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -44,8 +44,8 @@
         },
         {
           "id": "ms-9b3c098a1571",
-          "title": "mRNA-LNP vaccine protects lactating dairy cows from H5N1 influenza infection",
-          "summary": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus successfully protects lactating dairy cows from infection, demonstrating a novel veterinary application of mRNA vaccine technology.",
+          "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
+          "summary": "An mRNA–lipid nanoparticle vaccine demonstrates protection of lactating dairy cows against H5N1 influenza infection, marking a breakthrough in veterinary mRNA vaccine applications.",
           "category": "Biotechnology",
           "subcategory": "immunotherapy",
           "value": null,
@@ -56,6 +56,25 @@
           "is_record": false,
           "is_breakthrough": true,
           "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-e4b02d4f0790",
+          "title": "Engineered compact Cas12m enables multiplexed gene activation in vivo",
+          "summary": "Researchers engineered a compact Cas12m variant enabling high-efficiency multiplexed gene activation in mouse models.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-28",
+          "url": "https://www.nature.com/articles/s41587-026-03352-5",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -83,7 +102,7 @@
         {
           "id": "ms-86fcffddff3c",
           "title": "Recordanelles capture transient gene expression in single human cells",
-          "summary": "A synthetic organelle called 'recordanelle' enables multi-day recording of transient gene expression in single human cells with transcriptome-wide sensitivity.",
+          "summary": "A synthetic organelle called 'recordanelle' enables transcriptome-wide recording of transient gene expression in single human cells over several days.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -1836,10 +1855,29 @@
           "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
           "is_record": false,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0853,
             "lon": 34.7818
+          }
+        },
+        {
+          "id": "ms-eaeb53610aa6",
+          "title": "OpenAI Launches GPT-6 Cyber AI Model Discovering 81 Firefox and 948 Linux Vulnerabilities",
+          "summary": "OpenAI releases GPT-6 Cyber, an AI model that identified 81 Firefox flaws and 948 Linux exploits, marking a significant advance in automated vulnerability discovery.",
+          "category": "Cybersecurity",
+          "subcategory": "exploits",
+          "value": 948,
+          "unit": "Linux exploits",
+          "source": "OpenAI",
+          "date": "2026-11-06",
+          "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 37.7749,
+            "lon": -122.4194
           }
         },
         {
@@ -1855,7 +1893,7 @@
           "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1863,13 +1901,13 @@
         },
         {
           "id": "ms-a6848b3cc255",
-          "title": "OpenSSH Releases Emergency Fix for Critical Authentication Bypass Flaw in Alpine Linux",
-          "summary": "OpenSSH 10.6p2 patches a critical vulnerability allowing authentication bypass via long passwords on Alpine Linux servers.",
+          "title": "OpenSSH 10.6p2 fixes critical Alpine Linux auth bypass via long passwords",
+          "summary": "OpenSSH released version 10.6p2 to patch a critical flaw in Alpine Linux's openssh-server that allowed authentication bypass using passwords 257-1024 bytes long.",
           "category": "Cybersecurity",
           "subcategory": "mitigations",
           "value": null,
           "unit": null,
-          "source": "OpenSSH Project",
+          "source": "OpenSSH",
           "date": "2026-11-05",
           "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
           "is_record": false,
@@ -2322,6 +2360,7 @@
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
+        "black_hole_imaging",
         "ism_3d_mapping"
       ],
       "milestones": [
@@ -2338,30 +2377,20 @@
           "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
           }
-        }
-      ]
-    },
-    "Astrophysics": {
-      "name": "Astrophysics",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "black_hole_imaging"
-      ],
-      "milestones": [
+        },
         {
-          "id": "ms-0834ba692aa3",
+          "id": "ms-53fcad1aff78",
           "title": "First image of a black hole captured by Event Horizon Telescope",
-          "summary": "Event Horizon Telescope collaboration captured the first-ever image of a black hole's shadow in galaxy M87 using a global very-long-baseline interferometry array.",
-          "category": "Astrophysics",
+          "summary": "Event Horizon Telescope captures first-ever image of a black hole's shadow using a global interferometer.",
+          "category": "Astronomy",
           "subcategory": "black_hole_imaging",
-          "value": 1,
-          "unit": "image",
+          "value": null,
+          "unit": null,
           "source": "Event Horizon Telescope Collaboration",
           "date": "2019-04-10",
           "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",

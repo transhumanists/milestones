@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-07T12:56:53.877426Z",
+  "last_update": "2026-11-08T13:16:38.266241Z",
   "version": "2.0.0",
   "events": [
     {
@@ -43,9 +43,9 @@
     },
     {
       "id": "ev-ms-9b3c098a1571",
-      "title": "mRNA-LNP vaccine protects lactating dairy cows from H5N1 influenza infection",
+      "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
       "category": "Biotechnology",
-      "value": "mRNA-LNP vaccine protects lactating dairy cows from H5N1 influenza infection",
+      "value": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03343-6",
       "date": "2026-10-28",
@@ -312,6 +312,19 @@
       "geolocation": {
         "lat": 42.3375,
         "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-e4b02d4f0790",
+      "title": "Engineered compact Cas12m enables multiplexed gene activation in vivo",
+      "category": "Biotechnology",
+      "value": "Engineered compact Cas12m enables multiplexed gene activation in vivo",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03352-5",
+      "date": "2026-10-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -731,6 +744,32 @@
       }
     },
     {
+      "id": "ev-ms-0bec3a1692d4",
+      "title": "Claude Code 'Don't Ask Again' Feature Exposes Secrets in 1,122 Public GitHub Repos",
+      "category": "Cybersecurity",
+      "value": "1122 public repositories",
+      "source": "Apiiro",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "date": "2026-11-07",
+      "geolocation": {
+        "lat": 32.0853,
+        "lon": 34.7818
+      }
+    },
+    {
+      "id": "ev-ms-5dbfeb047054",
+      "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
+      "category": "Cybersecurity",
+      "value": "18.2 million attacks",
+      "source": "Cloudflare",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "date": "2026-10-01",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-ms-fc6cc7fd8ac3",
       "title": "FBI attributes record $6.43B crypto heist to North Korea's TraderTraitor",
       "category": "Cybersecurity",
@@ -796,6 +835,32 @@
       }
     },
     {
+      "id": "ev-ms-eaeb53610aa6",
+      "title": "OpenAI Launches GPT-6 Cyber AI Model Discovering 81 Firefox and 948 Linux Vulnerabilities",
+      "category": "Cybersecurity",
+      "value": "948 Linux exploits",
+      "source": "OpenAI",
+      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "date": "2026-11-06",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ms-20a3326da088",
+      "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
+      "category": "Cybersecurity",
+      "value": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
+      "source": "Anthropic",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "date": "2026-10-09",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-ms-3d91d765379c",
       "title": "Google Gemini 4 Carbon achieves 88.2% on SEC-bench Pro vulnerability detection benchmark",
       "category": "Cybersecurity",
@@ -816,45 +881,6 @@
       "source": "GitHub",
       "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
       "date": "2026-10-29",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-5dbfeb047054",
-      "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
-      "category": "Cybersecurity",
-      "value": "18.2 million attacks",
-      "source": "Cloudflare",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "date": "2026-10-01",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-0bec3a1692d4",
-      "title": "Claude Code 'Don't Ask Again' Feature Exposes Secrets in 1,122 Public GitHub Repos",
-      "category": "Cybersecurity",
-      "value": "1122 public repositories",
-      "source": "Apiiro",
-      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "date": "2026-11-07",
-      "geolocation": {
-        "lat": 32.0853,
-        "lon": 34.7818
-      }
-    },
-    {
-      "id": "ev-ms-20a3326da088",
-      "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
-      "category": "Cybersecurity",
-      "value": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
-      "source": "Anthropic",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "date": "2026-10-09",
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
@@ -1004,10 +1030,10 @@
       }
     },
     {
-      "id": "ev-ms-0834ba692aa3",
+      "id": "ev-ms-53fcad1aff78",
       "title": "First image of a black hole captured by Event Horizon Telescope",
-      "category": "Astrophysics",
-      "value": "1 image",
+      "category": "Astronomy",
+      "value": "First image of a black hole captured by Event Horizon Telescope",
       "source": "Event Horizon Telescope Collaboration",
       "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
       "date": "2019-04-10",
