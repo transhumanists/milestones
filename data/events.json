@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-08T13:16:38.266241Z",
+  "last_update": "2026-11-09T16:19:52.952901Z",
   "version": "2.0.0",
   "events": [
     {
@@ -43,9 +43,9 @@
     },
     {
       "id": "ev-ms-9b3c098a1571",
-      "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
+      "title": "mRNA vaccine protects dairy cows from H5N1 influenza",
       "category": "Biotechnology",
-      "value": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
+      "value": "mRNA vaccine protects dairy cows from H5N1 influenza",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03343-6",
       "date": "2026-10-28",
@@ -91,6 +91,110 @@
       "geolocation": {
         "lat": 31.2304,
         "lon": 121.4737
+      }
+    },
+    {
+      "id": "ev-ms-e4b02d4f0790",
+      "title": "Engineered compact Cas12m enables multiplexed gene activation in vivo",
+      "category": "Biotechnology",
+      "value": "Engineered compact Cas12m enables multiplexed gene activation in vivo",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03352-5",
+      "date": "2026-10-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-fdff7b9161cc",
+      "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+      "category": "Biotechnology",
+      "value": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03358-z",
+      "date": "2026-10-22",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-1fae27bb196d",
+      "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
+      "category": "Biotechnology",
+      "value": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03359-y",
+      "date": "2026-10-20",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-f81083f4be60",
+      "title": "HitSV improves structural variant detection across sequencing technologies",
+      "category": "Biotechnology",
+      "value": "HitSV improves structural variant detection across sequencing technologies",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03332-9",
+      "date": "2026-10-15",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-45ba0e7b2200",
+      "title": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
+      "category": "Biotechnology",
+      "value": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03315-w",
+      "date": "2026-10-05",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-e0d7fb1f057f",
+      "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+      "category": "Biotechnology",
+      "value": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03298-8",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-001",
+      "title": "CRISPR in-vivo editing efficiency",
+      "category": "Biotechnology",
+      "value": "94.2 %",
+      "source": "Broad Institute",
+      "url": "https://www.broadinstitute.org",
+      "date": "2026-08-25",
+      "geolocation": {
+        "lat": 42.3375,
+        "lon": -71.1061
+      }
+    },
+    {
+      "id": "ev-ms-3bf5df056956",
+      "title": "Cas12a combinatorial knockout screens map DNA damage response genetic architecture",
+      "category": "Biotechnology",
+      "value": "Cas12a combinatorial knockout screens map DNA damage response genetic architecture",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03339-2",
+      "date": "2026-11-06",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -234,97 +338,6 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
-      }
-    },
-    {
-      "id": "ev-ms-fdff7b9161cc",
-      "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
-      "category": "Biotechnology",
-      "value": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03358-z",
-      "date": "2026-10-22",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-1fae27bb196d",
-      "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
-      "category": "Biotechnology",
-      "value": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03359-y",
-      "date": "2026-10-20",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-f81083f4be60",
-      "title": "HitSV improves structural variant detection across sequencing technologies",
-      "category": "Biotechnology",
-      "value": "HitSV improves structural variant detection across sequencing technologies",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03332-9",
-      "date": "2026-10-15",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-45ba0e7b2200",
-      "title": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
-      "category": "Biotechnology",
-      "value": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03315-w",
-      "date": "2026-10-05",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-e0d7fb1f057f",
-      "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
-      "category": "Biotechnology",
-      "value": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03298-8",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-001",
-      "title": "CRISPR in-vivo editing efficiency",
-      "category": "Biotechnology",
-      "value": "94.2 %",
-      "source": "Broad Institute",
-      "url": "https://www.broadinstitute.org",
-      "date": "2026-08-25",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
-      }
-    },
-    {
-      "id": "ev-ms-e4b02d4f0790",
-      "title": "Engineered compact Cas12m enables multiplexed gene activation in vivo",
-      "category": "Biotechnology",
-      "value": "Engineered compact Cas12m enables multiplexed gene activation in vivo",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03352-5",
-      "date": "2026-10-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {
@@ -770,6 +783,19 @@
       }
     },
     {
+      "id": "ev-ms-eaeb53610aa6",
+      "title": "OpenAI Launches GPT-6 Cyber AI Model Discovering 81 Firefox and 948 Linux Vulnerabilities",
+      "category": "Cybersecurity",
+      "value": "948 Linux exploits",
+      "source": "OpenAI",
+      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "date": "2026-11-06",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-ms-fc6cc7fd8ac3",
       "title": "FBI attributes record $6.43B crypto heist to North Korea's TraderTraitor",
       "category": "Cybersecurity",
@@ -829,19 +855,6 @@
       "source": "Linux Kernel CVE Team",
       "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
       "date": "2024-10-27",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-eaeb53610aa6",
-      "title": "OpenAI Launches GPT-6 Cyber AI Model Discovering 81 Firefox and 948 Linux Vulnerabilities",
-      "category": "Cybersecurity",
-      "value": "948 Linux exploits",
-      "source": "OpenAI",
-      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "date": "2026-11-06",
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
@@ -1027,19 +1040,6 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
-      }
-    },
-    {
-      "id": "ev-ms-53fcad1aff78",
-      "title": "First image of a black hole captured by Event Horizon Telescope",
-      "category": "Astronomy",
-      "value": "First image of a black hole captured by Event Horizon Telescope",
-      "source": "Event Horizon Telescope Collaboration",
-      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-      "date": "2019-04-10",
-      "geolocation": {
-        "lat": 42.3375,
-        "lon": -71.1061
       }
     }
   ]

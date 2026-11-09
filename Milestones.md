@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-08T13:16:38.269836Z · 125 active milestones across 8 categories*
+*Auto-generated: 2026-11-09T16:19:52.957433Z · 126 active milestones across 7 categories*
 
 ---
 
@@ -12,51 +12,52 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `neuroscience` | BrainBind: Synchronized EEG-fMRI Decoding for Natu  | — | arXiv | 2026-11-05 |
-| 2 | `immunotherapy` | mRNA-LNP vaccine protects dairy cows from H5N1 inf 🆕 | — | Nature Biotechnology | 2026-10-28 |
-| 3 | `gene_editing` | Engineered compact Cas12m enables multiplexed gene  | — | Nature Biotechnology | 2026-10-28 |
-| 4 | `microscopy` | Malaria Parasite Invasion Mechanism Visualized at   | — | Quanta Magazine | 2026-10-23 |
-| 5 | `synthetic_biology` | Recordanelles capture transient gene expression in  | — | Nature Biotechnology | 2026-10-22 |
+| 1 | `gene_editing` | Cas12a combinatorial knockout screens map DNA dama  | — | Nature Biotechnology | 2026-11-06 |
+| 2 | `neuroscience` | BrainBind: Synchronized EEG-fMRI Decoding for Natu  | — | arXiv | 2026-11-05 |
+| 3 | `immunotherapy` | mRNA vaccine protects dairy cows from H5N1 influen 🆕 | — | Nature Biotechnology | 2026-10-28 |
+| 4 | `gene_editing` | Engineered compact Cas12m enables multiplexed gene  | — | Nature Biotechnology | 2026-10-28 |
+| 5 | `microscopy` | Malaria Parasite Invasion Mechanism Visualized at   | — | Quanta Magazine | 2026-10-23 |
 | 6 | `gene_editing` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
-| 7 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
-| 8 | `synthetic_biology` | Recordanelles enable continuous transcriptome reco  | — | Nature Biotechnology | 2026-10-21 |
-| 9 | `transcriptome_recording` | Recordanelles enable continuous transcriptome-wide  | — | Not specified | 2026-10-21 |
-| 10 | `single_cell_multiomics` | DynaVelo deep learning model predicts B-cell pertu  | — | Nature Biotechnology | 2026-10-21 |
-| 11 | `synthetic_biology` | Plant-directed control of bacterial activity via g  | — | Nature Biotechnology | 2026-10-20 |
+| 7 | `synthetic_biology` | Recordanelles capture transient gene expression in  | — | Nature Biotechnology | 2026-10-22 |
+| 8 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
+| 9 | `synthetic_biology` | Recordanelles enable continuous transcriptome reco  | — | Nature Biotechnology | 2026-10-21 |
+| 10 | `transcriptome_recording` | Recordanelles enable continuous transcriptome-wide  | — | Not specified | 2026-10-21 |
+| 11 | `single_cell_multiomics` | DynaVelo deep learning model predicts B-cell pertu  | — | Nature Biotechnology | 2026-10-21 |
 | 12 | `gene_editing` | Engineered human Argonaute 2 enables targeted C-to  | — | Nature Biotechnology | 2026-10-20 |
-| 13 | `gene_editing` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
-| 14 | `structural_variant_detection` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
-| 15 | `immunotherapy` | In vivo engineering of CAR NK cells via ligand-dir  | — | Nature Biotechnology | 2026-10-13 |
-| 16 | `longevity` | Proteomic aging clocks deployed in clinical trial   | — | Nature Biotechnology | 2026-10-13 |
-| 17 | `neuroscience` | Engrafting human cortical organoids  | — | Nature Biotechnology | 2026-10-12 |
-| 18 | `immunotherapy` | RevMed's pancreatic cancer drug first  | — | RevMed | 2026-10-12 |
-| 19 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
-| 20 | `synthetic_biology` | Highly multiplexed mammalian metabolic engineering  | — | Nature Biotechnology | 2026-10-06 |
-| 21 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
-| 22 | `gene_therapy` | Engineered avian R2 retrotransposons enable target  | — | Nature Biotechnology | 2026-10-05 |
-| 23 | `biosensors` | Detectrons: RNA-to-DNA barcode conversion for high  | — | Nature Biotechnology | 2026-10-05 |
-| 24 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
-| 25 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
-| 26 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
-| 27 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 13 | `synthetic_biology` | Plant-directed control of bacterial activity via g  | — | Nature Biotechnology | 2026-10-20 |
+| 14 | `gene_editing` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
+| 15 | `structural_variant_detection` | HitSV improves structural variant detection across  | — | Nature Biotechnology | 2026-10-15 |
+| 16 | `immunotherapy` | In vivo engineering of CAR NK cells via ligand-dir  | — | Nature Biotechnology | 2026-10-13 |
+| 17 | `longevity` | Proteomic aging clocks deployed in clinical trial   | — | Nature Biotechnology | 2026-10-13 |
+| 18 | `neuroscience` | Engrafting human cortical organoids  | — | Nature Biotechnology | 2026-10-12 |
+| 19 | `immunotherapy` | RevMed's pancreatic cancer drug first  | — | RevMed | 2026-10-12 |
+| 20 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
+| 21 | `synthetic_biology` | Highly multiplexed mammalian metabolic engineering  | — | Nature Biotechnology | 2026-10-06 |
+| 22 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
+| 23 | `gene_therapy` | Engineered avian R2 retrotransposons enable target  | — | Nature Biotechnology | 2026-10-05 |
+| 24 | `biosensors` | Detectrons: RNA-to-DNA barcode conversion for high  | — | Nature Biotechnology | 2026-10-05 |
+| 25 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
+| 26 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
+| 27 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
 | 28 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
-| 29 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
-| 30 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
-| 31 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
-| 32 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
-| 33 | `biosensors` | Engineered nanopore simultaneously identifies sacc  | — | Nature Biotechnology | 2026-09-14 |
-| 34 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
-| 35 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
-| 36 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
-| 37 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
-| 38 | `microscopy` | Electron microscope resolution  | **0.39** Ångström | Thermo Fisher FEI | 2026-08-18 |
-| 39 | `immunotherapy` | CAR-T manufacturing speed (bedside)  | **7** days | 驯玉兰生物 | 2026-08-01 |
-| 40 | `biosensors` | Wearable simultaneous biomarker sensors  | **12** analytes | Dexcom | 2026-07-20 |
-| 41 | `longevity` | Max lifespan extension (mouse)  | **38.4** % | Harvard Sinclair Lab | 2026-07-15 |
-| 42 | `macroscopy` | In-vivo whole-organ 3D imaging  | **3.2** µm | MPI-CBG | 2026-07-01 |
-| 43 | `gene_therapy` | AAV vector delivery efficiency  | **91.7** % | Spark Therapeutics | 2026-06-15 |
-| 44 | `synthetic_biology` | Largest synthetic genome synthesized  | **1500000000** bp | JCVI | 2026-06-01 |
-| 45 | `neuroscience` | Brain organoid complexity (neurons)  | **100000000** neurons | ETH Zürich | 2026-05-20 |
+| 29 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 30 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
+| 31 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
+| 32 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
+| 33 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
+| 34 | `biosensors` | Engineered nanopore simultaneously identifies sacc  | — | Nature Biotechnology | 2026-09-14 |
+| 35 | `immunotherapy` | Moderna mRNA flu vaccine receives FDA approval  | — | FDA | 2026-09-10 |
+| 36 | `synthetic_biology` | Biomimetic cells enable new platform for T cell me  | — | Nature Biotechnology | 2026-09-10 |
+| 37 | `gene_editing` | CRISPR in-vivo editing efficiency  | **94.2** % | Broad Institute | 2026-08-25 |
+| 38 | `medical_implants` | Neural implant electrode density  | **16384** channels/cm² | Neuralink | 2026-08-20 |
+| 39 | `microscopy` | Electron microscope resolution  | **0.39** Ångström | Thermo Fisher FEI | 2026-08-18 |
+| 40 | `immunotherapy` | CAR-T manufacturing speed (bedside)  | **7** days | 驯玉兰生物 | 2026-08-01 |
+| 41 | `biosensors` | Wearable simultaneous biomarker sensors  | **12** analytes | Dexcom | 2026-07-20 |
+| 42 | `longevity` | Max lifespan extension (mouse)  | **38.4** % | Harvard Sinclair Lab | 2026-07-15 |
+| 43 | `macroscopy` | In-vivo whole-organ 3D imaging  | **3.2** µm | MPI-CBG | 2026-07-01 |
+| 44 | `gene_therapy` | AAV vector delivery efficiency  | **91.7** % | Spark Therapeutics | 2026-06-15 |
+| 45 | `synthetic_biology` | Largest synthetic genome synthesized  | **1500000000** bp | JCVI | 2026-06-01 |
+| 46 | `neuroscience` | Brain organoid complexity (neurons)  | **100000000** neurons | ETH Zürich | 2026-05-20 |
 
 ## 2. Computing & AGI 🧠
 
@@ -64,46 +65,48 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `code_generation` | Behavior-Conditioned Symbolic Synthesis (BCSS) sca  | — | arXiv | 2026-11-07 |
-| 2 | `agentic_ai` | Generate-then-Rank: Symbolic Goal Interpretation f  | — | arXiv | 2026-11-06 |
-| 3 | `inference_cost` | FlashOffloading: Low-Latency KV Cache Offloading f  | — | arXiv preprint | 2026-11-06 |
-| 4 | `benchmarks` | PAYWORTHY benchmark evaluates LLM predictions of A  | **1494** jobs | arXiv | 2026-11-05 |
-| 5 | `agentic_ai` | Novel Method Tests AI Introspection by Injecting T  | — | Quanta Magazine | 2026-11-04 |
-| 6 | `benchmarks` | CST-Bench: New benchmark for counterfactual spatia  | **7082** examples | arXiv | 2026-11-01 |
-| 7 | `benchmarks` | Grammar-lens benchmark reveals incremental reasoni  | **52** percent | arXiv authors | 2026-11-01 |
-| 8 | `benchmarks` | First 1B-parameter monolingual Icelandic encoder t  | **1000000000** parameters | University of Icelan | 2026-10-28 |
-| 9 | `multimodal` | Omni-Woodpecker: Training-Free Hallucination Corre  | — | arXiv | 2026-10-21 |
-| 10 | `benchmarks` | ReuF2F: New Benchmark for Coding Agents on Formali  | — | arXiv | 2026-10-21 |
-| 11 | `math_reasoning` | AI proves Quasi-Riemann Hypothesis  | — | Quanta Magazine | 2026-10-19 |
-| 12 | `agentic_ai` | Self-Evolving Coding Agents via Harness-Policy Opt  | — | arXiv | 2026-10-19 |
-| 13 | `benchmarks` | RealCLI: Unified Benchmark for Human-Agent CLI Col  | — | arXiv | 2026-10-19 |
-| 14 | `benchmarks` | EmbodiedCLBench: First benchmark for continual lea  | — | arXiv | 2026-10-13 |
-| 15 | `agentic_ai` | CLEAT: Value-Guided Clarification for Interactive   | — | arXiv | 2026-10-13 |
-| 16 | `multimodal` | Few-shot multimodal representation alignment via d  | — | arXiv | 2026-10-13 |
-| 17 | `inference_cost` | Persistent KV cache enables 50M-token context wind  | **50000000** tokens | arXiv (galahad-kv au | 2026-10-09 |
-| 18 | `inference_cost` | Prefill-Only Decision Models Reduce Inference Cost  | **100** x | arXiv | 2026-10-07 |
-| 19 | `gpu_efficiency` | Format-aware fusion enables fast FP4 pretraining a  | **160** billion tokens | arXiv | 2026-10-03 |
-| 20 | `low_resource_speech` | TutlAit v1: first crowdsourced Moroccan Tamazight   | — | arXiv | 2026-10-02 |
-| 21 | `benchmarks` | BACKDROP benchmark evaluates agent robustness unde  | — | arXiv | 2026-10-02 |
-| 22 | `benchmarks` | Tampered ML benchmark introduced for evaluating LL  | **1858** item-pairs | arXiv | 2026-10-01 |
-| 23 | `benchmarks` | Forecast-Dojo: Replayable Benchmark for LLM Foreca  | **1568** events | arXiv preprint | 2026-09-25 |
-| 24 | `benchmarks` | New evaluation protocol detects sequential reappea  | — | arXiv (Cornell Unive | 2026-09-23 |
-| 25 | `agentic_ai` | STAM: State-Transition-Aware Memory for Clinical L  | — | arXiv | 2026-09-01 |
-| 26 | `frontier_models` | MMLU benchmark  | **94.7** % | OpenAI GPT-6 | 2026-08-19 |
-| 27 | `agentic_ai` | HumanEval pass@1  | **98.4** % | Anthropic Claude-4 | 2026-08-15 |
-| 28 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
-| 29 | `gpu_efficiency` | Training TFLOPS/W  | **2.1** TFLOPS/W | NVIDIA GB300 | 2026-07-28 |
-| 30 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
-| 31 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium | 2026-06-30 |
-| 32 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
-| 33 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE research team | 2026-06-30 |
-| 34 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
-| 35 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
-| 36 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
-| 37 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
-| 38 | `frontier_models` | Seed2.0 model series sets new frontier in reasonin  | — | ByteDance | 2026-06-30 |
-| 39 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
-| 40 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
+| 1 | `agentic_ai` | MARS: Retriever-Free Multilingual Search Agents  | — | arXiv | 2026-11-09 |
+| 2 | `benchmarks` | First judge-free benchmark for open-ended Khmer ge  | — | arXiv | 2026-11-09 |
+| 3 | `code_generation` | Behavior-Conditioned Symbolic Synthesis (BCSS) sca  | — | arXiv | 2026-11-07 |
+| 4 | `agentic_ai` | Generate-then-Rank: Symbolic Goal Interpretation f  | — | arXiv | 2026-11-06 |
+| 5 | `inference_cost` | FlashOffloading: Low-Latency KV Cache Offloading f  | — | arXiv preprint | 2026-11-06 |
+| 6 | `benchmarks` | PAYWORTHY benchmark evaluates LLM predictions of A  | **1494** jobs | arXiv | 2026-11-05 |
+| 7 | `agentic_ai` | Novel Method Tests AI Introspection by Injecting T  | — | Quanta Magazine | 2026-11-04 |
+| 8 | `benchmarks` | CST-Bench: New benchmark for counterfactual spatia  | **7082** examples | arXiv | 2026-11-01 |
+| 9 | `benchmarks` | Grammar-lens benchmark reveals incremental reasoni  | **52** percent | arXiv authors | 2026-11-01 |
+| 10 | `benchmarks` | First 1B-parameter monolingual Icelandic encoder t  | **1000000000** parameters | University of Icelan | 2026-10-28 |
+| 11 | `multimodal` | Omni-Woodpecker: Training-Free Hallucination Corre  | — | arXiv | 2026-10-21 |
+| 12 | `benchmarks` | ReuF2F: New Benchmark for Coding Agents on Formali  | — | arXiv | 2026-10-21 |
+| 13 | `math_reasoning` | AI proves Quasi-Riemann Hypothesis  | — | Quanta Magazine | 2026-10-19 |
+| 14 | `agentic_ai` | Self-Evolving Coding Agents via Harness-Policy Opt  | — | arXiv | 2026-10-19 |
+| 15 | `benchmarks` | RealCLI: Unified Benchmark for Human-Agent CLI Col  | — | arXiv | 2026-10-19 |
+| 16 | `benchmarks` | EmbodiedCLBench: First benchmark for continual lea  | — | arXiv | 2026-10-13 |
+| 17 | `agentic_ai` | CLEAT: Value-Guided Clarification for Interactive   | — | arXiv | 2026-10-13 |
+| 18 | `multimodal` | Few-shot multimodal representation alignment via d  | — | arXiv | 2026-10-13 |
+| 19 | `inference_cost` | Persistent KV cache enables 50M-token context wind  | **50000000** tokens | arXiv (galahad-kv au | 2026-10-09 |
+| 20 | `inference_cost` | Prefill-Only Decision Models Reduce Inference Cost  | **100** x | arXiv | 2026-10-07 |
+| 21 | `gpu_efficiency` | Format-aware fusion enables fast FP4 pretraining a  | **160** billion tokens | arXiv | 2026-10-03 |
+| 22 | `low_resource_speech` | TutlAit v1: first crowdsourced Moroccan Tamazight   | — | arXiv | 2026-10-02 |
+| 23 | `benchmarks` | BACKDROP benchmark evaluates agent robustness unde  | — | arXiv | 2026-10-02 |
+| 24 | `benchmarks` | Tampered ML benchmark introduced for evaluating LL  | **1858** item-pairs | arXiv | 2026-10-01 |
+| 25 | `benchmarks` | Forecast-Dojo: Replayable Benchmark for LLM Foreca  | **1568** events | arXiv preprint | 2026-09-25 |
+| 26 | `benchmarks` | New evaluation protocol detects sequential reappea  | — | arXiv (Cornell Unive | 2026-09-23 |
+| 27 | `agentic_ai` | STAM: State-Transition-Aware Memory for Clinical L  | — | arXiv | 2026-09-01 |
+| 28 | `frontier_models` | MMLU benchmark  | **94.7** % | OpenAI GPT-6 | 2026-08-19 |
+| 29 | `agentic_ai` | HumanEval pass@1  | **98.4** % | Anthropic Claude-4 | 2026-08-15 |
+| 30 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
+| 31 | `gpu_efficiency` | Training TFLOPS/W  | **2.1** TFLOPS/W | NVIDIA GB300 | 2026-07-28 |
+| 32 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
+| 33 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium | 2026-06-30 |
+| 34 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
+| 35 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE research team | 2026-06-30 |
+| 36 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
+| 37 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
+| 38 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | Zwicky Transient Fac | 2026-06-30 |
+| 39 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
+| 40 | `frontier_models` | Seed2.0 model series sets new frontier in reasonin  | — | ByteDance | 2026-06-30 |
+| 41 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
+| 42 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
 
@@ -137,7 +140,7 @@
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `threat_intelligence` | Claude Code 'Don't Ask Again' Feature Exposes Secr  | **1122** public repositories | Apiiro | 2026-11-07 |
-| 2 | `exploits` | OpenAI Launches GPT-6 Cyber AI Model Discovering 8 🆕 | **948** Linux exploits | OpenAI | 2026-11-06 |
+| 2 | `exploits` | OpenAI Launches GPT-6 Cyber AI Model Discovering 8  | **948** Linux exploits | OpenAI | 2026-11-06 |
 | 3 | `exploits` | Malicious Browser Extensions Exploit Claude Dispat  | — | Forever Security | 2026-11-06 |
 | 4 | `mitigations` | OpenSSH 10.6p2 fixes critical Alpine Linux auth by  | — | OpenSSH | 2026-11-05 |
 | 5 | `exploits` | FBI attributes record $6.43B crypto heist to North  | **6.43** billion USD | FBI | 2026-11-01 |
@@ -178,14 +181,5 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Astronomy 📌
-
-*Color: #aaaaaa · Subcategories: 2*
-
-| # | Subcategory | Milestone | Value | Source | Date |
-|:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `ism_3d_mapping` | New 3D Map Reveals Dynamic Interstellar Medium Str  | — | Quanta Magazine | 2026-10-30 |
-| 2 | `black_hole_imaging` | First image of a black hole captured by Event Hori 🆕 | — | Event Horizon Telesc | 2019-04-10 |
-
 ---
-*Last auto-generated: 2026-11-08T13:16:38.269836Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-09T16:19:52.957433Z · Pipeline: `transhumanists/apis`*

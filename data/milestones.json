@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-08T13:16:38.266241Z",
+  "last_update": "2026-11-09T16:19:52.952901Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -24,6 +24,25 @@
       ],
       "milestones": [
         {
+          "id": "ms-3bf5df056956",
+          "title": "Cas12a combinatorial knockout screens map DNA damage response genetic architecture",
+          "summary": "Cas12a-based combinatorial knockout screens create a comprehensive genetic interaction map of the DNA damage response, revealing functional relationships among DDR genes and pathways.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-11-06",
+          "url": "https://www.nature.com/articles/s41587-026-03339-2",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-025f0b29cadf",
           "title": "BrainBind: Synchronized EEG-fMRI Decoding for Naturalistic Video",
           "summary": "New framework BrainBind enables joint decoding of synchronized EEG and fMRI data during long-form naturalistic video viewing, bridging complementary temporal and spatial scales.",
@@ -44,8 +63,8 @@
         },
         {
           "id": "ms-9b3c098a1571",
-          "title": "mRNA-LNP vaccine protects dairy cows from H5N1 influenza",
-          "summary": "An mRNA–lipid nanoparticle vaccine demonstrates protection of lactating dairy cows against H5N1 influenza infection, marking a breakthrough in veterinary mRNA vaccine applications.",
+          "title": "mRNA vaccine protects dairy cows from H5N1 influenza",
+          "summary": "An mRNA-lipid nanoparticle vaccine successfully protects lactating dairy cows from H5N1 influenza infection, demonstrating a novel veterinary application of mRNA vaccine technology.",
           "category": "Biotechnology",
           "subcategory": "immunotherapy",
           "value": null,
@@ -100,25 +119,6 @@
           }
         },
         {
-          "id": "ms-86fcffddff3c",
-          "title": "Recordanelles capture transient gene expression in single human cells",
-          "summary": "A synthetic organelle called 'recordanelle' enables transcriptome-wide recording of transient gene expression in single human cells over several days.",
-          "category": "Biotechnology",
-          "subcategory": "synthetic_biology",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-22",
-          "url": "https://www.nature.com/articles/s41587-026-03350-7",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-fdff7b9161cc",
           "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
           "summary": "Researchers developed ALTER, a programmable RNA base editor using human Argonaute 2, reducing immune risks and outperforming dCas13 editors.",
@@ -129,6 +129,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-22",
           "url": "https://www.nature.com/articles/s41587-026-03358-z",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-86fcffddff3c",
+          "title": "Recordanelles capture transient gene expression in single human cells",
+          "summary": "A synthetic organelle called 'recordanelle' enables transcriptome-wide recording of transient gene expression in single human cells over several days.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-22",
+          "url": "https://www.nature.com/articles/s41587-026-03350-7",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -214,25 +233,6 @@
           }
         },
         {
-          "id": "ms-9d9bc5bed0e6",
-          "title": "Plant-directed control of bacterial activity via genetic code expansion",
-          "summary": "Researchers use noncanonical amino acid O-methyl-L-tyrosine to enable plants to control bacterial protein synthesis across diverse plant species.",
-          "category": "Biotechnology",
-          "subcategory": "synthetic_biology",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-20",
-          "url": "https://www.nature.com/articles/s41587-026-03360-5",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-1fae27bb196d",
           "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
           "summary": "Researchers engineered human Argonaute 2 to perform targeted C-to-U RNA base editing, creating a potential therapeutic RNA editing tool using endogenous human proteins.",
@@ -243,6 +243,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-20",
           "url": "https://www.nature.com/articles/s41587-026-03359-y",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-9d9bc5bed0e6",
+          "title": "Plant-directed control of bacterial activity via genetic code expansion",
+          "summary": "Researchers use noncanonical amino acid O-methyl-L-tyrosine to enable plants to control bacterial protein synthesis across diverse plant species.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-20",
+          "url": "https://www.nature.com/articles/s41587-026-03360-5",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -518,25 +537,6 @@
           }
         },
         {
-          "id": "ms-f725a993460b",
-          "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
-          "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
-          "category": "Biotechnology",
-          "subcategory": "synthetic_biology",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-28",
-          "url": "https://www.nature.com/articles/s41587-026-03331-w",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-e0d7fb1f057f",
           "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
           "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling better tissue targeting and enhanced in vivo genome editing.",
@@ -547,6 +547,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03298-8",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-f725a993460b",
+          "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
+          "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03331-w",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -867,6 +886,44 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-96de7417cda1",
+          "title": "MARS: Retriever-Free Multilingual Search Agents",
+          "summary": "MARS introduces retriever-free multilingual search agents that directly interact with raw corpora via executable commands, eliminating reliance on learned retrievers.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-09",
+          "url": "https://arxiv.org/abs/2611.09090",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-dd36a3fd7923",
+          "title": "First judge-free benchmark for open-ended Khmer generation",
+          "summary": "Researchers introduce Khmer PFGen-Bench, the first judge-free benchmark for multi-sentence open-ended generation in Khmer, adapting a keyword-rule scorer from Japanese to a low-resource language.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-09",
+          "url": "https://arxiv.org/abs/2611.09222",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-cda5f0465cac",
           "title": "Behavior-Conditioned Symbolic Synthesis (BCSS) scales symbolic modeling of human and machine reasoning",
@@ -1874,7 +1931,7 @@
           "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 37.7749,
             "lon": -122.4194
@@ -2352,55 +2409,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Astronomy": {
-      "name": "Astronomy",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "black_hole_imaging",
-        "ism_3d_mapping"
-      ],
-      "milestones": [
-        {
-          "id": "ms-aba6c7cbd7a4",
-          "title": "New 3D Map Reveals Dynamic Interstellar Medium Structure",
-          "summary": "A new 3D map of the interstellar medium challenges the static view, revealing its dynamic, turbulent nature across the galaxy.",
-          "category": "Astronomy",
-          "subcategory": "ism_3d_mapping",
-          "value": null,
-          "unit": null,
-          "source": "Quanta Magazine",
-          "date": "2026-10-30",
-          "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
-          "id": "ms-53fcad1aff78",
-          "title": "First image of a black hole captured by Event Horizon Telescope",
-          "summary": "Event Horizon Telescope captures first-ever image of a black hole's shadow using a global interferometer.",
-          "category": "Astronomy",
-          "subcategory": "black_hole_imaging",
-          "value": null,
-          "unit": null,
-          "source": "Event Horizon Telescope Collaboration",
-          "date": "2019-04-10",
-          "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 42.3375,
-            "lon": -71.1061
-          }
         }
       ]
     }
