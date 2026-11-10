@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-09T16:19:52.952901Z",
+  "last_update": "2026-11-10T15:05:27.847322Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -62,6 +62,25 @@
           }
         },
         {
+          "id": "ms-e4b02d4f0790",
+          "title": "Engineered compact Cas12m variant enables multiplexed gene activation in vivo",
+          "summary": "Researchers developed a compact Cas12m variant (smCRISPRa) enabling high-efficiency multiplexed gene activation in mouse models.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-28",
+          "url": "https://www.nature.com/articles/s41587-026-03352-5",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-9b3c098a1571",
           "title": "mRNA vaccine protects dairy cows from H5N1 influenza",
           "summary": "An mRNA-lipid nanoparticle vaccine successfully protects lactating dairy cows from H5N1 influenza infection, demonstrating a novel veterinary application of mRNA vaccine technology.",
@@ -72,25 +91,6 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-28",
           "url": "https://www.nature.com/articles/s41587-026-03343-6",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
-          "id": "ms-e4b02d4f0790",
-          "title": "Engineered compact Cas12m enables multiplexed gene activation in vivo",
-          "summary": "Researchers engineered a compact Cas12m variant enabling high-efficiency multiplexed gene activation in mouse models.",
-          "category": "Biotechnology",
-          "subcategory": "gene_editing",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-28",
-          "url": "https://www.nature.com/articles/s41587-026-03352-5",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -139,21 +139,21 @@
         },
         {
           "id": "ms-86fcffddff3c",
-          "title": "Recordanelles capture transient gene expression in single human cells",
-          "summary": "A synthetic organelle called 'recordanelle' enables transcriptome-wide recording of transient gene expression in single human cells over several days.",
+          "title": "Recordanelles enable multi-day recording of transient gene expression in single human cells",
+          "summary": "Synthetic organelles called recordanelles can capture transient RNA changes in single human cells over several days with single-cell sensitivity.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
           "unit": null,
-          "source": "Nature Biotechnology",
+          "source": "Research team (affiliation not specified)",
           "date": "2026-10-22",
           "url": "https://www.nature.com/articles/s41587-026-03350-7",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -886,6 +886,44 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-ecc0c8e0845b",
+          "title": "Training-free entropy-gated decoding cuts LLM token output 25–35% with non-inferior quality",
+          "summary": "A novel entropy-gated logits processor reduces token generation by up to 34.9% on MT-Bench while preserving semantic content within BERTScore non-inferiority margins.",
+          "category": "Computing & AGI",
+          "subcategory": "inference_cost",
+          "value": 34.9,
+          "unit": "% token reduction",
+          "source": "arXiv",
+          "date": "2026-11-10",
+          "url": "https://arxiv.org/abs/2611.08975",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-91f4cc433e81",
+          "title": "Khmer PFGen-Bench: First judge-free benchmark for open-ended generation in Khmer",
+          "summary": "Researchers introduce Khmer PFGen-Bench, the first judge-free benchmark for multi-sentence open-ended generation in Khmer, adapting keyword-rule and n-gram scoring from a Japanese benchmark.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-10",
+          "url": "https://arxiv.org/abs/2611.09222",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-96de7417cda1",
           "title": "MARS: Retriever-Free Multilingual Search Agents",
