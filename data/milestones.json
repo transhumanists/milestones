@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-10T15:05:27.847322Z",
+  "last_update": "2026-11-11T14:05:08.140162Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -925,25 +925,6 @@
           }
         },
         {
-          "id": "ms-96de7417cda1",
-          "title": "MARS: Retriever-Free Multilingual Search Agents",
-          "summary": "MARS introduces retriever-free multilingual search agents that directly interact with raw corpora via executable commands, eliminating reliance on learned retrievers.",
-          "category": "Computing & AGI",
-          "subcategory": "agentic_ai",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-11-09",
-          "url": "https://arxiv.org/abs/2611.09090",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-dd36a3fd7923",
           "title": "First judge-free benchmark for open-ended Khmer generation",
           "summary": "Researchers introduce Khmer PFGen-Bench, the first judge-free benchmark for multi-sentence open-ended generation in Khmer, adapting a keyword-rule scorer from Japanese to a low-resource language.",
@@ -954,6 +935,25 @@
           "source": "arXiv",
           "date": "2026-11-09",
           "url": "https://arxiv.org/abs/2611.09222",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-96de7417cda1",
+          "title": "MARS: Retriever-Free Multilingual Search Agents",
+          "summary": "MARS introduces retriever-free multilingual search agents that directly interact with raw corpora via executable commands, eliminating reliance on learned retrievers.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-09",
+          "url": "https://arxiv.org/abs/2611.09090",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -982,25 +982,6 @@
           }
         },
         {
-          "id": "ms-4930d4a77b4b",
-          "title": "Generate-then-Rank: Symbolic Goal Interpretation for Embodied Agents",
-          "summary": "New two-stage generate-then-rank method improves symbolic goal interpretation for embodied agents using LLMs.",
-          "category": "Computing & AGI",
-          "subcategory": "agentic_ai",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-11-06",
-          "url": "https://arxiv.org/abs/2611.07825",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-51bcfbaae246",
           "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
           "summary": "FlashOffloading introduces a host-DRAM KV cache offloading technique that reduces latency and improves concurrency for long-context LLM inference.",
@@ -1011,6 +992,25 @@
           "source": "arXiv preprint",
           "date": "2026-11-06",
           "url": "https://arxiv.org/abs/2611.07542",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-4930d4a77b4b",
+          "title": "Generate-then-Rank: Symbolic Goal Interpretation for Embodied Agents",
+          "summary": "New two-stage generate-then-rank method improves symbolic goal interpretation for embodied agents using LLMs.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-06",
+          "url": "https://arxiv.org/abs/2611.07825",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1172,25 +1172,6 @@
           }
         },
         {
-          "id": "ms-8e04e5377614",
-          "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
-          "summary": "New recursive self-improvement framework (Self-HPO) co-evolves LLM policy models and their execution harnesses to advance autonomous coding agents.",
-          "category": "Computing & AGI",
-          "subcategory": "agentic_ai",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-10-19",
-          "url": "https://arxiv.org/abs/2610.22791",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-8e8ae326b12d",
           "title": "RealCLI: Unified Benchmark for Human-Agent CLI Collaboration",
           "summary": "Introduces REALCLI, a paired benchmark unifying task execution and human-agent collaboration quality evaluation for CLI agents via a five-dimensional framework.",
@@ -1201,6 +1182,25 @@
           "source": "arXiv",
           "date": "2026-10-19",
           "url": "https://arxiv.org/abs/2610.22507",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-8e04e5377614",
+          "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
+          "summary": "New recursive self-improvement framework (Self-HPO) co-evolves LLM policy models and their execution harnesses to advance autonomous coding agents.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-19",
+          "url": "https://arxiv.org/abs/2610.22791",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,

@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-10T15:05:27.851719Z · 128 active milestones across 7 categories*
+*Auto-generated: 2026-11-11T14:05:08.143664Z · 128 active milestones across 7 categories*
 
 ---
 
@@ -67,11 +67,11 @@
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `inference_cost` | Training-free entropy-gated decoding cuts LLM toke  | **34.9** % token reduction | arXiv | 2026-11-10 |
 | 2 | `benchmarks` | Khmer PFGen-Bench: First judge-free benchmark for   | — | arXiv | 2026-11-10 |
-| 3 | `agentic_ai` | MARS: Retriever-Free Multilingual Search Agents  | — | arXiv | 2026-11-09 |
-| 4 | `benchmarks` | First judge-free benchmark for open-ended Khmer ge  | — | arXiv | 2026-11-09 |
+| 3 | `benchmarks` | First judge-free benchmark for open-ended Khmer ge  | — | arXiv | 2026-11-09 |
+| 4 | `agentic_ai` | MARS: Retriever-Free Multilingual Search Agents  | — | arXiv | 2026-11-09 |
 | 5 | `code_generation` | Behavior-Conditioned Symbolic Synthesis (BCSS) sca  | — | arXiv | 2026-11-07 |
-| 6 | `agentic_ai` | Generate-then-Rank: Symbolic Goal Interpretation f  | — | arXiv | 2026-11-06 |
-| 7 | `inference_cost` | FlashOffloading: Low-Latency KV Cache Offloading f  | — | arXiv preprint | 2026-11-06 |
+| 6 | `inference_cost` | FlashOffloading: Low-Latency KV Cache Offloading f  | — | arXiv preprint | 2026-11-06 |
+| 7 | `agentic_ai` | Generate-then-Rank: Symbolic Goal Interpretation f  | — | arXiv | 2026-11-06 |
 | 8 | `benchmarks` | PAYWORTHY benchmark evaluates LLM predictions of A  | **1494** jobs | arXiv | 2026-11-05 |
 | 9 | `agentic_ai` | Novel Method Tests AI Introspection by Injecting T  | — | Quanta Magazine | 2026-11-04 |
 | 10 | `benchmarks` | CST-Bench: New benchmark for counterfactual spatia  | **7082** examples | arXiv | 2026-11-01 |
@@ -80,8 +80,8 @@
 | 13 | `multimodal` | Omni-Woodpecker: Training-Free Hallucination Corre  | — | arXiv | 2026-10-21 |
 | 14 | `benchmarks` | ReuF2F: New Benchmark for Coding Agents on Formali  | — | arXiv | 2026-10-21 |
 | 15 | `math_reasoning` | AI proves Quasi-Riemann Hypothesis  | — | Quanta Magazine | 2026-10-19 |
-| 16 | `agentic_ai` | Self-Evolving Coding Agents via Harness-Policy Opt  | — | arXiv | 2026-10-19 |
-| 17 | `benchmarks` | RealCLI: Unified Benchmark for Human-Agent CLI Col  | — | arXiv | 2026-10-19 |
+| 16 | `benchmarks` | RealCLI: Unified Benchmark for Human-Agent CLI Col  | — | arXiv | 2026-10-19 |
+| 17 | `agentic_ai` | Self-Evolving Coding Agents via Harness-Policy Opt  | — | arXiv | 2026-10-19 |
 | 18 | `benchmarks` | EmbodiedCLBench: First benchmark for continual lea  | — | arXiv | 2026-10-13 |
 | 19 | `agentic_ai` | CLEAT: Value-Guided Clarification for Interactive   | — | arXiv | 2026-10-13 |
 | 20 | `multimodal` | Few-shot multimodal representation alignment via d  | — | arXiv | 2026-10-13 |
@@ -184,4 +184,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-11-10T15:05:27.851719Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-11T14:05:08.143664Z · Pipeline: `transhumanists/apis`*
