@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-11T14:05:08.140162Z",
+  "last_update": "2026-11-12T15:09:21.813093Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -1937,6 +1937,44 @@
         "supply_chain"
       ],
       "milestones": [
+        {
+          "id": "ms-bc5bcc2cfadf",
+          "title": "Attacker hijacks 4,837 GitHub accounts for CI secret stealing campaign",
+          "summary": "An attacker leveraged stolen credentials from 4,837 GitHub accounts to inject a CI secret stealer into over 1,806 repositories, marking a large-scale software supply chain compromise.",
+          "category": "Cybersecurity",
+          "subcategory": "supply_chain",
+          "value": 4837,
+          "unit": "accounts",
+          "source": "Aikido Security",
+          "date": "2026-11-12",
+          "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+          "is_record": true,
+          "is_breakthrough": false,
+          "is_new": true,
+          "geolocation": {
+            "lat": 50.8609,
+            "lon": 4.3676
+          }
+        },
+        {
+          "id": "ms-b8192c9d3595",
+          "title": "Critical Zoom Workplace Vulnerability Allows Unauthenticated Remote Privilege Escalation",
+          "summary": "Zoom disclosed a critical vulnerability (CVE-2026-108186, CVSS 9.6) in Zoom Workplace for Windows enabling unauthenticated remote privilege escalation.",
+          "category": "Cybersecurity",
+          "subcategory": "exploits",
+          "value": 9.6,
+          "unit": "CVSS",
+          "source": "Zoom",
+          "date": "2026-11-11",
+          "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-0bec3a1692d4",
           "title": "Claude Code 'Don't Ask Again' Feature Exposes Secrets in 1,122 Public GitHub Repos",

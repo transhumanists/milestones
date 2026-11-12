@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-11T14:05:08.143664Z · 128 active milestones across 7 categories*
+*Auto-generated: 2026-11-12T15:09:21.816563Z · 130 active milestones across 7 categories*
 
 ---
 
@@ -141,24 +141,26 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `threat_intelligence` | Claude Code 'Don't Ask Again' Feature Exposes Secr  | **1122** public repositories | Apiiro | 2026-11-07 |
-| 2 | `exploits` | OpenAI Launches GPT-6 Cyber AI Model Discovering 8  | **948** Linux exploits | OpenAI | 2026-11-06 |
-| 3 | `exploits` | Malicious Browser Extensions Exploit Claude Dispat  | — | Forever Security | 2026-11-06 |
-| 4 | `mitigations` | OpenSSH 10.6p2 fixes critical Alpine Linux auth by  | — | OpenSSH | 2026-11-05 |
-| 5 | `exploits` | FBI attributes record $6.43B crypto heist to North  | **6.43** billion USD | FBI | 2026-11-01 |
-| 6 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench  | **88.2** % | Google | 2026-10-29 |
-| 7 | `supply_chain` | GitHub launches npm Firewall to block malicious pa  | — | GitHub | 2026-10-29 |
-| 8 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
-| 9 | `exploits` | Hirudo Android Trojan Uses Patched Banking Apps to  | — | ThreatFabric | 2026-10-14 |
-| 10 | `mitigations` | Microsoft patches record 1,400+ vulnerabilities in  | **1400** vulnerabilities | Microsoft | 2026-10-13 |
-| 11 | `exploits` | P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Th  | — | iVerify | 2026-10-09 |
-| 12 | `mitigations` | Anthropic launches free AI-powered vulnerability s  | — | Anthropic | 2026-10-09 |
-| 13 | `threat_intelligence` | Cloudflare mitigates 18.2M network-layer DDoS atta  | **18.2** million attacks | Cloudflare | 2026-10-01 |
-| 14 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo  | **8.8** CVSS | Security researchers | 2026-09-26 |
-| 15 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
-| 16 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
-| 17 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
-| 18 | `exploits` | Linux Kernel TCP Vulnerability CVE-2026-98432 Scor  | **9.8** CVSS | Linux Kernel CVE Tea | 2024-10-27 |
+| 1 | `supply_chain` | Attacker hijacks 4,837 GitHub accounts for CI secr 🆕 | **4837** accounts | Aikido Security | 2026-11-12 |
+| 2 | `exploits` | Critical Zoom Workplace Vulnerability Allows Unaut  | **9.6** CVSS | Zoom | 2026-11-11 |
+| 3 | `threat_intelligence` | Claude Code 'Don't Ask Again' Feature Exposes Secr  | **1122** public repositories | Apiiro | 2026-11-07 |
+| 4 | `exploits` | OpenAI Launches GPT-6 Cyber AI Model Discovering 8  | **948** Linux exploits | OpenAI | 2026-11-06 |
+| 5 | `exploits` | Malicious Browser Extensions Exploit Claude Dispat  | — | Forever Security | 2026-11-06 |
+| 6 | `mitigations` | OpenSSH 10.6p2 fixes critical Alpine Linux auth by  | — | OpenSSH | 2026-11-05 |
+| 7 | `exploits` | FBI attributes record $6.43B crypto heist to North  | **6.43** billion USD | FBI | 2026-11-01 |
+| 8 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench  | **88.2** % | Google | 2026-10-29 |
+| 9 | `supply_chain` | GitHub launches npm Firewall to block malicious pa  | — | GitHub | 2026-10-29 |
+| 10 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
+| 11 | `exploits` | Hirudo Android Trojan Uses Patched Banking Apps to  | — | ThreatFabric | 2026-10-14 |
+| 12 | `mitigations` | Microsoft patches record 1,400+ vulnerabilities in  | **1400** vulnerabilities | Microsoft | 2026-10-13 |
+| 13 | `exploits` | P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Th  | — | iVerify | 2026-10-09 |
+| 14 | `mitigations` | Anthropic launches free AI-powered vulnerability s  | — | Anthropic | 2026-10-09 |
+| 15 | `threat_intelligence` | Cloudflare mitigates 18.2M network-layer DDoS atta  | **18.2** million attacks | Cloudflare | 2026-10-01 |
+| 16 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo  | **8.8** CVSS | Security researchers | 2026-09-26 |
+| 17 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
+| 18 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
+| 19 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
+| 20 | `exploits` | Linux Kernel TCP Vulnerability CVE-2026-98432 Scor  | **9.8** CVSS | Linux Kernel CVE Tea | 2024-10-27 |
 
 ## 6. Spaceflight & Aeronautics 🚀
 
@@ -184,4 +186,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-11-11T14:05:08.143664Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-12T15:09:21.816563Z · Pipeline: `transhumanists/apis`*

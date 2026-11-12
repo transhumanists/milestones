@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-11T14:05:08.140162Z",
+  "last_update": "2026-11-12T15:09:21.813093Z",
   "version": "2.0.0",
   "events": [
     {
@@ -884,6 +884,19 @@
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ms-bc5bcc2cfadf",
+      "title": "Attacker hijacks 4,837 GitHub accounts for CI secret stealing campaign",
+      "category": "Cybersecurity",
+      "value": "4837 accounts",
+      "source": "Aikido Security",
+      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "date": "2026-11-12",
+      "geolocation": {
+        "lat": 50.8609,
+        "lon": 4.3676
       }
     },
     {
