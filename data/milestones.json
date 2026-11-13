@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-12T15:09:21.813093Z",
+  "last_update": "2026-11-13T14:49:46.788132Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -23,6 +23,25 @@
         "ml_perturbation"
       ],
       "milestones": [
+        {
+          "id": "ms-b473f26d2a45",
+          "title": "De novo design of proteases",
+          "summary": "Researchers achieve de novo design of functional proteases, a breakthrough in computational protein engineering and synthetic biology.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-11-10",
+          "url": "https://www.nature.com/articles/s41587-026-03389-6",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
         {
           "id": "ms-3bf5df056956",
           "title": "Cas12a combinatorial knockout screens map DNA damage response genetic architecture",
@@ -1486,6 +1505,25 @@
           "is_new": false
         },
         {
+          "id": "ms-93aa373507dd",
+          "title": "CrystalMem: Elastic Memory for Self-Evolving LLM Agents",
+          "summary": "CrystalMem achieves highest restored capability across all benchmarks, matching full-budget performance at only 50% memory allocation for self-evolving LLM agents.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": 50,
+          "unit": "%",
+          "source": "CrystalMem Research Team",
+          "date": "2026-07-31",
+          "url": "http://arxiv.org/abs/2608.00303v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ai-004",
           "subcategory": "gpu_efficiency",
           "title": "Training TFLOPS/W",
@@ -1722,6 +1760,7 @@
         "gate_fidelity",
         "coherence",
         "trapped_ions",
+        "quantum_machine_learning",
         "quantum_resource_theory"
       ],
       "milestones": [
@@ -1819,6 +1858,25 @@
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-67861f066121",
+          "title": "Physics-informed quantum convolutional neural networks predict low-energy subspace overlaps in 10-qubit Heisenberg chain",
+          "summary": "Physics-informed quantum convolutional neural networks achieve stable R^2 of 0.753–0.846 across quench regimes for predicting low-energy subspace overlaps in a 10-qubit Heisenberg spin chain.",
+          "category": "Quantum Physics",
+          "subcategory": "quantum_machine_learning",
+          "value": 0.846,
+          "unit": "R^2 coefficient of determination",
+          "source": "arXiv preprint (authors unspecified)",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00235v1",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1950,7 +2008,7 @@
           "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
           "is_record": true,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 50.8609,
             "lon": 4.3676

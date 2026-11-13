@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-12T15:09:21.813093Z",
+  "last_update": "2026-11-13T14:49:46.788132Z",
   "version": "2.0.0",
   "events": [
     {
@@ -325,6 +325,19 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
+      }
+    },
+    {
+      "id": "ev-ms-b473f26d2a45",
+      "title": "De novo design of proteases",
+      "category": "Biotechnology",
+      "value": "De novo design of proteases",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03389-6",
+      "date": "2026-11-10",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -744,26 +757,26 @@
       }
     },
     {
-      "id": "ev-ms-0bec3a1692d4",
-      "title": "Claude Code 'Don't Ask Again' Feature Exposes Secrets in 1,122 Public GitHub Repos",
+      "id": "ev-ms-bc5bcc2cfadf",
+      "title": "Attacker hijacks 4,837 GitHub accounts for CI secret stealing campaign",
       "category": "Cybersecurity",
-      "value": "1122 public repositories",
-      "source": "Apiiro",
-      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "date": "2026-11-07",
+      "value": "4837 accounts",
+      "source": "Aikido Security",
+      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "date": "2026-11-12",
       "geolocation": {
-        "lat": 32.0853,
-        "lon": 34.7818
+        "lat": 50.8609,
+        "lon": 4.3676
       }
     },
     {
-      "id": "ev-ms-5dbfeb047054",
-      "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
+      "id": "ev-ms-24af55ce18c7",
+      "title": "GitHub launches npm Firewall to block malicious packages at install time",
       "category": "Cybersecurity",
-      "value": "18.2 million attacks",
-      "source": "Cloudflare",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "date": "2026-10-01",
+      "value": "GitHub launches npm Firewall to block malicious packages at install time",
+      "source": "GitHub",
+      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "date": "2026-10-29",
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
@@ -848,6 +861,32 @@
       }
     },
     {
+      "id": "ev-ms-0bec3a1692d4",
+      "title": "Claude Code 'Don't Ask Again' Feature Exposes Secrets in 1,122 Public GitHub Repos",
+      "category": "Cybersecurity",
+      "value": "1122 public repositories",
+      "source": "Apiiro",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "date": "2026-11-07",
+      "geolocation": {
+        "lat": 32.0853,
+        "lon": 34.7818
+      }
+    },
+    {
+      "id": "ev-ms-5dbfeb047054",
+      "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
+      "category": "Cybersecurity",
+      "value": "18.2 million attacks",
+      "source": "Cloudflare",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "date": "2026-10-01",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-ms-20a3326da088",
       "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
       "category": "Cybersecurity",
@@ -871,32 +910,6 @@
       "geolocation": {
         "lat": 37.4219,
         "lon": -122.084
-      }
-    },
-    {
-      "id": "ev-ms-24af55ce18c7",
-      "title": "GitHub launches npm Firewall to block malicious packages at install time",
-      "category": "Cybersecurity",
-      "value": "GitHub launches npm Firewall to block malicious packages at install time",
-      "source": "GitHub",
-      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "date": "2026-10-29",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-bc5bcc2cfadf",
-      "title": "Attacker hijacks 4,837 GitHub accounts for CI secret stealing campaign",
-      "category": "Cybersecurity",
-      "value": "4837 accounts",
-      "source": "Aikido Security",
-      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-      "date": "2026-11-12",
-      "geolocation": {
-        "lat": 50.8609,
-        "lon": 4.3676
       }
     },
     {
