@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-13T14:49:46.788132Z",
+  "last_update": "2026-11-14T13:33:51.344672Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -17,12 +17,32 @@
         "gene_therapy",
         "immunotherapy",
         "biosensors",
+        "fdr_control",
         "transcriptome_recording",
         "single_cell_multiomics",
         "structural_variant_detection",
         "ml_perturbation"
       ],
       "milestones": [
+        {
+          "id": "ms-97fd7ce6fa08",
+          "title": "Unified taxonomy for false discovery rate control in omics research",
+          "summary": "A new 2x2 matrix taxonomy helps omics researchers select appropriate false discovery rate control procedures based on data type and study design.",
+          "category": "Biotechnology",
+          "subcategory": "fdr_control",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-11-13",
+          "url": "https://www.nature.com/articles/s41587-026-03379-8",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
         {
           "id": "ms-b473f26d2a45",
           "title": "De novo design of proteases",
@@ -138,25 +158,6 @@
           }
         },
         {
-          "id": "ms-fdff7b9161cc",
-          "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
-          "summary": "Researchers developed ALTER, a programmable RNA base editor using human Argonaute 2, reducing immune risks and outperforming dCas13 editors.",
-          "category": "Biotechnology",
-          "subcategory": "gene_editing",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-22",
-          "url": "https://www.nature.com/articles/s41587-026-03358-z",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-86fcffddff3c",
           "title": "Recordanelles enable multi-day recording of transient gene expression in single human cells",
           "summary": "Synthetic organelles called recordanelles can capture transient RNA changes in single human cells over several days with single-cell sensitivity.",
@@ -173,6 +174,25 @@
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-fdff7b9161cc",
+          "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+          "summary": "Researchers developed ALTER, a programmable RNA base editor using human Argonaute 2, reducing immune risks and outperforming dCas13 editors.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-22",
+          "url": "https://www.nature.com/articles/s41587-026-03358-z",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -252,25 +272,6 @@
           }
         },
         {
-          "id": "ms-1fae27bb196d",
-          "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
-          "summary": "Researchers engineered human Argonaute 2 to perform targeted C-to-U RNA base editing, creating a potential therapeutic RNA editing tool using endogenous human proteins.",
-          "category": "Biotechnology",
-          "subcategory": "gene_editing",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-20",
-          "url": "https://www.nature.com/articles/s41587-026-03359-y",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-9d9bc5bed0e6",
           "title": "Plant-directed control of bacterial activity via genetic code expansion",
           "summary": "Researchers use noncanonical amino acid O-methyl-L-tyrosine to enable plants to control bacterial protein synthesis across diverse plant species.",
@@ -281,6 +282,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-10-20",
           "url": "https://www.nature.com/articles/s41587-026-03360-5",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-1fae27bb196d",
+          "title": "Engineered human Argonaute 2 enables targeted C-to-U RNA base editing",
+          "summary": "Researchers engineered human Argonaute 2 to perform targeted C-to-U RNA base editing, creating a potential therapeutic RNA editing tool using endogenous human proteins.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-20",
+          "url": "https://www.nature.com/articles/s41587-026-03359-y",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -556,25 +576,6 @@
           }
         },
         {
-          "id": "ms-e0d7fb1f057f",
-          "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
-          "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling better tissue targeting and enhanced in vivo genome editing.",
-          "category": "Biotechnology",
-          "subcategory": "gene_editing",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-28",
-          "url": "https://www.nature.com/articles/s41587-026-03298-8",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-f725a993460b",
           "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
           "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
@@ -585,6 +586,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03331-w",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-e0d7fb1f057f",
+          "title": "Lipid nanoparticles optimized for large RNA cargo enhance in vivo genome editing",
+          "summary": "Researchers improved lipid nanoparticle design by incorporating RNA cargo size, enabling better tissue targeting and enhanced in vivo genome editing.",
+          "category": "Biotechnology",
+          "subcategory": "gene_editing",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03298-8",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -689,25 +709,6 @@
           }
         },
         {
-          "id": "ms-a5c98baae9a8",
-          "title": "Moderna mRNA flu vaccine receives FDA approval",
-          "summary": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
-          "category": "Biotechnology",
-          "subcategory": "immunotherapy",
-          "value": null,
-          "unit": null,
-          "source": "FDA",
-          "date": "2026-09-10",
-          "url": "https://www.nature.com/articles/s41587-026-03313-y",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 39.0555,
-            "lon": -77.038
-          }
-        },
-        {
           "id": "ms-0a279b32fda4",
           "title": "Biomimetic cells enable new platform for T cell mechanotransduction studies",
           "summary": "Researchers develop biomimetic cells as a novel synthetic biology tool to investigate mechanical force sensing in T cells, opening new avenues for immunotherapy research.",
@@ -724,6 +725,25 @@
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-a5c98baae9a8",
+          "title": "Moderna mRNA flu vaccine receives FDA approval",
+          "summary": "Moderna's mRNA-based influenza vaccine gains FDA approval, marking the first regulatory clearance for an mRNA flu vaccine.",
+          "category": "Biotechnology",
+          "subcategory": "immunotherapy",
+          "value": null,
+          "unit": null,
+          "source": "FDA",
+          "date": "2026-09-10",
+          "url": "https://www.nature.com/articles/s41587-026-03313-y",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 39.0555,
+            "lon": -77.038
           }
         },
         {
@@ -905,6 +925,63 @@
         "low_resource_speech"
       ],
       "milestones": [
+        {
+          "id": "ms-627f16e026c0",
+          "title": "RSI-PDEbench: 1,001-case benchmark for self-improving PDE-solving agents",
+          "summary": "New benchmark RSI-PDEbench introduces 1,001 cases across 42 PDE templates to evaluate self-improving LLM agents for automated PDE discovery and solving.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 1001,
+          "unit": "cases",
+          "source": "arXiv",
+          "date": "2026-11-14",
+          "url": "https://arxiv.org/abs/2611.14949",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-4665f3cbe8cc",
+          "title": "Proof-step verification boosts math reasoning precision by 31-46 pp on GPQA/AIME",
+          "summary": "Certify-or-decline proof-step verification raises answer-key-match precision by up to 46 percentage points on AIME-2025 and 31 on GPQA for open-weight models, though at reduced coverage (21-35%).",
+          "category": "Computing & AGI",
+          "subcategory": "math_reasoning",
+          "value": 46,
+          "unit": "percentage points",
+          "source": "arXiv preprint",
+          "date": "2026-11-14",
+          "url": "https://arxiv.org/abs/2611.14794",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-8800042484d4",
+          "title": "Neuro-VL: Frontier Vision-Language Model for Human Neuroimaging",
+          "summary": "Researchers introduce Neuro-VL, a vision-language foundation model designed to interpret complex neuroimaging examinations and communicate findings for clinical decision-making.",
+          "category": "Computing & AGI",
+          "subcategory": "multimodal",
+          "value": null,
+          "unit": null,
+          "source": "arXiv (preprint)",
+          "date": "2026-11-14",
+          "url": "https://arxiv.org/abs/2611.15094",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-ecc0c8e0845b",
           "title": "Training-free entropy-gated decoding cuts LLM token output 25–35% with non-inferior quality",
@@ -1760,8 +1837,8 @@
         "gate_fidelity",
         "coherence",
         "trapped_ions",
-        "quantum_machine_learning",
-        "quantum_resource_theory"
+        "quantum_resource_theory",
+        "quantum_machine_learning"
       ],
       "milestones": [
         {
@@ -1876,7 +1953,7 @@
           "url": "http://arxiv.org/abs/2607.00235v1",
           "is_record": false,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
