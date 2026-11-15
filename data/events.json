@@ -1,7 +1,20 @@
 {
-  "last_update": "2026-11-14T13:33:51.344672Z",
+  "last_update": "2026-11-15T13:58:13.277340Z",
   "version": "2.0.0",
   "events": [
+    {
+      "id": "ev-ms-97fd7ce6fa08",
+      "title": "Unified taxonomy for false discovery rate control in omics research",
+      "category": "Biotechnology",
+      "value": "Unified taxonomy for false discovery rate control in omics research",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03379-8",
+      "date": "2026-11-13",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
     {
       "id": "ev-ms-b473f26d2a45",
       "title": "De novo design of proteases",
@@ -536,6 +549,19 @@
       }
     },
     {
+      "id": "ev-ms-fc6083e0cc69",
+      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time multimodal transient classification on ZTF",
+      "category": "Computing & AGI",
+      "value": "0.73 macro F1 score",
+      "source": "Zwicky Transient Facility (ZTF) collaboration",
+      "url": "http://arxiv.org/abs/2607.00228v1",
+      "date": "2026-06-30",
+      "geolocation": {
+        "lat": 34.1377,
+        "lon": -118.1253
+      }
+    },
+    {
       "id": "ev-ai-002",
       "title": "HumanEval pass@1",
       "category": "Computing & AGI",
@@ -559,19 +585,6 @@
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-fc6083e0cc69",
-      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time multimodal transient classification on ZTF",
-      "category": "Computing & AGI",
-      "value": "0.73 macro F1 score",
-      "source": "Zwicky Transient Facility (ZTF) collaboration",
-      "url": "http://arxiv.org/abs/2607.00228v1",
-      "date": "2026-06-30",
-      "geolocation": {
-        "lat": 34.1377,
-        "lon": -118.1253
       }
     },
     {
@@ -1053,19 +1066,6 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
-      }
-    },
-    {
-      "id": "ev-ms-97fd7ce6fa08",
-      "title": "Unified taxonomy for false discovery rate control in omics research",
-      "category": "Biotechnology",
-      "value": "Unified taxonomy for false discovery rate control in omics research",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03379-8",
-      "date": "2026-11-13",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     }
   ]

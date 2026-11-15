@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-14T13:33:51.344672Z",
+  "last_update": "2026-11-15T13:58:13.277340Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -37,7 +37,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03379-8",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
@@ -46,7 +46,7 @@
         {
           "id": "ms-b473f26d2a45",
           "title": "De novo design of proteases",
-          "summary": "Researchers achieve de novo design of functional proteases, a breakthrough in computational protein engineering and synthetic biology.",
+          "summary": "Researchers achieve de novo design of functional proteases, a breakthrough in computational protein engineering with potential therapeutic applications.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -1325,25 +1325,6 @@
           }
         },
         {
-          "id": "ms-54e3ea140a46",
-          "title": "CLEAT: Value-Guided Clarification for Interactive LLM Agents",
-          "summary": "New training method CLEAT teaches LLM agents to ask high-value clarifying questions that improve decision-making under ambiguous user intent.",
-          "category": "Computing & AGI",
-          "subcategory": "agentic_ai",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-10-13",
-          "url": "https://arxiv.org/abs/2610.12655",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-cccd1dd1feae",
           "title": "Few-shot multimodal representation alignment via distilled optimal transport",
           "summary": "New method aligns independently pretrained unimodal encoders using only 100-500 paired examples via optimal transport, drastically reducing paired data requirements.",
@@ -1354,6 +1335,25 @@
           "source": "arXiv",
           "date": "2026-10-13",
           "url": "https://arxiv.org/abs/2610.12781",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-54e3ea140a46",
+          "title": "CLEAT: Value-Guided Clarification for Interactive LLM Agents",
+          "summary": "New training method CLEAT teaches LLM agents to ask high-value clarifying questions that improve decision-making under ambiguous user intent.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-13",
+          "url": "https://arxiv.org/abs/2610.12655",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -2072,6 +2072,63 @@
         "supply_chain"
       ],
       "milestones": [
+        {
+          "id": "ms-63e8d3ff05b6",
+          "title": "Operation Endgame seizes 6.4M stolen logins in takedown of Gootloader, CastleRAT, StealC infrastructure",
+          "summary": "International law enforcement dismantled malware loader networks and seized 6.4 million stolen credentials from over 40,000 victims in a coordinated operation.",
+          "category": "Cybersecurity",
+          "subcategory": "mitigations",
+          "value": 6.4,
+          "unit": "million logins",
+          "source": "Germany's Federal Criminal Police Office (BKA) and international partners",
+          "date": "2026-11-13",
+          "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-633ab3273130",
+          "title": "Trezor Confirms Hardware Supply Chain Implants Stealing Recovery Phrases",
+          "summary": "Trezor discovered malicious hardware implants in three Safe 5 wallets sold by reseller CryptoBilis that exfiltrate recovery phrases via mobile network.",
+          "category": "Cybersecurity",
+          "subcategory": "supply_chain",
+          "value": 3,
+          "unit": "wallets",
+          "source": "Trezor",
+          "date": "2026-11-13",
+          "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-36a5cbad3357",
+          "title": "Mior and Skyfall attacks break AMD SEV-SNP VM confidentiality",
+          "summary": "Two new attacks allow malicious cloud hosts to read and modify memory of AMD SEV-SNP protected VMs, breaking confidential computing guarantees.",
+          "category": "Cybersecurity",
+          "subcategory": "exploits",
+          "value": null,
+          "unit": null,
+          "source": "Security researchers",
+          "date": "2026-11-13",
+          "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-bc5bcc2cfadf",
           "title": "Attacker hijacks 4,837 GitHub accounts for CI secret stealing campaign",
