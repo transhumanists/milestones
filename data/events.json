@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-15T13:58:13.277340Z",
+  "last_update": "2026-11-16T15:43:00.351413Z",
   "version": "2.0.0",
   "events": [
     {
@@ -419,6 +419,19 @@
       }
     },
     {
+      "id": "ev-ms-9cb8570cfb2b",
+      "title": "CD7-targeted AAV variant enables in vivo T/NK cell engineering",
+      "category": "Biotechnology",
+      "value": "CD7-targeted AAV variant enables in vivo T/NK cell engineering",
+      "source": "Springer Nature",
+      "url": "https://www.nature.com/articles/s41587-026-03344-5",
+      "date": "2026-11-16",
+      "geolocation": {
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
       "id": "ev-ms-24ff71915ce8",
       "title": "DynaVelo deep learning model predicts B-cell perturbation responses from single-cell multiomic velocities",
       "category": "Biotechnology",
@@ -550,10 +563,10 @@
     },
     {
       "id": "ev-ms-fc6083e0cc69",
-      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time multimodal transient classification on ZTF",
+      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time ZTF transient classification",
       "category": "Computing & AGI",
       "value": "0.73 macro F1 score",
-      "source": "Zwicky Transient Facility (ZTF) collaboration",
+      "source": "ZTF collaboration / Caltech",
       "url": "http://arxiv.org/abs/2607.00228v1",
       "date": "2026-06-30",
       "geolocation": {
@@ -628,9 +641,9 @@
     },
     {
       "id": "ev-ms-cede87aeb630",
-      "title": "Seed2.0 model series sets new frontier in reasoning, visual understanding, and search",
+      "title": "Seed2.0 achieves world-leading reasoning and complex task performance",
       "category": "Computing & AGI",
-      "value": "Seed2.0 model series sets new frontier in reasoning, visual understanding, and search",
+      "value": "Seed2.0 achieves world-leading reasoning and complex task performance",
       "source": "ByteDance",
       "url": "http://arxiv.org/abs/2607.00248v1",
       "date": "2026-06-30",
@@ -770,6 +783,19 @@
       }
     },
     {
+      "id": "ev-ms-20a3326da088",
+      "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
+      "category": "Cybersecurity",
+      "value": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
+      "source": "Anthropic",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "date": "2026-10-09",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-ms-bc5bcc2cfadf",
       "title": "Attacker hijacks 4,837 GitHub accounts for CI secret stealing campaign",
       "category": "Cybersecurity",
@@ -894,19 +920,6 @@
       "source": "Cloudflare",
       "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
       "date": "2026-10-01",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-20a3326da088",
-      "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
-      "category": "Cybersecurity",
-      "value": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
-      "source": "Anthropic",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "date": "2026-10-09",
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
