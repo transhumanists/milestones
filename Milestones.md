@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-16T15:43:00.355568Z · 144 active milestones across 8 categories*
+*Auto-generated: 2026-11-17T15:58:34.060604Z · 145 active milestones across 8 categories*
 
 ---
 
@@ -20,9 +20,9 @@
 | 6 | `gene_editing` | Engineered compact Cas12m variant enables multiple  | — | Nature Biotechnology | 2026-10-28 |
 | 7 | `immunotherapy` | mRNA vaccine protects dairy cows from H5N1 influen  | — | Nature Biotechnology | 2026-10-28 |
 | 8 | `microscopy` | Malaria Parasite Invasion Mechanism Visualized at   | — | Quanta Magazine | 2026-10-23 |
-| 9 | `synthetic_biology` | Recordanelles enable multi-day recording of transi  | — | Research team (affil | 2026-10-22 |
-| 10 | `gene_editing` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
-| 11 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
+| 9 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
+| 10 | `synthetic_biology` | Recordanelles enable multi-day recording of transi  | — | Research team (affil | 2026-10-22 |
+| 11 | `gene_editing` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
 | 12 | `synthetic_biology` | Recordanelles enable continuous transcriptome reco  | — | Nature Biotechnology | 2026-10-21 |
 | 13 | `transcriptome_recording` | Recordanelles enable continuous transcriptome-wide  | — | Not specified | 2026-10-21 |
 | 14 | `single_cell_multiomics` | DynaVelo deep learning model predicts B-cell pertu  | — | Nature Biotechnology | 2026-10-21 |
@@ -36,15 +36,15 @@
 | 22 | `immunotherapy` | RevMed's pancreatic cancer drug first  | — | RevMed | 2026-10-12 |
 | 23 | `synthetic_biology` | Shotgun genetic engineering enables novel metaboli  | — | Nature Biotechnology | 2026-10-06 |
 | 24 | `synthetic_biology` | Highly multiplexed mammalian metabolic engineering  | — | Nature Biotechnology | 2026-10-06 |
-| 25 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
-| 26 | `gene_therapy` | Engineered avian R2 retrotransposons enable target  | — | Nature Biotechnology | 2026-10-05 |
+| 25 | `gene_therapy` | Engineered avian R2 retrotransposons enable target  | — | Nature Biotechnology | 2026-10-05 |
+| 26 | `gene_editing` | Engineered avian R2 retrotransposons enable all-RN  | — | Nature Biotechnology | 2026-10-05 |
 | 27 | `biosensors` | Detectrons: RNA-to-DNA barcode conversion for high  | — | Nature Biotechnology | 2026-10-05 |
 | 28 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
 | 29 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
 | 30 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
-| 31 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
-| 32 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
-| 33 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
+| 31 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
+| 32 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 33 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
 | 34 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
 | 35 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
 | 36 | `biosensors` | Versatile nanopore sensor simultaneously identifie  | **98.7** percent | Unknown | 2026-09-15 |
@@ -108,11 +108,11 @@
 | 38 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
 | 39 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium | 2026-06-30 |
 | 40 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
-| 41 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m 🆕 | **77** % | ASPIRE research team | 2026-06-30 |
+| 41 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE research team | 2026-06-30 |
 | 42 | `inference_cost` | Neurosymbolic Layer Cuts LLM Token Usage 50% and B  | **50** percent token reduction | Research Team | 2026-06-30 |
 | 43 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
 | 44 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
-| 45 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time 🆕 | **0.73** macro F1 score | ZTF collaboration /  | 2026-06-30 |
+| 45 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | ZTF collaboration /  | 2026-06-30 |
 | 46 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
 | 47 | `frontier_models` | Seed2.0 achieves world-leading reasoning and compl  | — | ByteDance | 2026-06-30 |
 | 48 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
@@ -151,29 +151,30 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `mitigations` | Operation Endgame seizes 6.4M stolen logins in tak  | **6.4** million logins | Germany's Federal Cr | 2026-11-13 |
-| 2 | `supply_chain` | Trezor Confirms Hardware Supply Chain Implants Ste  | **3** wallets | Trezor | 2026-11-13 |
-| 3 | `exploits` | Mior and Skyfall attacks break AMD SEV-SNP VM conf  | — | Security researchers | 2026-11-13 |
-| 4 | `supply_chain` | Attacker hijacks 4,837 GitHub accounts for CI secr  | **4837** accounts | Aikido Security | 2026-11-12 |
-| 5 | `exploits` | Critical Zoom Workplace Vulnerability Allows Unaut  | **9.6** CVSS | Zoom | 2026-11-11 |
-| 6 | `threat_intelligence` | Claude Code 'Don't Ask Again' Feature Exposes Secr  | **1122** public repositories | Apiiro | 2026-11-07 |
-| 7 | `exploits` | OpenAI Launches GPT-6 Cyber AI Model Discovering 8  | **948** Linux exploits | OpenAI | 2026-11-06 |
-| 8 | `exploits` | Malicious Browser Extensions Exploit Claude Dispat  | — | Forever Security | 2026-11-06 |
-| 9 | `mitigations` | OpenSSH 10.6p2 fixes critical Alpine Linux auth by  | — | OpenSSH | 2026-11-05 |
-| 10 | `exploits` | FBI attributes record $6.43B crypto heist to North  | **6.43** billion USD | FBI | 2026-11-01 |
-| 11 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench  | **88.2** % | Google | 2026-10-29 |
-| 12 | `supply_chain` | GitHub launches npm Firewall to block malicious pa  | — | GitHub | 2026-10-29 |
-| 13 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
-| 14 | `exploits` | Hirudo Android Trojan Uses Patched Banking Apps to  | — | ThreatFabric | 2026-10-14 |
-| 15 | `mitigations` | Microsoft patches record 1,400+ vulnerabilities in  | **1400** vulnerabilities | Microsoft | 2026-10-13 |
-| 16 | `mitigations` | Anthropic launches free AI-powered vulnerability s  | — | Anthropic | 2026-10-09 |
-| 17 | `exploits` | P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Th  | — | iVerify | 2026-10-09 |
-| 18 | `threat_intelligence` | Cloudflare mitigates 18.2M network-layer DDoS atta  | **18.2** million attacks | Cloudflare | 2026-10-01 |
-| 19 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo  | **8.8** CVSS | Security researchers | 2026-09-26 |
-| 20 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
-| 21 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
-| 22 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
-| 23 | `exploits` | Linux Kernel TCP Vulnerability CVE-2026-98432 Scor  | **9.8** CVSS | Linux Kernel CVE Tea | 2024-10-27 |
+| 1 | `threat_intelligence` | Google reveals threat actors using autonomous AI a  | — | Google | 2026-11-16 |
+| 2 | `mitigations` | Operation Endgame seizes 6.4M stolen logins in tak  | **6.4** million logins | Germany's Federal Cr | 2026-11-13 |
+| 3 | `supply_chain` | Trezor Confirms Hardware Supply Chain Implants Ste  | **3** wallets | Trezor | 2026-11-13 |
+| 4 | `exploits` | Mior and Skyfall attacks break AMD SEV-SNP VM conf  | — | Security researchers | 2026-11-13 |
+| 5 | `supply_chain` | Attacker hijacks 4,837 GitHub accounts for CI secr  | **4837** accounts | Aikido Security | 2026-11-12 |
+| 6 | `exploits` | Critical Zoom Workplace Vulnerability Allows Unaut  | **9.6** CVSS | Zoom | 2026-11-11 |
+| 7 | `threat_intelligence` | Claude Code 'Don't Ask Again' Feature Exposes Secr  | **1122** public repositories | Apiiro | 2026-11-07 |
+| 8 | `exploits` | OpenAI Launches GPT-6 Cyber AI Model Discovering 8  | **948** Linux exploits | OpenAI | 2026-11-06 |
+| 9 | `exploits` | Malicious Browser Extensions Exploit Claude Dispat  | — | Forever Security | 2026-11-06 |
+| 10 | `mitigations` | OpenSSH 10.6p2 fixes critical Alpine Linux auth by  | — | OpenSSH | 2026-11-05 |
+| 11 | `exploits` | FBI attributes record $6.43B crypto heist to North  | **6.43** billion USD | FBI | 2026-11-01 |
+| 12 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench  | **88.2** % | Google | 2026-10-29 |
+| 13 | `supply_chain` | GitHub launches npm Firewall to block malicious pa  | — | GitHub | 2026-10-29 |
+| 14 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
+| 15 | `exploits` | Hirudo Android Trojan Uses Patched Banking Apps to  | — | ThreatFabric | 2026-10-14 |
+| 16 | `mitigations` | Microsoft patches record 1,400+ vulnerabilities in  | **1400** vulnerabilities | Microsoft | 2026-10-13 |
+| 17 | `mitigations` | Anthropic launches free AI-powered vulnerability s  | — | Anthropic | 2026-10-09 |
+| 18 | `exploits` | P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Th  | — | iVerify | 2026-10-09 |
+| 19 | `threat_intelligence` | Cloudflare mitigates 18.2M network-layer DDoS atta  | **18.2** million attacks | Cloudflare | 2026-10-01 |
+| 20 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo  | **8.8** CVSS | Security researchers | 2026-09-26 |
+| 21 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
+| 22 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
+| 23 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
+| 24 | `exploits` | Linux Kernel TCP Vulnerability CVE-2026-98432 Scor  | **9.8** CVSS | Linux Kernel CVE Tea | 2024-10-27 |
 
 ## 6. Spaceflight & Aeronautics 🚀
 
@@ -198,13 +199,13 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Theoretical Machine Learning 📌
+## 8. Astrophysics 📌
 
 *Color: #aaaaaa · Subcategories: 1*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `distributionally_robust_optimization` | New algorithm achieves improved complexity for gro 🆕 | — | Unknown | 2026-06-30 |
+| 1 | `cosmological_surveys` | DESI 20-Year Galaxy Survey Final Results Tension W 🆕 | — | DESI Collaboration | 2026-11-16 |
 
 ---
-*Last auto-generated: 2026-11-16T15:43:00.355568Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-17T15:58:34.060604Z · Pipeline: `transhumanists/apis`*

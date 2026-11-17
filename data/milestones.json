@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-16T15:43:00.351413Z",
+  "last_update": "2026-11-17T15:58:34.057326Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -177,6 +177,25 @@
           }
         },
         {
+          "id": "ms-b386b182f23d",
+          "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+          "summary": "ALTER uses human Argonaute 2 for programmable RNA editing, eliminating bacterial protein immunogenicity risks and outperforming dCas13 editors.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-22",
+          "url": "https://www.nature.com/articles/s41587-026-03358-z",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-86fcffddff3c",
           "title": "Recordanelles enable multi-day recording of transient gene expression in single human cells",
           "summary": "Synthetic organelles called recordanelles can capture transient RNA changes in single human cells over several days with single-cell sensitivity.",
@@ -201,25 +220,6 @@
           "summary": "Researchers developed ALTER, a programmable RNA base editor using human Argonaute 2, reducing immune risks and outperforming dCas13 editors.",
           "category": "Biotechnology",
           "subcategory": "gene_editing",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-22",
-          "url": "https://www.nature.com/articles/s41587-026-03358-z",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
-          "id": "ms-b386b182f23d",
-          "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
-          "summary": "ALTER uses human Argonaute 2 for programmable RNA editing, eliminating bacterial protein immunogenicity risks and outperforming dCas13 editors.",
-          "category": "Biotechnology",
-          "subcategory": "gene_therapy",
           "value": null,
           "unit": null,
           "source": "Nature Biotechnology",
@@ -481,11 +481,11 @@
           }
         },
         {
-          "id": "ms-45ba0e7b2200",
-          "title": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
-          "summary": "Researchers engineered avian R2 retrotransposons to achieve site-specific DNA integration in human cells using an all-RNA system.",
+          "id": "ms-fd76df20d111",
+          "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
+          "summary": "Researchers engineered avian R2 retrotransposons to achieve site-specific DNA integration in human cells, a breakthrough for gene therapy.",
           "category": "Biotechnology",
-          "subcategory": "gene_editing",
+          "subcategory": "gene_therapy",
           "value": null,
           "unit": null,
           "source": "Nature Biotechnology",
@@ -500,11 +500,11 @@
           }
         },
         {
-          "id": "ms-fd76df20d111",
-          "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
-          "summary": "Researchers engineered avian R2 retrotransposons to achieve site-specific DNA integration in human cells, a breakthrough for gene therapy.",
+          "id": "ms-45ba0e7b2200",
+          "title": "Engineered avian R2 retrotransposons enable all-RNA targeted DNA integration in human cells",
+          "summary": "Researchers engineered avian R2 retrotransposons to achieve site-specific DNA integration in human cells using an all-RNA system.",
           "category": "Biotechnology",
-          "subcategory": "gene_therapy",
+          "subcategory": "gene_editing",
           "value": null,
           "unit": null,
           "source": "Nature Biotechnology",
@@ -595,6 +595,25 @@
           }
         },
         {
+          "id": "ms-8644b2a34d60",
+          "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
+          "summary": "New ionizable lipid LC-1 improves endosomal escape and enables efficient genome editing in liver, lung, and brain of mice for large mRNA cargo.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03297-9",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-f725a993460b",
           "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
           "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
@@ -624,25 +643,6 @@
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03298-8",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
-          "id": "ms-8644b2a34d60",
-          "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
-          "summary": "New ionizable lipid LC-1 improves endosomal escape and enables efficient genome editing in liver, lung, and brain of mice for large mRNA cargo.",
-          "category": "Biotechnology",
-          "subcategory": "gene_therapy",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-28",
-          "url": "https://www.nature.com/articles/s41587-026-03297-9",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1702,7 +1702,7 @@
           "url": "http://arxiv.org/abs/2607.00272v2",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -1778,7 +1778,7 @@
           "url": "http://arxiv.org/abs/2607.00228v1",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 34.1377,
             "lon": -118.1253
@@ -2129,6 +2129,25 @@
         "supply_chain"
       ],
       "milestones": [
+        {
+          "id": "ms-1d287a465cf5",
+          "title": "Google reveals threat actors using autonomous AI agents for exploit development",
+          "summary": "Google discloses that threat actors are deploying autonomous multi-agent AI frameworks like ARTEX and CyberStrikeAI to automate multi-stage intrusions and exploit development from software patches.",
+          "category": "Cybersecurity",
+          "subcategory": "threat_intelligence",
+          "value": null,
+          "unit": null,
+          "source": "Google",
+          "date": "2026-11-16",
+          "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 37.4219,
+            "lon": -122.084
+          }
+        },
         {
           "id": "ms-63e8d3ff05b6",
           "title": "Operation Endgame seizes 6.4M stolen logins in takedown of Gootloader, CastleRAT, StealC infrastructure",
@@ -2737,25 +2756,25 @@
         }
       ]
     },
-    "Theoretical Machine Learning": {
-      "name": "Theoretical Machine Learning",
+    "Astrophysics": {
+      "name": "Astrophysics",
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
-        "distributionally_robust_optimization"
+        "cosmological_surveys"
       ],
       "milestones": [
         {
-          "id": "ms-c4ad997fcd5a",
-          "title": "New algorithm achieves improved complexity for group distributionally robust least squares",
-          "summary": "Algorithm obtains (1+ε)-optimal solution for GDR least squares with Õ(min{rank(A),m}^{1/3}ε^{-2/3}) linear-system-solves, improving over interior-point methods.",
-          "category": "Theoretical Machine Learning",
-          "subcategory": "distributionally_robust_optimization",
+          "id": "ms-484ca8c5a046",
+          "title": "DESI 20-Year Galaxy Survey Final Results Tension With Standard Cosmology",
+          "summary": "The Dark Energy Spectroscopic Instrument (DESI) completes its 20-year galaxy survey, releasing final data that reveals tensions with the Lambda CDM standard model of cosmology.",
+          "category": "Astrophysics",
+          "subcategory": "cosmological_surveys",
           "value": null,
           "unit": null,
-          "source": "Unknown",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00252v1",
+          "source": "DESI Collaboration",
+          "date": "2026-11-16",
+          "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
           "is_record": true,
           "is_breakthrough": true,
           "is_new": true,

@@ -1,7 +1,85 @@
 {
-  "last_update": "2026-11-16T15:43:00.351413Z",
+  "last_update": "2026-11-17T15:58:34.057326Z",
   "version": "2.0.0",
   "events": [
+    {
+      "id": "ev-ms-9cb8570cfb2b",
+      "title": "CD7-targeted AAV variant enables in vivo T/NK cell engineering",
+      "category": "Biotechnology",
+      "value": "CD7-targeted AAV variant enables in vivo T/NK cell engineering",
+      "source": "Springer Nature",
+      "url": "https://www.nature.com/articles/s41587-026-03344-5",
+      "date": "2026-11-16",
+      "geolocation": {
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
+      "id": "ev-ms-b386b182f23d",
+      "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+      "category": "Biotechnology",
+      "value": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03358-z",
+      "date": "2026-10-22",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-fd76df20d111",
+      "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
+      "category": "Biotechnology",
+      "value": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03315-w",
+      "date": "2026-10-05",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-bc2c513b6177",
+      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
+      "category": "Biotechnology",
+      "value": "37 °C",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03330-x",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-8644b2a34d60",
+      "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
+      "category": "Biotechnology",
+      "value": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03297-9",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-008",
+      "title": "AAV vector delivery efficiency",
+      "category": "Biotechnology",
+      "value": "91.7 %",
+      "source": "Spark Therapeutics",
+      "url": "https://sparktx.com",
+      "date": "2026-06-15",
+      "geolocation": {
+        "lat": 39.9526,
+        "lon": -75.1652
+      }
+    },
     {
       "id": "ev-ms-97fd7ce6fa08",
       "title": "Unified taxonomy for false discovery rate control in omics research",
@@ -351,84 +429,6 @@
       "geolocation": {
         "lat": 44.4268,
         "lon": -123.0764
-      }
-    },
-    {
-      "id": "ev-ms-b386b182f23d",
-      "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
-      "category": "Biotechnology",
-      "value": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03358-z",
-      "date": "2026-10-22",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-fd76df20d111",
-      "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
-      "category": "Biotechnology",
-      "value": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03315-w",
-      "date": "2026-10-05",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-bc2c513b6177",
-      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
-      "category": "Biotechnology",
-      "value": "37 °C",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03330-x",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-8644b2a34d60",
-      "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
-      "category": "Biotechnology",
-      "value": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03297-9",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-008",
-      "title": "AAV vector delivery efficiency",
-      "category": "Biotechnology",
-      "value": "91.7 %",
-      "source": "Spark Therapeutics",
-      "url": "https://sparktx.com",
-      "date": "2026-06-15",
-      "geolocation": {
-        "lat": 39.9526,
-        "lon": -75.1652
-      }
-    },
-    {
-      "id": "ev-ms-9cb8570cfb2b",
-      "title": "CD7-targeted AAV variant enables in vivo T/NK cell engineering",
-      "category": "Biotechnology",
-      "value": "CD7-targeted AAV variant enables in vivo T/NK cell engineering",
-      "source": "Springer Nature",
-      "url": "https://www.nature.com/articles/s41587-026-03344-5",
-      "date": "2026-11-16",
-      "geolocation": {
-        "lat": 51.5074,
-        "lon": -0.1278
       }
     },
     {
@@ -923,6 +923,19 @@
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ms-1d287a465cf5",
+      "title": "Google reveals threat actors using autonomous AI agents for exploit development",
+      "category": "Cybersecurity",
+      "value": "Google reveals threat actors using autonomous AI agents for exploit development",
+      "source": "Google",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "date": "2026-11-16",
+      "geolocation": {
+        "lat": 37.4219,
+        "lon": -122.084
       }
     },
     {
