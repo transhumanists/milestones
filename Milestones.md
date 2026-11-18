@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-17T15:58:34.060604Z · 145 active milestones across 8 categories*
+*Auto-generated: 2026-11-18T15:52:24.208939Z · 147 active milestones across 8 categories*
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## 2. Computing & AGI 🧠
 
-*Color: #448aff · Subcategories: 10*
+*Color: #448aff · Subcategories: 11*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
@@ -114,10 +114,12 @@
 | 44 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
 | 45 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | ZTF collaboration /  | 2026-06-30 |
 | 46 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
-| 47 | `frontier_models` | Seed2.0 achieves world-leading reasoning and compl  | — | ByteDance | 2026-06-30 |
-| 48 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
-| 49 | `benchmarks` | SEFORA Corpus and UniMatch Framework for LLM Writi  | **0.4** F1 score | Academic researchers | 2026-06-30 |
-| 50 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
+| 47 | `frontier_models` | Seed2.0 model series achieves world-leading reason  | — | ByteDance | 2026-06-30 |
+| 48 | `benchmarks` | New diagnostic benchmark reveals frontier LLMs str  | **6** PASS rate (out of 15) | Frontier LLM researc | 2026-06-30 |
+| 49 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
+| 50 | `benchmarks` | SEFORA Corpus and UniMatch Framework for LLM Writi  | **0.4** F1 score | Academic researchers | 2026-06-30 |
+| 51 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
+| 52 | `test_time_adaptation` | Multi-hypothesis TTA framework mitigates underspec 🆕 | — | Unknown | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
 
@@ -199,13 +201,13 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Astrophysics 📌
+## 8. Legal Technology 📌
 
 *Color: #aaaaaa · Subcategories: 1*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `cosmological_surveys` | DESI 20-Year Galaxy Survey Final Results Tension W 🆕 | — | DESI Collaboration | 2026-11-16 |
+| 1 | `legal_datasets` | ImmigrationReason: 12,375 U.S. Immigration Appeals 🆕 | **12375** decisions | USCIS Administrative | 2026-06-30 |
 
 ---
-*Last auto-generated: 2026-11-17T15:58:34.060604Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-18T15:52:24.208939Z · Pipeline: `transhumanists/apis`*

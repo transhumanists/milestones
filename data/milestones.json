@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-17T15:58:34.057326Z",
+  "last_update": "2026-11-18T15:52:24.203723Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -941,6 +941,7 @@
         "code_generation",
         "math_reasoning",
         "multimodal",
+        "test_time_adaptation",
         "low_resource_speech"
       ],
       "milestones": [
@@ -1805,8 +1806,8 @@
         },
         {
           "id": "ms-cede87aeb630",
-          "title": "Seed2.0 achieves world-leading reasoning and complex task performance",
-          "summary": "Seed2.0 model series demonstrates world-leading reasoning, visual understanding, and search capabilities, improving reliability on complex, long-horizon tasks.",
+          "title": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
+          "summary": "ByteDance releases Seed2.0 model series claiming world-leading reasoning intelligence, visual understanding, and search capabilities for complex real-world tasks.",
           "category": "Computing & AGI",
           "subcategory": "frontier_models",
           "value": null,
@@ -1820,6 +1821,25 @@
           "geolocation": {
             "lat": 39.9042,
             "lon": 116.4074
+          }
+        },
+        {
+          "id": "ms-cbb211a1be76",
+          "title": "New diagnostic benchmark reveals frontier LLMs struggle with counterfactual physics reasoning",
+          "summary": "A four-stage auditable diagnostic testing Claude Opus 4.7, GPT-5.5, and Gemini 3.1 Pro across three counterfactual physics worlds yields composite PASS rates of 6/15, 6/15, and 0/15, exposing a qualit",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 6,
+          "unit": "PASS rate (out of 15)",
+          "source": "Frontier LLM research consortium",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00276v1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -1874,6 +1894,25 @@
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-9ea269040f61",
+          "title": "Multi-hypothesis TTA framework mitigates underspecification via particle-based diversification",
+          "summary": "New particle-based multi-hypothesis framework solves underspecification in test-time adaptation by exploring diverse adaptation trajectories across output, parameter, optimizer, and input levels.",
+          "category": "Computing & AGI",
+          "subcategory": "test_time_adaptation",
+          "value": null,
+          "unit": null,
+          "source": "Unknown",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00259v1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -2756,31 +2795,31 @@
         }
       ]
     },
-    "Astrophysics": {
-      "name": "Astrophysics",
+    "Legal Technology": {
+      "name": "Legal Technology",
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
-        "cosmological_surveys"
+        "legal_datasets"
       ],
       "milestones": [
         {
-          "id": "ms-484ca8c5a046",
-          "title": "DESI 20-Year Galaxy Survey Final Results Tension With Standard Cosmology",
-          "summary": "The Dark Energy Spectroscopic Instrument (DESI) completes its 20-year galaxy survey, releasing final data that reveals tensions with the Lambda CDM standard model of cosmology.",
-          "category": "Astrophysics",
-          "subcategory": "cosmological_surveys",
-          "value": null,
-          "unit": null,
-          "source": "DESI Collaboration",
-          "date": "2026-11-16",
-          "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+          "id": "ms-2f80b2d582dc",
+          "title": "ImmigrationReason: 12,375 U.S. Immigration Appeals Dataset Released for Legal Reasoning Research",
+          "summary": "A new large-scale structured dataset of 12,375 non-precedent USCIS AAO decisions (2005-2026) with per-criterion evidence labels, adjudicator critiques, and citations enables legal reasoning research a",
+          "category": "Legal Technology",
+          "subcategory": "legal_datasets",
+          "value": 12375,
+          "unit": "decisions",
+          "source": "USCIS Administrative Appeals Office",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2608.20391v1",
           "is_record": true,
           "is_breakthrough": true,
           "is_new": true,
           "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
+            "lat": 38.8951,
+            "lon": -77.0364
           }
         }
       ]

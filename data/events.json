@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-17T15:58:34.057326Z",
+  "last_update": "2026-11-18T15:52:24.203723Z",
   "version": "2.0.0",
   "events": [
     {
@@ -641,9 +641,9 @@
     },
     {
       "id": "ev-ms-cede87aeb630",
-      "title": "Seed2.0 achieves world-leading reasoning and complex task performance",
+      "title": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
       "category": "Computing & AGI",
-      "value": "Seed2.0 achieves world-leading reasoning and complex task performance",
+      "value": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
       "source": "ByteDance",
       "url": "http://arxiv.org/abs/2607.00248v1",
       "date": "2026-06-30",
@@ -783,6 +783,45 @@
       }
     },
     {
+      "id": "ev-ms-1d287a465cf5",
+      "title": "Google reveals threat actors using autonomous AI agents for exploit development",
+      "category": "Cybersecurity",
+      "value": "Google reveals threat actors using autonomous AI agents for exploit development",
+      "source": "Google",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "date": "2026-11-16",
+      "geolocation": {
+        "lat": 37.4219,
+        "lon": -122.084
+      }
+    },
+    {
+      "id": "ev-ms-0bec3a1692d4",
+      "title": "Claude Code 'Don't Ask Again' Feature Exposes Secrets in 1,122 Public GitHub Repos",
+      "category": "Cybersecurity",
+      "value": "1122 public repositories",
+      "source": "Apiiro",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "date": "2026-11-07",
+      "geolocation": {
+        "lat": 32.0853,
+        "lon": 34.7818
+      }
+    },
+    {
+      "id": "ev-ms-5dbfeb047054",
+      "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
+      "category": "Cybersecurity",
+      "value": "18.2 million attacks",
+      "source": "Cloudflare",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "date": "2026-10-01",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-ms-20a3326da088",
       "title": "Anthropic launches free AI-powered vulnerability scanner for open-source projects",
       "category": "Cybersecurity",
@@ -897,45 +936,6 @@
       "geolocation": {
         "lat": 37.7749,
         "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-0bec3a1692d4",
-      "title": "Claude Code 'Don't Ask Again' Feature Exposes Secrets in 1,122 Public GitHub Repos",
-      "category": "Cybersecurity",
-      "value": "1122 public repositories",
-      "source": "Apiiro",
-      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "date": "2026-11-07",
-      "geolocation": {
-        "lat": 32.0853,
-        "lon": 34.7818
-      }
-    },
-    {
-      "id": "ev-ms-5dbfeb047054",
-      "title": "Cloudflare mitigates 18.2M network-layer DDoS attacks in Q3 2026",
-      "category": "Cybersecurity",
-      "value": "18.2 million attacks",
-      "source": "Cloudflare",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "date": "2026-10-01",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-1d287a465cf5",
-      "title": "Google reveals threat actors using autonomous AI agents for exploit development",
-      "category": "Cybersecurity",
-      "value": "Google reveals threat actors using autonomous AI agents for exploit development",
-      "source": "Google",
-      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "date": "2026-11-16",
-      "geolocation": {
-        "lat": 37.4219,
-        "lon": -122.084
       }
     },
     {
@@ -1092,6 +1092,19 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
+      }
+    },
+    {
+      "id": "ev-ms-2f80b2d582dc",
+      "title": "ImmigrationReason: 12,375 U.S. Immigration Appeals Dataset Released for Legal Reasoning Research",
+      "category": "Legal Technology",
+      "value": "12375 decisions",
+      "source": "USCIS Administrative Appeals Office",
+      "url": "http://arxiv.org/abs/2608.20391v1",
+      "date": "2026-06-30",
+      "geolocation": {
+        "lat": 38.8951,
+        "lon": -77.0364
       }
     }
   ]
