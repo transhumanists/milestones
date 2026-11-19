@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-18T15:52:24.203723Z",
+  "last_update": "2026-11-19T15:53:27.119216Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -941,10 +941,67 @@
         "code_generation",
         "math_reasoning",
         "multimodal",
-        "test_time_adaptation",
-        "low_resource_speech"
+        "low_resource_speech",
+        "test_time_adaptation"
       ],
       "milestones": [
+        {
+          "id": "ms-f75a40663d15",
+          "title": "MInfoVisQA multilingual benchmark for InfoVis QA with 8,960 QA pairs across 24 languages",
+          "summary": "New parallel benchmark MInfoVisQA introduces 8,960 QA configurations from 128 seed instances across 24 languages to evaluate multimodal LLM consistency on information-rich visuals.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 8960,
+          "unit": "QA configurations",
+          "source": "arXiv",
+          "date": "2026-11-19",
+          "url": "https://arxiv.org/abs/2611.21644",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-6cb170939780",
+          "title": "Limite 1B - Violetto achieves 94.01% on mathematical reasoning benchmark",
+          "summary": "A new 1-billion-parameter model trained on 237B tokens achieves 94.01% on mathematical reasoning tasks, demonstrating high-throughput reasoning with low training and inference costs.",
+          "category": "Computing & AGI",
+          "subcategory": "math_reasoning",
+          "value": 94.01,
+          "unit": "%",
+          "source": "Limite Research",
+          "date": "2026-11-19",
+          "url": "https://arxiv.org/abs/2611.21646",
+          "is_record": true,
+          "is_breakthrough": false,
+          "is_new": true,
+          "geolocation": {
+            "lat": 42.3601,
+            "lon": -71.0942
+          }
+        },
+        {
+          "id": "ms-d31b31c0c72b",
+          "title": "Token Commitment as Control Surface for Steering Masked Diffusion Generation",
+          "summary": "Researchers introduce counterfactual target-aware token commitment as a new control surface for steering masked diffusion models, separating commitment decisions into which tokens and how many to comm",
+          "category": "Computing & AGI",
+          "subcategory": "frontier_models",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-19",
+          "url": "https://arxiv.org/abs/2611.21669",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
         {
           "id": "ms-627f16e026c0",
           "title": "RSI-PDEbench: 1,001-case benchmark for self-improving PDE-solving agents",
@@ -1912,7 +1969,7 @@
           "url": "http://arxiv.org/abs/2607.00259v1",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -2792,35 +2849,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Legal Technology": {
-      "name": "Legal Technology",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "legal_datasets"
-      ],
-      "milestones": [
-        {
-          "id": "ms-2f80b2d582dc",
-          "title": "ImmigrationReason: 12,375 U.S. Immigration Appeals Dataset Released for Legal Reasoning Research",
-          "summary": "A new large-scale structured dataset of 12,375 non-precedent USCIS AAO decisions (2005-2026) with per-criterion evidence labels, adjudicator critiques, and citations enables legal reasoning research a",
-          "category": "Legal Technology",
-          "subcategory": "legal_datasets",
-          "value": 12375,
-          "unit": "decisions",
-          "source": "USCIS Administrative Appeals Office",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2608.20391v1",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 38.8951,
-            "lon": -77.0364
-          }
         }
       ]
     }

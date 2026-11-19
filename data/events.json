@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-18T15:52:24.203723Z",
+  "last_update": "2026-11-19T15:53:27.119216Z",
   "version": "2.0.0",
   "events": [
     {
@@ -562,6 +562,19 @@
       }
     },
     {
+      "id": "ev-ms-6cb170939780",
+      "title": "Limite 1B - Violetto achieves 94.01% on mathematical reasoning benchmark",
+      "category": "Computing & AGI",
+      "value": "94.01 %",
+      "source": "Limite Research",
+      "url": "https://arxiv.org/abs/2611.21646",
+      "date": "2026-11-19",
+      "geolocation": {
+        "lat": 42.3601,
+        "lon": -71.0942
+      }
+    },
+    {
       "id": "ev-ms-fc6083e0cc69",
       "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time ZTF transient classification",
       "category": "Computing & AGI",
@@ -1092,19 +1105,6 @@
       "geolocation": {
         "lat": 36.8508,
         "lon": -76.2995
-      }
-    },
-    {
-      "id": "ev-ms-2f80b2d582dc",
-      "title": "ImmigrationReason: 12,375 U.S. Immigration Appeals Dataset Released for Legal Reasoning Research",
-      "category": "Legal Technology",
-      "value": "12375 decisions",
-      "source": "USCIS Administrative Appeals Office",
-      "url": "http://arxiv.org/abs/2608.20391v1",
-      "date": "2026-06-30",
-      "geolocation": {
-        "lat": 38.8951,
-        "lon": -77.0364
       }
     }
   ]
