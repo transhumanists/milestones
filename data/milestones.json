@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-19T15:53:27.119216Z",
+  "last_update": "2026-11-20T15:29:50.282363Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -17,6 +17,7 @@
         "gene_therapy",
         "immunotherapy",
         "biosensors",
+        "immune_brain_profiling",
         "fdr_control",
         "transcriptome_recording",
         "single_cell_multiomics",
@@ -25,22 +26,41 @@
       ],
       "milestones": [
         {
+          "id": "ms-3797820e6e1d",
+          "title": "RhoAgent enables programmable functional RNA design via virtual scientist",
+          "summary": "RhoAgent, a virtual scientist, designs functional RNA molecules by constraining secondary structure, base interactions, and functional motifs.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-11-19",
+          "url": "https://www.nature.com/articles/s41587-026-03362-3",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
           "id": "ms-9cb8570cfb2b",
-          "title": "CD7-targeted AAV variant enables in vivo T/NK cell engineering",
-          "summary": "A novel CD7-targeted AAV vector allows efficient in vivo engineering of T and NK cells, advancing gene therapy for immunotherapy.",
+          "title": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
+          "summary": "Researchers developed an AAV variant targeting CD7 that achieves efficient genetic engineering of T and NK cells directly in vivo, advancing adoptive cell therapy.",
           "category": "Biotechnology",
           "subcategory": "gene_therapy",
           "value": null,
           "unit": null,
-          "source": "Springer Nature",
+          "source": "Nature Biotechnology",
           "date": "2026-11-16",
           "url": "https://www.nature.com/articles/s41587-026-03344-5",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 51.5074,
-            "lon": -0.1278
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -79,6 +99,25 @@
           "geolocation": {
             "lat": 32.0603,
             "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-c66ebeeb0eb7",
+          "title": "UK Biobank adds immune and brain health data layers",
+          "summary": "UK Biobank expands its biomedical database with immune system and brain health profiling data for 500,000 participants, enabling large-scale studies of immunity and neurodegeneration.",
+          "category": "Biotechnology",
+          "subcategory": "immune_brain_profiling",
+          "value": null,
+          "unit": null,
+          "source": "UK Biobank",
+          "date": "2026-11-10",
+          "url": "https://www.nature.com/articles/s41587-026-03388-7",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -977,7 +1016,7 @@
           "url": "https://arxiv.org/abs/2611.21646",
           "is_record": true,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 42.3601,
             "lon": -71.0942
@@ -1243,6 +1282,25 @@
           "url": "https://arxiv.org/abs/2611.07541",
           "is_record": true,
           "is_breakthrough": false,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-f815f13bfa37",
+          "title": "HireWatch benchmark evaluates LLM compliance with U.S. employment law",
+          "summary": "Researchers introduce HireWatch, a 200-question benchmark to test whether LLMs comply with U.S. federal employment law when selecting interview questions.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 200,
+          "unit": "questions",
+          "source": "arXiv",
+          "date": "2026-11-01",
+          "url": "https://arxiv.org/abs/2611.24970",
+          "is_record": false,
+          "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
             "lat": 0.0,
@@ -2849,6 +2907,35 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Computational Humanities": {
+      "name": "Computational Humanities",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "historical_text_analysis"
+      ],
+      "milestones": [
+        {
+          "id": "ms-0339dd2da606",
+          "title": "Computational framework quantifies cultural psychology in 4 centuries of Ottoman court records",
+          "summary": "Researchers introduce a sentence-embedding framework adapted to Ottoman Turkish to quantify cultural-psychological constructs across 54,670 court records from 1513-1911 CE.",
+          "category": "Computational Humanities",
+          "subcategory": "historical_text_analysis",
+          "value": 54670,
+          "unit": "records",
+          "source": "arXiv",
+          "date": "2026-11-20",
+          "url": "https://arxiv.org/abs/2611.24981",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         }
       ]
     }

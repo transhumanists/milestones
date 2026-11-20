@@ -1,18 +1,18 @@
 {
-  "last_update": "2026-11-19T15:53:27.119216Z",
+  "last_update": "2026-11-20T15:29:50.282363Z",
   "version": "2.0.0",
   "events": [
     {
       "id": "ev-ms-9cb8570cfb2b",
-      "title": "CD7-targeted AAV variant enables in vivo T/NK cell engineering",
+      "title": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
       "category": "Biotechnology",
-      "value": "CD7-targeted AAV variant enables in vivo T/NK cell engineering",
-      "source": "Springer Nature",
+      "value": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
+      "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03344-5",
       "date": "2026-11-16",
       "geolocation": {
-        "lat": 51.5074,
-        "lon": -0.1278
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -208,6 +208,19 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
+      }
+    },
+    {
+      "id": "ev-ms-3797820e6e1d",
+      "title": "RhoAgent enables programmable functional RNA design via virtual scientist",
+      "category": "Biotechnology",
+      "value": "RhoAgent enables programmable functional RNA design via virtual scientist",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03362-3",
+      "date": "2026-11-19",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -575,6 +588,45 @@
       }
     },
     {
+      "id": "ev-ai-001",
+      "title": "MMLU benchmark",
+      "category": "Computing & AGI",
+      "value": "94.7 %",
+      "source": "OpenAI GPT-6",
+      "url": "https://openai.com",
+      "date": "2026-08-19",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ai-003",
+      "title": "Training compute (FLOP)",
+      "category": "Computing & AGI",
+      "value": "2.4e+25 FLOP",
+      "source": "Google Gemini-Ultra",
+      "url": "https://deepmind.google",
+      "date": "2026-08-01",
+      "geolocation": {
+        "lat": 37.4219,
+        "lon": -122.084
+      }
+    },
+    {
+      "id": "ev-ms-cede87aeb630",
+      "title": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
+      "category": "Computing & AGI",
+      "value": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
+      "source": "ByteDance",
+      "url": "http://arxiv.org/abs/2607.00248v1",
+      "date": "2026-06-30",
+      "geolocation": {
+        "lat": 39.9042,
+        "lon": 116.4074
+      }
+    },
+    {
       "id": "ev-ms-fc6083e0cc69",
       "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time ZTF transient classification",
       "category": "Computing & AGI",
@@ -624,45 +676,6 @@
       "geolocation": {
         "lat": 37.3688,
         "lon": -122.0363
-      }
-    },
-    {
-      "id": "ev-ai-001",
-      "title": "MMLU benchmark",
-      "category": "Computing & AGI",
-      "value": "94.7 %",
-      "source": "OpenAI GPT-6",
-      "url": "https://openai.com",
-      "date": "2026-08-19",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ai-003",
-      "title": "Training compute (FLOP)",
-      "category": "Computing & AGI",
-      "value": "2.4e+25 FLOP",
-      "source": "Google Gemini-Ultra",
-      "url": "https://deepmind.google",
-      "date": "2026-08-01",
-      "geolocation": {
-        "lat": 37.4219,
-        "lon": -122.084
-      }
-    },
-    {
-      "id": "ev-ms-cede87aeb630",
-      "title": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
-      "category": "Computing & AGI",
-      "value": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
-      "source": "ByteDance",
-      "url": "http://arxiv.org/abs/2607.00248v1",
-      "date": "2026-06-30",
-      "geolocation": {
-        "lat": 39.9042,
-        "lon": 116.4074
       }
     },
     {
