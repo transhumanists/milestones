@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-20T15:29:50.282363Z",
+  "last_update": "2026-11-21T14:39:51.216421Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -17,8 +17,8 @@
         "gene_therapy",
         "immunotherapy",
         "biosensors",
-        "immune_brain_profiling",
         "fdr_control",
+        "immune_brain_profiling",
         "transcriptome_recording",
         "single_cell_multiomics",
         "structural_variant_detection",
@@ -114,7 +114,7 @@
           "url": "https://www.nature.com/articles/s41587-026-03388-7",
           "is_record": false,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -216,25 +216,6 @@
           }
         },
         {
-          "id": "ms-b386b182f23d",
-          "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
-          "summary": "ALTER uses human Argonaute 2 for programmable RNA editing, eliminating bacterial protein immunogenicity risks and outperforming dCas13 editors.",
-          "category": "Biotechnology",
-          "subcategory": "gene_therapy",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-10-22",
-          "url": "https://www.nature.com/articles/s41587-026-03358-z",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-86fcffddff3c",
           "title": "Recordanelles enable multi-day recording of transient gene expression in single human cells",
           "summary": "Synthetic organelles called recordanelles can capture transient RNA changes in single human cells over several days with single-cell sensitivity.",
@@ -251,6 +232,25 @@
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-b386b182f23d",
+          "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+          "summary": "ALTER uses human Argonaute 2 for programmable RNA editing, eliminating bacterial protein immunogenicity risks and outperforming dCas13 editors.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-10-22",
+          "url": "https://www.nature.com/articles/s41587-026-03358-z",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -634,25 +634,6 @@
           }
         },
         {
-          "id": "ms-8644b2a34d60",
-          "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
-          "summary": "New ionizable lipid LC-1 improves endosomal escape and enables efficient genome editing in liver, lung, and brain of mice for large mRNA cargo.",
-          "category": "Biotechnology",
-          "subcategory": "gene_therapy",
-          "value": null,
-          "unit": null,
-          "source": "Nature Biotechnology",
-          "date": "2026-09-28",
-          "url": "https://www.nature.com/articles/s41587-026-03297-9",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
-          }
-        },
-        {
           "id": "ms-f725a993460b",
           "title": "AI-accelerated discovery of thermostable mRNA–LNP vaccines",
           "summary": "Data-efficient AI enables rapid identification of thermostable mRNA–lipid nanoparticle vaccine formulations, advancing vaccine stability and deployment.",
@@ -663,6 +644,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-09-28",
           "url": "https://www.nature.com/articles/s41587-026-03331-w",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-8644b2a34d60",
+          "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
+          "summary": "New ionizable lipid LC-1 improves endosomal escape and enables efficient genome editing in liver, lung, and brain of mice for large mRNA cargo.",
+          "category": "Biotechnology",
+          "subcategory": "gene_therapy",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-09-28",
+          "url": "https://www.nature.com/articles/s41587-026-03297-9",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1248,6 +1248,25 @@
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-0733cf9e88aa",
+          "title": "Google releases Gemini Omni 1.2 Flash with faster, cheaper multimodal processing",
+          "summary": "Google launches Gemini Omni 1.2 Flash, a faster and more cost-effective multimodal model supporting longer video and image inputs.",
+          "category": "Computing & AGI",
+          "subcategory": "multimodal",
+          "value": null,
+          "unit": null,
+          "source": "Google",
+          "date": "2026-11-05",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": false,
+          "geolocation": {
+            "lat": 37.4219,
+            "lon": -122.084
           }
         },
         {
@@ -2531,6 +2550,25 @@
           }
         },
         {
+          "id": "ms-6b02e4db40e2",
+          "title": "Widespread PHP Vulnerability Affects 70% of Websites With Active Exploits",
+          "summary": "A critical PHP vulnerability affecting nearly 70% of websites is being actively exploited in the wild, allowing full server takeover.",
+          "category": "Cybersecurity",
+          "subcategory": "exploits",
+          "value": 70,
+          "unit": "percent",
+          "source": "Security Researchers",
+          "date": "2026-10-21",
+          "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+          "is_record": false,
+          "is_breakthrough": false,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-95bcb6fd31f6",
           "title": "ROMULUS ClickFix Platform Discovered Delivering LegionLoader Malware",
           "summary": "Researchers uncovered ROMULUS, a new ClickFix-based malware delivery platform distributing LegionLoader and other payloads via deceptive landing pages.",
@@ -2570,8 +2608,8 @@
         },
         {
           "id": "ms-ad4fd193955d",
-          "title": "Microsoft patches record 1,400+ vulnerabilities in single month",
-          "summary": "Microsoft released updates fixing over 1,400 security flaws, surpassing the previous monthly record of nearly 1,000 patches set in September.",
+          "title": "Microsoft Patches Over 1,400 Security Flaws in Record Monthly Update",
+          "summary": "Microsoft released a record-breaking patch batch fixing over 1,400 security vulnerabilities, surpassing the previous monthly record of nearly 1,000.",
           "category": "Cybersecurity",
           "subcategory": "mitigations",
           "value": 1400,
@@ -2581,7 +2619,7 @@
           "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
           "is_record": true,
           "is_breakthrough": false,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -2910,26 +2948,55 @@
         }
       ]
     },
-    "Computational Humanities": {
-      "name": "Computational Humanities",
+    "Network Science": {
+      "name": "Network Science",
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
-        "historical_text_analysis"
+        "routing_resilience"
       ],
       "milestones": [
         {
-          "id": "ms-0339dd2da606",
-          "title": "Computational framework quantifies cultural psychology in 4 centuries of Ottoman court records",
-          "summary": "Researchers introduce a sentence-embedding framework adapted to Ottoman Turkish to quantify cultural-psychological constructs across 54,670 court records from 1513-1911 CE.",
-          "category": "Computational Humanities",
-          "subcategory": "historical_text_analysis",
-          "value": 54670,
-          "unit": "records",
-          "source": "arXiv",
+          "id": "ms-dc7318240583",
+          "title": "Theory of perfect network resilience established via four forbidden substructures",
+          "summary": "Computer scientists have proven that exactly four minimal network structures cause routing loops during link failures, providing a complete characterization of perfectly resilient networks.",
+          "category": "Network Science",
+          "subcategory": "routing_resilience",
+          "value": null,
+          "unit": null,
+          "source": "Quanta Magazine (reporting on academic research)",
           "date": "2026-11-20",
-          "url": "https://arxiv.org/abs/2611.24981",
-          "is_record": true,
+          "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        }
+      ]
+    },
+    "Cosmology": {
+      "name": "Cosmology",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "galaxy_survey"
+      ],
+      "milestones": [
+        {
+          "id": "ms-acd6be1ba755",
+          "title": "DESI Galaxy Survey Final Results Challenge Standard Cosmological Model",
+          "summary": "The DESI collaboration's 20-year galaxy survey final results show discrepancies with the Lambda CDM model, hinting at new physics.",
+          "category": "Cosmology",
+          "subcategory": "galaxy_survey",
+          "value": null,
+          "unit": null,
+          "source": "DESI Collaboration",
+          "date": "2026-11-16",
+          "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+          "is_record": false,
           "is_breakthrough": true,
           "is_new": true,
           "geolocation": {

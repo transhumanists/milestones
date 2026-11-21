@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-20T15:29:50.286511Z · 153 active milestones across 8 categories*
+*Auto-generated: 2026-11-21T14:39:51.221405Z · 156 active milestones across 9 categories*
 
 ---
 
@@ -16,14 +16,14 @@
 | 2 | `gene_therapy` | CD7-targeted AAV variant enables efficient in vivo  | — | Nature Biotechnology | 2026-11-16 |
 | 3 | `fdr_control` | Unified taxonomy for false discovery rate control   | — | Nature Biotechnology | 2026-11-13 |
 | 4 | `synthetic_biology` | De novo design of proteases  | — | Nature Biotechnology | 2026-11-10 |
-| 5 | `immune_brain_profiling` | UK Biobank adds immune and brain health data layer 🆕 | — | UK Biobank | 2026-11-10 |
+| 5 | `immune_brain_profiling` | UK Biobank adds immune and brain health data layer  | — | UK Biobank | 2026-11-10 |
 | 6 | `gene_editing` | Cas12a combinatorial knockout screens map DNA dama  | — | Nature Biotechnology | 2026-11-06 |
 | 7 | `neuroscience` | BrainBind: Synchronized EEG-fMRI Decoding for Natu  | — | arXiv | 2026-11-05 |
 | 8 | `gene_editing` | Engineered compact Cas12m variant enables multiple  | — | Nature Biotechnology | 2026-10-28 |
 | 9 | `immunotherapy` | mRNA vaccine protects dairy cows from H5N1 influen  | — | Nature Biotechnology | 2026-10-28 |
 | 10 | `microscopy` | Malaria Parasite Invasion Mechanism Visualized at   | — | Quanta Magazine | 2026-10-23 |
-| 11 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
-| 12 | `synthetic_biology` | Recordanelles enable multi-day recording of transi  | — | Research team (affil | 2026-10-22 |
+| 11 | `synthetic_biology` | Recordanelles enable multi-day recording of transi  | — | Research team (affil | 2026-10-22 |
+| 12 | `gene_therapy` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
 | 13 | `gene_editing` | Human AGO2-based programmable RNA editor ALTER avo  | — | Nature Biotechnology | 2026-10-22 |
 | 14 | `synthetic_biology` | Recordanelles enable continuous transcriptome reco  | — | Nature Biotechnology | 2026-10-21 |
 | 15 | `transcriptome_recording` | Recordanelles enable continuous transcriptome-wide  | — | Not specified | 2026-10-21 |
@@ -44,8 +44,8 @@
 | 30 | `ml_perturbation` | Deep learning perturbation models outperform basel  | — | Nature Biotechnology | 2026-10-01 |
 | 31 | `gene_therapy` | AI-guided optimization yields thermostable mRNA va  | **37** °C | Nature Biotechnology | 2026-09-28 |
 | 32 | `synthetic_biology` | AI-guided optimization yields thermostable mRNA va  | **2** months | Nature Biotechnology | 2026-09-28 |
-| 33 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
-| 34 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 33 | `synthetic_biology` | AI-accelerated discovery of thermostable mRNA–LNP   | — | Nature Biotechnology | 2026-09-28 |
+| 34 | `gene_therapy` | LC-1 lipid nanoparticle enables efficient delivery  | — | Nature Biotechnology | 2026-09-28 |
 | 35 | `gene_editing` | Lipid nanoparticles optimized for large RNA cargo   | — | Nature Biotechnology | 2026-09-28 |
 | 36 | `microscopy` | Photolabile oligonucleotides enable spatially reso  | — | Nature Biotechnology | 2026-09-25 |
 | 37 | `neuroscience` | Alkermes reports pioneering ADHD data for orexin a  | — | Alkermes | 2026-09-22 |
@@ -84,48 +84,49 @@
 | 12 | `inference_cost` | FlashOffloading: Low-Latency KV Cache Offloading f  | — | arXiv preprint | 2026-11-06 |
 | 13 | `agentic_ai` | Generate-then-Rank: Symbolic Goal Interpretation f  | — | arXiv | 2026-11-06 |
 | 14 | `benchmarks` | PAYWORTHY benchmark evaluates LLM predictions of A  | **1494** jobs | arXiv | 2026-11-05 |
-| 15 | `agentic_ai` | Novel Method Tests AI Introspection by Injecting T  | — | Quanta Magazine | 2026-11-04 |
-| 16 | `benchmarks` | CST-Bench: New benchmark for counterfactual spatia  | **7082** examples | arXiv | 2026-11-01 |
-| 17 | `benchmarks` | HireWatch benchmark evaluates LLM compliance with   | **200** questions | arXiv | 2026-11-01 |
-| 18 | `benchmarks` | Grammar-lens benchmark reveals incremental reasoni  | **52** percent | arXiv authors | 2026-11-01 |
-| 19 | `benchmarks` | First 1B-parameter monolingual Icelandic encoder t  | **1000000000** parameters | University of Icelan | 2026-10-28 |
-| 20 | `multimodal` | Omni-Woodpecker: Training-Free Hallucination Corre  | — | arXiv | 2026-10-21 |
-| 21 | `benchmarks` | ReuF2F: New Benchmark for Coding Agents on Formali  | — | arXiv | 2026-10-21 |
-| 22 | `math_reasoning` | AI proves Quasi-Riemann Hypothesis  | — | Quanta Magazine | 2026-10-19 |
-| 23 | `benchmarks` | RealCLI: Unified Benchmark for Human-Agent CLI Col  | — | arXiv | 2026-10-19 |
-| 24 | `agentic_ai` | Self-Evolving Coding Agents via Harness-Policy Opt  | — | arXiv | 2026-10-19 |
-| 25 | `benchmarks` | EmbodiedCLBench: First benchmark for continual lea  | — | arXiv | 2026-10-13 |
-| 26 | `multimodal` | Few-shot multimodal representation alignment via d  | — | arXiv | 2026-10-13 |
-| 27 | `agentic_ai` | CLEAT: Value-Guided Clarification for Interactive   | — | arXiv | 2026-10-13 |
-| 28 | `inference_cost` | Persistent KV cache enables 50M-token context wind  | **50000000** tokens | arXiv (galahad-kv au | 2026-10-09 |
-| 29 | `inference_cost` | Prefill-Only Decision Models Reduce Inference Cost  | **100** x | arXiv | 2026-10-07 |
-| 30 | `gpu_efficiency` | Format-aware fusion enables fast FP4 pretraining a  | **160** billion tokens | arXiv | 2026-10-03 |
-| 31 | `low_resource_speech` | TutlAit v1: first crowdsourced Moroccan Tamazight   | — | arXiv | 2026-10-02 |
-| 32 | `benchmarks` | BACKDROP benchmark evaluates agent robustness unde  | — | arXiv | 2026-10-02 |
-| 33 | `benchmarks` | Tampered ML benchmark introduced for evaluating LL  | **1858** item-pairs | arXiv | 2026-10-01 |
-| 34 | `benchmarks` | Forecast-Dojo: Replayable Benchmark for LLM Foreca  | **1568** events | arXiv preprint | 2026-09-25 |
-| 35 | `benchmarks` | New evaluation protocol detects sequential reappea  | — | arXiv (Cornell Unive | 2026-09-23 |
-| 36 | `agentic_ai` | STAM: State-Transition-Aware Memory for Clinical L  | — | arXiv | 2026-09-01 |
-| 37 | `frontier_models` | MMLU benchmark  | **94.7** % | OpenAI GPT-6 | 2026-08-19 |
-| 38 | `agentic_ai` | HumanEval pass@1  | **98.4** % | Anthropic Claude-4 | 2026-08-15 |
-| 39 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
-| 40 | `agentic_ai` | CrystalMem: Elastic Memory for Self-Evolving LLM A  | **50** % | CrystalMem Research  | 2026-07-31 |
-| 41 | `gpu_efficiency` | Training TFLOPS/W  | **2.1** TFLOPS/W | NVIDIA GB300 | 2026-07-28 |
-| 42 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
-| 43 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium | 2026-06-30 |
-| 44 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
-| 45 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE research team | 2026-06-30 |
-| 46 | `inference_cost` | Neurosymbolic Layer Cuts LLM Token Usage 50% and B  | **50** percent token reduction | Research Team | 2026-06-30 |
-| 47 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
-| 48 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
-| 49 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | ZTF collaboration /  | 2026-06-30 |
-| 50 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
-| 51 | `frontier_models` | Seed2.0 model series achieves world-leading reason  | — | ByteDance | 2026-06-30 |
-| 52 | `benchmarks` | New diagnostic benchmark reveals frontier LLMs str  | **6** PASS rate (out of 15) | Frontier LLM researc | 2026-06-30 |
-| 53 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
-| 54 | `benchmarks` | SEFORA Corpus and UniMatch Framework for LLM Writi  | **0.4** F1 score | Academic researchers | 2026-06-30 |
-| 55 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
-| 56 | `test_time_adaptation` | Multi-hypothesis TTA framework mitigates underspec  | — | Unknown | 2026-06-30 |
+| 15 | `multimodal` | Google releases Gemini Omni 1.2 Flash with faster,  | — | Google | 2026-11-05 |
+| 16 | `agentic_ai` | Novel Method Tests AI Introspection by Injecting T  | — | Quanta Magazine | 2026-11-04 |
+| 17 | `benchmarks` | CST-Bench: New benchmark for counterfactual spatia  | **7082** examples | arXiv | 2026-11-01 |
+| 18 | `benchmarks` | HireWatch benchmark evaluates LLM compliance with   | **200** questions | arXiv | 2026-11-01 |
+| 19 | `benchmarks` | Grammar-lens benchmark reveals incremental reasoni  | **52** percent | arXiv authors | 2026-11-01 |
+| 20 | `benchmarks` | First 1B-parameter monolingual Icelandic encoder t  | **1000000000** parameters | University of Icelan | 2026-10-28 |
+| 21 | `multimodal` | Omni-Woodpecker: Training-Free Hallucination Corre  | — | arXiv | 2026-10-21 |
+| 22 | `benchmarks` | ReuF2F: New Benchmark for Coding Agents on Formali  | — | arXiv | 2026-10-21 |
+| 23 | `math_reasoning` | AI proves Quasi-Riemann Hypothesis  | — | Quanta Magazine | 2026-10-19 |
+| 24 | `benchmarks` | RealCLI: Unified Benchmark for Human-Agent CLI Col  | — | arXiv | 2026-10-19 |
+| 25 | `agentic_ai` | Self-Evolving Coding Agents via Harness-Policy Opt  | — | arXiv | 2026-10-19 |
+| 26 | `benchmarks` | EmbodiedCLBench: First benchmark for continual lea  | — | arXiv | 2026-10-13 |
+| 27 | `multimodal` | Few-shot multimodal representation alignment via d  | — | arXiv | 2026-10-13 |
+| 28 | `agentic_ai` | CLEAT: Value-Guided Clarification for Interactive   | — | arXiv | 2026-10-13 |
+| 29 | `inference_cost` | Persistent KV cache enables 50M-token context wind  | **50000000** tokens | arXiv (galahad-kv au | 2026-10-09 |
+| 30 | `inference_cost` | Prefill-Only Decision Models Reduce Inference Cost  | **100** x | arXiv | 2026-10-07 |
+| 31 | `gpu_efficiency` | Format-aware fusion enables fast FP4 pretraining a  | **160** billion tokens | arXiv | 2026-10-03 |
+| 32 | `low_resource_speech` | TutlAit v1: first crowdsourced Moroccan Tamazight   | — | arXiv | 2026-10-02 |
+| 33 | `benchmarks` | BACKDROP benchmark evaluates agent robustness unde  | — | arXiv | 2026-10-02 |
+| 34 | `benchmarks` | Tampered ML benchmark introduced for evaluating LL  | **1858** item-pairs | arXiv | 2026-10-01 |
+| 35 | `benchmarks` | Forecast-Dojo: Replayable Benchmark for LLM Foreca  | **1568** events | arXiv preprint | 2026-09-25 |
+| 36 | `benchmarks` | New evaluation protocol detects sequential reappea  | — | arXiv (Cornell Unive | 2026-09-23 |
+| 37 | `agentic_ai` | STAM: State-Transition-Aware Memory for Clinical L  | — | arXiv | 2026-09-01 |
+| 38 | `frontier_models` | MMLU benchmark  | **94.7** % | OpenAI GPT-6 | 2026-08-19 |
+| 39 | `agentic_ai` | HumanEval pass@1  | **98.4** % | Anthropic Claude-4 | 2026-08-15 |
+| 40 | `frontier_models` | Training compute (FLOP)  | **2.4e+25** FLOP | Google Gemini-Ultra | 2026-08-01 |
+| 41 | `agentic_ai` | CrystalMem: Elastic Memory for Self-Evolving LLM A  | **50** % | CrystalMem Research  | 2026-07-31 |
+| 42 | `gpu_efficiency` | Training TFLOPS/W  | **2.1** TFLOPS/W | NVIDIA GB300 | 2026-07-28 |
+| 43 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
+| 44 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium | 2026-06-30 |
+| 45 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
+| 46 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE research team | 2026-06-30 |
+| 47 | `inference_cost` | Neurosymbolic Layer Cuts LLM Token Usage 50% and B  | **50** percent token reduction | Research Team | 2026-06-30 |
+| 48 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
+| 49 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
+| 50 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | ZTF collaboration /  | 2026-06-30 |
+| 51 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
+| 52 | `frontier_models` | Seed2.0 model series achieves world-leading reason  | — | ByteDance | 2026-06-30 |
+| 53 | `benchmarks` | New diagnostic benchmark reveals frontier LLMs str  | **6** PASS rate (out of 15) | Frontier LLM researc | 2026-06-30 |
+| 54 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
+| 55 | `benchmarks` | SEFORA Corpus and UniMatch Framework for LLM Writi  | **0.4** F1 score | Academic researchers | 2026-06-30 |
+| 56 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
+| 57 | `test_time_adaptation` | Multi-hypothesis TTA framework mitigates underspec  | — | Unknown | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
 
@@ -172,17 +173,18 @@
 | 11 | `exploits` | FBI attributes record $6.43B crypto heist to North  | **6.43** billion USD | FBI | 2026-11-01 |
 | 12 | `defense_scores` | Google Gemini 4 Carbon achieves 88.2% on SEC-bench  | **88.2** % | Google | 2026-10-29 |
 | 13 | `supply_chain` | GitHub launches npm Firewall to block malicious pa  | — | GitHub | 2026-10-29 |
-| 14 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
-| 15 | `exploits` | Hirudo Android Trojan Uses Patched Banking Apps to  | — | ThreatFabric | 2026-10-14 |
-| 16 | `mitigations` | Microsoft patches record 1,400+ vulnerabilities in  | **1400** vulnerabilities | Microsoft | 2026-10-13 |
-| 17 | `mitigations` | Anthropic launches free AI-powered vulnerability s  | — | Anthropic | 2026-10-09 |
-| 18 | `exploits` | P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Th  | — | iVerify | 2026-10-09 |
-| 19 | `threat_intelligence` | Cloudflare mitigates 18.2M network-layer DDoS atta  | **18.2** million attacks | Cloudflare | 2026-10-01 |
-| 20 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo  | **8.8** CVSS | Security researchers | 2026-09-26 |
-| 21 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
-| 22 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
-| 23 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
-| 24 | `exploits` | Linux Kernel TCP Vulnerability CVE-2026-98432 Scor  | **9.8** CVSS | Linux Kernel CVE Tea | 2024-10-27 |
+| 14 | `exploits` | Widespread PHP Vulnerability Affects 70% of Websit  | **70** percent | Security Researchers | 2026-10-21 |
+| 15 | `threat_intelligence` | ROMULUS ClickFix Platform Discovered Delivering Le  | — | Forescout Research - | 2026-10-20 |
+| 16 | `exploits` | Hirudo Android Trojan Uses Patched Banking Apps to  | — | ThreatFabric | 2026-10-14 |
+| 17 | `mitigations` | Microsoft Patches Over 1,400 Security Flaws in Rec 🆕 | **1400** vulnerabilities | Microsoft | 2026-10-13 |
+| 18 | `mitigations` | Anthropic launches free AI-powered vulnerability s  | — | Anthropic | 2026-10-09 |
+| 19 | `exploits` | P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Th  | — | iVerify | 2026-10-09 |
+| 20 | `threat_intelligence` | Cloudflare mitigates 18.2M network-layer DDoS atta  | **18.2** million attacks | Cloudflare | 2026-10-01 |
+| 21 | `exploits` | Elementor WordPress Plugin CSRF Vulnerability Allo  | **8.8** CVSS | Security researchers | 2026-09-26 |
+| 22 | `exploits` | Highest active CVSS score (0day)  | **10.0** CRITICAL | NVD / CISA | 2026-08-24 |
+| 23 | `encryption` | Post-quantum TLS deployment (Top 100)  | **34** % | Google Transparency | 2026-08-15 |
+| 24 | `encryption` | NIST PQC standard (CRYSTALS-Kyber)  | **256** bit security | NIST | 2026-06-01 |
+| 25 | `exploits` | Linux Kernel TCP Vulnerability CVE-2026-98432 Scor  | **9.8** CVSS | Linux Kernel CVE Tea | 2024-10-27 |
 
 ## 6. Spaceflight & Aeronautics 🚀
 
@@ -207,13 +209,21 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Computational Humanities 📌
+## 8. Network Science 📌
 
 *Color: #aaaaaa · Subcategories: 1*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `historical_text_analysis` | Computational framework quantifies cultural psycho 🆕 | **54670** records | arXiv | 2026-11-20 |
+| 1 | `routing_resilience` | Theory of perfect network resilience established v 🆕 | — | Quanta Magazine (rep | 2026-11-20 |
+
+## 9. Cosmology 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `galaxy_survey` | DESI Galaxy Survey Final Results Challenge Standar 🆕 | — | DESI Collaboration | 2026-11-16 |
 
 ---
-*Last auto-generated: 2026-11-20T15:29:50.286511Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-21T14:39:51.221405Z · Pipeline: `transhumanists/apis`*

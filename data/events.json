@@ -1,93 +1,15 @@
 {
-  "last_update": "2026-11-20T15:29:50.282363Z",
+  "last_update": "2026-11-21T14:39:51.216421Z",
   "version": "2.0.0",
   "events": [
     {
-      "id": "ev-ms-9cb8570cfb2b",
-      "title": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
+      "id": "ev-ms-3797820e6e1d",
+      "title": "RhoAgent enables programmable functional RNA design via virtual scientist",
       "category": "Biotechnology",
-      "value": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
+      "value": "RhoAgent enables programmable functional RNA design via virtual scientist",
       "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03344-5",
-      "date": "2026-11-16",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-b386b182f23d",
-      "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
-      "category": "Biotechnology",
-      "value": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03358-z",
-      "date": "2026-10-22",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-fd76df20d111",
-      "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
-      "category": "Biotechnology",
-      "value": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03315-w",
-      "date": "2026-10-05",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-bc2c513b6177",
-      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
-      "category": "Biotechnology",
-      "value": "37 °C",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03330-x",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-8644b2a34d60",
-      "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
-      "category": "Biotechnology",
-      "value": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03297-9",
-      "date": "2026-09-28",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-bio-008",
-      "title": "AAV vector delivery efficiency",
-      "category": "Biotechnology",
-      "value": "91.7 %",
-      "source": "Spark Therapeutics",
-      "url": "https://sparktx.com",
-      "date": "2026-06-15",
-      "geolocation": {
-        "lat": 39.9526,
-        "lon": -75.1652
-      }
-    },
-    {
-      "id": "ev-ms-97fd7ce6fa08",
-      "title": "Unified taxonomy for false discovery rate control in omics research",
-      "category": "Biotechnology",
-      "value": "Unified taxonomy for false discovery rate control in omics research",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03379-8",
-      "date": "2026-11-13",
+      "url": "https://www.nature.com/articles/s41587-026-03362-3",
+      "date": "2026-11-19",
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
@@ -211,13 +133,91 @@
       }
     },
     {
-      "id": "ev-ms-3797820e6e1d",
-      "title": "RhoAgent enables programmable functional RNA design via virtual scientist",
+      "id": "ev-ms-9cb8570cfb2b",
+      "title": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
       "category": "Biotechnology",
-      "value": "RhoAgent enables programmable functional RNA design via virtual scientist",
+      "value": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
       "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03362-3",
-      "date": "2026-11-19",
+      "url": "https://www.nature.com/articles/s41587-026-03344-5",
+      "date": "2026-11-16",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-b386b182f23d",
+      "title": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+      "category": "Biotechnology",
+      "value": "Human AGO2-based programmable RNA editor ALTER avoids immune responses",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03358-z",
+      "date": "2026-10-22",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-fd76df20d111",
+      "title": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
+      "category": "Biotechnology",
+      "value": "Engineered avian R2 retrotransposons enable targeted DNA integration in human cells",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03315-w",
+      "date": "2026-10-05",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-bc2c513b6177",
+      "title": "AI-guided optimization yields thermostable mRNA vaccines stable at 37°C for 2 months",
+      "category": "Biotechnology",
+      "value": "37 °C",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03330-x",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-8644b2a34d60",
+      "title": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
+      "category": "Biotechnology",
+      "value": "LC-1 lipid nanoparticle enables efficient delivery of large gene editors in mice",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03297-9",
+      "date": "2026-09-28",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-bio-008",
+      "title": "AAV vector delivery efficiency",
+      "category": "Biotechnology",
+      "value": "91.7 %",
+      "source": "Spark Therapeutics",
+      "url": "https://sparktx.com",
+      "date": "2026-06-15",
+      "geolocation": {
+        "lat": 39.9526,
+        "lon": -75.1652
+      }
+    },
+    {
+      "id": "ev-ms-97fd7ce6fa08",
+      "title": "Unified taxonomy for false discovery rate control in omics research",
+      "category": "Biotechnology",
+      "value": "Unified taxonomy for false discovery rate control in omics research",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03379-8",
+      "date": "2026-11-13",
       "geolocation": {
         "lat": 32.0603,
         "lon": 118.7969
@@ -637,6 +637,19 @@
       "geolocation": {
         "lat": 34.1377,
         "lon": -118.1253
+      }
+    },
+    {
+      "id": "ev-ms-0733cf9e88aa",
+      "title": "Google releases Gemini Omni 1.2 Flash with faster, cheaper multimodal processing",
+      "category": "Computing & AGI",
+      "value": "Google releases Gemini Omni 1.2 Flash with faster, cheaper multimodal processing",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "date": "2026-11-05",
+      "geolocation": {
+        "lat": 37.4219,
+        "lon": -122.084
       }
     },
     {
