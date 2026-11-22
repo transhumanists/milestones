@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-21T14:39:51.216421Z",
+  "last_update": "2026-11-22T14:40:11.470076Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -93,6 +93,25 @@
           "source": "Nature Biotechnology",
           "date": "2026-11-10",
           "url": "https://www.nature.com/articles/s41587-026-03389-6",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 32.0603,
+            "lon": 118.7969
+          }
+        },
+        {
+          "id": "ms-dc47d72a0f6b",
+          "title": "RNA fingerprint-based search of perturbation dictionaries accelerates functional genomics",
+          "summary": "A new method uses RNA fingerprints to efficiently search perturbation dictionaries, enabling rapid functional genomics and synthetic biology applications.",
+          "category": "Biotechnology",
+          "subcategory": "synthetic_biology",
+          "value": null,
+          "unit": null,
+          "source": "Nature Biotechnology",
+          "date": "2026-11-10",
+          "url": "https://www.nature.com/articles/s41587-026-03390-z",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -2619,7 +2638,7 @@
           "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
           "is_record": true,
           "is_breakthrough": false,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -2945,64 +2964,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Network Science": {
-      "name": "Network Science",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "routing_resilience"
-      ],
-      "milestones": [
-        {
-          "id": "ms-dc7318240583",
-          "title": "Theory of perfect network resilience established via four forbidden substructures",
-          "summary": "Computer scientists have proven that exactly four minimal network structures cause routing loops during link failures, providing a complete characterization of perfectly resilient networks.",
-          "category": "Network Science",
-          "subcategory": "routing_resilience",
-          "value": null,
-          "unit": null,
-          "source": "Quanta Magazine (reporting on academic research)",
-          "date": "2026-11-20",
-          "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        }
-      ]
-    },
-    "Cosmology": {
-      "name": "Cosmology",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "galaxy_survey"
-      ],
-      "milestones": [
-        {
-          "id": "ms-acd6be1ba755",
-          "title": "DESI Galaxy Survey Final Results Challenge Standard Cosmological Model",
-          "summary": "The DESI collaboration's 20-year galaxy survey final results show discrepancies with the Lambda CDM model, hinting at new physics.",
-          "category": "Cosmology",
-          "subcategory": "galaxy_survey",
-          "value": null,
-          "unit": null,
-          "source": "DESI Collaboration",
-          "date": "2026-11-16",
-          "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
         }
       ]
     }

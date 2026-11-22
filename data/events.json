@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-21T14:39:51.216421Z",
+  "last_update": "2026-11-22T14:40:11.470076Z",
   "version": "2.0.0",
   "events": [
     {
@@ -130,6 +130,19 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
+      }
+    },
+    {
+      "id": "ev-ms-dc47d72a0f6b",
+      "title": "RNA fingerprint-based search of perturbation dictionaries accelerates functional genomics",
+      "category": "Biotechnology",
+      "value": "RNA fingerprint-based search of perturbation dictionaries accelerates functional genomics",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03390-z",
+      "date": "2026-11-10",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -627,19 +640,6 @@
       }
     },
     {
-      "id": "ev-ms-fc6083e0cc69",
-      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time ZTF transient classification",
-      "category": "Computing & AGI",
-      "value": "0.73 macro F1 score",
-      "source": "ZTF collaboration / Caltech",
-      "url": "http://arxiv.org/abs/2607.00228v1",
-      "date": "2026-06-30",
-      "geolocation": {
-        "lat": 34.1377,
-        "lon": -118.1253
-      }
-    },
-    {
       "id": "ev-ms-0733cf9e88aa",
       "title": "Google releases Gemini Omni 1.2 Flash with faster, cheaper multimodal processing",
       "category": "Computing & AGI",
@@ -650,6 +650,19 @@
       "geolocation": {
         "lat": 37.4219,
         "lon": -122.084
+      }
+    },
+    {
+      "id": "ev-ms-fc6083e0cc69",
+      "title": "ORACLE-2 Omni achieves 0.73 macro F1 for real-time ZTF transient classification",
+      "category": "Computing & AGI",
+      "value": "0.73 macro F1 score",
+      "source": "ZTF collaboration / Caltech",
+      "url": "http://arxiv.org/abs/2607.00228v1",
+      "date": "2026-06-30",
+      "geolocation": {
+        "lat": 34.1377,
+        "lon": -118.1253
       }
     },
     {
