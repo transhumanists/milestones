@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-22T14:40:11.470076Z",
+  "last_update": "2026-11-23T18:08:03.729507Z",
   "version": "2.0.0",
   "events": [
     {
@@ -22,6 +22,19 @@
       "value": "De novo design of proteases",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03389-6",
+      "date": "2026-11-10",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
+      }
+    },
+    {
+      "id": "ev-ms-dc47d72a0f6b",
+      "title": "RNA fingerprint-based search of perturbation dictionaries accelerates functional genomics",
+      "category": "Biotechnology",
+      "value": "RNA fingerprint-based search of perturbation dictionaries accelerates functional genomics",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03390-z",
       "date": "2026-11-10",
       "geolocation": {
         "lat": 32.0603,
@@ -130,32 +143,6 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
-      }
-    },
-    {
-      "id": "ev-ms-dc47d72a0f6b",
-      "title": "RNA fingerprint-based search of perturbation dictionaries accelerates functional genomics",
-      "category": "Biotechnology",
-      "value": "RNA fingerprint-based search of perturbation dictionaries accelerates functional genomics",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03390-z",
-      "date": "2026-11-10",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
-      }
-    },
-    {
-      "id": "ev-ms-9cb8570cfb2b",
-      "title": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
-      "category": "Biotechnology",
-      "value": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03344-5",
-      "date": "2026-11-16",
-      "geolocation": {
-        "lat": 32.0603,
-        "lon": 118.7969
       }
     },
     {

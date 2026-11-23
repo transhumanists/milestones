@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-22T14:40:11.470076Z",
+  "last_update": "2026-11-23T18:08:03.729507Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -47,20 +47,20 @@
         {
           "id": "ms-9cb8570cfb2b",
           "title": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
-          "summary": "Researchers developed an AAV variant targeting CD7 that achieves efficient genetic engineering of T and NK cells directly in vivo, advancing adoptive cell therapy.",
+          "summary": "A new AAV variant targeting CD7 allows efficient in vivo engineering of T and NK cells, advancing gene therapy for immune cell modulation.",
           "category": "Biotechnology",
           "subcategory": "gene_therapy",
           "value": null,
           "unit": null,
-          "source": "Nature Biotechnology",
+          "source": "Academic researchers (affiliation not specified in summary)",
           "date": "2026-11-16",
           "url": "https://www.nature.com/articles/s41587-026-03344-5",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 32.0603,
-            "lon": 118.7969
+            "lat": 0.0,
+            "lon": 0.0
           }
         },
         {
@@ -1004,6 +1004,25 @@
       ],
       "milestones": [
         {
+          "id": "ms-5053303ad547",
+          "title": "MedicalRSI: Recursive Self-Improving Medical Agents via Model-Harness Co-Evolution",
+          "summary": "New recursive self-improvement framework enables medical AI agents to continuously improve from clinical experience without fixed strategies.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-23",
+          "url": "https://arxiv.org/abs/2611.26806",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-f75a40663d15",
           "title": "MInfoVisQA multilingual benchmark for InfoVis QA with 8,960 QA pairs across 24 languages",
           "summary": "New parallel benchmark MInfoVisQA introduces 8,960 QA configurations from 128 seed instances across 24 languages to evaluate multimodal LLM consistency on information-rich visuals.",
@@ -1320,6 +1339,25 @@
           "url": "https://arxiv.org/abs/2611.07541",
           "is_record": true,
           "is_breakthrough": false,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-1ed6631e80d9",
+          "title": "PreRun benchmark launched for pre-execution deep learning runtime prediction with 2,685 records",
+          "summary": "Researchers introduce PreRun, a new benchmark comprising 801 training and 1,884 inference runtime records for language and vision models on GPU clusters to enable pre-execution runtime prediction.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 2685,
+          "unit": "records",
+          "source": "arXiv",
+          "date": "2026-11-01",
+          "url": "https://arxiv.org/abs/2611.26875",
+          "is_record": false,
+          "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
             "lat": 0.0,
@@ -2964,6 +3002,35 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Computational Psychology": {
+      "name": "Computational Psychology",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "attributional_style_benchmark"
+      ],
+      "milestones": [
+        {
+          "id": "ms-033dbb44ab9a",
+          "title": "First Large-Scale Attributional Style Transfer Dataset (ASTD) Released for Depression Research",
+          "summary": "Researchers introduce the Attributional Style Transfer Dataset (ASTD), the first benchmark for computational modeling of depressogenic attributional styles to advance cognitive therapy research.",
+          "category": "Computational Psychology",
+          "subcategory": "attributional_style_benchmark",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-01",
+          "url": "https://arxiv.org/abs/2611.26900",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         }
       ]
     }
