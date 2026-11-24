@@ -1,12 +1,12 @@
 {
-  "last_update": "2026-11-23T18:08:03.729507Z",
+  "last_update": "2026-11-24T17:52:41.599383Z",
   "version": "2.0.0",
   "events": [
     {
       "id": "ev-ms-3797820e6e1d",
-      "title": "RhoAgent enables programmable functional RNA design via virtual scientist",
+      "title": "AI-powered programmable functional RNA design via RhoAgent virtual scientist",
       "category": "Biotechnology",
-      "value": "RhoAgent enables programmable functional RNA design via virtual scientist",
+      "value": "AI-powered programmable functional RNA design via RhoAgent virtual scientist",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03362-3",
       "date": "2026-11-19",
@@ -575,6 +575,32 @@
       }
     },
     {
+      "id": "ev-ai-002",
+      "title": "HumanEval pass@1",
+      "category": "Computing & AGI",
+      "value": "98.4 %",
+      "source": "Anthropic Claude-4",
+      "url": "https://anthropic.com",
+      "date": "2026-08-15",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ai-005",
+      "title": "Autonomous task completion rate",
+      "category": "Computing & AGI",
+      "value": "87.3 %",
+      "source": "AutoGPT v4",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-07-20",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
       "id": "ev-ms-6cb170939780",
       "title": "Limite 1B - Violetto achieves 94.01% on mathematical reasoning benchmark",
       "category": "Computing & AGI",
@@ -650,32 +676,6 @@
       "geolocation": {
         "lat": 34.1377,
         "lon": -118.1253
-      }
-    },
-    {
-      "id": "ev-ai-002",
-      "title": "HumanEval pass@1",
-      "category": "Computing & AGI",
-      "value": "98.4 %",
-      "source": "Anthropic Claude-4",
-      "url": "https://anthropic.com",
-      "date": "2026-08-15",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ai-005",
-      "title": "Autonomous task completion rate",
-      "category": "Computing & AGI",
-      "value": "87.3 %",
-      "source": "AutoGPT v4",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "date": "2026-07-20",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
       }
     },
     {

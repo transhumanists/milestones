@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-23T18:08:03.729507Z",
+  "last_update": "2026-11-24T17:52:41.599383Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -27,8 +27,8 @@
       "milestones": [
         {
           "id": "ms-3797820e6e1d",
-          "title": "RhoAgent enables programmable functional RNA design via virtual scientist",
-          "summary": "RhoAgent, a virtual scientist, designs functional RNA molecules by constraining secondary structure, base interactions, and functional motifs.",
+          "title": "AI-powered programmable functional RNA design via RhoAgent virtual scientist",
+          "summary": "RhoAgent, a virtual scientist AI, achieves programmable design of functional RNA molecules by constraining secondary structure, base interactions, and functional motifs.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -1004,6 +1004,25 @@
       ],
       "milestones": [
         {
+          "id": "ms-6a34de218b0f",
+          "title": "Search-Native Pretraining teaches language models search capability during pretraining",
+          "summary": "A new pretraining paradigm augments corpora with web-search queries and retrieved responses, enabling models to learn search capabilities natively during pretraining rather than post-training.",
+          "category": "Computing & AGI",
+          "subcategory": "frontier_models",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-26",
+          "url": "https://arxiv.org/abs/2611.26809",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
           "id": "ms-5053303ad547",
           "title": "MedicalRSI: Recursive Self-Improving Medical Agents via Model-Harness Co-Evolution",
           "summary": "New recursive self-improvement framework enables medical AI agents to continuously improve from clinical experience without fixed strategies.",
@@ -1014,6 +1033,63 @@
           "source": "arXiv",
           "date": "2026-11-23",
           "url": "https://arxiv.org/abs/2611.26806",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-5c99668e6bc0",
+          "title": "Correct Precedents Induce Policy Violations in On-Device LLM Agents",
+          "summary": "Researchers discover that on-device LLM agents can be led into policy violations by their own correct decisions, a new failure mode in local-cloud agent systems.",
+          "category": "Computing & AGI",
+          "subcategory": "agentic_ai",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-23",
+          "url": "https://arxiv.org/abs/2611.27216",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-ec2d59005522",
+          "title": "LLM native axes show cross-model and brain alignment",
+          "summary": "Research across 12 LLMs reveals native representation axes align consistently across models, human brain responses, and linguistic features, challenging the assumption that axes are arbitrary.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-23",
+          "url": "https://arxiv.org/abs/2611.26920",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-d2caac37af2b",
+          "title": "LongCat Recall Sparse Attention: Co-Designed Retrieval for Efficient Long-Context Inference",
+          "summary": "LRSA introduces a fine-grained representative and paged retrieval index to overcome the retrieval bottleneck in sparse attention for long sequences.",
+          "category": "Computing & AGI",
+          "subcategory": "inference_cost",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-23",
+          "url": "https://arxiv.org/abs/2611.27233",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1175,25 +1251,6 @@
           }
         },
         {
-          "id": "ms-dd36a3fd7923",
-          "title": "First judge-free benchmark for open-ended Khmer generation",
-          "summary": "Researchers introduce Khmer PFGen-Bench, the first judge-free benchmark for multi-sentence open-ended generation in Khmer, adapting a keyword-rule scorer from Japanese to a low-resource language.",
-          "category": "Computing & AGI",
-          "subcategory": "benchmarks",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-11-09",
-          "url": "https://arxiv.org/abs/2611.09222",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-96de7417cda1",
           "title": "MARS: Retriever-Free Multilingual Search Agents",
           "summary": "MARS introduces retriever-free multilingual search agents that directly interact with raw corpora via executable commands, eliminating reliance on learned retrievers.",
@@ -1204,6 +1261,25 @@
           "source": "arXiv",
           "date": "2026-11-09",
           "url": "https://arxiv.org/abs/2611.09090",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-dd36a3fd7923",
+          "title": "First judge-free benchmark for open-ended Khmer generation",
+          "summary": "Researchers introduce Khmer PFGen-Bench, the first judge-free benchmark for multi-sentence open-ended generation in Khmer, adapting a keyword-rule scorer from Japanese to a low-resource language.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-11-09",
+          "url": "https://arxiv.org/abs/2611.09222",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1232,25 +1308,6 @@
           }
         },
         {
-          "id": "ms-51bcfbaae246",
-          "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
-          "summary": "FlashOffloading introduces a host-DRAM KV cache offloading technique that reduces latency and improves concurrency for long-context LLM inference.",
-          "category": "Computing & AGI",
-          "subcategory": "inference_cost",
-          "value": null,
-          "unit": null,
-          "source": "arXiv preprint",
-          "date": "2026-11-06",
-          "url": "https://arxiv.org/abs/2611.07542",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-4930d4a77b4b",
           "title": "Generate-then-Rank: Symbolic Goal Interpretation for Embodied Agents",
           "summary": "New two-stage generate-then-rank method improves symbolic goal interpretation for embodied agents using LLMs.",
@@ -1261,6 +1318,25 @@
           "source": "arXiv",
           "date": "2026-11-06",
           "url": "https://arxiv.org/abs/2611.07825",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-51bcfbaae246",
+          "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
+          "summary": "FlashOffloading introduces a host-DRAM KV cache offloading technique that reduces latency and improves concurrency for long-context LLM inference.",
+          "category": "Computing & AGI",
+          "subcategory": "inference_cost",
+          "value": null,
+          "unit": null,
+          "source": "arXiv preprint",
+          "date": "2026-11-06",
+          "url": "https://arxiv.org/abs/2611.07542",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1479,25 +1555,6 @@
           }
         },
         {
-          "id": "ms-8e8ae326b12d",
-          "title": "RealCLI: Unified Benchmark for Human-Agent CLI Collaboration",
-          "summary": "Introduces REALCLI, a paired benchmark unifying task execution and human-agent collaboration quality evaluation for CLI agents via a five-dimensional framework.",
-          "category": "Computing & AGI",
-          "subcategory": "benchmarks",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-10-19",
-          "url": "https://arxiv.org/abs/2610.22507",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-8e04e5377614",
           "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
           "summary": "New recursive self-improvement framework (Self-HPO) co-evolves LLM policy models and their execution harnesses to advance autonomous coding agents.",
@@ -1508,6 +1565,25 @@
           "source": "arXiv",
           "date": "2026-10-19",
           "url": "https://arxiv.org/abs/2610.22791",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-8e8ae326b12d",
+          "title": "RealCLI: Unified Benchmark for Human-Agent CLI Collaboration",
+          "summary": "Introduces REALCLI, a paired benchmark unifying task execution and human-agent collaboration quality evaluation for CLI agents via a five-dimensional framework.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-19",
+          "url": "https://arxiv.org/abs/2610.22507",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -1536,25 +1612,6 @@
           }
         },
         {
-          "id": "ms-cccd1dd1feae",
-          "title": "Few-shot multimodal representation alignment via distilled optimal transport",
-          "summary": "New method aligns independently pretrained unimodal encoders using only 100-500 paired examples via optimal transport, drastically reducing paired data requirements.",
-          "category": "Computing & AGI",
-          "subcategory": "multimodal",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-10-13",
-          "url": "https://arxiv.org/abs/2610.12781",
-          "is_record": false,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        {
           "id": "ms-54e3ea140a46",
           "title": "CLEAT: Value-Guided Clarification for Interactive LLM Agents",
           "summary": "New training method CLEAT teaches LLM agents to ask high-value clarifying questions that improve decision-making under ambiguous user intent.",
@@ -1565,6 +1622,25 @@
           "source": "arXiv",
           "date": "2026-10-13",
           "url": "https://arxiv.org/abs/2610.12655",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-cccd1dd1feae",
+          "title": "Few-shot multimodal representation alignment via distilled optimal transport",
+          "summary": "New method aligns independently pretrained unimodal encoders using only 100-500 paired examples via optimal transport, drastically reducing paired data requirements.",
+          "category": "Computing & AGI",
+          "subcategory": "multimodal",
+          "value": null,
+          "unit": null,
+          "source": "arXiv",
+          "date": "2026-10-13",
+          "url": "https://arxiv.org/abs/2610.12781",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -3002,35 +3078,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Computational Psychology": {
-      "name": "Computational Psychology",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "attributional_style_benchmark"
-      ],
-      "milestones": [
-        {
-          "id": "ms-033dbb44ab9a",
-          "title": "First Large-Scale Attributional Style Transfer Dataset (ASTD) Released for Depression Research",
-          "summary": "Researchers introduce the Attributional Style Transfer Dataset (ASTD), the first benchmark for computational modeling of depressogenic attributional styles to advance cognitive therapy research.",
-          "category": "Computational Psychology",
-          "subcategory": "attributional_style_benchmark",
-          "value": null,
-          "unit": null,
-          "source": "arXiv",
-          "date": "2026-11-01",
-          "url": "https://arxiv.org/abs/2611.26900",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
         }
       ]
     }
