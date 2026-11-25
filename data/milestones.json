@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-24T17:52:41.599383Z",
+  "last_update": "2026-11-25T17:17:24.060287Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -27,8 +27,8 @@
       "milestones": [
         {
           "id": "ms-3797820e6e1d",
-          "title": "AI-powered programmable functional RNA design via RhoAgent virtual scientist",
-          "summary": "RhoAgent, a virtual scientist AI, achieves programmable design of functional RNA molecules by constraining secondary structure, base interactions, and functional motifs.",
+          "title": "RhoAgent: AI-driven programmable functional RNA design",
+          "summary": "RhoAgent, a virtual scientist AI, enables programmable design of functional RNA molecules by constraining secondary structure, base interactions, and functional motifs.",
           "category": "Biotechnology",
           "subcategory": "synthetic_biology",
           "value": null,
@@ -46,21 +46,21 @@
         },
         {
           "id": "ms-9cb8570cfb2b",
-          "title": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
-          "summary": "A new AAV variant targeting CD7 allows efficient in vivo engineering of T and NK cells, advancing gene therapy for immune cell modulation.",
+          "title": "CD7-targeted AAV variant enables in vivo T and NK cell engineering",
+          "summary": "A new CD7-targeted adeno-associated virus vector allows efficient genetic engineering of T and NK cells directly inside the body, a major advance for in vivo cell therapy.",
           "category": "Biotechnology",
           "subcategory": "gene_therapy",
           "value": null,
           "unit": null,
-          "source": "Academic researchers (affiliation not specified in summary)",
+          "source": "Nature Biotechnology",
           "date": "2026-11-16",
           "url": "https://www.nature.com/articles/s41587-026-03344-5",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
           "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
+            "lat": 32.0603,
+            "lon": 118.7969
           }
         },
         {
@@ -3078,6 +3078,35 @@
           },
           "category": "Military & Defense",
           "is_new": false
+        }
+      ]
+    },
+    "Cosmology": {
+      "name": "Cosmology",
+      "icon": "📌",
+      "color": "#aaaaaa",
+      "subcategories": [
+        "cosmological_tension"
+      ],
+      "milestones": [
+        {
+          "id": "ms-fa45cd699c7e",
+          "title": "20-year galaxy survey final results challenge standard cosmological model",
+          "summary": "A major galaxy survey's final data release shows tensions with the ΛCDM model, suggesting potential new physics in dark energy or gravity.",
+          "category": "Cosmology",
+          "subcategory": "cosmological_tension",
+          "value": null,
+          "unit": null,
+          "source": "DESI Collaboration",
+          "date": "2026-11-16",
+          "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": true,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
         }
       ]
     }

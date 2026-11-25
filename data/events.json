@@ -1,12 +1,12 @@
 {
-  "last_update": "2026-11-24T17:52:41.599383Z",
+  "last_update": "2026-11-25T17:17:24.060287Z",
   "version": "2.0.0",
   "events": [
     {
       "id": "ev-ms-3797820e6e1d",
-      "title": "AI-powered programmable functional RNA design via RhoAgent virtual scientist",
+      "title": "RhoAgent: AI-driven programmable functional RNA design",
       "category": "Biotechnology",
-      "value": "AI-powered programmable functional RNA design via RhoAgent virtual scientist",
+      "value": "RhoAgent: AI-driven programmable functional RNA design",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03362-3",
       "date": "2026-11-19",
@@ -143,6 +143,19 @@
       "geolocation": {
         "lat": 32.7157,
         "lon": -117.1611
+      }
+    },
+    {
+      "id": "ev-ms-9cb8570cfb2b",
+      "title": "CD7-targeted AAV variant enables in vivo T and NK cell engineering",
+      "category": "Biotechnology",
+      "value": "CD7-targeted AAV variant enables in vivo T and NK cell engineering",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03344-5",
+      "date": "2026-11-16",
+      "geolocation": {
+        "lat": 32.0603,
+        "lon": 118.7969
       }
     },
     {
@@ -575,45 +588,6 @@
       }
     },
     {
-      "id": "ev-ai-002",
-      "title": "HumanEval pass@1",
-      "category": "Computing & AGI",
-      "value": "98.4 %",
-      "source": "Anthropic Claude-4",
-      "url": "https://anthropic.com",
-      "date": "2026-08-15",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ai-005",
-      "title": "Autonomous task completion rate",
-      "category": "Computing & AGI",
-      "value": "87.3 %",
-      "source": "AutoGPT v4",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "date": "2026-07-20",
-      "geolocation": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "id": "ev-ms-6cb170939780",
-      "title": "Limite 1B - Violetto achieves 94.01% on mathematical reasoning benchmark",
-      "category": "Computing & AGI",
-      "value": "94.01 %",
-      "source": "Limite Research",
-      "url": "https://arxiv.org/abs/2611.21646",
-      "date": "2026-11-19",
-      "geolocation": {
-        "lat": 42.3601,
-        "lon": -71.0942
-      }
-    },
-    {
       "id": "ev-ai-001",
       "title": "MMLU benchmark",
       "category": "Computing & AGI",
@@ -650,6 +624,45 @@
       "geolocation": {
         "lat": 39.9042,
         "lon": 116.4074
+      }
+    },
+    {
+      "id": "ev-ai-002",
+      "title": "HumanEval pass@1",
+      "category": "Computing & AGI",
+      "value": "98.4 %",
+      "source": "Anthropic Claude-4",
+      "url": "https://anthropic.com",
+      "date": "2026-08-15",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ai-005",
+      "title": "Autonomous task completion rate",
+      "category": "Computing & AGI",
+      "value": "87.3 %",
+      "source": "AutoGPT v4",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-07-20",
+      "geolocation": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
+      "id": "ev-ms-6cb170939780",
+      "title": "Limite 1B - Violetto achieves 94.01% on mathematical reasoning benchmark",
+      "category": "Computing & AGI",
+      "value": "94.01 %",
+      "source": "Limite Research",
+      "url": "https://arxiv.org/abs/2611.21646",
+      "date": "2026-11-19",
+      "geolocation": {
+        "lat": 42.3601,
+        "lon": -71.0942
       }
     },
     {

@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-24T17:52:41.604529Z · 161 active milestones across 7 categories*
+*Auto-generated: 2026-11-25T17:17:24.065864Z · 162 active milestones across 8 categories*
 
 ---
 
@@ -12,8 +12,8 @@
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `synthetic_biology` | AI-powered programmable functional RNA design via   | — | Nature Biotechnology | 2026-11-19 |
-| 2 | `gene_therapy` | CD7-targeted AAV variant enables efficient in vivo  | — | Academic researchers | 2026-11-16 |
+| 1 | `synthetic_biology` | RhoAgent: AI-driven programmable functional RNA de  | — | Nature Biotechnology | 2026-11-19 |
+| 2 | `gene_therapy` | CD7-targeted AAV variant enables in vivo T and NK   | — | Nature Biotechnology | 2026-11-16 |
 | 3 | `fdr_control` | Unified taxonomy for false discovery rate control   | — | Nature Biotechnology | 2026-11-13 |
 | 4 | `synthetic_biology` | De novo design of proteases  | — | Nature Biotechnology | 2026-11-10 |
 | 5 | `synthetic_biology` | RNA fingerprint-based search of perturbation dicti  | — | Nature Biotechnology | 2026-11-10 |
@@ -216,5 +216,13 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
+## 8. Cosmology 📌
+
+*Color: #aaaaaa · Subcategories: 1*
+
+| # | Subcategory | Milestone | Value | Source | Date |
+|:---|:------------|:-----------|:------|:-------|:-----|
+| 1 | `cosmological_tension` | 20-year galaxy survey final results challenge stan 🆕 | — | DESI Collaboration | 2026-11-16 |
+
 ---
-*Last auto-generated: 2026-11-24T17:52:41.604529Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-25T17:17:24.065864Z · Pipeline: `transhumanists/apis`*
