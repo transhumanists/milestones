@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-25T17:17:24.065864Z · 162 active milestones across 8 categories*
+*Auto-generated: 2026-11-26T17:03:48.578895Z · 163 active milestones across 8 categories*
 
 ---
 
@@ -13,7 +13,7 @@
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
 | 1 | `synthetic_biology` | RhoAgent: AI-driven programmable functional RNA de  | — | Nature Biotechnology | 2026-11-19 |
-| 2 | `gene_therapy` | CD7-targeted AAV variant enables in vivo T and NK   | — | Nature Biotechnology | 2026-11-16 |
+| 2 | `gene_therapy` | CD7-targeted AAV variant enables efficient in vivo  | — | Nature Biotechnology | 2026-11-16 |
 | 3 | `fdr_control` | Unified taxonomy for false discovery rate control   | — | Nature Biotechnology | 2026-11-13 |
 | 4 | `synthetic_biology` | De novo design of proteases  | — | Nature Biotechnology | 2026-11-10 |
 | 5 | `synthetic_biology` | RNA fingerprint-based search of perturbation dicti  | — | Nature Biotechnology | 2026-11-10 |
@@ -122,18 +122,19 @@
 | 49 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
 | 50 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium | 2026-06-30 |
 | 51 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
-| 52 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** % | ASPIRE research team | 2026-06-30 |
+| 52 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m 🆕 | **77** percent improvement | ASPIRE Research Team | 2026-06-30 |
 | 53 | `inference_cost` | Neurosymbolic Layer Cuts LLM Token Usage 50% and B  | **50** percent token reduction | Research Team | 2026-06-30 |
 | 54 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
 | 55 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
 | 56 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | ZTF collaboration /  | 2026-06-30 |
 | 57 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
 | 58 | `frontier_models` | Seed2.0 model series achieves world-leading reason  | — | ByteDance | 2026-06-30 |
-| 59 | `benchmarks` | New diagnostic benchmark reveals frontier LLMs str  | **6** PASS rate (out of 15) | Frontier LLM researc | 2026-06-30 |
+| 59 | `multimodal` | Adaptive Perturbation Selection Boosts Audio-Langu  | **81.4** % accuracy | Research Institution | 2026-06-30 |
 | 60 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
 | 61 | `benchmarks` | SEFORA Corpus and UniMatch Framework for LLM Writi  | **0.4** F1 score | Academic researchers | 2026-06-30 |
-| 62 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
-| 63 | `test_time_adaptation` | Multi-hypothesis TTA framework mitigates underspec  | — | Unknown | 2026-06-30 |
+| 62 | `benchmarks` | New diagnostic framework reveals frontier LLMs str  | — | Unknown | 2026-06-30 |
+| 63 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
+| 64 | `test_time_adaptation` | Multi-hypothesis TTA framework mitigates underspec  | — | Unknown | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
 
@@ -216,13 +217,13 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Cosmology 📌
+## 8. Causal Inference 📌
 
 *Color: #aaaaaa · Subcategories: 1*
 
 | # | Subcategory | Milestone | Value | Source | Date |
 |:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `cosmological_tension` | 20-year galaxy survey final results challenge stan 🆕 | — | DESI Collaboration | 2026-11-16 |
+| 1 | `causal_abstraction_metrics` | Causal Abstraction Error (CAE) metric validated ac 🆕 | **30** interventions | Research authors | 2026-06-30 |
 
 ---
-*Last auto-generated: 2026-11-25T17:17:24.065864Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-26T17:03:48.578895Z · Pipeline: `transhumanists/apis`*

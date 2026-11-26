@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-25T17:17:24.060287Z",
+  "last_update": "2026-11-26T17:03:48.574865Z",
   "version": "2.0.0",
   "events": [
     {
@@ -147,9 +147,9 @@
     },
     {
       "id": "ev-ms-9cb8570cfb2b",
-      "title": "CD7-targeted AAV variant enables in vivo T and NK cell engineering",
+      "title": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
       "category": "Biotechnology",
-      "value": "CD7-targeted AAV variant enables in vivo T and NK cell engineering",
+      "value": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/articles/s41587-026-03344-5",
       "date": "2026-11-16",

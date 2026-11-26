@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-25T17:17:24.060287Z",
+  "last_update": "2026-11-26T17:03:48.574865Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -46,8 +46,8 @@
         },
         {
           "id": "ms-9cb8570cfb2b",
-          "title": "CD7-targeted AAV variant enables in vivo T and NK cell engineering",
-          "summary": "A new CD7-targeted adeno-associated virus vector allows efficient genetic engineering of T and NK cells directly inside the body, a major advance for in vivo cell therapy.",
+          "title": "CD7-targeted AAV variant enables efficient in vivo T and NK cell engineering",
+          "summary": "A novel CD7-targeted AAV variant allows efficient in vivo engineering of T and NK cells, advancing gene therapy for immunotherapies.",
           "category": "Biotechnology",
           "subcategory": "gene_therapy",
           "value": null,
@@ -1959,18 +1959,18 @@
         },
         {
           "id": "ms-110c8b5371e0",
-          "title": "ASPIRE achieves up to 77% improvement on robotic manipulation benchmarks",
-          "summary": "ASPIRE, a continual learning system for robotics, autonomously writes and refines control programs, achieving up to 77% improvement on manipulation tasks under perturbation.",
+          "title": "ASPIRE achieves up to 77% improvement on robotic manipulation tasks via autonomous skill discovery",
+          "summary": "ASPIRE, a continual learning system for robotics, autonomously writes and refines control programs while building a reusable skill library, surpassing prior methods by up to 77% on manipulation tasks ",
           "category": "Computing & AGI",
           "subcategory": "agentic_ai",
           "value": 77,
-          "unit": "%",
-          "source": "ASPIRE research team",
+          "unit": "percent improvement",
+          "source": "ASPIRE Research Team",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00272v2",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": false,
+          "is_new": true,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -2074,7 +2074,7 @@
         {
           "id": "ms-cede87aeb630",
           "title": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
-          "summary": "ByteDance releases Seed2.0 model series claiming world-leading reasoning intelligence, visual understanding, and search capabilities for complex real-world tasks.",
+          "summary": "ByteDance releases Seed2.0 model series with world-leading reasoning, visual understanding, and search capabilities, substantially improving reliability on complex, long-horizon tasks.",
           "category": "Computing & AGI",
           "subcategory": "frontier_models",
           "value": null,
@@ -2091,16 +2091,16 @@
           }
         },
         {
-          "id": "ms-cbb211a1be76",
-          "title": "New diagnostic benchmark reveals frontier LLMs struggle with counterfactual physics reasoning",
-          "summary": "A four-stage auditable diagnostic testing Claude Opus 4.7, GPT-5.5, and Gemini 3.1 Pro across three counterfactual physics worlds yields composite PASS rates of 6/15, 6/15, and 0/15, exposing a qualit",
+          "id": "ms-f2f3acdbb8d5",
+          "title": "Adaptive Perturbation Selection Boosts Audio-Language Model Accuracy by 6.7% on Temporal Order Task",
+          "summary": "New adaptive perturbation selection for contrastive decoding improves temporal order accuracy from 74.7% to 81.4% and adds 4.3% gain on existence task in large audio-language models.",
           "category": "Computing & AGI",
-          "subcategory": "benchmarks",
-          "value": 6,
-          "unit": "PASS rate (out of 15)",
-          "source": "Frontier LLM research consortium",
+          "subcategory": "multimodal",
+          "value": 81.4,
+          "unit": "% accuracy",
+          "source": "Research Institution",
           "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00276v1",
+          "url": "http://arxiv.org/abs/2607.00247v3",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -2139,6 +2139,25 @@
           "source": "Academic researchers",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00274v1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-cbb211a1be76",
+          "title": "New diagnostic framework reveals frontier LLMs struggle with counterfactual physics reasoning",
+          "summary": "Researchers introduce a four-stage diagnostic to test LLM physics reasoning in counterfactual worlds, finding frontier models (Claude Opus 4.7, GPT-5.5, Gemini 3.1 Pro) achieve low pass rates (6/15, 6",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": null,
+          "unit": null,
+          "source": "Unknown",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00276v1",
           "is_record": false,
           "is_breakthrough": true,
           "is_new": false,
@@ -3081,26 +3100,26 @@
         }
       ]
     },
-    "Cosmology": {
-      "name": "Cosmology",
+    "Causal Inference": {
+      "name": "Causal Inference",
       "icon": "📌",
       "color": "#aaaaaa",
       "subcategories": [
-        "cosmological_tension"
+        "causal_abstraction_metrics"
       ],
       "milestones": [
         {
-          "id": "ms-fa45cd699c7e",
-          "title": "20-year galaxy survey final results challenge standard cosmological model",
-          "summary": "A major galaxy survey's final data release shows tensions with the ΛCDM model, suggesting potential new physics in dark energy or gravity.",
-          "category": "Cosmology",
-          "subcategory": "cosmological_tension",
-          "value": null,
-          "unit": null,
-          "source": "DESI Collaboration",
-          "date": "2026-11-16",
-          "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
-          "is_record": false,
+          "id": "ms-8c620faaf3de",
+          "title": "Causal Abstraction Error (CAE) metric validated across 10 complex systems",
+          "summary": "New Causal Abstraction Error metric reliably distinguishes valid from invalid high-level explanations across diverse complex systems with as few as 30 interventions.",
+          "category": "Causal Inference",
+          "subcategory": "causal_abstraction_metrics",
+          "value": 30,
+          "unit": "interventions",
+          "source": "Research authors",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00267v1",
+          "is_record": true,
           "is_breakthrough": true,
           "is_new": true,
           "geolocation": {
