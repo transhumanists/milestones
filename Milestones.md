@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-26T17:03:48.578895Z · 163 active milestones across 8 categories*
+*Auto-generated: 2026-11-27T16:55:38.214119Z · 162 active milestones across 7 categories*
 
 ---
 
@@ -122,7 +122,7 @@
 | 49 | `agentic_ai` | Autonomous task completion rate  | **87.3** % | AutoGPT v4 | 2026-07-20 |
 | 50 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium | 2026-06-30 |
 | 51 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
-| 52 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m 🆕 | **77** percent improvement | ASPIRE Research Team | 2026-06-30 |
+| 52 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** percent improvement | ASPIRE Research Team | 2026-06-30 |
 | 53 | `inference_cost` | Neurosymbolic Layer Cuts LLM Token Usage 50% and B  | **50** percent token reduction | Research Team | 2026-06-30 |
 | 54 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
 | 55 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
@@ -217,13 +217,5 @@
 | 4 | `naval` | Carrier air wing sorties/day (USS Gerald R. Ford)  | **270** sorties | US Navy | 2026-05-01 |
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
-## 8. Causal Inference 📌
-
-*Color: #aaaaaa · Subcategories: 1*
-
-| # | Subcategory | Milestone | Value | Source | Date |
-|:---|:------------|:-----------|:------|:-------|:-----|
-| 1 | `causal_abstraction_metrics` | Causal Abstraction Error (CAE) metric validated ac 🆕 | **30** interventions | Research authors | 2026-06-30 |
-
 ---
-*Last auto-generated: 2026-11-26T17:03:48.578895Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-27T16:55:38.214119Z · Pipeline: `transhumanists/apis`*

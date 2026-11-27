@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-26T17:03:48.574865Z",
+  "last_update": "2026-11-27T16:55:38.209789Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -1970,7 +1970,7 @@
           "url": "http://arxiv.org/abs/2607.00272v2",
           "is_record": true,
           "is_breakthrough": true,
-          "is_new": true,
+          "is_new": false,
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
@@ -3097,35 +3097,6 @@
           },
           "category": "Military & Defense",
           "is_new": false
-        }
-      ]
-    },
-    "Causal Inference": {
-      "name": "Causal Inference",
-      "icon": "📌",
-      "color": "#aaaaaa",
-      "subcategories": [
-        "causal_abstraction_metrics"
-      ],
-      "milestones": [
-        {
-          "id": "ms-8c620faaf3de",
-          "title": "Causal Abstraction Error (CAE) metric validated across 10 complex systems",
-          "summary": "New Causal Abstraction Error metric reliably distinguishes valid from invalid high-level explanations across diverse complex systems with as few as 30 interventions.",
-          "category": "Causal Inference",
-          "subcategory": "causal_abstraction_metrics",
-          "value": 30,
-          "unit": "interventions",
-          "source": "Research authors",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00267v1",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": true,
-          "geolocation": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
         }
       ]
     }
