@@ -2,7 +2,7 @@
 
 > **Live dashboard:** [transhumanists.github.io](https://transhumanists.github.io) · **API engine:** [transhumanists/apis](https://github.com/transhumanists/apis)
 
-*Auto-generated: 2026-11-27T16:55:38.214119Z · 162 active milestones across 7 categories*
+*Auto-generated: 2026-11-28T15:38:39.039691Z · 163 active milestones across 7 categories*
 
 ---
 
@@ -123,18 +123,19 @@
 | 50 | `benchmarks` | EgoSafetyBench: 1,200-scenario egocentric video be  | **1200** scenarios | Research consortium | 2026-06-30 |
 | 51 | `benchmarks` | ALEE benchmark evaluates text embeddings across 27  | **275** languages | Andrian0s | 2026-06-30 |
 | 52 | `agentic_ai` | ASPIRE achieves up to 77% improvement on robotic m  | **77** percent improvement | ASPIRE Research Team | 2026-06-30 |
-| 53 | `inference_cost` | Neurosymbolic Layer Cuts LLM Token Usage 50% and B  | **50** percent token reduction | Research Team | 2026-06-30 |
+| 53 | `inference_cost` | Neurosymbolic layer cuts LLM token usage 50% and b  | **50** percent token reduction | Research paper (auth | 2026-06-30 |
 | 54 | `benchmarks` | Evaluation-as-Search adaptive probing finds 2.5× m  | **2.5** x | Research Team | 2026-06-30 |
-| 55 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
-| 56 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | ZTF collaboration /  | 2026-06-30 |
-| 57 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
-| 58 | `frontier_models` | Seed2.0 model series achieves world-leading reason  | — | ByteDance | 2026-06-30 |
+| 55 | `benchmarks` | CNN beats prior best on RADAI radiological detecti  | **1** false alarms per hour | Academic research te | 2026-06-30 |
+| 56 | `agentic_ai` | Persistent memory architecture enables 86.7% coord  | **0.867** coordination_score | Research Team | 2026-06-30 |
+| 57 | `multimodal` | ORACLE-2 Omni achieves 0.73 macro F1 for real-time  | **0.73** macro F1 score | ZTF collaboration /  | 2026-06-30 |
+| 58 | `benchmarks` | SLIM-RL matches TraceRL MATH500 accuracy with 0.46  | **0.46** x | SLIM-RL authors | 2026-06-30 |
 | 59 | `multimodal` | Adaptive Perturbation Selection Boosts Audio-Langu  | **81.4** % accuracy | Research Institution | 2026-06-30 |
-| 60 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** percent throughput overhead | Academic research te | 2026-06-30 |
+| 60 | `agentic_ai` | Mnemosyne introduces Agentic Transaction Processin  | **5.9** % throughput overhead | Academic researchers | 2026-06-30 |
 | 61 | `benchmarks` | SEFORA Corpus and UniMatch Framework for LLM Writi  | **0.4** F1 score | Academic researchers | 2026-06-30 |
-| 62 | `benchmarks` | New diagnostic framework reveals frontier LLMs str  | — | Unknown | 2026-06-30 |
-| 63 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
-| 64 | `test_time_adaptation` | Multi-hypothesis TTA framework mitigates underspec  | — | Unknown | 2026-06-30 |
+| 62 | `frontier_models` | Seed2.0: New Frontier Model Series with World-Lead  | — | ByteDance | 2026-06-30 |
+| 63 | `benchmarks` | New diagnostic framework reveals frontier LLMs str  | — | Unknown | 2026-06-30 |
+| 64 | `benchmarks` | Theoretical sample complexity bounds for Gumbel-Ma  | — | arXiv preprint | 2026-06-30 |
+| 65 | `test_time_adaptation` | Multi-hypothesis TTA framework mitigates underspec  | — | Unknown | 2026-06-30 |
 
 ## 3. Quantum Physics ⚛️
 
@@ -218,4 +219,4 @@
 | 5 | `air_defense` | Iron Dome intercept success (2026 Q1)  | **96.8** % | Rafael / IDF | 2026-04-01 |
 
 ---
-*Last auto-generated: 2026-11-27T16:55:38.214119Z · Pipeline: `transhumanists/apis`*
+*Last auto-generated: 2026-11-28T15:38:39.039691Z · Pipeline: `transhumanists/apis`*

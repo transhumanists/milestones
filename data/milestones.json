@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-27T16:55:38.209789Z",
+  "last_update": "2026-11-28T15:38:39.036289Z",
   "version": "2.0.0",
   "categories": {
     "Biotechnology": {
@@ -1978,13 +1978,13 @@
         },
         {
           "id": "ms-4ea5fdc492ae",
-          "title": "Neurosymbolic Layer Cuts LLM Token Usage 50% and Boosts Reasoning Accuracy 85% Without Finetuning",
-          "summary": "A neurosymbolic layer for LLMs reduces token usage by over 50% and boosts reasoning accuracy by 85% on benchmarks like BIRD-CRITIC and LiveSQLBench without finetuning.",
+          "title": "Neurosymbolic layer cuts LLM token usage 50% and boosts Text-to-SQL accuracy 85% without finetuning",
+          "summary": "A drop-in neurosymbolic layer reduces effective token usage by over 50% and improves accuracy 85% on BIRD-CRITIC and LiveSQLBench without task-specific finetuning.",
           "category": "Computing & AGI",
           "subcategory": "inference_cost",
           "value": 50,
           "unit": "percent token reduction",
-          "source": "Research Team",
+          "source": "Research paper (authors unspecified)",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2609.00367v1",
           "is_record": true,
@@ -2006,6 +2006,25 @@
           "source": "Research Team",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2608.20392v1",
+          "is_record": true,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 0.0,
+            "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-83feb5c3cdb2",
+          "title": "CNN beats prior best on RADAI radiological detection benchmark",
+          "summary": "A computer vision approach converting gamma-ray data to waterfall spectrograms enables a CNN to surpass non-negative matrix factorization on the RADAI benchmark at under one false alarm per hour.",
+          "category": "Computing & AGI",
+          "subcategory": "benchmarks",
+          "value": 1,
+          "unit": "false alarms per hour",
+          "source": "Academic research team",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00270v3",
           "is_record": true,
           "is_breakthrough": true,
           "is_new": false,
@@ -2072,25 +2091,6 @@
           }
         },
         {
-          "id": "ms-cede87aeb630",
-          "title": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
-          "summary": "ByteDance releases Seed2.0 model series with world-leading reasoning, visual understanding, and search capabilities, substantially improving reliability on complex, long-horizon tasks.",
-          "category": "Computing & AGI",
-          "subcategory": "frontier_models",
-          "value": null,
-          "unit": null,
-          "source": "ByteDance",
-          "date": "2026-06-30",
-          "url": "http://arxiv.org/abs/2607.00248v1",
-          "is_record": true,
-          "is_breakthrough": true,
-          "is_new": false,
-          "geolocation": {
-            "lat": 39.9042,
-            "lon": 116.4074
-          }
-        },
-        {
           "id": "ms-f2f3acdbb8d5",
           "title": "Adaptive Perturbation Selection Boosts Audio-Language Model Accuracy by 6.7% on Temporal Order Task",
           "summary": "New adaptive perturbation selection for contrastive decoding improves temporal order accuracy from 74.7% to 81.4% and adds 4.3% gain on existence task in large audio-language models.",
@@ -2111,13 +2111,13 @@
         },
         {
           "id": "ms-46a7d8543058",
-          "title": "Mnemosyne introduces Agentic Transaction Processing with formal safety guarantees for AI-generated workflows",
-          "summary": "Mnemosyne proposes Agentic Transaction Processing (ATP), a framework treating LLM-generated workflow actions as untrusted proposals with deterministic admission and bounded reactive repair, proving fo",
+          "title": "Mnemosyne introduces Agentic Transaction Processing for safe AI workflow validation",
+          "summary": "Mnemosyne implements Agentic Transaction Processing (ATP), a framework that treats LLM-generated workflow actions as untrusted proposals, providing formal safety guarantees and rejecting all targeted ",
           "category": "Computing & AGI",
           "subcategory": "agentic_ai",
           "value": 5.9,
-          "unit": "percent throughput overhead",
-          "source": "Academic research team (unspecified in summary)",
+          "unit": "% throughput overhead",
+          "source": "Academic researchers",
           "date": "2026-06-30",
           "url": "http://arxiv.org/abs/2607.00269v3",
           "is_record": false,
@@ -2145,6 +2145,25 @@
           "geolocation": {
             "lat": 0.0,
             "lon": 0.0
+          }
+        },
+        {
+          "id": "ms-cede87aeb630",
+          "title": "Seed2.0: New Frontier Model Series with World-Leading Reasoning and Visual Understanding",
+          "summary": "ByteDance releases Seed2.0 model series claiming world-leading reasoning, visual understanding, and search capabilities for complex real-world tasks.",
+          "category": "Computing & AGI",
+          "subcategory": "frontier_models",
+          "value": null,
+          "unit": null,
+          "source": "ByteDance",
+          "date": "2026-06-30",
+          "url": "http://arxiv.org/abs/2607.00248v1",
+          "is_record": false,
+          "is_breakthrough": true,
+          "is_new": false,
+          "geolocation": {
+            "lat": 39.9042,
+            "lon": 116.4074
           }
         },
         {

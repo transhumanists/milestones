@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-27T16:55:38.209789Z",
+  "last_update": "2026-11-28T15:38:39.036289Z",
   "version": "2.0.0",
   "events": [
     {
@@ -615,9 +615,9 @@
     },
     {
       "id": "ev-ms-cede87aeb630",
-      "title": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
+      "title": "Seed2.0: New Frontier Model Series with World-Leading Reasoning and Visual Understanding",
       "category": "Computing & AGI",
-      "value": "Seed2.0 model series achieves world-leading reasoning and complex task performance",
+      "value": "Seed2.0: New Frontier Model Series with World-Leading Reasoning and Visual Understanding",
       "source": "ByteDance",
       "url": "http://arxiv.org/abs/2607.00248v1",
       "date": "2026-06-30",
